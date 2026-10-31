@@ -1,0 +1,501 @@
+
+[Federal Register Volume 91, Number 126 (Thursday, July 2, 2026)]
+[Proposed Rules]
+[Pages 40487-40490]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-13368]
+
+
+
+[[Page 40487]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-4664; Project Identifier MCAI-2025-01644-R]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to supersede Airworthiness Directive (AD) 
+2025-13-09, which applies to all Airbus Helicopters Model AS-365N2, AS 
+365 N3, EC 155B, EC155B1, SA-365N, and SA-365N1 helicopters. AD 2025-
+13-09 requires inspecting the tightening torque, reporting the results 
+of the inspections, and, depending on the results of the inspection, 
+taking corrective action. Since the FAA issued AD 2025-13-09, the 
+manufacturer determined that additional inspections of the main rotor 
+(MR) servo-controls nut torque should be required. This proposed AD 
+would retain some of the actions of AD 2025-13-09 and would also 
+require additional inspections and, depending on the results of the 
+inspection, corrective actions. This proposed AD would also require 
+reporting certain information to the manufacturer. The FAA is proposing 
+this AD to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this NPRM by August 17, 2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-4664; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, the mandatory continuing airworthiness 
+information (MCAI) any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For European Union Aviation Safety Agency (EASA) material 
+identified in this proposed AD, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; phone: +49 221 8999 000; email: 
+[email&#160;protected]; website: easa.europa.eu. You may find the EASA 
+material on the EASA website at ad.easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+
+FOR FURTHER INFORMATION CONTACT: Aryanna Sanchez, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: (520) 990-9321; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under ADDRESSES. Include ``Docket No. FAA-2026-4664; Project Identifier 
+MCAI-2025-01644-R'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+the proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Aryanna Sanchez, Aviation Safety Engineer, FAA, 1600 Stewart Avenue, 
+Suite 410, Westbury, NY 11590. Any commentary that the FAA receives 
+which is not specifically designated as CBI will be placed in the 
+public docket for this rulemaking.
+
+Background
+
+    The FAA issued AD 2025-13-09, Amendment 39-23075 (90 FR 30581, July 
+10, 2025) (AD 2025-13-09), for all Airbus Helicopters Model AS-365N2, 
+AS 365 N3, EC 155B, EC155B1, SA-365N, and SA-365N1 helicopters. AD 
+2025-13-09 was prompted by an MCAI originated by EASA, which is the 
+Technical Agent for the Member States of the European Union. EASA 
+issued EASA AD 2024-0110, dated June 6, 2024 (EASA AD 2024-0110) to 
+correct an unsafe condition identified as loss of tightening torque 
+between the upper ball bearing end and the MR servo-control.
+    AD 2025-13-09 requires a one-time inspection of the torque on each 
+nut connecting the upper ball bearing end to all three MR servo-
+controls, reporting the inspection results (including no findings) and, 
+depending on the results of this inspection, corrective action. The 
+unsafe condition, if not addressed, could result in disconnection 
+between the upper ball bearing end and the MR servo-control and 
+consequent loss of control of the helicopter.
+
+Actions Since AD 2025-13-09 Was Issued
+
+    Since the FAA issued AD 2025-13-09, EASA superseded EASA AD 2024-
+0110 and issued EASA AD 2025-0239, dated October 27, 2025 (EASA AD 
+2025-0239) (also referred to as the MCAI). The MCAI states that further 
+investigations identified paint on the lock-washer as the root cause of 
+the loss of tightening torque, and that the manufacturer determined 
+additional inspections of the MR servo-controls nut torque should be 
+necessary.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2026-4664.
+
+[[Page 40488]]
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed EASA AD 2025-0239, which specifies procedures for 
+a one-time check (inspection) of the torque on each nut connecting the 
+upper ball bearing end to all three MR servo-controls and, depending on 
+the results, corrective actions, which include performing additional 
+torque inspections, replacing the lock-washer, applying torque, 
+lockwire, and sealing compound to the upper ball bearing end of the MR 
+servo-control, inspecting the ball bearing end of the MR servo-control, 
+replacing a ball bearing end, inspecting the upper end fitting of the 
+MR servo-control, and replacing the MR servo-control. EASA AD 2025-0239 
+also requires reporting the inspection results (including no findings) 
+to AH [Airbus Helicopters].
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+(CAA) of another country and are approved for operation in the United 
+States. Pursuant to the FAA's bilateral agreement with this State of 
+Design Authority, that authority has notified the FAA of the unsafe 
+condition described in the MCAI referenced above. The FAA is issuing 
+this NPRM after determining that the unsafe condition described 
+previously is likely to exist or develop on other products of the same 
+type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in EASA AD 2025-0239, described previously as incorporated by 
+reference, except for any differences identified as exceptions in the 
+regulatory text of this proposed AD. See ``Differences Between this 
+Proposed AD and the MCAI'' for a discussion of the general differences 
+included in this proposed AD.
+
+Differences Between This Proposed AD and the MCAI
+
+    Where the material referenced in the MCAI specifies contacting 
+Airbus Helicopters for certain actions, this proposed AD would require 
+accomplishing actions in accordance with a method approved by the FAA, 
+EASA, or Airbus Helicopters' EASA Design Organization Approval.
+
+Interim Action
+
+    The FAA considers this proposed AD an interim action. If final 
+action is later identified, the FAA might consider further rulemaking 
+then.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some CAA ADs as the primary 
+source of information for compliance with requirements for 
+corresponding FAA ADs. The FAA has been coordinating this process with 
+manufacturers and CAAs. As a result, the FAA proposes to incorporate 
+EASA AD 2025-0239 by reference in the FAA final rule. This proposed AD 
+would, therefore, require compliance with EASA AD 2025-0239 in its 
+entirety through that incorporation, except for any differences 
+identified as exceptions in the regulatory text of this proposed AD. 
+Using common terms that are the same as the heading of a particular 
+section in EASA AD 2025-0239 does not mean that operators need comply 
+only with that section. For example, where the AD requirement refers to 
+``all required actions and compliance times,'' compliance with this AD 
+requirement is not limited to the section titled ``Required Action(s) 
+and Compliance Time(s)'' in EASA AD 2025-0239. Material required by 
+EASA AD 2025-0239 for compliance will be available at 
+www.regulations.gov by searching for and locating Docket No. FAA-2026-
+4664 after the FAA final rule is published.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 63 helicopters of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                       Cost per    Cost on U.S.
+                  Action                            Labor cost           Parts cost    product       operators
+----------------------------------------------------------------------------------------------------------------
+Inspecting the tightening torque.........  1 work-hour x $85 per hour            $0         $255         $16,065
+                                            x 3 (three MR servo-
+                                            controls per helicopter) =
+                                            $255.
+Reporting................................  1 work-hour x $85 per hour             0           85           5,355
+                                            = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any replacements or 
+repairs that would be required based on the results of the proposed 
+inspection. The agency has no way of determining the number of 
+helicopters that might need these replacements or repairs:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                Action                        Labor cost               Parts cost            Cost per product
+----------------------------------------------------------------------------------------------------------------
+Inspect the condition of the threads   1 work-hour x $85 per    $0.....................  $85.
+ of one main servo-control.             hour = $85.
+Replace ball bearing end.............  1 work-hour x $85 per    $1,299.................  $1,384.
+                                        hour = $85.
+Replace main rotor servo-control       1 work-hour x $85 per    $41,039 (one MR servo-   Up to $123,372 (three
+ (three MR servo-controls per           hour = $85 (per MR       control).                MR servo-controls per
+ helicopter).                           servo-control).                                   helicopter).
+Re-inspect the nut tightening torque   1 work-hour x $85 per    $0.....................  $85.
+ of the upper ball bearing end.         hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    The extent of the corrective actions that may be needed as a result 
+of any discrepancies detected, after the third inspection, could vary 
+significantly from helicopter to helicopter. The FAA has no way of 
+determining the cost to correct or repair each helicopter or the number 
+of helicopters that may require repair.
+
+[[Page 40489]]
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to be 
+approximately 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Send comments regarding this burden estimate 
+or any other aspect of this collection of information, including 
+suggestions for reducing this burden, to: Information Collection 
+Clearance Officer, Federal Aviation Administration, 10101 Hillwood 
+Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that the proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive 2025-13-09, Amendment 39-23075 (90 
+FR 30581, July 10, 2025); and
+0
+b. Adding the following new airworthiness directive:
+
+Airbus Helicopters: Docket No. FAA-2026-4664; Project Identifier 
+MCAI-2025-01644-R.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by August 17, 2026.
+
+(b) Affected ADs
+
+    This AD replaces AD 2025-13-09, Amendment 39-23075 (90 FR 30581, 
+July 10, 2025).
+
+(c) Applicability
+
+    This AD applies to all Airbus Helicopters Model AS-365N2, AS 365 
+N3, EC 155B, EC155B1, SA-365N, and SA-365N1 helicopters, 
+certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 6710, Main rotor 
+control.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of two occurrences of the loss 
+of tightening torque between the upper ball bearing end and the main 
+rotor (MR) servo-control. The FAA is issuing this AD to detect loss 
+of tightening torque. The unsafe condition, if not addressed, could 
+result in disconnection between the upper ball bearing end and the 
+MR servo-control and consequent loss of control of the helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2025-0239, dated October 27, 2025 (EASA AD 2025-0239).
+
+(h) Exceptions to EASA AD 2025-0239
+
+    (1) Where EASA AD 2025-0239 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where EASA AD 2025-0239 requires compliance in terms of 
+flight hours, this AD requires using hours time-in-service.
+    (3) Where EASA AD 2025-0239 defines ``the ASB'', this AD 
+requires replacing that definition with ``Airbus Helicopters Alert 
+Service Bulletin (ASB) AS365-67-30-0001 Issue 003, dated May 21, 
+2025 (ASB AS365-67-30-0001 Issue 003), or ASB EC155-67-30-0001 Issue 
+004, dated June 18, 2025 (ASB EC155-67-30-001 Issue 004), as 
+applicable for the model helicopter. For compliance with this AD, 
+Model SA-365N and SA-365N1 helicopters are to use ASB AS365-67-30-
+0001 Issue 003 and Model EC 155B, EC155B1 are to use ASB EC155-67-
+30-0001 Issue 004''.
+    (4) Where paragraphs (1) and (2) of EASA AD 2025-0239 and the 
+material referenced in EASA AD 2025-0239 specify ``check'', this AD 
+requires replacing that text with ``inspect'' or ``inspection'' as 
+applicable.
+    (5) Where the material referenced in EASA AD 2025-0239 specifies 
+discarding parts, this AD requires removing those parts from 
+service.
+    (6) Where the material referenced in EASA AD 2025-0239 specifies 
+hard point, for this AD a hard point may be indicated by resistance, 
+ratcheting, blocking, or difficulty when turning the ball bearing 
+end into the upper end fitting of the MR servo-control by hand.
+    (7) Where paragraph (9) of EASA AD 2025-0239 specifies reporting 
+inspection results (including no findings) to AH [Airbus 
+Helicopters] within 7 days after the inspection required by 
+paragraphs (1), (2), and (3) of EASA AD 2025-0239, this AD requires 
+reporting that information at the applicable time in paragraph 
+(h)(7)(i) or (ii) of this AD.
+    (i) If the inspection was done on or after the effective date of 
+this AD: Submit the report within 30 days after the inspection 
+required by paragraph (1), (2), and (3) of EASA AD 2025-0239.
+    (ii) If the inspection was done before the effective date of 
+this AD: Submit the report within 30 days after the effective date 
+of this AD.
+    (8) Where paragraph (7) of EASA AD 2025-0239 specifies 
+contacting AH [Airbus Helicopters] for applicable repair 
+instructions if a discrepancy is detected after the third 
+inspection, and where the material referenced in EASA AD 2025-0239 
+specifies to contact Airbus Helicopters for repair instructions, 
+this AD requires, before further
+
+[[Page 40490]]
+
+flight, accomplishing these corrective actions in accordance with a 
+method approved by the Manager, International Validation Branch, 
+FAA; or EASA; or Airbus Helicopters' EASA Design Organization 
+Approval (DOA). If approved by the DOA, the approval must include 
+the DOA-authorized signature.
+    (9) This AD does not adopt the ``Remarks'' section of EASA AD 
+2025-0239.
+
+(i) Special Flight Permits
+
+    Special flight permits, as described in 14 CFR 21.197 and 
+21.199, are not allowed.
+
+(j) Alternative Methods of Compliance (AMOCs):
+
+    (1) The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Validation Branch, send 
+it to the attention of the person identified in paragraph (k) of 
+this AD and email to [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local Flight Standards District Office/certificate holding 
+district office.
+
+(k) Additional Information
+
+    For more information about this AD, contact Aryanna Sanchez, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; phone: (520) 990-9321; email: 
+[email&#160;protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2025-0239, 
+dated October 27, 2025.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; phone: +49 221 8999 
+000; email: [email&#160;protected]; website: easa.europa.eu. You may 
+find this EASA AD on the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on June 26, 2026.
+Christopher R. Parker,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-13368 Filed 7-1-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

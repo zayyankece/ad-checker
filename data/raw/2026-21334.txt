@@ -1,0 +1,504 @@
+
+[Federal Register Volume 91, Number 200 (Monday, October 19, 2026)]
+[Proposed Rules]
+[Pages 66016-66019]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-21334]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-11813; Project Identifier MCAI-2025-01835-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to supersede Airworthiness Directive (AD) 
+2025-09-07, which applies to certain Airbus SAS Model A330-243, -243F, 
+-841, and -941 airplanes. AD 2025-09-07 requires revising the existing 
+airplane flight manual (AFM) by providing instructions to address dual 
+loss of radio management panel (RMP) data synchronization, and the 
+existing minimum equipment list (MEL) by removing relief for an 
+inoperative RMP 3. Since the FAA issued AD 2025-09-07, a modification 
+that addresses the unsafe condition has been developed. This proposed 
+AD would continue to require the actions specified in AD 2025-09-07 and 
+would require modifying the airplane. This proposed AD also reduces the 
+applicability. This proposed AD would also prohibit the installation of 
+affected parts under certain conditions. The FAA is proposing this AD 
+to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by December 3, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-11813; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For European Union Aviation Safety Agency (EASA) material 
+identified in this proposed AD, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email&#160;protected]. You may find this material on the EASA website at 
+ad.easa.europa.eu. It is also available at regulations.gov under Docket 
+No. FAA-2026-11813.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA 98198. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+
+FOR FURTHER INFORMATION CONTACT: Frank Carreras, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3539; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2026-11813; 
+Project Identifier MCAI-2025-01835-T'' at the beginning of your 
+comments. The most helpful comments reference a specific portion of the 
+proposal, explain the reason for any recommended change, and include 
+supporting data. The FAA will consider all comments received by the 
+closing date and may amend this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Frank 
+Carreras, Aviation Safety Engineer, FAA, 2200 South 216th St., Des 
+Moines, WA 98198; phone: 206-231-3539; email: [email&#160;protected]. 
+Any commentary that the FAA receives which is not specifically 
+designated as CBI will be placed in the public docket for this 
+rulemaking.
+
+Background
+
+    The FAA issued AD 2025-09-07, Amendment 39-23028 (90 FR 17888, 
+April 30, 2025) (AD 2025-09-07), for
+
+[[Page 66017]]
+
+certain Airbus SAS Model A330-243, -243F, -841, and -941 airplanes. AD 
+2025-09-07 was prompted by an MCAI originated by EASA, which is the 
+Technical Agent for the Member States of the European Union. EASA 
+issued EASA AD 2025-0043, dated February 19, 2025 (EASA AD 2025-0043), 
+to correct an unsafe condition. EASA later revised EASA AD 2025-0043 
+and issued EASA AD 2025-0043R1, dated August 7, 2025 (EASA AD 2025-
+0043R1) to reduce the applicability by removing airplanes that are not 
+affected by the unsafe condition.
+    AD 2025-09-07 requires revising the existing AFM by providing 
+instructions to address dual loss of RMP data synchronization, and the 
+existing MEL by removing relief for an inoperative RMP 3. The FAA 
+issued AD 2025-09-07 to address loss of radio communication, 
+uncommanded changes of transponder and traffic alert and collision 
+avoidance system (TCAS) settings, and activation of standby navigation 
+mode on all RMPs. This condition, if not corrected, could result in 
+total loss of radio communication if RMP 3 is inoperative prior to 
+dispatch, including loss of transponder functionality and standby 
+navigation. The FAA considered AD 2025-09-07 to be an interim action 
+and stated that, once a modification was developed, approved, and 
+available, the FAA might consider additional rulemaking. The 
+manufacturer has since developed a modification that would terminate 
+the actions required by AD 2025-09-07. The FAA has determined that this 
+modification must be required.
+
+Actions Since AD 2025-09-07 Was Issued
+
+    Since the FAA issued AD 2025-09-07, EASA superseded EASA AD 2025-
+0043, dated February 19, 2025, and issued EASA AD 2025-0286, dated 
+December 17, 2025 (EASA AD 2025-0286) (also referred to as the MCAI), 
+to correct an unsafe condition on certain Airbus SAS Model A330-941 
+airplanes. The MCAI states that occurrences were reported of loss of 
+data synchronization between the RMPs and the audio management unit, 
+which can result in the loss of control of radio communication, 
+uncommanded changes of transponder and TCAS settings, and the 
+activation of standby navigation mode on all RMPs. This condition, if 
+not corrected, could lead to total loss of control of radio 
+communications, including the loss of communications, transponder 
+functionality, standby navigation, or any combination of these. To 
+address this condition, Airbus designed and certified modification 
+211442 (install wiring and software L4.3 standard for digital audio) 
+and published service information that provides instructions for 
+installing that modification on in-service airplanes; EASA AD 2025-0286 
+retains the AFM and MEL requirements of EASA AD 2025-0043R1 and adds a 
+requirement to modify the airplane.
+    This proposed AD would reduce the applicability and only apply to 
+certain Model A330-941 airplanes. Airbus SAS Model A330-243, -243F, and 
+-841 airplanes are not affected by the identified unsafe condition. The 
+FAA is proposing this AD to address the unsafe condition on these 
+products.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2026-11813.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    EASA AD 2025-0286 specifies procedures for modifying the airplane 
+by installing wiring and software (the digital radio and audio 
+integrating management system (DRAIMS) L4.3 configuration). EASA AD 
+2025-0286 also specifies revising the AFM and the MEL and, after the 
+modification is accomplished, prohibits installing affected parts.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority has notified the FAA of the unsafe condition 
+described in the MCAI referenced above. The FAA is issuing this NPRM 
+after determining that the unsafe condition described previously is 
+likely to exist or develop on other products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would retain all requirements of AD 2025-09-07 and 
+reduce the applicability of AD 2025-09-07. This proposed AD would also 
+require accomplishing the modification specified in EASA AD 2025-0286 
+described previously, except for any differences identified as 
+exceptions in the regulatory text of this proposed AD. Accomplishing 
+that modification would terminate the retained AFM and MEL revision 
+requirements. This proposed AD would also prohibit the installation of 
+affected parts under certain conditions. See ``Differences Between This 
+Proposed AD and the MCAI'' for a discussion of the general differences 
+included in this AD.
+
+Differences Between This Proposed AD and the MCAI
+
+    This proposed AD does not adopt paragraphs (1), (2), and (3) of 
+EASA AD 2025-0286 (EASA's retained AFM and master minimum equipment 
+list requirements). Instead, this proposed AD retains and restates the 
+corresponding AFM and MEL revision requirements of AD 2025-09-07 in 
+paragraphs (g) and (h) of this AD.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some civil aviation 
+authority (CAA) ADs as the primary source of information for compliance 
+with requirements for corresponding FAA ADs. The FAA has been 
+coordinating this process with manufacturers and CAAs. As a result, the 
+FAA proposes to incorporate EASA AD 2025-0286 by reference in the FAA 
+final rule. This proposed AD would, therefore, require compliance with 
+EASA AD 2025-0286 in its entirety through that incorporation, except 
+for any differences identified as exceptions in the regulatory text of 
+this proposed AD. Using common terms that are the same as the heading 
+of a particular section in EASA AD 2025-0286 does not mean that 
+operators need comply only with that section. For example, where the AD 
+requirement refers to ``all required actions and compliance times,'' 
+compliance with this AD requirement is not limited to the section 
+titled ``Required Action(s) and Compliance Time(s)'' in EASA AD 2025-
+0286. Material required by EASA AD 2025-0286 is available at 
+regulations.gov by searching for and locating Docket No. FAA-2026-11813 
+after the FAA final rule is published.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 12 airplanes of U.S. registry. The FAA estimates the following 
+costs to comply with this proposed AD:
+
+[[Page 66018]]
+
+
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                       Cost per    Cost on U.S.
+                  Action                            Labor cost           Parts cost    product       operators
+----------------------------------------------------------------------------------------------------------------
+Retained actions from AD 2025-09-07......  2 work-hours x $85 per hour           $0         $170          $2,040
+                                            = $170.
+New proposed actions.....................  6 work-hours x $85 per hour        1,242        1,752          21,024
+                                            = $510.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2025-09-07, Amendment 39-23028 
+(90 FR 17888, April 30, 2025); and
+0
+b. Adding the following new AD:
+
+Airbus SAS: Docket No. FAA-2026-11813; Project Identifier MCAI-2025-
+01835-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by December 3, 2026.
+
+(b) Affected ADs
+
+    This AD replaces AD 2025-09-07, Amendment 39-23028 (90 FR 17888, 
+April 30, 2025) (AD 2025-09-07).
+
+(c) Applicability
+
+    This AD applies to Airbus SAS Model A330-941 airplanes, 
+certificated in any category, as identified in European Union 
+Aviation Safety Agency (EASA) AD 2025-0286, dated December 17, 2025 
+(EASA AD 2025-0286).
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 23, 
+Communications.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of loss of data synchronization 
+between the radio management panels (RMPs) and the audio management 
+unit. The FAA is issuing this AD to address such loss of data 
+synchronization, which can result in the loss of control of radio 
+communication, uncommanded changes of transponder and Traffic Alert 
+and Collision Avoidance System (TCAS) settings, and the activation 
+of standby navigation mode on all RMPs. The unsafe condition, if not 
+addressed, could result in the total loss of radio communications if 
+RMP 3 is inoperative prior to dispatch, including the loss of 
+transponder functionality and standby navigation.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Airplane Flight Manual (AFM) Revision, With No Changes
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2025-09-07, with no changes. Within 7 days after May 15, 2025 (the 
+effective date of AD 2025-09-07), revise the Emergency Procedures 
+section of the existing AFM to include the information in figure 1 
+to paragraph (g) of this AD. This may be done by inserting a copy of 
+figure 1 to paragraph (g) of this AD into the existing AFM. Using a 
+different document with information identical to that contained in 
+figure 1 to paragraph (g) of this AD is acceptable for compliance 
+with the requirements of this paragraph.
+
+                Figure 1 to Paragraph (g)--AFM Procedure
+------------------------------------------------------------------------
+                  Dual loss of RMP data synchronization
+-------------------------------------------------------------------------
+Switch off RMP 1 and RMP 2.
+Note: When RMP 1 and RMP 2 are switched off:
+    --The aural alerts are not available on loudspeakers.
+    --The communication is only available on RMP 3.
+Check communication, transponder, TCAS and radio navigation settings.
+------------------------------------------------------------------------
+
+(h) Retained Minimum Equipment List (MEL) Revision, With No Changes
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2025-09-07, with no changes. Before further flight after 
+accomplishing the requirements of paragraph (g) of this AD, revise 
+the existing FAA-approved MEL to prohibit airplane dispatch 
+(operation) with an inoperative RMP 3 under the MEL item equivalent 
+to FAA master minimum equipment list 23-81-01.
+
+[[Page 66019]]
+
+(i) Retained Credit for Previous Actions, With No Changes
+
+    This paragraph restates the credit specified in paragraph (i) of 
+AD 2025-09-07, with no changes.
+    (1) This paragraph provides credit for the AFM revision required 
+by paragraph (g) of this AD, if the revision was performed before 
+May 15, 2025 (the effective date of AD 2025-09-07) using Airbus 
+A330/A340 Operations Engineering Bulletin 58, issue 1.0, dated 
+February 7, 2025.
+    (2) This paragraph provides credit for the AFM revision required 
+by paragraph (g) of this AD, if the revision was performed before 
+May 15, 2025 (the effective date of AD 2025-09-07) using Airbus A330 
+Airplane Flight Manual Temporary Revision TR819, Issue 1, dated 
+March 6, 2025.
+
+(j) New Requirements
+
+    Except as specified in paragraph (k) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2025-0286. Doing the modification required 
+by this paragraph terminates the requirements of paragraphs (g) and 
+(h) of this AD. After the modification has been done, the AFM 
+revision required by paragraph (g) of this AD may be removed from 
+the AFM and the MEL revision required by paragraph (h) of this AD 
+may be removed from the MEL.
+
+(k) Exceptions to EASA AD 2025-0286
+
+    (1) Where EASA AD 2025-0286 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) This AD does not adopt paragraphs (1), (2), and (3) of EASA 
+AD 2025-0286.
+    (3) This AD does not adopt the ``Remarks'' section of EASA AD 
+2025-0286.
+
+(l) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, AIR-
+520, Continued Operational Safety Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+the Continued Operational Safety Branch, send it to the attention of 
+the person identified in paragraph (m)(1) of this AD and email to: 
+[email&#160;protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, AIR-520, 
+Continued Operational Safety Branch, FAA; or the European Union 
+Aviation Safety Agency (EASA); or Airbus SAS's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (l)(2) of this AD, if any material referenced in EASA AD 
+2025-0286 contains procedures or tests that are identified as RC, 
+those procedures and tests must be done to comply with this AD; any 
+procedures or tests that are not identified as RC are recommended. 
+Those procedures and tests that are not identified as RC may be 
+deviated from using accepted methods in accordance with the 
+operator's maintenance or inspection program without obtaining 
+approval of an AMOC, provided the procedures and tests identified as 
+RC can be done and the airplane can be put back in an airworthy 
+condition. Any substitutions or changes to procedures or tests 
+identified as RC require approval of an AMOC.
+
+(m) Additional Information
+
+    (1) For more information about this AD, contact Frank Carreras, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3539; email: [email&#160;protected].
+    (2) For Airbus material identified in this AD that is not 
+incorporated by reference, contact Airbus SAS, Airworthiness 
+Office--EAL, Rond-Point Emile Dewoitine No: 2, 31700 Blagnac Cedex, 
+France; telephone +33 5 61 93 36 96; fax +33 5 61 93 45 80; email 
+airbus.com">airworthiness.A330-A340@airbus.com; website airbus.com.
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2025-0286, 
+dated December 17, 2025.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email&#160;protected]. You may find this material on 
+the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA 98198. For information on the availability of this 
+material at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on October 14, 2026.
+Lona C. Saccomando,
+Acting Deputy Director, Integrated Certificate Management 
+Division,Aircraft Certification Service.
+[FR Doc. 2026-21334 Filed 10-16-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

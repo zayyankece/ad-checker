@@ -93,6 +93,13 @@ def eval_condition(c: Condition, ac: dict):
         if c.op in ("not_in",):
             r = not3(r)
         return r, desc, None
+    if f == "cert_date":
+        d = ac.get("cert_date")
+        if not d:
+            return U, "certificate date missing", f"Original airworthiness certificate date of {ac.get('registration')} is missing in fleet data."
+        lim = str(c.values[0])
+        hit = str(d) <= lim if c.op == "on_or_before" else str(d) >= lim
+        return (T if hit else F), f"certificate date {d} {'meets' if hit else 'fails'} {c.op.replace('_', ' ')} {lim}", None
     if f == "engine_model":
         e = ac.get("engine_model")
         if not e:

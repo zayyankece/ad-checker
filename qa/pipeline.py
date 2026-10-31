@@ -20,7 +20,7 @@ MSN_RANGE = re.compile(r"\b(?:MSNs?|serial numbers?)\s*(\d{2,6})\s*(?:to|through
 AIRBUS_MODEL = re.compile(r"\b(A3[0-9]\d(?:-[0-9A-Z]{2,5})?|A220(?:-\d{3})?|BD-500-1A1[01])\b", re.I)
 OTHER_MODEL = re.compile(r"\b((?:Boeing\s+)?7[0-8]7(?:-\d{1,3}[A-Z]*)?|ATR\s?\d{2}|E1[79]\d|ERJ-?\d{3}|CRJ\d{3,4}|Cessna\s+\d{3})\b", re.I)
 APPLIC = re.compile(r"\b(appl(?:y|ies|icable|icability)|affect(?:s|ed)?|impact(?:ed)?|cover(?:s|ed)?|kena|berlaku|my fleet|our fleet)\b", re.I)
-REVISION = re.compile(r"\b(latest|version|revision|revised|supersed\w*|withdrawn|withdraw\w*|history|replace[sd]?)\b", re.I)
+REVISION = re.compile(r"\b(latest|versions?|revisions?|changed?|changes|differ\w*|revised|supersed\w*|withdrawn|withdraw\w*|history|replace[sd]?)\b", re.I)
 JUDGEMENT = re.compile(r"\b(safe to fly|is it safe|should (?:i|we)|recommend|legal advice|ground the)\b", re.I)
 PREMISE = re.compile(r"\b(since|given that|because|as we know|knowing that)\b", re.I)
 
@@ -236,7 +236,7 @@ def answer_lookup(con, q, p, doc_ids, out, client):
                   retrieved=[c["chunk_id"] for c in chunks], verifier_errors=errs)
 
 
-def answer_revision(con, p, doc_ids, out):
+def answer_revision(con, p, doc_ids, out, fleet):
     from ingest.revisions import history
     if not doc_ids:
         return refuse("R3", "Which docket or document number do you mean?", parsed=p)
@@ -247,7 +247,8 @@ def answer_revision(con, p, doc_ids, out):
         if key in seen:
             continue
         seen.add(key)
-        out["verdicts"].append({"docket": key, "history": h})
+        from adc.fleet import version_diff
+        out["verdicts"].append({"docket": key, "history": h, "diffs": version_diff(con, d, fleet)})
         out["warnings"] += doc_status(con, h[-1]["doc_id"] if h else d)["warnings"]
         for v in h:
             cid = one(con, "SELECT chunk_id FROM chunks WHERE doc_id=? AND section='Summary (dataset)'", (v["doc_id"],))
@@ -289,5 +290,5 @@ def ask(con, q, fleet):
     if p["intent"] == "applicability":
         return done(answer_applicability(con, p, fleet, doc_ids, out))
     if p["intent"] == "revision":
-        return done(answer_revision(con, p, doc_ids, out))
+        return done(answer_revision(con, p, doc_ids, out, fleet))
     return done(answer_lookup(con, q, p, doc_ids, out, _client()))

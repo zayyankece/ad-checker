@@ -23,6 +23,7 @@ Hard rules:
 - Serial number ranges -> field "msn", op "range", min/max (inclusive). Explicit MSN lists -> op "in". MSNs excluded -> put in `exclusions` with op "in".
 - "except those with modification N" / "on which modification N has been embodied" -> exclusions, field "mods_installed", op "contains".
 - "having part number P" / "fitted with P/N" -> field "parts_installed", op "contains".
+- "with an original airworthiness certificate ... issued on or before <date>" -> field "cert_date", op "on_or_before" (or "on_or_after"), values ["YYYY-MM-DD"].
 - If applicability is defined by another document (e.g. "as identified in EASA AD 2026-0123", "listed in the effectivity of Service Bulletin X") -> add a condition field "external_document", op "requires_external", values ["EASA AD 2026-0123"].
 - Separate OR alternatives into separate groups. Conditions in one group are ANDed.
 - Anything you cannot map to these fields goes into `unresolved` as an exact quote. Do not guess.
@@ -42,10 +43,20 @@ def applicability_text(con, doc_id):
     return (s[0]["chunk_id"], s[0]["text"]) if s else (None, "")
 
 
+CERT_DATE = re.compile(r"original (?:export )?(?:certificate of )?airworthiness certificate[^.;]*?issued (on or before|on or after) ([A-Z][a-z]+ \d{1,2}, \d{4})")
+LIMITERS = re.compile(
+    r"[^.;]*\b(on or before|on or after|serial numbers?|part numbers?|P/N|except|excluding|modification|"
+    r"service bulletin|if |having|fitted with|equipped with|on which)\b[^.;]*[.;]?", re.I)
+
+
 def regex_extract(doc_id, text):
-    sent_end = re.search(r"certificated in any category|airplanes\.|helicopters\.|rotorcraft\.", text)
-    first = text[: sent_end.end()] if sent_end else text[:400]
-    first = first.strip()
+    """Deterministic fallback. Conservative: anything it cannot model becomes `unresolved`."""
+    body = re.sub(r"^\s*(?:\([a-z]\)\s*)?Applicability:?\s*", "", text.strip())
+    body = re.split(r"\n\s*\(d\)\s+Subject|\n\s*Compliance:", body)[0].strip()
+    if text.strip().startswith("The FAA") or not body:
+        body = text.strip()
+    scan = re.sub(r"\s+", " ", re.sub(r"-\s+(?=\w)", "-", body))
+    first = scan
     models, fam, fams = [], None, []
     for m in TOKEN.finditer(first):
         full, f, var, abbr = m.group(0), m.group(1), m.group(2), m.group(3)
@@ -58,17 +69,30 @@ def regex_extract(doc_id, text):
             models.append(fam + abbr)
     models = list(dict.fromkeys(models))
     groups, unresolved = [], []
-    scope = "all" if re.search(r"\ball\b", first, re.I) else "certain"
-    q = first if len(first) < 600 else first[:600]
+    scope = "all" if re.search(r"\bapplies to all\b|^all\b|\bAll Model\b", first, re.I) else "certain"
+    q = body
     if models:
         groups.append({"conditions": [{"field": "model", "op": "in", "values": models, "quote": q}]})
     elif fams:
         groups.append({"conditions": [{"field": "model_family", "op": "in", "values": list(dict.fromkeys(fams)), "quote": q}]})
-    ext = EXTERNAL.search(text)
+    ext = EXTERNAL.search(scan)
     if ext and groups:
-        groups[0]["conditions"].append({"field": "external_document", "op": "requires_external", "values": [ext.group(1)], "quote": ext.group(0)})
-    elif scope == "certain":
-        unresolved.append(first[:300])
+        groups[0]["conditions"].append({"field": "external_document", "op": "requires_external",
+                                        "values": [ext.group(1)],
+                                        "quote": ext.group(0)})
+    cd = CERT_DATE.search(scan)
+    if cd and groups:
+        from datetime import datetime
+        iso = datetime.strptime(cd.group(2), "%B %d, %Y").date().isoformat()
+        groups[0]["conditions"].append({"field": "cert_date", "op": cd.group(1).replace(" ", "_"), "values": [iso], "quote": cd.group(0)})
+    for lm in LIMITERS.finditer(scan):
+        if ext and ext.group(0) in lm.group(0):
+            continue
+        if cd and cd.group(0) in lm.group(0):
+            continue
+        unresolved.append(lm.group(0).strip()[:300])
+    if scope == "certain" and not ext and not cd and not unresolved:
+        unresolved.append(scan[:300])
     if not groups:
         scope = "unknown"
         unresolved.append("no model found in applicability text")

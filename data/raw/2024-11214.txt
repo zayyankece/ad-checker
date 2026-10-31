@@ -1,0 +1,407 @@
+
+[Federal Register Volume 89, Number 102 (Friday, May 24, 2024)]
+[Proposed Rules]
+[Pages 45800-45803]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2024-11214]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-1475; Project Identifier MCAI-2024-00062-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all Airbus SAS Model A319-111, -112, -113, -114, -115, -131, -132, 
+-133, -151N, and -153N airplanes; A320 series airplanes; and A321-211, 
+-212, -213, -231, -232, -251N, -252N, -253N, -271N, -272N, -251NX, -
+252NX, -253NX, -271NX, and -272NX airplanes. This proposed AD was 
+prompted by a determination that a damage-tolerance and fatigue 
+reassessment of nose landing gear (NLG) repairs is necessary for 
+certain parts fitted on airplanes approved for operation in the 
+Commonwealth of Independent States (CIS). This proposed AD would 
+require repair and replacement of all affected parts, and introduces 
+restrictions for the installation of affected parts, as specified in a 
+European Union Aviation Safety Agency (EASA) AD, which is proposed for 
+incorporation by reference (IBR). The FAA is proposing this AD to 
+address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by July 8, 
+2024.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2024-1475; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For EASA material, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email&#160;protected]; website easa.europa.eu. You may find this material 
+on the EASA website at ad.easa.europa.eu. It is also available at 
+regulations.gov under Docket No. FAA-2024-1475.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195.
+
+FOR FURTHER INFORMATION CONTACT: Timothy Dowling, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone 206-231-3667; email [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+[[Page 45801]]
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under ADDRESSES. Include ``Docket No. FAA-2024-1475; Project Identifier 
+MCAI-2024-00062-T'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Timothy Dowling, Aviation Safety Engineer, FAA, 1600 Stewart Avenue, 
+Suite 410, Westbury, NY 11590; phone 206-231-3667; email 
+[email&#160;protected]. Any commentary that the FAA receives which 
+is not specifically designated as CBI will be placed in the public 
+docket for this rulemaking.
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2024-0022, dated January 23, 2024 
+(EASA AD 2024-0022) (also referred to as the MCAI), to correct an 
+unsafe condition for all Airbus SAS Model A319-111, A319-112, A319-113, 
+A319-114, A319-115, A319-131, A319-132, A319-133, A319-151N, A319-153N, 
+A320-211, A320-212, A320-214, A320-215, A320-216, A320-231, A320-232, 
+A320-233, A320-251N, A320-252N, A320-253N, A320-271N, A320-272N, A320-
+273N, A321-211, A321-212, A321-213, A321-231, A321-232, A321-251N, 
+A321-251NX, A321-252N, A321-252NX, A321-253N, A321-253NX, A321-271N, 
+A321-271NX, A321-272N, and A321-272NX airplanes. Model A320-215 
+airplanes are not certificated by the FAA and are not included on the 
+U.S. type certificate data sheet; this proposed AD therefore does not 
+include those airplanes in the applicability. The MCAI states that a 
+design review led to a determination that a damage-tolerance and 
+fatigue reassessment of NLG repairs is required for certain parts 
+fitted on airplanes approved for CIS operation. The EASA AD addresses 
+the reassessment of these repairs. The unsafe condition, if not 
+addressed, could lead to damage or failure of the affected parts and 
+the NLG, and possible damage to the airplane and injury to occupants, 
+following modifications for CIS operations.
+    Different runway standards in CIS countries have resulted in the 
+need for specific landing gear modifications or repairs on those 
+modified landing gears. The landing gear components modified for CIS 
+runway conditions may be inadequate for continued operation. While it 
+is possible there are few or no U.S. airplanes subject to the repair 
+and replacement requirements of this AD, the FAA has determined that 
+this AD is necessary to identify airplanes with affected parts and 
+confirm the need for any follow-on actions.
+    The FAA is proposing this AD to address the unsafe condition on 
+these products.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2024-1475.
+
+Related Service Information Under 1 CFR Part 51
+
+    EASA AD 2024-0022 specifies procedures for reporting, repair, and 
+replacement, as applicable, of the affected parts. EASA AD 2024-0022 
+also limits the installation of affected parts under certain 
+conditions. This material is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in ADDRESSES.
+
+FAA's Determination
+
+    This product has been approved by the aviation authority of another 
+country and is approved for operation in the United States. Pursuant to 
+the FAA's bilateral agreement with this State of Design Authority, it 
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA is issuing this NPRM after determining that 
+the unsafe condition described previously is likely to exist or develop 
+in other products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in EASA AD 2024-0022 described previously, except for any differences 
+identified as exceptions in the regulatory text of this proposed AD.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some civil aviation 
+authority (CAA) ADs as the primary source of information for compliance 
+with requirements for corresponding FAA ADs. The FAA has been 
+coordinating this process with manufacturers and CAAs. As a result, the 
+FAA proposes to incorporate EASA AD 2024-0022 by reference in the FAA 
+final rule. This proposed AD would, therefore, require compliance with 
+EASA AD 2024-0022 in its entirety through that incorporation, except 
+for any differences identified as exceptions in the regulatory text of 
+this proposed AD. Using common terms that are the same as the heading 
+of a particular section in EASA AD 2024-0022 does not mean that 
+operators need comply only with that section. For example, where the AD 
+requirement refers to ``all required actions and compliance times,'' 
+compliance with this AD requirement is not limited to the section 
+titled ``Required Action(s) and Compliance Time(s)'' in EASA AD 2024-
+0022. Service information required by EASA AD 2024-0022 for compliance 
+will be available at regulations.gov under Docket No. FAA-2024-1475 
+after the FAA final rule is published.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 1,680 airplanes of U.S. registry. The FAA estimates the 
+following costs to comply with this proposed AD:
+
+[[Page 45802]]
+
+
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                    Cost per
+                  Labor cost                      Parts cost        product           Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+1 work-hour x $85 per hour = $85.............              $0              $85   Up to $142,800.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the repairs or replacements specified in this proposed 
+AD. The cost of parts could be as high as $5,620 per airplane.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Airbus SAS: Docket No. FAA-2024-1475; Project Identifier MCAI-2024-
+00062-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by July 8, 2024.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS airplanes identified in 
+paragraphs (c)(1) through (3) of this AD, certificated in any 
+category.
+    (1) Model A319-111, -112, -113, -114, -115, -131, -132, and -133 
+airplanes.
+    (2) Model A320-211, -212, -214, -216, -231, -232, and -233 
+airplanes.
+    (3) Model A321-111, -112, -131, -211, -212, -213, -231, -232, 
+and -271N airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 32, Landing 
+gear.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a determination that a damage-tolerance 
+and fatigue reassessment of nose landing gear (NLG) repairs is 
+necessary for certain parts fitted on airplanes approved for 
+operation in the Commonwealth of Independent States (CIS). The FAA 
+is issuing this AD to address the reassessment of these repairs. The 
+unsafe condition, if not addressed, could lead to damage or failure 
+of the affected parts and the NLG, and possible damage to the 
+airplane and injury to occupants.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2024-0022, dated January 23, 2024 (EASA AD 
+2024-0022).
+
+(h) Exceptions to EASA AD 2024-0022
+
+    (1) Where EASA AD 2024-0022 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) This AD does not adopt the ``Remarks'' section of EASA AD 
+2024-0022.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or responsible Flight Standards Office, as 
+appropriate. If sending information directly to the manager of the 
+International Validation Branch, mail it to the address identified 
+in paragraph (j) of this AD. Information may be emailed to: [email&#160;protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or EASA; or Airbus SAS's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(j) Additional Information
+
+    For more information about this AD, contact Timothy Dowling, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; telephone 817-222-5102; email 
+[email&#160;protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+
+[[Page 45803]]
+
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2024-0022, 
+dated January 23, 2024.
+    (ii) [Reserved]
+    (3) For EASA AD 2024-0022, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email&#160;protected]; website easa.europa.eu. You may find this EASA 
+AD on the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations, or email [email&#160;protected].
+
+    Issued on May 16, 2024.
+Suzanne Masterson,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2024-11214 Filed 5-23-24; 8:45 am]
+BILLING CODE 4910-13-P
+
+

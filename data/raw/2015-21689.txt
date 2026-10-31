@@ -1,0 +1,542 @@
+
+[Federal Register Volume 80, Number 170 (Wednesday, September 2, 2015)]
+[Proposed Rules]
+[Pages 53024-53028]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-21689]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-3657; Directorate Identifier 2012-SW-069-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Helicopters (Previously 
+Eurocopter France (Eurocopter) Helicopters)
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+[[Page 53025]]
+
+SUMMARY: We propose to supersede airworthiness directive (AD) 2007-25-
+08 for Eurocopter Model SA-365 N1, AS-365N2, AS 365 N3, SA-366G1, EC 
+155B, and EC155B1 helicopters. AD 2007-25-08 currently requires 
+checking the tail rotor gearbox (TGB) oil level, inspecting the 
+magnetic plug for chips and either replacing the TGB or further 
+inspecting for axial play in the tail rotor hub pitch change control 
+spider (spider), and if axial play is found in the spider, replacing 
+the pitch control rod assembly double bearing (bearing). Since we 
+issued the AD 2007-25-08, we have received reports of new occurrences 
+of loss of yaw control due to failure of the control rod bearing. This 
+proposed AD would retain some of the requirements of AD 2007-25-08, 
+revise the inspections for play in the double bearing to improve the 
+detection of play, require replacing the TGB control shaft guide 
+bushes, clarify the criteria concerning particle detection, and change 
+the inspection for play in the double bearing after the guide bushes 
+have been replaced. The proposed actions are intended to prevent damage 
+to the bearing resulting in end play, loss of tail rotor pitch control, 
+and subsequent loss of control of the helicopter.
+
+DATES: We must receive comments on this proposed AD by November 2, 
+2015.
+
+ADDRESSES: You may send comments by any of the following methods:
+     Federal eRulemaking Docket: Go to http://www.regulations.gov. Follow the online instructions for sending your 
+comments electronically.
+     Fax: 202-493-2251.
+     Mail: Send comments to the U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590-0001.
+     Hand Delivery: Deliver to the ``Mail'' address between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov or in person at the Docket Operations Office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this proposed AD, the European 
+Aviation Safety Agency (EASA) AD, the economic evaluation, any comments 
+received and other information. The street address for the Docket 
+Operations Office (telephone 800-647-5527) is in the ADDRESSES section. 
+Comments will be available in the AD docket shortly after receipt.
+    For service information identified in this proposed AD, contact 
+Airbus Helicopters, Inc., 2701 N. Forum Drive, Grand Prairie, TX 75052; 
+telephone (972) 641-0000 or (800) 232-0323; fax (972) 641-3775; or at 
+http://www.airbushelicopters.com/techpub. You may review service 
+information at the FAA, Office of the Regional Counsel, Southwest 
+Region, 10101 Hillwood Pkwy, Room 6N-321, Fort Worth, Texas 76177.
+
+FOR FURTHER INFORMATION CONTACT: Matt Wilbanks, Aviation Safety 
+Engineer, Rotorcraft Certification Office, Rotorcraft Directorate, FAA, 
+10101 Hillwood Pkwy, Fort Worth, Texas 76177; telephone (817) 222-5110; 
+email [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited
+
+    We invite you to participate in this rulemaking by submitting 
+written comments, data, or views. We also invite comments relating to 
+the economic, environmental, energy, or federalism impacts that might 
+result from adopting the proposals in this document. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. To 
+ensure the docket does not contain duplicate comments, commenters 
+should send only one copy of written comments, or if comments are filed 
+electronically, commenters should submit only one time.
+    We will file in the docket all comments that we receive, as well as 
+a report summarizing each substantive public contact with FAA personnel 
+concerning this proposed rulemaking. Before acting on this proposal, we 
+will consider all comments we receive on or before the closing date for 
+comments. We will consider comments filed after the comment period has 
+closed if it is possible to do so without incurring expense or delay. 
+We may change this proposal in light of the comments we receive.
+
+Discussion
+
+    On November 27, 2007, we issued AD 2007-25-08, Amendment 39-15290 
+(72 FR 69604, December 10, 2007) for Eurocopter (now Airbus 
+Helicopters) Model SA-365 N1, AS-365 N2, AS 365 N3, SA-366G1, EC 155B, 
+and EC155B1 helicopters. AD 2007-25-08 requires repetitively checking 
+the TGB oil level to ensure it is at the maximum level. AD 2007-25-08 
+also requires repetitively inspecting the magnetic plug for chips, and 
+depending on the quantity of chips found, either replacing the TGB or 
+further inspecting for axial play in the spider. If axial play is found 
+in the spider, AD 2007-25-08 requires replacing the bearing. AD 2007-
+25-08 was prompted by EASA Emergency AD No. 2006-0258R1-E, dated August 
+29, 2006, as well as the finding that metal chips were not detected on 
+the magnetic plug due to insufficient oil flow because the oil in the 
+TGB was being maintained at the minimum level. The actions of AD 2007-
+25-08 are intended to detect metal chips on the magnetic plug and to 
+prevent damage to the bearing resulting in end play, loss of tail rotor 
+pitch control, and subsequent loss of control of the helicopter.
+
+Actions Since AD 2007-25-08 Was Issued
+
+    Since we issued AD 2007-25-08 (72 FR 69604, December 10, 2007), we 
+have received reports of new occurrences of loss of yaw control due to 
+failure of the control rod bearing.
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has since superseded EASA Emergency AD No. 2006-0258R1-
+E with several ADs, the most recent being EASA AD No. 2012-0170R2, 
+dated June 20, 2014, to correct an unsafe condition for these Airbus 
+Model helicopters. After receiving reports of several new occurrences 
+of damage to the bearings and subsequent investigations of the 
+incidents, EASA advises of implementing additional, revised inspection 
+and corrective actions; reducing the interval between inspections; a 
+modification replacing both guide bushes and improving the tolerance 
+between the control shaft and the TGB wheel to limit the friction loads 
+on the control bearing; and requiring the play measurement of the TGB 
+to control rod, shaft assembly double bearing to be measured according 
+to the type of fenestron installed. EASA AD 2012-0170R2 also excludes 
+helicopters modified in accordance with modification (MOD) 07 65B63.
+
+FAA's Determination
+
+    These helicopters have been approved by the aviation authority of 
+France and are approved for operation in the United States. Pursuant to 
+our bilateral agreement with France, EASA, its technical 
+representative, has notified us of the unsafe condition described in 
+its AD. We are proposing this AD because we evaluated all known 
+relevant information and determined that an unsafe condition is likely 
+to exist or develop on other products of the same type design.
+
+[[Page 53026]]
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed ASB No. AS365-05.00.61, Revision 4, dated April 8, 
+2014, for FAA-certificated Model SA 365 N1, AS 365 N2, and AS 365 N3 
+helicopters and for non-FAA-certificated Model AS355F, F1, and F2 
+helicopters; ASB No. SA366-05.41, Revision 4, dated April 8, 2014, for 
+FAA-certificated Model SA-366G1 and non-FAA-certificated Model SA-366GA 
+helicopters; and ASB No. EC155-05A022, Revision 4, dated April 8, 2014, 
+for FAA-certificated Model EC 155B and EC155B1 helicopters. All three 
+ASBs describe procedures for monitoring the behavior of the bearing by 
+checking its axial play by dimensional measurement and by maintaining 
+the operating oil at the maximum level. EASA classified this service 
+information as mandatory and issued EASA AD No. 2012-0170R2 to ensure 
+the continued airworthiness of these helicopters. This service 
+information is reasonably available because the interested parties have 
+access to it through their normal course of business or by the means 
+identified in the ADDRESSES section of this NPRM.
+
+Proposed AD Requirements
+
+    This proposed AD would require:
+     Checking the TGB oil level at specified intervals. An 
+owner/operator (pilot) may perform this visual check and must enter 
+compliance into the helicopter maintenance records in accordance with 
+14 CFR Sec. Sec.  43.9(a)(1) through (4) and 91.417(a)(2)(v). A pilot 
+may perform this check because it involves only a visual check for the 
+oil level in the TGB and can be performed equally well by a pilot or a 
+mechanic. This check is an exception to our standard maintenance 
+regulations.
+     Inspecting the magnetic plug of the TGB for chips at 
+specified intervals.
+     Within 300 hours time-in-service (TIS), replacing each 
+affected part-numbered TGB guide bush with an airworthy guide bush, 
+inspecting the bearing of the TGB control shaft and rod assembly for 
+M50 type particles, and performing measurements of play in the TGB 
+control shaft and rod assembly.
+     Within 110 hours TIS after replacing the guide bush, and 
+thereafter at intervals not to exceed 55 hours TIS, performing certain 
+measurements for play in the TGB control shaft and rod assembly.
+    This proposed AD would not apply to helicopters with TGB part 
+number 365A33-6005-09 installed. Airbus Helicopters refers to the 
+installation of this part-numbered TGB as MOD 07 65B63.
+
+ Differences Between the Proposed AD and the EASA AD
+
+    The calendar times in the EASA AD have already passed and are not 
+included in this proposed AD.
+
+Costs of Compliance
+
+    We estimate that this proposed AD would affect 133 helicopters of 
+U.S. Registry. We estimate that operators may incur the following costs 
+in order to comply with this AD. The estimated labor cost is $85 per 
+work-hour. We estimate .5 work-hour to check the TGB oil level for a 
+cost of $43 per helicopter and $5,719 for the fleet each inspection 
+cycle. We estimate .5 work-hour to inspect the magnetic plug on the TGB 
+for chips for a cost of $43 per helicopter and $5,719 for the fleet 
+each inspection cycle. We estimate 3 work-hours to measure the play in 
+the TGB control shaft and rod assembly for a cost of $255 per 
+helicopter and $33,915 for the fleet each inspection cycle. Replacing 
+the TGB control shaft guide bushes would take 4 work-hours and required 
+parts would cost $565, for an estimated total of $905 per helicopter 
+and $120,365 for the U.S. operator fleet. Inspecting the TGB control 
+shaft and rod assembly for steel particles would take 6 work-hours for 
+a cost per helicopter of $510 and a fleet cost of $67,830. If 
+necessary, it would cost about $30,000 per helicopter to replace the 
+TGB and $24,000 for overhaul of the TGB to replace the bearing.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed, I certify this proposed regulation:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska to the extent that 
+it justifies making a regulatory distinction; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared an economic evaluation of the estimated costs to comply 
+with this proposed AD and placed it in the AD docket.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directive (AD) 
+2007-25-08, Amendment 39-15290 (72 FR 69604, December 10, 2007), and 
+adding the following new AD:
+
+Airbus Helicopters (Previously Eurocopter France Helicopters): 
+Docket No. FAA-2015-3657; Directorate Identifier 2012-SW-069-AD.
+
+(a) Applicability
+
+    This AD applies to Model SA-365N1, AS-365N2, AS 365 N3, SA-
+366G1, EC 155B, and EC155B1 helicopters, with a tail rotor gearbox 
+(TGB) pitch control rod assembly double bearing (bearing) installed, 
+certificated in any category, except helicopters with TGB part 
+number (P/N) 365A33-6005-09 installed.
+
+(b) Unsafe Condition
+
+    This AD defines the unsafe condition as damage to the bearing, 
+which could result in end play, loss of tail rotor pitch control, 
+and subsequent loss of control of the helicopter.
+
+[[Page 53027]]
+
+(c) Affected ADs
+
+    This AD supersedes AD 2007-25-08, Amendment 39-15290 (72 FR 
+69604, December 10, 2007).
+
+(d) Comments Due Date
+
+    We must receive comments by November 2, 2015.
+
+(e) Compliance
+
+    You are responsible for performing each action required by this 
+AD within the specified compliance time unless it has already been 
+accomplished prior to that time.
+
+(f) Required Actions
+
+    (1) Check the TGB oil level at the following intervals:
+    (i) For Model SA-365N1, AS-365N2, AS 365 N3 helicopters, at 
+intervals not to exceed 10 hours time-in-service (TIS).
+    (ii) For Model SA366G1 helicopters, at each daily flight check.
+    (iii) For Model EC 155B and EC155B1 helicopters, at intervals 
+not to exceed 15 hours TIS or 7 days, whichever occurs first.
+    (iv) The actions required by paragraph (f)(1) of this AD may be 
+performed by the owner/operator (pilot) holding at least a private 
+pilot certificate and must be entered into the aircraft records 
+showing compliance with this AD in accordance with 14 CFR Sec. Sec.  
+43.9(a)(1) through (4) and 14 CFR 91.417(a)(2)(v). The record must 
+be maintained as required by 14 CFR Sec. Sec.  91.417, 121.380, or 
+135.439.
+    (2) If the oil level is not at maximum, before further flight, a 
+qualified mechanic must fill it to the maximum level.
+    (3) Inspect the magnetic plug of the TGB for any chips as 
+follows:
+    (i) At intervals not to exceed 25 hours TIS for helicopters with 
+a magnetic plug without a chip electrical indication in the cockpit, 
+or
+    (ii) At intervals not to exceed 100 hours TIS and after any 
+illumination of the TGB ``CHIP'' warning light for helicopters with 
+a chip electrical indication in the cockpit.
+    (4) If you find any chips during the inspection in paragraph 
+(f)(3) of this AD, determine whether the quantity of chips is within 
+the removal criteria.
+    (i) If the quantity of chips on the magnetic plug is at or above 
+the removal criteria, before further flight, replace the TGB with an 
+airworthy TGB.
+    (ii) If the quantity of chips on the magnetic plug is below the 
+removal criteria, comply with paragraph (f)(6) of this AD before 
+further flight.
+    (5) Within 300 hours TIS, without removing the TGB:
+    (i) Replace each TGB control shaft guide bush (guide bush), P/N 
+365A33-6189-20 and 365A33-6189-21, with guide bush, P/N 365A33-6223-
+20, and replace each guide bush, P/N 365A33-6188-20, with guide 
+bush, P/N 365A33-6222-20.
+
+    Note 1 to paragraph (f)(5)(i) of this AD:  Airbus Helicopters 
+refers to the replacement of the guide bushes as Modification 
+0765B58.
+
+    (ii) Inspect the bearing of the TGB control shaft and rod 
+assembly for M50 type particles (particles) as shown in Figures 1 
+through 3 of Airbus Helicopters Alert Service Bulletin (ASB) No. 
+AS365-05.00.61, Revision 4, dated April 8, 2014, for Model SA 365 
+N1, AS 365 N2, and AS 365 N3 helicopters (AS365-05.00.61); ASB No. 
+SA366-05.41, Revision 4, dated April 8, 2014, for Model SA 366G1 
+helicopters (SA366-05.41); or ASB No. EC155-05A022, Revision 4, 
+dated April 8, 2014, for Model EC 155B and EC155B1 helicopters 
+(EC155-05A022). Inspect the bearing by separating the control shaft 
+(item q of Figure 3) from the control rod (item p of Figure 3), 
+rinse the bearing with white spirit or equivalent, collect the 
+product on a blotting paper, and inspect for particles inside the 
+control shaft, around the bearing, and on blotting paper.
+    (A) If there are no particles, clean the control shaft and 
+control rod with white spirit or equivalent and install the control 
+shaft and control rod.
+    (B) If there are any particles, replace the bearing with an 
+airworthy bearing.
+    (iii) Perform measurements of play in the TGB control shaft and 
+rod assembly bearing as follows:
+    (A) For the TGB side:
+    (1) Remove the cover and inspect the positioning of the locking 
+of the 3 screws, as shown in the two positioning for measurement 
+photographs in the Accomplishment Instructions under paragraph 
+3.B.4.a.(1) of ASB AS365-05.00.61, SA336-05.41, or EC155-05A022. 
+Correctly lock the screws if the positioning is inconvenient for 
+measurement. Set the pedal unit to the neutral position and rig the 
+tail servo-control using a 6 mm diameter pin. Remove any primer and 
+paint from the support casing face of the servo-control using 600 
+grit sand paper. Apply DOW 19 or equivalent protection and a coat of 
+primer P05 or equivalent. Do not reapply primer and paint to the 
+support casing face of the servo-control.
+    (2) Perform a measurement ``M1'' using a caliper gage, between 
+the end of the control rod (item p in the three photographs in the 
+Accomplishment Instructions under paragraph 3.B.4.a.(1) of ASB 
+AS365-05.00.61, SA336-05.41, or EC155-05A022) and the seating face 
+of the servo-control on the casing. Mark the position of the caliper 
+gage on the support casing face of the servo-control as ``R1'' using 
+a permanent felt tip pen. Position the caliper gage on R1 (shown in 
+the first of the three photographs in the Accomplishment 
+Instructions under paragraph 3.B.4.a.(1) of ASB AS365-05.00.61, 
+SA336-05.41, or EC155-05A022) and on the screw (item ac in the first 
+of the three photographs in the Accomplishment Instructions under 
+paragraph 3.B.4.a.(1) of ASB AS365-05.00.61, SA336-05.41, or EC155-
+05A022) of the universal joint of the servo-control. Set the mobile 
+part of the caliper gage against the end of the control rod. Shift 
+the caliper gage against the control lever (item ab in the last 
+photograph in the Accomplishment Instructions under paragraph 
+3.B.4.a.(1) of ASB AS365-05.00.61, SA336-05.41, or EC155-05A022) 
+while remaining in contact with the end of the control rod.
+    (3) Record measurement M1 indicated on the caliper gage on the 
+component history card or equivalent record.
+    (B) For the TRH side:
+    (1) Perform a measurement ``M2'' using a caliper gage between 
+the flat face of the center plate (item c in the photograph in the 
+Accomplishment Instructions under paragraph 3.B.4.a.(2) of ASB 
+AS365-05.00.61, SA336-05.41, or EC155-05A022) and the face of the 
+inner web (item ad in the photograph in the Accomplishment 
+Instructions under paragraph 3.B.4.a.(2) of ASB AS365-05.00.61, 
+SA336-05.41, or EC155-05A022) of the rotor hub on which the inner 
+bearings of the TRH blades are installed. Position the caliper gage 
+flat across the opening (item ae in the photograph in the 
+Accomplishment Instructions under paragraph 3.B.4.a.(2) of ASB 
+AS365-05.00.61, SA336-05.41, or EC155-05A022) of the pitch change 
+spider. Mark the position of the caliper gage on the flat surface of 
+the center plate as ``R2'' and on the opening as ``R3'' using a 
+permanent felt tip pen.
+    (2) Record measurement M2 indicated on the caliper gage.
+    (3) Calculate a measurement ``M0'' by adding measurements M1 
+(required in paragraph (f)(5)(iii)(A) of this AD) and M2.
+    (4) Perform measurements M1 and M2 again by repeating the 
+requirements in paragraphs (f)(5)(iii)(A) and (f)(5)(iii)(B) of this 
+AD and calculate a second measurement M0.
+    (5) Calculate the difference between the two M0 measurements. If 
+the difference is not less than 0.25 mm (0.01 inch), calculate the 
+two M0 measurements again.
+    (6) Calculate the mean value of the two M0 measurements and 
+record it on the component history card or equivalent record. This 
+M0 measurement will be the reference measurement enabling you to 
+evaluate any increase in the play in the bearing of the control 
+shaft and rod assembly during later inspections.
+    (6) Within 110 hours TIS after replacing the guide bush, and 
+thereafter at intervals not to exceed 55 hours TIS, perform 
+measurements for play in the TGB control shaft and rod assembly as 
+follows.
+    (i) On the TGB side:
+    (A) Remove the TGB fairing, set the pedal unit to the neutral 
+position and rig the tail servo-control using a 6 mm diameter pin.
+    (B) Perform measurement ``M1'' using a caliper gage between the 
+end of the control rod (item p in the three photographs in the 
+Accomplishment Instructions under paragraph 3.B.4.b (1) of ASB 
+AS365-05.00.61, SA336-05.41, or EC155-05A022) and the seating face 
+of the servo-control on the casing. Position the caliper gage on 
+mark R1 and the bearing against the screw (item ac as shown in the 
+first of the three photographs in the Accomplishment Instructions 
+under paragraph 3.B.4.b.(1) of ASB AS365-05.00.61, SA336-05.41, or 
+EC155-05A022) of the universal joint of the servo-control. Set the 
+mobile part of the caliper gage against the end of the control rod. 
+Shift the caliper gage against the control lever (item ab as shown 
+in the last of the three photographs in the Accomplishment 
+Instructions under paragraph 3.B.4.b.(1) of ASB AS365-05.00.61, 
+SA336-05.41, or EC155-05A022) while remaining in contact with the 
+end of the control rod.
+
+[[Page 53028]]
+
+    (C) Record measurement M1 indicated on the caliper gage on the 
+component history card or equivalent record.
+    (ii) On the tail rotor hub (TRH) side:
+    (A) Remove the fairing and perform a measurement ``M2'' using a 
+caliper gage between the flat face of the center plate (item c in 
+the photograph in the Accomplishment Instructions under paragraph 
+3.B.4.b.(2) of ASB AS365-05.00.61, SA336-05.41, or EC155-05A022) and 
+the face of the inner web (item ad in the photograph in the 
+Accomplishment Instructions under paragraph 3.B.4.b.(2) of ASB 
+AS365-05.00.61, SA336-05.41, or EC155-05A022) of the rotor hub on 
+which the inner bearings of the TRH blades are installed. Position 
+the caliper gage flat across the opening of the pitch change spider 
+on R2 and R3 as shown in the right photograph in the Accomplishment 
+Instructions under paragraph 3.B.4.b.(2) of ASB AS365-05.00.61, 
+SA336-05.41, or EC155-05A022.
+    (B) Record measurement M2 indicated on the caliper gage on the 
+component history card or equivalent record.
+    (C) Calculate a measurement ``M3'' by adding measurements M1 and 
+M2.
+    (D) Calculate the difference between measurement ``M0'' 
+indicated on the TGB component history card or equivalent record and 
+M3.
+    (1) If the difference between measurement M0 and M3 is less than 
+0.5 mm (0.02 inch), perform an additional inspection for play in the 
+bearing of the TGB control shaft and rod assembly by following the 
+Accomplishment Instructions, paragraph 3.B.6., of ASB AS365-
+05.00.61, SA366-05.41, or EC155-05A022. If there is no axial play at 
+the TRH pitch change spider, record value M3 on the component 
+history card or equivalent record. If there is axial play at the TRH 
+pitch change spider, replace the bearing with an airworthy bearing 
+and perform a new reference measurement by following the 
+requirements of paragraph (f)(6) of this AD.
+    (2) If the difference between the measurements is equal to or 
+greater than 0.5 mm (0.02 inch), replace the bearing with an 
+airworthy bearing and perform a new reference measurement by 
+following the requirements of paragraph (f)(6) of this AD.
+
+(g) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Safety Management Group, FAA, may approve AMOCs 
+for this AD. Send your proposal to: Matt Wilbanks, Aviation Safety 
+Engineer, Rotorcraft Certification Office, Rotorcraft Directorate, 
+FAA, 10101 Hillwood Pkwy, Fort Worth, Texas 76177; telephone (817) 
+222-5110; email [email&#160;protected].
+    (2) For operations conducted under a 14 CFR part 119 operating 
+certificate or under 14 CFR part 91, subpart K, we suggest that you 
+notify your principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office or 
+certificate holding district office before operating any aircraft 
+complying with this AD through an AMOC.
+
+(h) Additional Information
+
+    The subject of this AD is addressed in European Aviation Safety 
+Agency (EASA) AD No. 2012-0170R2, dated June 20, 2014. You may view 
+the EASA AD on the internet at http://www.regulations.gov in Docket 
+No. FAA-2015-3657.
+
+(i) Subject
+
+    Joint Aircraft Service Component (JASC) Code: 6520 Tail Rotor 
+Gearbox.
+
+    Issued in Fort Worth, Texas, on August 21, 2015.
+Lance T. Gant,
+Acting Directorate Manager, Rotorcraft Directorate, Aircraft 
+Certification Service.
+[FR Doc. 2015-21689 Filed 9-1-15; 8:45 am]
+BILLING CODE 4910-13-P
+
+

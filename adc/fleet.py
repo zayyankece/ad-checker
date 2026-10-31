@@ -29,6 +29,7 @@ def load_fleet(path=FLEET):
             good.append({
                 "registration": r["registration"].strip(), "model": r["model"].strip(), "msn": r["msn"].strip(),
                 "engine_model": (r.get("engine_model") or "").strip() or None,
+                "cert_date": (r.get("cert_date") or "").strip() or None,
                 "mods_installed": _list(r.get("mods_installed")), "parts_installed": _list(r.get("parts_installed")),
             })
     return good, bad
@@ -88,3 +89,29 @@ def aircraft_report(con, ac):
             d = one(con, "SELECT docket, subject, comments_due FROM documents WHERE doc_id=?", (r["doc_id"],))
             out.append({"doc_id": r["doc_id"], **d, "label": v.label, "missing": v.missing, "validation": meta["validation"]})
     return sorted(out, key=lambda x: (x["label"] != "APPLIES", x["comments_due"] or ""), reverse=False)
+
+
+def version_diff(con, doc_id, fleet):
+    """REV-5: what changed between consecutive versions of a docket, and the fleet impact delta."""
+    import difflib
+
+    from ingest.revisions import history
+    from rules.extract import applicability_text
+
+    h = [v for v in history(con, doc_id) if v["doc_type"] != "WITHDRAWAL"]
+    out = []
+    for old, new in zip(h, h[1:]):
+        a_cid, a_txt = applicability_text(con, old["doc_id"])
+        b_cid, b_txt = applicability_text(con, new["doc_id"])
+        norm = lambda t: [x.strip() for x in __import__("re").split(r"(?<=[.;])\s+|\n\s*\n", " ".join(t.split())) if x.strip()]
+        text_changes = [d for d in difflib.unified_diff(norm(a_txt), norm(b_txt), lineterm="", n=0) if d[:1] in "+-" and d[:3] not in ("+++", "---")]
+        sec = lambda d: {r["section"] for r in rows(con, "SELECT DISTINCT section FROM chunks WHERE doc_id=?", (d,))}
+        sa, sb = sec(old["doc_id"]), sec(new["doc_id"])
+        ra, rb = impact_report(con, old["doc_id"], fleet), impact_report(con, new["doc_id"], fleet)
+        la = {x["registration"]: x["label"] for x in ra.get("aircraft", [])}
+        lb = {x["registration"]: x["label"] for x in rb.get("aircraft", [])}
+        changed = [{"registration": r, "before": la.get(r), "after": lb.get(r)} for r in lb if la.get(r) != lb.get(r)]
+        out.append({"from": old["doc_id"], "to": new["doc_id"], "from_date": old["issue_date"], "to_date": new["issue_date"],
+                    "applicability_changes": text_changes, "applicability_chunks": [a_cid, b_cid],
+                    "sections_added": sorted(sb - sa), "sections_removed": sorted(sa - sb), "fleet_changes": changed})
+    return out

@@ -80,7 +80,7 @@ def doc_type(subject, summary, comments):
     s = f"{subject} {summary}".lower()
     if "withdrawal" in str(subject).lower() or "is withdrawing" in s or "is withdrawn" in s:
         return "WITHDRAWAL"
-    if "supplemental notice of proposed rulemaking" in s or "snprm" in s or "reopening of the comment period" in s:
+    if any(k in s for k in ("supplemental notice of proposed rulemaking", "snprm", "reopening of the comment period", "is revising a notice of proposed rulemaking", "is revising an earlier nprm", "is revising an nprm")):
         return "SNPRM"
     return "NPRM"
 

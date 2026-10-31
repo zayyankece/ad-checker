@@ -1,0 +1,159 @@
+
+[Federal Register Volume 81, Number 227 (Friday, November 25, 2016)]
+[Proposed Rules]
+[Pages 85168-85169]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-27639]
+
+
+
+[[Page 85168]]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-3657; Directorate Identifier 2012-SW-069-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Helicopters (Previously 
+Eurocopter France) Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM). 
+The NPRM proposed to supersede airworthiness directive (AD) 2007-25-08 
+for Eurocopter France (now Airbus Helicopters) Model SA-365N1, AS-
+365N2, AS 365 N3, SA-366G1, EC 155B, and EC155B1 helicopters. The 
+proposed actions were intended to prevent damage to the tail gearbox 
+(TGB) control shaft and rod assembly bearing resulting in end play, 
+loss of tail rotor pitch control, and subsequent loss of control of the 
+helicopter. Since we issued the NPRM, we have received reports of new 
+occurrences of loss of yaw control due to failure of the control rod 
+bearing and determined that different actions at shorter time intervals 
+are necessary to correct the unsafe condition. Accordingly, we withdraw 
+the proposed rule.
+
+DATES: As of November 25, 2016, the proposed rule to amend 14 CFR part 
+39 published September 2, 2015 (80 FR 53024) is withdrawn.
+
+FOR FURTHER INFORMATION CONTACT: David Hatfield, Aviation Safety 
+Engineer, Safety Management Group, Rotorcraft Directorate, FAA, 10101 
+Hillwood Pkwy., Fort Worth, TX 76177; telephone (817) 222-5116; email 
+[email&#160;protected].
+
+SUPPLEMENTARY INFORMATION: On August 21, 2015, the FAA issued an NPRM 
+that proposed to amend 14 CFR part 39 to remove AD 2007-25-08 (72 FR 
+69604, December 10, 2007) and add a new AD for Airbus Helicopters 
+(previously Eurocopter France) Model SA 365N1, AS-365N2, AS 365 N3, SA-
+366G1, EC 155B, and EC155B1 helicopters. The NPRM published in the 
+Federal Register on September 2, 2015 (80 FR 53024). The NPRM proposed 
+to require, at specified intervals, checking the TGB oil level and 
+inspecting the TGB magnetic plug for chips at specified intervals. The 
+NPRM also proposed replacing the TGB guide bushes, inspecting the 
+bearing of the TGB control shaft and rod assembly for M50 type 
+particles, and performing measurements of play in the TGB control shaft 
+and rod assembly. Finally, after replacing the guide bush, the NPRM 
+proposed repetitively performing measurements for play in the TGB 
+control shaft and rod assembly. The NPRM did not apply to helicopters 
+with TGB part number (P/N) 365A33-6005-09 installed, which Airbus 
+Helicopters refers to as Modification 07 65B63. At the time the NPRM 
+was published, we had received new reports of loss of yaw control due 
+to failure of the control rod bearing. The proposed actions were 
+intended to prevent damage to the bearing resulting in end play, loss 
+of tail rotor pitch control, and subsequent loss of control of the 
+helicopter.
+
+Actions Since the NPRM Was Issued
+
+    Since we issued the NPRM (80 FR 53024, September 2, 2015), EASA 
+issued Emergency AD No. 2016-0097-E, dated May 23, 2016, which was 
+subsequently revised by AD No. 2016-0097R1, dated May 25, 2016, to 
+correct a paragraph reference. EASA AD No. 2016-0097R1 advises that a 
+technical investigation of an AS 365 N3 accident revealed a damaged TGB 
+bearing. EASA further states that the affected control rod had been 
+repetitively inspected as required by a previous AD, EASA AD No. 2012-
+0170R2, dated June 20, 2014, and that the investigation is still 
+ongoing to determine the root cause of the damage and why the damage 
+was not discovered during the inspections. EASA AD No. 2016-0097R1 
+requires repetitive inspections of the TGB oil level and magnetic chip 
+detector. EASA AD No. 2016-0097R1 also requires replacing bearing P/N 
+704A33-651-093 or P/N 704A33-651-104 with an improved bearing P/N 
+704A33-651-245 or 704A33-651-246, which is terminating action for the 
+repetitive inspections of the magnetic chip detector but not of the oil 
+level. The EASA AD also describes an alternative repetitive inspection 
+for play that would defer replacing the bearing for an additional 110 
+hours time-in-service.
+    In light of this latest information, we are issuing a separate 
+action to supersede AD 2007-25-08 (72 FR 69604, December 10, 2007) with 
+immediately effective requirements. Accordingly, we are withdrawing the 
+NPRM.
+
+Comments
+
+    After our NPRM (80 FR 53024, September 2, 2015) was published, we 
+received two comments from one commenter.
+
+Request
+
+    Airbus Helicopters requested that the applicability be changed to 
+exclude helicopters with MOD 07 65B63 (which installs TGB P/N 365A33 
+6005-09) instead of those with TGB P/N 365A33 6005-09. When asked for 
+additional information to support this comment, Airbus Helicopters 
+stated that by excluding only helicopters with TGB P/N 365A33 6005-09, 
+the NPRM would apply to helicopters with a new (future) TGB P/N that 
+would not be subject to the unsafe condition. If instead the NPRM were 
+to exclude helicopters with MOD 07 65B63, it would also exclude future 
+TGB P/Ns. MOD 07 65B63 would be required before any future MOD that may 
+install a new part-numbered TGB.
+    We agree with the commenter's concern. However, because we are 
+withdrawing the NPRM and issuing a separate action with different 
+corrective requirements, the commenter's request is no longer 
+necessary.
+    Airbus Helicopters also requested that the compliance intervals for 
+performing the measurements for play include the longer interval 
+allowed for helicopters with MOD 07 65B57.
+    We agree that the longer inspection intervals are acceptable for 
+helicopters with MOD 07 65B57. However, because we are withdrawing the 
+NPRM and issuing a separate action with different corrective 
+requirements, the commenter's request is no longer necessary.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the agency from issuing another notice in the future nor does 
+it commit the agency to any course of action in the future.
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule; therefore, it is not covered under Executive Order 
+12866, the Regulatory Flexibility Act, or DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, the notice of proposed rulemaking, Docket No. FAA-
+2015-3657; Directorate Identifier 2012-SW-069-AD, published in the 
+Federal Register on September 2, 2015 (80 FR 53024), is withdrawn.
+
+
+[[Page 85169]]
+
+
+    Issued in Fort Worth, Texas, on November 2, 2016.
+Lance T. Gant,
+Manager, Rotorcraft Directorate, Aircraft Certification Service.
+[FR Doc. 2016-27639 Filed 11-23-16; 8:45 am]
+ BILLING CODE 4910-13-P
+
+

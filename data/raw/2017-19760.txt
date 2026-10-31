@@ -1,0 +1,787 @@
+
+[Federal Register Volume 82, Number 180 (Tuesday, September 19, 2017)]
+[Proposed Rules]
+[Pages 43715-43720]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2017-19760]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2017-0812; Product Identifier 2016-NM-198-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: We propose to adopt a new airworthiness directive (AD) for all 
+Airbus Model A330-200 series airplanes, Model A330-200 Freighter series 
+airplanes, and Model A330-300 series airplanes. This proposed AD was 
+prompted by an evaluation by the design approval holder (DAH) 
+indicating that certain fuselage structures are subject to widespread 
+fatigue damage (WFD). This proposed AD would require reinforcement 
+modifications of various structural parts of the fuselage, and related 
+investigative and corrective actions if necessary. We are proposing 
+this AD to address the unsafe condition on these products.
+
+DATES: We must receive comments on this proposed AD by November 3, 
+2017.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    For service information identified in this NPRM, contact Airbus 
+SAS, Airworthiness Office--EAL, 1 Rond Point Maurice Bellonte, 31707 
+Blagnac Cedex, France; telephone +33 5 61 93 36 96; fax +33 5 61 93 45 
+80; email [email&#160;protected]; Internet http://www.airbus.com. You may view this referenced service information at the 
+FAA, Transport Standards Branch, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 425-
+227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-
+0812; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this proposed AD, the regulatory evaluation, any comments 
+received, and other information. The street address for the Docket 
+Operations office (telephone 800-647-5527) is in the ADDRESSES section. 
+Comments will be available in the AD docket shortly after receipt.
+
+[[Page 43716]]
+
+
+FOR FURTHER INFORMATION CONTACT: Vladimir Ulyanov, Aerospace Engineer, 
+International Section, Transport Standards Branch, FAA, 1601 Lind 
+Avenue SW., Renton, WA 98057-3356; telephone 425-227-1138; fax 425-227-
+1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited
+
+    We invite you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2017-0812; 
+Product Identifier 2016-NM-198-AD'' at the beginning of your comments. 
+We specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of this proposed AD. We will consider 
+all comments received by the closing date and may amend this proposed 
+AD based on those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this proposed AD.
+
+Discussion
+
+    Fatigue damage can occur locally, in small areas or structural 
+design details, or globally, in widespread areas. Multiple-site damage 
+is widespread damage that occurs in a large structural element such as 
+a single rivet line of a lap splice joining two large skin panels. 
+Widespread damage can also occur in multiple elements such as adjacent 
+frames or stringers. Multiple-site damage and multiple-element damage 
+cracks are typically too small initially to be reliably detected with 
+normal inspection methods. Without intervention, these cracks will 
+grow, and eventually compromise the structural integrity of the 
+airplane. This condition is known as widespread fatigue damage. It is 
+associated with general degradation of large areas of structure with 
+similar structural details and stress levels. As an airplane ages, WFD 
+will likely occur, and will certainly occur if the airplane is operated 
+long enough without any intervention.
+    The FAA's WFD final rule (75 FR 69746, November 15, 2010) became 
+effective on January 14, 2011. The WFD rule requires certain actions to 
+prevent structural failure due to WFD throughout the operational life 
+of certain existing transport category airplanes and all of these 
+airplanes that will be certificated in the future. For existing and 
+future airplanes subject to the WFD rule, the rule requires that DAHs 
+establish a limit of validity (LOV) of the engineering data that 
+support the structural maintenance program. Operators affected by the 
+WFD rule may not fly an airplane beyond its LOV, unless an extended LOV 
+is approved.
+    The WFD rule (75 FR 69746, November 15, 2010) does not require 
+identifying and developing maintenance actions if the DAHs can show 
+that such actions are not necessary to prevent WFD before the airplane 
+reaches the LOV. Many LOVs, however, do depend on accomplishment of 
+future maintenance actions. As stated in the WFD rule, any maintenance 
+actions necessary to reach the LOV will be mandated by airworthiness 
+directives through separate rulemaking actions.
+    In the context of WFD, this action is necessary to enable DAHs to 
+propose LOVs that allow operators the longest operational lives for 
+their airplanes, and still ensure that WFD will not occur. This 
+approach allows for an implementation strategy that provides 
+flexibility to DAHs in determining the timing of service information 
+development (with FAA approval), while providing operators with 
+certainty regarding the LOV applicable to their airplanes.
+    The European Aviation Safety Agency (EASA), which is the Technical 
+Agent for the Member States of the European Union, has issued EASA 
+Airworthiness Directive 2016-0207, dated October 19, 2016 (referred to 
+after this as the Mandatory Continuing Airworthiness Information, or 
+``the MCAI''), to correct an unsafe condition for all Airbus Model 
+A330-200 series airplanes, Model A330-200 Freighter series airplanes, 
+and Model A330-300 series airplanes. The MCAI states:
+
+    An analysis conducted on A330 aeroplanes identified structural 
+areas which are susceptible to widespread fatigue damage (WFD).
+    This condition, if not corrected, could lead to crack initiation 
+and undetected propagation, leading to reduced structural integrity 
+of the aeroplane, possibly resulting in rapid depressurisation and 
+consequent injury to occupants.
+    To address this potential unsafe condition, Airbus developed a 
+number of modifications (Mod) and published associated Service 
+Bulletins (SB) for embodiment in service, to provide instructions to 
+reinforce the various structural parts of the fuselage.
+    For the reasons described above, this [EASA] AD requires 
+accomplishment of these modifications and reinforcements [and 
+related investigative and corrective actions].
+
+    Related investigative actions include a rotating probe hole 
+inspection for cracking. You may examine the MCAI in the AD docket on 
+the Internet at http://www.regulations.gov by searching for and 
+locating Docket No. FAA-2017-0812.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus has issued the following service information. This service 
+information describes procedures for modifications and reinforcement of 
+various structural parts of the fuselage. These documents are distinct 
+since they apply to different airplane models in different 
+configurations.
+     Airbus Service Bulletin A330-53-3144, Revision 01, dated 
+July 25, 2006.
+     Airbus Service Bulletin A330-53-3144, Revision 04, dated 
+November 23, 2015.
+     Airbus Service Bulletin A330-53-3222, Revision 01, dated 
+March 31, 2016.
+     Airbus Service Bulletin A330-53-3223, Revision 00, dated 
+January 19, 2015.
+     Airbus Service Bulletin A330-53-3224, Revision 01, 
+excluding Appendix 01 and including Appendix 02, dated April 14, 2016.
+     Airbus Service Bulletin A330-53-3225, Revision 02, 
+excluding Appendix 01 and including Appendix 02, dated June 8, 2016.
+     Airbus Service Bulletin A330-53-3226, Revision 02, 
+excluding Appendix 01 and including Appendices 02, 03, and 04, dated 
+October 27, 2016.
+     Airbus Service Bulletin A330-53-3236, Revision 02, 
+excluding Appendix 01 and including Appendices 02 and 03, dated March 
+23, 2016.
+     Airbus Service Bulletin A330-53-3237, Revision 01, dated 
+February 8, 2016.
+     Airbus Service Bulletin A330-53-3238, Revision 01, dated 
+October 19, 2015.
+     Airbus Service Bulletin A330-53-3239, Revision 01, dated 
+July 4, 2016.
+     Airbus Service Bulletin A330-53-3244, Revision 01, dated 
+August 2, 2016.
+     Airbus Service Bulletin A330-53-3248, Revision 02, dated 
+July 27, 2016.
+     Airbus Service Bulletin A330-53-3251, Revision 01, dated 
+June 23, 2016.
+     Airbus Service Bulletin A330-53-3252, Revision 01, dated 
+June 30, 2016.
+     Airbus Service Bulletin A330-53-3257, Revision 01, dated 
+March 15, 2016.
+     Airbus Service Bulletin A330-53-3258, Revision 00, dated 
+April 20, 2015.
+     Airbus Service Bulletin A330-53-3259, Revision 02, dated 
+July 18, 2016.
+     Airbus Service Bulletin A330-53-3263, Revision 01, 
+excluding Appendix 01 and including Appendix 02, dated December 1, 
+2015.
+
+[[Page 43717]]
+
+     Airbus Service Bulletin A330-53-3273, Revision 00, dated 
+September 28, 2016.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+FAA's Determination and Requirements of This Proposed AD
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to our bilateral agreement with the State of Design Authority, we have 
+been notified of the unsafe condition described in the MCAI and service 
+information referenced above. We are proposing this AD because we 
+evaluated all pertinent information and determined an unsafe condition 
+exists and is likely to exist or develop on other products of these 
+same type designs.
+
+Explanation of Compliance Time
+
+    The compliance time for the reinforcement modifications specified 
+in this proposed AD for addressing WFD was established to ensure that 
+discrepant structure is addressed before WFD develops in airplanes. 
+Standard inspection techniques cannot be relied on to detect WFD before 
+it becomes a hazard to flight. We will not grant any extensions of the 
+compliance time to complete any AD-mandated service bulletin related to 
+WFD without extensive new data that would substantiate and clearly 
+warrant such an extension.
+
+Costs of Compliance
+
+    We estimate that this proposed AD affects 99 airplanes of U.S. 
+registry.
+    We estimate the following costs to comply with this proposed AD:
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+               Action                      Labor cost                  Parts cost                  Cost per product            Cost on U.S. operators
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Reinforcement modifications........  Up to 317 work-hours x  Up to $41,050................  Up to $67,995................  Up to $6,731,505.
+                                      $85 per hour =
+                                      $26,945.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition actions specified in this proposed 
+AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This proposed AD is issued in accordance with authority delegated 
+by the Executive Director, Aircraft Certification Service, as 
+authorized by FAA Order 8000.51C. In accordance with that order, 
+issuance of ADs is normally a function of the Compliance and 
+Airworthiness Division, but during this transition period, the 
+Executive Director has delegated the authority to issue ADs applicable 
+to transport category airplanes to the Director of the System Oversight 
+Division.
+
+Regulatory Findings
+
+    We determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+Airbus: Docket No. FAA-2017-0812; Product Identifier 2016-NM-198-AD.
+
+(a) Comments Due Date
+
+    We must receive comments by November 3, 2017.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the Airbus airplanes identified in paragraphs 
+(c)(1), (c)(2), and (c)(3) of this AD, certificated in any category, 
+all manufacturer serial numbers.
+    (1) Model A330-201, -202, -203, -223, and -243 airplanes.
+    (2) Model A330-223F and -243F airplanes.
+    (3) Model A330-301, -302, -303, -321, -322, -323, -341, -342, 
+and -343 airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Reason
+
+    This AD was prompted by an evaluation by the design approval 
+holder (DAH) indicating that certain fuselage structures are subject 
+to widespread fatigue damage (WFD). We are issuing this AD to 
+prevent crack initiation and undetected propagation in the fuselage, 
+which could result in reduced structural integrity of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Modifications
+
+    Except as specified in paragraphs (i)(1) and (i)(2) of this AD, 
+before exceeding the applicable total flight cycles or total flight
+
+[[Page 43718]]
+
+hours structural modification point (SMP) for each action, as 
+specified in table 1 to paragraph (g) of this AD: Modify the 
+airplane, including all applicable related investigative actions and 
+corrective actions, based on the weight variant (WV) group 
+designations specified in table 2 to paragraph (h) of this AD, and 
+as specified in table 1 to paragraph (g) of this AD, except as 
+specified in paragraph (i)(3) of this AD. Do all applicable related 
+investigative actions and corrective actions before further flight. 
+For the purposes of this AD, the short range (SR) and long range 
+(LR) SMPs specified in table 1 to paragraph (g) of this AD must be 
+used.
+
+                                Table 1 to Paragraph (g) of This AD--Modification
+----------------------------------------------------------------------------------------------------------------
+        Description of action               Applicability                SMP SR                    SMP LR
+----------------------------------------------------------------------------------------------------------------
+Improve circumferential joints at      Group 32A.............  32,500 total flight cycles  26,600 flight cycles.
+ frames (FR) 45 and 54 of the          Group 33A.............  23,700 total flight cycles  20,400 total flight
+ fuselage, in accordance with the      ......................   or 71,300 total flight      cycles
+ Accomplishment Instructions of        Group 33B.............   hours, whichever occurs    23,700 total flight
+ Airbus Service Bulletin                                        first.                      cycles.
+ A330[dash]53[dash]3144, Revision 04,                          27,600 total flight cycles
+ dated November 23, 2015 (``A330-53-                            or 83,000 total flight
+ 3144, R4'').                                                   hours, whichever occurs
+                                                                first.
+                                       Group 33C.............  23,300 total flight cycles  20,000 total flight
+                                                                or 70,000 total flight      cycles.
+                                                                hours, whichever occurs
+                                                                first.
+                                       Group 33D.............  22,700 total flight cycles  19,500 total flight
+                                                                or 68,300 flight hours,     cycles.
+                                                                whichever occurs first.
+Improve splicing area from FR48 to     Groups 32A and 32E....  23,100 total flight cycles  20,900 total flight
+ FR53-2 between stringers (STRG) 23    ......................   or 80,900 total flight      cycles.
+ and 26 left hand (LH)/right hand      Group 33A.............   hours, whichever occurs    21,800 total flight
+ (RH) of the fuselage, in accordance   ......................   first.                      cycles.
+ with the Accomplishment Instructions  Group 33B.............  24,200 total flight cycles  17,700 total flight
+ of Airbus Service Bulletin A330-53-                            or 79,100 total flight      cycles.
+ 3222, Revision 01, dated March 31,                             hours, whichever occurs
+ 2016 (``A330-53-3222, R1'') (Airbus                            first.
+ Modification 204315).                                         19,700 total flight cycles
+                                                                or 64,300 total flight
+                                                                hours, whichever occurs
+                                                                first.
+                                       Groups 33C, 33D, and    21,600 total flight cycles  19,400 total flight
+                                        33E.                    or 70,600 flight hours,     cycles.
+                                                                whichever occurs first.
+                                       A330-200F.............  27,400 total flight cycles  27,400 total flight
+                                                                or 82,200 total flight      cycles or 82,200
+                                                                hours, whichever occurs     total flight hours,
+                                                                first.                      whichever occurs
+                                                                                            first.
+Reinforce couplings in area FR20--     Groups 32A, 32E, 33B,   30,900 total flight cycles  30,900 total flight
+ FR25/STRG20 RH--STRG22 RH of the       33C, 33D and 33E.                                   cycles.
+ forward fuselage, in accordance with
+ the Accomplishment Instructions of
+ Airbus Service Bulletin
+ A330[dash]53[dash]3223, Revision 00,
+ dated January 19, 2015
+ (``A330[dash]53[dash]3223, R0'').
+Reinforce circumferential joint at     Group 33A.............  29,700 total flight cycles  25,500 total flight
+ FR72 of the fuselage, in accordance                            or 89,600 total flight      cycles.
+ with the Accomplishment Instructions                           hours, whichever occurs
+ of Airbus Service Bulletin                                     first.
+ A330[dash]53-3224, Revision 01,
+ excluding Appendix 01 and including
+ Appendix 02, dated April 14, 2016
+ (``A330[dash]53-3224, R1'').
+Reinforce circumferential joint at     Group 33A.............  16,300 total flight cycles  13,300 total flight
+ FR58 of the fuselage, in accordance                            or 49,300 total flight      cycles or 90,700
+ with the Accomplishment Instructions                           hours, whichever occurs     total flight hours,
+ of Airbus Service Bulletin                                     first.                      whichever occurs
+ A330[dash]53-3225, Revision 02,                                                            first.
+ excluding Appendix 01 and including
+ Appendix 02, dated June 8, 2016
+ (``A330[dash]53-3225, R2'').
+Reinforce circumferential joint        Group 32A.............  ..........................  21,000 total flight
+ between FR53.6--FR53.7 for emergency  ......................  26,100 total flight cycles   cycles.
+ door TYPE 1 area of the center        Groups 33C, 33D and      or 91,600 total flight     12,600 total flight
+ fuselage, in accordance with the       33E.                    hours, whichever occurs     cycles or 84,800
+ Accomplishment Instructions of                                 first.                      total flight hours,
+ Airbus Service Bulletin A330[dash]53-                         15,600 total flight cycles   whichever occurs
+ 3226, Revision 02, excluding                                   or 46,800 total flight      first.
+ Appendix 01 and including Appendices                           hours, whichever occurs
+ 02, 03, and 04, dated October 27,                              first.
+ 2016 (``A330-53-3226, R2''); or
+ Airbus Service Bulletin
+ A330[dash]53[dash]3273, Revision 00,
+ dated September 28, 2016
+ (``A330[dash]53[dash]3273, R0'').
+                                       Group 33A.............  34,400 total flight cycles  27,800 total flight
+                                                               ..........................   cycles.
+                                       Group 33B.............  19,900 total flight cycles  16,100 total flight
+                                                                or 59,800 total flight      cycles.
+                                                                hours, whichever occurs
+                                                                first.
+                                       Group 32E.............  19,900 total flight cycles  16,200 total flight
+                                                                or 69,900 total flight      cycles.
+                                                                hours, whichever occurs
+                                                                first.
+Reinforce circumferential joint        Group 33A.............  30,900 total flight cycles  25,400 total flight
+ between FR53.6--FR53.7 LH/RH of                                or 93,200 total flight      cycles.
+ option emergency door TYPE A area of                           hours, whichever occurs
+ the center fuselage, in accordance                             first.
+ with the Accomplishment Instructions
+ of Airbus Service Bulletin A330-53-
+ 3236, Revision 02, excluding
+ Appendix 01 and including Appendices
+ 02 and 03, dated March 23, 2016
+ (``A330-53-3236, R2'').
+Improve fatigue life of internal       Groups 32A, 33A, 33B,   27,300 total flight cycles  27,300 total flight
+ center fuselage structure on           33C, and 33D.          ..........................   cycles.
+ longitudinal beams above the center   Group 32A.............  38,400 total flight cycles  38,400 total flight
+ wing box, in accordance with the                                                           cycles.
+ Accomplishment Instructions of
+ Airbus Service Bulletin A330[dash]53-
+ 3237, Revision 01, dated February 8,
+ 2016 (``A330[dash]53-3237, R1'').
+Update lower/lateral frame splicing    Group 33A.............  28,800 total flight cycles  28,800 total flight
+ with corner fitting between FR53.3    Group 33B.............  36,200 total flight cycles   cycles.
+ and FR54 of the center fuselage, in   Groups 33C and 33D....  34,700 total flight cycles  36,200 total flight
+ accordance with the Accomplishment                                                         cycles.
+ Instructions of Airbus Service                                                            34,700 total flight
+ Bulletin A330[dash]53-3238, Revision                                                       cycles.
+ 01, dated October 19, 2015
+ (``A330[dash]53-3238, R1'').
+Reinforce longitudinal butt joints in  A330-200F.............  15,100 total flight cycles  15,100 total flight
+ section 13, in accordance with the                                                         cycles.
+ Accomplishment Instructions of
+ Airbus Service Bulletin A330[dash]53-
+ 3239, Revision 01, dated July 4,
+ 2016 (``A330[dash]53-3239, R1'').
+Reinforce circumferential joint at     A330-200F.............  15,500 total flight cycles  15,500 total flight
+ FR31 between STRG 7LH and STRG 8RH                             or 46,500 total flight      cycles or 46,500
+ of forward fuselage, in accordance                             hours, whichever occurs     total flight hours,
+ with the Accomplishment Instructions                           first.                      whichever occurs
+ of Airbus Service Bulletin                                                                 first.
+ A330[dash]53-3244, Revision 01,
+ dated August 2, 2016 (``A330[dash]53-
+ 3244, R1'').
+Reinforce frame couplings in section   Group 33A.............  32,000 total flight cycles  32,000 total flight
+ 13, 14, and 14A of the forward                                                             cycles.
+ fuselage, in accordance with the
+ Accomplishment Instructions of
+ Airbus Service Bulletin A330[dash]53-
+ 3248, Revision 02, dated July 27,
+ 2016 (``A330[dash]53-3248, R2'').
+
+[[Page 43719]]
+
+ 
+Reinforce circumferential joint/       Group 33C               38,200 total flight cycles  32,000 total flight
+ stringer coupling in area of FR37.1    Pre[dash]Modification  ..........................   cycles.
+ of the forward fuselage, in            46636.                 ..........................  .....................
+ accordance with the Accomplishment    Groups 33C and 33D      30,600 total flight cycles  .....................
+ Instructions of Airbus Service         Post-Modification       or 99,500 total flight     27,600 total flight
+ Bulletin A330[dash]53-3251, Revision   46636.                  hours, whichever occurs     cycles.
+ 01, dated June 23, 2016                                        first.
+ (``A330[dash]53-3251, R1'').
+                                       Group 33E.............  32,200 total flight cycles  29,100 total flight
+                                                                                            cycles.
+Reinforce circumferential joint/       Groups 33C and 33D,     30,600 total flight cycles  27,600 total flight
+ stringer coupling in area of FR37.1    Post-Modification       or 99,500 total flight      cycles.
+ of the forward fuselage, in            46636.                  hours, whichever occurs    .....................
+ accordance with the Accomplishment    ......................   first.                     29,100 total flight
+ Instructions of Airbus Service        Group 33E.............  32,200 total flight cycles   cycles.
+ Bulletin A330[dash]53-3252, Revision
+ 01, dated June 30, 2016
+ (``A330[dash]53-3252, R1'').
+Reinforce frame couplings in rear      Groups 33A and 33B....  24,000 total flight cycles  24,000 total flight
+ area of the fuselage, in accordance                                                        cycles.
+ with the Accomplishment Instructions
+ of Airbus Service Bulletin A330-53-
+ 3257, Revision 01, dated March 15,
+ 2016 (``A330[dash]53-3257, R1'').
+Reinforce corner fittings in section   Group 32A.............  31,800 total flight cycles  31,800 total flight
+ 13 of the forward fuselage, in                                                             cycles.
+ accordance with the Accomplishment
+ Instructions of Airbus Service
+ Bulletin A330[dash]53[dash]3258,
+ Revision 00, dated April 20, 2015
+ (``A330[dash]53[dash]3258, R0'').
+Reinforce circumferential joint at     Group 32E.............  18,500 total flight cycles  14,600 total flight
+ FR58 (aeroplane Post-Modification                              or 65,400 total flight      cycles or 95,700
+ 40556/D18255) of the rear fuselage,                            hours, whichever occurs     total flight hours,
+ in accordance with the                                         first.                      whichever occurs
+ Accomplishment Instructions of                                                             first.
+ Airbus Service Bulletin A330[dash]53-
+ 3259, Revision 02, dated July 18,
+ 2016 (``A330[dash]53-3259, R2'').
+                                       Group 33A.............  34,800 total flight cycles  28,400 total flight
+                                                                                            cycles.
+                                       Group 33B.............  33,500 total flight cycles  27,400 total flight
+                                                                                            cycles.
+Reinforce frames in rear area of the   Groups 32A, 32E, 33B,   23,300 total flight cycles  20,800 total flight
+ fuselage, in accordance with the       33C, 33D, and 33E.      or 69,700 total flight      cycles.
+ Accomplishment Instructions of                                 hours, whichever occurs
+ Airbus Service Bulletin A330[dash]53-                          first.
+ 3263, Revision 01, excluding
+ Appendix 01 and including Appendix
+ 02, dated December 1, 2015
+ (``A330[dash]53-3263, R1'').
+----------------------------------------------------------------------------------------------------------------
+
+(h) Weight Variant (WV) Group Designations
+
+    For the purposes of this AD, table 2 to paragraph (h) of this AD 
+identifies the WV group designations specified in the 
+``Applicability'' column of Table 1 to paragraph (g) and Table 3 to 
+paragraph (i) of this AD:
+
+       Table 2 to Paragraph (h) of This AD--WV Group Designations
+------------------------------------------------------------------------
+        Airplane model               WV group         Weight variants
+------------------------------------------------------------------------
+A330-200......................  Group 32A........  020, 021, 022, 023,
+                                                    024, 025, 026, and
+                                                    027.
+                                Group 32E........  050, 051, 052, 053,
+                                                    054, 055, 056, 057,
+                                                    058, 059, 060, 061,
+                                                    062, 063, 064, 080,
+                                                    081, 082, and 083.
+A330-200F.....................  N/A..............  000, 001, and 002.
+A330-300......................  Group 33A........  000, 001, 002, 003,
+                                                    and 004.
+                                Group 33B........  010, 011, 012, 013,
+                                                    and 014.
+                                Group 33C........  020, 024, 025, 026,
+                                                    and 027.
+                                Group 33D........  022.
+                                Group 33E........  030, 031, 032, 033,
+                                                    034, 035, 039, 050,
+                                                    051, 052, 053, 054,
+                                                    055, 056, 057, 058,
+                                                    059, 060, 080, 081,
+                                                    082, and 083.
+------------------------------------------------------------------------
+
+(i) Exceptions to Service Information and Compliance Times
+
+    (1) Do not do the applicable modifications required by paragraph 
+(g) of this AD before the applicable times specified in table 3 to 
+paragraph (i) of this AD. Where two limits (total flight cycles and 
+total flight hours) within the same sub-row of the table are 
+specified, both times must be exceeded before accomplishment of the 
+modification. For airplanes already modified before the threshold 
+specified in table 3 to paragraph (i) of this AD is reached, within 
+6 months after the effective date of this AD, obtain instructions 
+for additional maintenance tasks (modifications/inspections) from 
+and approved by the Manager, International Section, Transport 
+Standards Branch, FAA; or the European Aviation Safety Agency 
+(EASA); or Airbus's EASA Design Organization Approval (DOA), and 
+accomplish those tasks within the compliance time specified therein.
+    (2) For airplanes that have already reached or exceeded the SMP 
+threshold(s), as specified for each action in table 1 to paragraph 
+(g) of this AD, as applicable, accomplishment of the modification 
+can be deferred for a period not exceeding 12 months after the 
+effective of this AD; except for accomplishment of the modifications 
+specified in A330-53-3237, R1, which can be deferred for a period 
+not exceeding 15 months after the effective date of this AD.
+    (3) If any service information specified in paragraph (g) or (j) 
+of this AD specifies to contact Airbus for appropriate action: 
+Before further flight, accomplish corrective actions in accordance 
+with the procedures specified in paragraph (l)(2) of this AD.
+
+[[Page 43720]]
+
+
+
+  Table 3 to Paragraph (i) of This AD --Compliance Time Lower Threshold
+------------------------------------------------------------------------
+    Airbus Service Bulletin                           Modification not
+        (modification)            Applicability           before:
+------------------------------------------------------------------------
+A330-53-3222, R1..............  Groups 32A, 32E,   10,000 total flight
+                                 33A, 33C, 33D      cycles.
+                                 and 33E.
+                                Group 33B........  12,000 total flight
+                                                    cycles.
+                                A330-200F........  8,900 total flight
+                                                    cycles and 26,600
+                                                    total flight hours.
+A330-53-3224, R1..............  Group 33A........  10,000 total flight
+                                                    cycles and 6,600
+                                                    total flight hours.
+A330-53-3225, R2..............  Group 33A........  3,900 total flight
+                                                    cycles and 10,200
+                                                    total flight hours.
+A330-53-3237, R1..............  Groups 32A, 33A,   3,900 total flight
+                                 33B, 33C, and      cycles.
+                                 33D.
+A330-53-3238, R1..............  Groups 32A, 33A,   9,000 total flight
+                                 33B, 33C, and      cycles.
+                                 33D.
+------------------------------------------------------------------------
+
+(j) Additional Work for Certain Airplanes
+
+    For airplanes that have been modified before the effective date 
+of this AD, in accordance with Airbus Service Bulletin A330-53-3144, 
+Revision 00, dated August 23, 2005; Airbus Service Bulletin A330-53-
+3222, Revision 00, dated January 15, 2015; or Airbus Service 
+Bulletin A330-53-3237, Revision 00, dated January 15, 2015, as 
+applicable: Within 12 months after the effective date of this AD, 
+accomplish the additional work specified in the Accomplishment 
+Instructions of Airbus Service Bulletin A330-53-3144, Revision 01, 
+dated July 25, 2006; A330-53-3222, R1; and A330-53-3237, R1; as 
+applicable.
+
+(k) Credit for Previous Actions
+
+    This paragraph provides credit for applicable actions required 
+by paragraph (g) of this AD, if those actions were performed before 
+the effective date of this AD using the applicable service 
+information specified in paragraphs (k)(1) through (k)(19) of this 
+AD.
+    (1) Airbus Service Bulletin A330-53-3144, Revision 01, dated 
+July 25, 2006.
+    (2) Airbus Service Bulletin A330-53-3144, Revision 02, dated 
+April 20, 2011.
+    (3) Airbus Service Bulletin A330-53-3144, Revision 03, dated 
+January 15, 2015.
+    (4) Airbus Service Bulletin A330-53-3224, Revision 00, dated 
+January 16, 2015.
+    (5) Airbus Service Bulletin A330-53-3225, Revision 00, dated 
+January 16, 2015.
+    (6) Airbus Service Bulletin A330-53-3225, Revision 01, dated 
+February 26, 2016.
+    (7) Airbus Service Bulletin A330-53-3226, Revision 00, dated 
+January 15, 2015.
+    (8) Airbus Service Bulletin A330-53-3226, Revision 01, dated 
+March 3, 2016.
+    (9) Airbus Service Bulletin A330-53-3236, Revision 00, dated 
+January 15, 2015.
+    (10) Airbus Service Bulletin A330-53-3236, Revision 01, dated 
+August 24, 2015.
+    (11) Airbus Service Bulletin A330-53-3238, Revision 00, dated 
+January 15, 2015.
+    (12) Airbus Service Bulletin A330-53-3239, Revision 00, dated 
+April 20, 2015.
+    (13) Airbus Service Bulletin A330-53-3244, Revision 00, dated 
+April 7, 2015.
+    (14) Airbus Service Bulletin A330-53-3251, Revision 00, dated 
+May 13, 2015.
+    (15) Airbus Service Bulletin A330-53-3252, Revision 00, dated 
+April 10, 2015.
+    (16) Airbus Service Bulletin A330-53-3257, Revision 00, dated 
+July 21, 2015.
+    (17) Airbus Service Bulletin A330-53-3259, Revision 00, dated 
+May 11, 2015.
+    (18) Airbus Service Bulletin A330-53-3259, Revision 01, dated 
+February 26, 2016.
+    (19) Airbus Service Bulletin A330-53-3263, Revision 00, dated 
+July 21, 2015.
+
+(l) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Section, Transport Standards Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the International Section, send it to the attention of 
+the person identified in paragraph (m)(2) of this AD. Information 
+may be emailed to: [email&#160;protected]. Before using any 
+approved AMOC, notify your appropriate principal inspector, or 
+lacking a principal inspector, the manager of the local flight 
+standards district office/certificate holding district office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain corrective actions from a manufacturer, the action must be 
+accomplished using a method approved by the Manager, International 
+Section, Transport Standards Branch, FAA; or the European Aviation 
+Safety Agency (EASA); or Airbus's EASA Design Organization Approval 
+(DOA). If approved by the DOA, the approval must include the DOA-
+authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i) of this AD: If any service information contains 
+procedures or tests that are identified as RC, those procedures and 
+tests must be done to comply with this AD; any procedures or tests 
+that are not identified as RC are recommended. Those procedures and 
+tests that are not identified as RC may be deviated from using 
+accepted methods in accordance with the operator's maintenance or 
+inspection program without obtaining approval of an AMOC, provided 
+the procedures and tests identified as RC can be done and the 
+airplane can be put back in an airworthy condition. Any 
+substitutions or changes to procedures or tests identified as RC 
+require approval of an AMOC.
+
+(m) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) EASA AD 2016-0207, dated October 19, 2016, for related 
+information. This MCAI may be found in the AD docket on the Internet 
+at http://www.regulations.gov by searching for and locating Docket 
+No. FAA-2017-0812.
+    (2) For more information about this AD, contact Vladimir 
+Ulyanov, Aerospace Engineer, International Section, Transport 
+Standards Branch, FAA, 1601 Lind Avenue SW., Renton, WA 98057-3356; 
+telephone 425-227-1138; fax 425-227-1149.
+    (3) For service information identified in this AD, contact 
+Airbus SAS, Airworthiness Office--EAL, 1 Rond Point Maurice 
+Bellonte, 31707 Blagnac Cedex, France; telephone +33 5 61 93 36 96; 
+fax +33 5 61 93 45 80; email [email&#160;protected]; 
+Internet http://www.airbus.com. You may view this service 
+information at the FAA, Transport Standards Branch, 1601 Lind Avenue 
+SW., Renton, WA. For information on the availability of this 
+material at the FAA, call 425-227-1221.
+
+    Issued in Renton, Washington, on September 7, 2017.
+Jeffrey E. Duven,
+Director, System Oversight Division, Aircraft Certification Service.
+[FR Doc. 2017-19760 Filed 9-18-17; 8:45 am]
+ BILLING CODE 4910-13-P
+
+

@@ -1,0 +1,322 @@
+
+[Federal Register Volume 80, Number 142 (Friday, July 24, 2015)]
+[Proposed Rules]
+[Pages 43970-43972]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-18049]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-2994; Directorate Identifier 2014-SW-057-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Helicopters Deutschland GmbH 
+(Formerly Eurocopter Deutschland GmbH) Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: We propose to adopt a new airworthiness directive (AD) for 
+Airbus Helicopters Deutschland GmbH (Airbus) (formerly Eurocopter 
+Deutschland GmbH) Model MBB-BK 117C-2 helicopters with an external 
+mounted hoist system wiring harness installed. This proposed AD would 
+require inspecting the hoist control pendant wiring harness for 
+chafing, and if there is chafing, before the next hoist operation, 
+replacing the wiring harness. This proposed AD would also require a 
+installing a protection sleeve on the hoist control pendant wiring 
+harness. This proposed AD is prompted by an uncommanded hoist release 
+involving chafing on the wiring harness of the hoist control pendant 
+and on the wiring. The proposed actions are intended to prevent loss of 
+an external load or person from the hoist resulting in injury to 
+persons being lifted and loss of control of the helicopter.
+
+DATES: We must receive comments on this proposed AD by September 22, 
+2015.
+
+ADDRESSES: You may send comments by any of the following methods:
+     Federal eRulemaking Docket: Go to http://www.regulations.gov. Follow the online instructions for sending your 
+comments electronically.
+     Fax: 202-493-2251.
+     Mail: Send comments to the U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590-0001.
+     Hand Delivery: Deliver to the ``Mail'' address between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov or in person at the Docket Operations Office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this proposed AD, the European 
+Aviation Safety Agency (EASA) AD, the economic evaluation, any comments 
+received, and other information. The street address for the Docket 
+Operations Office (telephone 800-647-5527) is in the ADDRESSES section. 
+Comments will be available in the AD docket shortly after receipt.
+    For service information identified in this proposed AD, contact 
+Airbus Helicopters, Inc., 2701 N. Forum Drive, Grand Prairie, TX 75052; 
+telephone (972) 641-0000 or (800) 232-0323; fax (972) 641-3775; or at 
+http://www.airbushelicopters.com/techpub. You may review the referenced 
+service information at the FAA, Office of the Regional Counsel, 
+Southwest Region, 10101 Hillwood Pkwy., Room 6N-321, Fort Worth, TX 
+76177.
+
+FOR FURTHER INFORMATION CONTACT: George Schwab, Aviation Safety 
+Engineer, Safety Management Group, Rotorcraft Directorate, FAA, 10101 
+Hillwood Pkwy., Fort Worth, TX 76177; telephone (817) 222-5110; email 
+[email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    We invite you to participate in this rulemaking by submitting 
+written comments, data, or views. We also invite comments relating to 
+the economic, environmental, energy, or federalism impacts that might 
+result from adopting the proposals in this document. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. To 
+ensure the docket does not contain duplicate comments, commenters 
+should send only one copy of written comments, or if comments are filed 
+electronically, commenters should submit only one time.
+    We will file in the docket all comments that we receive, as well as 
+a report summarizing each substantive public contact with FAA personnel 
+concerning this proposed rulemaking. Before acting on this proposal, we 
+will consider all comments we receive on or before the closing date for 
+comments. We will consider comments filed after the comment period has 
+closed if it is possible to do so without incurring expense or delay. 
+We may change this proposal in light of the comments we receive.
+
+Discussion
+
+    EASA, which is the Technical Agent for the Member States of the 
+European
+
+[[Page 43971]]
+
+Union, issued EASA AD No. 2014-0211, dated September 19, 2014, to 
+correct an unsafe condition for the Airbus Model MBB-BK117 C-2 
+helicopters ``equipped with optional equipment external mounted hoist 
+system.'' EASA advises that an uncommanded hoist cable cut occurred and 
+that an investigation revealed chafing on the wiring harness of the 
+hoist control pendant and on the wiring of the +28V wire of the stand-
+by horizon inside the middle ceiling panel. The wire of the stand-by 
+horizon contacted the hoist control pendant wiring harness and caused 
+the uncommanded cable cut. EASA also states that this condition, if not 
+detected and corrected, could lead to load release, possibly resulting 
+in injury to a human load or to the persons on the ground. EASA issued 
+AD No. 2014-0211 requiring an inspection and modification of the wiring 
+harness to correct this unsafe condition.
+
+FAA's Determination
+
+    These helicopters have been approved by the aviation authority of 
+Germany and are approved for operation in the United States. Pursuant 
+to our bilateral agreement with Germany, EASA, its technical 
+representative, has notified us of the unsafe condition described in 
+its AD. We are proposing this AD because we evaluated all known 
+relevant information and determined that an unsafe condition is likely 
+to exist or develop on other products of the same type design.
+
+Related Service Information Under 1 CFR Part 51
+
+    Airbus Helicopters issued Alert Service Bulletin (ASB) MBB-BK117 C-
+2-88A-009, Revision 0, on June 18, 2014, specifying a visual inspection 
+of the hoist control pendant wiring harness for chafing. If there is 
+heavy chafing, before the next hoist operation, the ASB specifies 
+replacing the wiring harness. The ASB also specifies a ``retrofit'' of 
+an additional protective sleeve for the hoist control pendant wiring 
+harness. This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section of this 
+NPRM.
+
+Proposed AD Requirements
+
+    This proposed AD would require:
+     Before the next hoist operation:
+    [cir] Visually inspecting the hoist control pendant wiring harness 
+for chafing, and replacing the wiring harness if there is chafing on 
+the wiring harness protection sleeve and any internal wiring is 
+visible, or if there is chafing on any internal wire.
+    [cir] Installing each wiring harness cable tie so that the cable 
+tie heads do not contact any adjacent parts or wiring harnesses.
+     Within the next 100 hours time-in-service, installing a 
+protection sleeve on the wiring harness and inspecting each cable tie 
+for correct installation.
+
+Costs of Compliance
+
+    We estimate that this proposed AD would affect 109 helicopters of 
+U.S. Registry.
+    We estimate that operators may incur the following costs in order 
+to comply with this AD. Labor costs are estimated at $85 per work hour. 
+We estimate 1.5 work hours to inspect the hoist control pendant wiring 
+harness at a cost of about $128 per helicopter and $13,952 for the 
+fleet. We estimate 2 work hours to install a protection sleeve and 
+inspect the cable ties and $125 for required parts at a cost of $295 
+per helicopter and $32,155 for the fleet. If required, we estimate a 
+minimal amount of time for labor and $224 for required parts to replace 
+a wiring harness.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed, I certify this proposed regulation:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska to the extent that 
+it justifies making a regulatory distinction; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared an economic evaluation of the estimated costs to comply 
+with this proposed AD and placed it in the AD docket.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+Airbus Helicopters Deutschland GmbH (formerly Eurocopter Deutschland 
+GmbH): Docket No. FAA-2015-2994; Directorate Identifier 2014-SW-057-
+AD.
+
+(a) Applicability
+
+    This AD applies to Model MBB-BK 117 C-2 helicopters with an 
+external mounted hoist system wiring harness part number (P/N) 
+B851M2063101 installed, certificated in any category.
+
+(b) Unsafe Condition
+
+    This AD defines the unsafe condition as chafing on the wiring 
+harness or wiring of a hoist control pendant. This condition could 
+result in loss of an external load or person from the hoist 
+resulting in injury to persons being lifted and loss of control of 
+the helicopter.
+
+(c) Comments Due Date
+
+    We must receive comments by September 22, 2015.
+
+(d) Compliance
+
+    You are responsible for performing each action required by this 
+AD within the specified compliance time unless it has already been 
+accomplished prior to that time.
+
+(e) Required Actions
+
+    (1) Before the next hoist operation:
+
+[[Page 43972]]
+
+    (i) Visually inspect the hoist control pendant wiring harness 
+(wiring harness) for chafing. The wiring harness is shown in Figure 
+1 of Airbus Helicopters Alert Service Bulletin (ASB) MBB-BK117 C-2-
+88A-009, Revision 0, dated June 18, 2014 (MBB-BK117 C-2-88A-009). If 
+there is chafing on the wiring harness protection sleeve such that 
+any internal wiring is visible, or if there is chafing on any 
+internal wire, replace the wiring harness.
+    (ii) Install each wiring harness cable tie so that the cable tie 
+heads do not contact any adjacent parts or wiring harnesses, as 
+shown in Figure 3 of ASB MBB-BK117 C-2-88A-009.
+    (2) Within the next 100 hours time-in-service, install a 
+protection sleeve on the wiring harness and inspect each cable tie 
+by following the Accomplishment Instructions, paragraph 3.B.3, of 
+ASB MBB-BK117 C-2-88A-009.
+
+(f) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Regulations Group, FAA, may approve AMOCs for 
+this AD. Send your proposal to: George Schwab, Aviation Safety 
+Engineer, Safety Management Group, Rotorcraft Directorate, FAA, 
+10101 Hillwood Pkwy., Fort Worth, TX 76177; telephone (817) 222-
+5110; email [email&#160;protected].
+    (2) For operations conducted under a 14 CFR part 119 operating 
+certificate or under 14 CFR part 91, subpart K, we suggest that you 
+notify your principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office or 
+certificate holding district office before operating any aircraft 
+complying with this AD through an AMOC.
+
+(g) Additional Information
+
+    (1) For service information identified in this AD, contact 
+Airbus Helicopters, Inc., 2701 N. Forum Drive, Grand Prairie, TX 
+75052; telephone (972) 641-0000 or (800) 232-0323; fax (972) 641-
+3775; or at http://www.airbushelicopters.com/techpub. You may review 
+the referenced service information at the FAA, Office of the 
+Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N-
+321, Fort Worth, TX 76177.
+    (2) The subject of this AD is addressed in European Aviation 
+Safety Agency (EASA) AD No. 2014-0211, dated September 19, 2014. You 
+may view the EASA AD on the Internet at http://www.regulations.gov 
+in Docket No. FAA-2015-2994.
+
+ (h) Subject
+
+    Joint Aircraft System Component (JASC) Code: 5397 Fuselage 
+Wiring.
+
+    Issued in Fort Worth, Texas, on July 15, 2015.
+Bruce E. Cain,
+Acting Directorate Manager, Rotorcraft Directorate, Aircraft 
+Certification Service.
+[FR Doc. 2015-18049 Filed 7-23-15; 8:45 am]
+ BILLING CODE 4910-13-P
+
+

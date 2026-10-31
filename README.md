@@ -24,16 +24,21 @@ Actual code layout: `adc/` (config, db, fleet), `ingest/` (load, fetch, chunk, r
 
 ## Current results (update after every eval run)
 
-Run before full-text fetch and before LLM extraction (regex extractor, extractive answers):
+After Federal Register full-text fetch (67 Airbus documents), regex extractor, extractive answers (no API key):
 
 | Metric | Value |
 |---|---|
-| Golden set | 30/30 pass (lookup 6/6, applicability 8/8, revision 4/4, out of scope 6/6, ambiguous 3/3, false premise 3/3) |
+| Golden set | 39/39 pass (lookup 7, applicability 14, revision 5, out of scope 6, ambiguous 3, false premise 4) |
 | Refusal precision / recall | 1.0 / 1.0 |
-| Retrieval latency p95 | ~2 ms over 1,341 pages (934 chunks) |
-| Rule engine unit tests | 12/12 |
+| Retrieval latency p95 | ~6 ms over 1,341 pages (2,816 chunks) |
+| Rule engine unit tests | 15/15 |
+| Airbus rules | 36 auto-validated, 12 partial (unresolved text → CANNOT DETERMINE), 27 needs review |
 
 Caveat: the golden set was written by the same developer who built the system, so these numbers overstate real-world accuracy. Baselines (B0/B1) need an API key: `python -m eval.run --baselines`.
+
+**Findings that show why full text + rules matter**
+- `FAA-2026-11813`: the dataset summary lists A330-243/-243F/-841/-941 (scope of the AD being replaced). The proposal's own section (c) narrows it to A330-941 only, "as identified in EASA AD 2025-0286". A summary-based system would wrongly flag the A330-243 (golden A5, P4).
+- `FAA-2026-1338`: the revised proposal (2026-10-05) moves the certificate-date cutoff from 1 Oct 2024 to 19 Dec 2025. 9V-ZMF (A330-941, certificated 2025-03-10) goes from NOT APPLICABLE to APPLIES. Shown automatically in the version diff (golden V5, A13).
 
 **Known failures (so far)**
 1. `2002-NM-09-AD` says "All Model A330 series airplanes" (2003). The engine matches the A330-941 (A330neo, which did not exist then) by family. Literal reading is correct; engineering intent is doubtful. Should be flagged for review, currently is not.

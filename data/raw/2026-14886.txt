@@ -1,0 +1,394 @@
+
+[Federal Register Volume 91, Number 140 (Thursday, July 23, 2026)]
+[Proposed Rules]
+[Pages 46325-46327]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-14886]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-7226; Project Identifier MCAI-2025-01346-R]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all Airbus Helicopters (AH) Model EC130B4 helicopters. This 
+proposed AD was prompted by reports of weaknesses in the locking 
+mechanisms on the left-hand side swinging and sliding door. This 
+proposed AD would require modifying the swinging door star support and 
+sliding door star support stringer. This proposed AD would also 
+prohibit installing an affected composite door on any helicopter unless 
+certain requirements are met. The FAA is proposing this AD to address 
+the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this NPRM by September 8, 2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-7226; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For European Union Aviation Safety Agency (EASA) material 
+identified in this proposed AD, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; phone: +49 221 8999 000; email: 
+[email&#160;protected]; website: easa.europa.eu. You may find the EASA 
+material on the EASA website at ad.easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+
+FOR FURTHER INFORMATION CONTACT: Thanh Tran, Aviation Safety Engineer, 
+FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; phone: (562) 
+275-5304; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under ADDRESSES. Include ``Docket No. FAA-2026-7226; Project Identifier 
+MCAI-2025-01346-R'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Peter 
+Schmitt, Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The FAA issued AD 2020-25-11, Amendment 39-21353 (85 FR 81376, 
+December 16, 2020) (AD 2020-25-11), for certain AH Model EC120B and 
+Model EC130B4 helicopters. AD 2020-25-11 was prompted by an AD 
+originated by EASA, which is the Technical Agent for the Member States 
+of the European Union. EASA issued EASA AD 2020-0095, dated April 29, 
+2020 (EASA AD 2020-0095), to correct an unsafe condition for certain AH 
+Model EC 120 B and Model EC 130 B4 helicopters. EASA AD 2020-0095 
+states that several incidents on the left-hand side swing and sliding 
+doors have revealed some weaknesses in the locking mechanism. The 
+results of the subsequent investigation identified a sliding door star 
+support failure, which could inhibit the operation of the sliding door 
+from the inside and delay the evacuation of passengers during an 
+emergency.
+    AD 2020-25-11 requires modifying the sliding door star support 
+stringer on certain AH Model EC120B and AH Model EC130B4 helicopters. 
+The FAA issued AD 2020-25-11 to address failure of the sliding door 
+star support, which could inhibit the operation of the sliding door 
+from the inside and delay the evacuation of passengers during an 
+emergency.
+
+[[Page 46326]]
+
+Actions Since AD 2020-25-11 Was Issued
+
+    Since the FAA issued AD 2020-25-11, EASA issued AD 2024-0232, dated 
+December 5, 2024 (EASA AD 2024-0232) (also referred to as the MCAI). 
+The MCAI states that since EASA AD 2020-0095 was issued, it has been 
+identified that AH Model EC130B4 helicopters that have embodied EC MOD 
+07 3796 were erroneously excluded from the applicability. All AH Model 
+EC130B4 helicopters were also excluded from AD 2020-25-11.
+    You may examine the MCAI in the AD docket at regulations.govunder 
+Docket No. FAA-2026-7226.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed EASA AD 2024-0232, which specifies procedures for 
+modifying the door locking/unlocking mechanism by installing a 
+reinforcing bracket and replacing rod ends and prohibits installing a 
+composite door on any helicopter unless this modification is 
+accomplished. This material is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+(CAA) of another country and are approved for operation in the United 
+States. Pursuant to the FAA's bilateral agreement with this State of 
+Design Authority, that authority has notified the FAA of the unsafe 
+condition described in the MCAI referenced above. The FAA is issuing 
+this NPRM after determining that the unsafe condition described 
+previously is likely to exist or develop on other products of the same 
+type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in EASA AD 2024-0232, described previously, as incorporated by 
+reference, except for any differences identified as exceptions in the 
+regulatory text of this proposed AD. See ``Differences Between this 
+Proposed AD and the MCAI'' for a discussion of the general differences 
+included in this proposed AD.
+
+Differences Between This Proposed AD and the MCAI
+
+    EASA AD 2024-0232 specifies to accomplish the modification of the 
+locking/unlocking mechanism within 24 months. This proposed AD would 
+require the modification to be accomplished within 460 hours time-in-
+service (TIS) based on an average of 230 hours TIS per year. The FAA 
+has determined this compliance time represents the maximum interval of 
+time allowable for the affected helicopters to continue to safely 
+operate before the modification is done.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some CAA ADs as the primary 
+source of information for compliance with requirements for 
+corresponding FAA ADs. The FAA has been coordinating this process with 
+manufacturers and CAAs. As a result, the FAA proposes to incorporate 
+EASA AD 2024-0232 by reference in the FAA final rule. This proposed AD 
+would, therefore, require compliance with EASA AD 2024-0232 in its 
+entirety through that incorporation, except for any differences 
+identified as exceptions in the regulatory text of this proposed AD. 
+Using common terms that are the same as the heading of a particular 
+section in EASA AD 2024-0232 does not mean that operators need comply 
+only with that section. For example, where the AD requirement refers to 
+``all required actions and compliance times,'' compliance with this AD 
+requirement is not limited to the section titled ``Required Action(s) 
+and Compliance Time(s)'' in EASA AD 2024-0232. Material required by 
+EASA AD 2024-0232 for compliance will be available at regulations.gov 
+under Docket No. FAA-2026-7226 after the FAA final rule is published.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 214 helicopters of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Perform modification..................  20 work-hours x $85 per             $642          $2,342        $501,188
+                                         hour = $1,700.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+[[Page 46327]]
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Airbus Helicopters: Docket No. FAA-2026-7226; Project Identifier 
+MCAI-2025-01346-R.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by September 8, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Airbus Helicopters Model EC130B4 
+helicopters, certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 5200, Doors.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of weaknesses in the locking 
+mechanisms on the left-hand side swing and sliding door. The FAA is 
+issuing this AD to address failure of the sliding door star support, 
+which could inhibit the operation of the sliding door from the 
+inside, and delay the evacuation of passengers during an emergency.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraphs (h) and (i) of this AD: Comply 
+with all required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency AD 2024-0232, 
+dated December 5, 2024 (EASA AD 2024-0232).
+
+(h) Exceptions to EASA AD 2024-0232
+
+    (1) Where EASA AD 2024-0232 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where paragraph (1) of EASA AD 2024-0232 specifies to 
+complete the actions within 24 months after its effective date, this 
+AD requires completion within 460 hours time-in-service after the 
+effective date of this AD.
+    (3) Where the material referenced in EASA AD 2024-0232 specifies 
+performing a dye penetrant inspection, for the purposes of this AD, 
+it is not permitted to use Type 2 colored dye penetrant for 
+inspections required by paragraph (g) of this AD.
+    (4) Where the material referenced in EASA AD 2024-0232 specifies 
+discarding certain parts, this AD requires removing those parts from 
+service.
+    (5) Where the material referenced in EASA AD 2024-0232 specifies 
+``check'', this AD requires replacing that text with ``inspect''.
+    (6) This AD does not adopt the ``Remarks'' section of EASA AD 
+2024-0232.
+
+(i) No Reporting Requirement
+
+    Although the material referenced in EASA AD 2024-0232 specifies 
+to submit certain information to the manufacturer, this AD does not 
+require that action.
+
+(j) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Validation Branch, send 
+it to the attention of the person identified in paragraph (k) of 
+this AD and email to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(k) Additional Information
+
+    For more information about this AD, contact Thanh Tran, Aviation 
+Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; phone: (562) 275-5304; email: [email&#160;protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2024-0232, 
+dated December 5, 2024.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; phone: +49 221 8999 
+000; email: [email&#160;protected]; website: easa.europa.eu. You may 
+find the EASA material on the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on July 20, 2026.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-14886 Filed 7-22-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

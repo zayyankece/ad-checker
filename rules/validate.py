@@ -18,6 +18,12 @@ def value_supported(v, quote_n):
     m = re.match(r"^([a-z]*\d{3}[a-z]?)(-.+)$", v)
     if m and m.group(1) in quote_n and m.group(2) in quote_n:
         return True
+    # ISO date supported by "October 1, 2024"
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", v):
+        from datetime import date
+        d = date.fromisoformat(v)
+        if f"{d.strftime('%B').lower()} {d.day}, {d.year}" in quote_n:
+            return True
     # numbers written with thousands separator
     if v.isdigit() and f"{int(v):,}" in quote_n:
         return True

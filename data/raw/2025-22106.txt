@@ -1,0 +1,505 @@
+
+[Federal Register Volume 90, Number 232 (Friday, December 5, 2025)]
+[Proposed Rules]
+[Pages 56072-56076]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-22106]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-5042; Project Identifier MCAI-2025-00438-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus SAS Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to supersede Airworthiness Directive (AD) 
+2024-24-09, which applies to all Airbus SAS Model A318 and A320 series 
+airplanes; Model A319-111, -112, -113, -114, -115, -131, -132, -133, -
+151N, -153N, and -171N airplanes; and Model A321-111, -112, -131, -211, 
+-212, -213, -231, -232, -251N, -251NX, -252N, -252NX, -253N, -253NX, -
+271N, -271NX, -272N, and -272NX airplanes. AD 2024-24-09 requires the 
+actions in AD 2022-24-05, provides optional terminating action for the 
+repetitive inspections, revises the list of affected parts, and 
+prohibits the installation of affected parts under certain conditions. 
+Since the FAA issued AD 2024-24-09, the list of additional affected 
+galley part numbers has been revised. This proposed AD would continue 
+to require the actions in AD 2024-24-09 and would revise the list of 
+affected parts. The FAA is proposing this AD to address the unsafe 
+condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by January 20, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-5042; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For European Union Aviation Safety Agency (EASA) material 
+identified in this proposed AD, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email&#160;protected]. You may find this material on the EASA
+
+[[Page 56073]]
+
+website at ad.easa.europa.eu. It is also available at regulations.gov 
+under Docket No. FAA-2025-5042.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195.
+
+FOR FURTHER INFORMATION CONTACT: Evan Weaver, Aviation Safety Engineer, 
+FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 316-944-8910; 
+email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2025-5042; 
+Project Identifier MCAI-2025-00438-T'' at the beginning of your 
+comments. The most helpful comments reference a specific portion of the 
+proposal, explain the reason for any recommended change, and include 
+supporting data. The FAA will consider all comments received by the 
+closing date and may amend this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Evan 
+Weaver, Aviation Safety Engineer, FAA, 2200 South 216th St., Des 
+Moines, WA 98198; phone: 316-944-8910; email: [email&#160;protected]. 
+Any commentary that the FAA receives which is not specifically 
+designated as CBI will be placed in the public docket for this 
+rulemaking.
+
+Background
+
+    The FAA issued AD 2024-24-09, Amendment 39-22899 (89 FR 97499, 
+December 9, 2024) (AD 2024-24-09), for all Airbus SAS Model A318, and 
+A320 series airplanes; Model A319-111, -112, -113, -114, -115, -131, -
+132, -133, -151N, -153N, and -171N airplanes; and Model A321-111, -112, 
+-131, -211, -212, -213, -231, -232, -251N, -251NX, -252N, -252NX, -
+253N, -253NX, -271N, -271NX, -272N, and -272NX airplanes. AD 2024-24-09 
+was prompted by an MCAI originated by EASA, which is the Technical 
+Agent for the Member States of the European Union. EASA issued AD 2024-
+0038, dated February 5, 2024, to correct an unsafe condition.
+    AD 2024-24-09 requires repetitive inspections of certain galleys 
+for corrosion of trolley retainer aluminum blocks and delamination of 
+the upper panel of the trolley compartment, and applicable corrective 
+action; provides optional terminating action for the repetitive 
+inspections; revises the list of affected parts; and prohibits the 
+installation of affected parts under certain conditions. The FAA issued 
+AD 2024-24-09 to address damage that could affect the galley's 
+capability to hold the trolley under emergency landing loads, which 
+could lead to trolley detachment, possibly resulting in blocking of an 
+escape path during an emergency exit.
+
+Actions Since AD 2024-24-09 Was Issued
+
+    Since the FAA issued AD 2024-24-09, EASA superseded EASA AD 2024-
+0038, dated February 5, 2024 (EASA AD 2024-0038) and issued EASA AD 
+2025-0068, dated March 28, 2025 (EASA AD 2025-0068) (also referred to 
+as the MCAI), to correct an unsafe condition for all Airbus SAS Model 
+A318-111, -112, -121, and -122 airplanes; Model A319-111, -112, -113, -
+114, -115, -131, -132, -133, -151N, -153N, and -171N airplanes; Model 
+A320-211, -212, -214, -215, -216, -231, -232, -233, -251N, -252N, -
+253N, -271N, -272N, and -273N airplanes; and Model A321-111, -112, -
+131, -211, -212, -213, -231, -232, -251N, -252N, -253N, -271N, -272N, -
+251NX, -252NX, -253NX, -271NX, and -272NX airplanes. Model A320-215 
+airplanes are not certificated by the FAA and are not included on the 
+U.S. type certificate data sheet; this proposed AD therefore does not 
+include those airplanes in the applicability. The MCAI states that it 
+was identified that galleys having part numbers 601891-006801, 601891-
+003701, and 601891-010001 were missing in Appendix 1 of EASA AD 2024-
+0038, and it was identified that galleys having part number 6019A3-
+000101 are not affected by the unsafe condition addressed by that AD. 
+Damage, if not detected and corrected, could affect the galley's 
+capability to hold the trolley under emergency landing loads, which 
+could lead to trolley detachment, possibly resulting in blocking of an 
+escape path during an emergency exit.
+    The FAA is proposing this AD to address the unsafe condition on 
+these products. You may examine the MCAI in the AD docket at 
+regulations.gov under Docket No. FAA-2025-5042.
+
+Explanation of Retained Requirements
+
+    Although this proposed AD does not explicitly restate the 
+requirements of AD 2024-24-09, this proposed AD would retain all of the 
+requirements of AD 2024-24-09. Those requirements are referenced in 
+EASA AD 2025-0068, which, in turn, is referenced in paragraph (g) of 
+this proposed AD.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed EASA AD 2025-0068, which includes the following 
+provisions:
+     Procedures for repetitive general visual inspections of 
+certain galleys for discrepancies including cracks and corrosion of 
+trolley retainer aluminum blocks and delamination of upper panel of 
+trolley compartment;
+     Corrective actions including repeating the inspection, 
+repairing the trolley compartment upper panel, and limiting the trolley 
+weight;
+     Procedures for modifying the affected galleys as optional 
+terminating action for the repetitive inspections;
+     A revised the list of affected galleys; and
+     Prohibition of the installation of affected parts unless 
+the parts are inspected and corrected.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority
+
+[[Page 56074]]
+
+has notified the FAA of the unsafe condition described in the MCAI 
+referenced above. The FAA is issuing this NPRM after determining that 
+the unsafe condition described previously is likely to exist or develop 
+in other products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would retain all requirements of AD 2024-24-09. 
+This proposed AD would require accomplishing the actions specified in 
+EASA AD 2025-0068 described previously, except for any differences 
+identified as exceptions in the regulatory text of this proposed AD.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some civil aviation 
+authority (CAA) ADs as the primary source of information for compliance 
+with requirements for corresponding FAA ADs. The FAA has been 
+coordinating this process with manufacturers and CAAs. As a result, the 
+FAA proposes to incorporate EASA AD 2025-0068 by reference in the FAA 
+final rule. This proposed AD would, therefore, require compliance with 
+EASA AD 2025-0068 in its entirety through that incorporation, except 
+for any differences identified as exceptions in the regulatory text of 
+this proposed AD. Using common terms that are the same as the heading 
+of a particular section in EASA AD 2025-0068 does not mean that 
+operators need comply only with that section. For example, where the AD 
+requirement refers to ``all required actions and compliance times,'' 
+compliance with this AD requirement is not limited to the section 
+titled ``Required Action(s) and Compliance Time(s)'' in EASA AD 2025-
+0068. Material required by EASA AD 2025-0068 for compliance will be 
+available at regulations.gov under Docket No. FAA-2025-5042 after the 
+FAA final rule is published.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 1,985 airplanes of U.S. registry. The FAA estimates the 
+following costs to comply with this proposed AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Retained actions from AD 2024-24-09...  2 work-hours x $85 per                $0            $170        $337,450
+                                         hour = $170.
+----------------------------------------------------------------------------------------------------------------
+
+
+                  Estimated Costs for Optional Actions
+------------------------------------------------------------------------
+            Labor cost                Parts cost      Cost per product
+------------------------------------------------------------------------
+Up to 40 work-hours x $85 per                 (*)   Up to $3,400.*
+ hour = $3,400.
+------------------------------------------------------------------------
+* The FAA has received no definitive data on which to base the cost
+  estimates for the parts associated with the modification specified in
+  this proposed AD.
+
+    The FAA estimates the following costs to do any necessary on-
+condition action that would be required based on the results of any 
+required actions. The FAA has no way of determining the number of 
+aircraft that might need this on-condition action:
+
+                 Estimated Costs of On-Condition Actions
+------------------------------------------------------------------------
+            Labor cost                 Parts cost      Cost per product
+------------------------------------------------------------------------
+1 work-hour x $85 per hour = $85..              $0                  $85
+------------------------------------------------------------------------
+
+    The FAA has included all known costs in its cost estimate. 
+According to the parts manufacturer, however, some or all of the costs 
+of the optional modification specified in this proposed AD may be 
+covered under warranty, thereby reducing the cost impact on affected 
+operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+[[Page 56075]]
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2024-24-09, Amendment 39-22899 
+(89 FR 97499, December 9, 2024); and
+0
+b. Adding the following new AD:
+
+Airbus SAS: Docket No. FAA-2025-5042; Project Identifier MCAI-2025-
+00438-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by January 20, 2026.
+
+(b) Affected ADs
+
+    This AD replaces AD 2024-24-09, Amendment 39-22899 (89 FR 97499, 
+December 9, 2024) (AD 2024-24-09).
+
+(c) Applicability
+
+    This AD applies to all Airbus SAS airplanes specified in 
+paragraphs (c)(1) through (4) of this AD, certificated in any 
+category.
+    (1) Model A318-111, -112, -121, and -122 airplanes.
+    (2) Model A319-111, -112, -113, -114, -115, -131, -132, -133, -
+151N, -153N, and -171N airplanes.
+    (3) Model A320-211, -212, -214, -216, -231, -232, -233, -251N, -
+252N, -253N, -271N, -272N, and -273N airplanes.
+    (4) Model A321-111, -112, -131, -211, -212, -213, -231, -232, -
+251N, -251NX, -252N, -252NX, -253N, -253NX, -271N, -271NX, -272N, 
+and -272NX airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+Furnishings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report that damage (including 
+delamination of work deck and corroded and cracked retainer blocks) 
+was found during inspection of certain galleys. The FAA is issuing 
+this AD to address damage that could affect the galley's capability 
+to hold the trolley under emergency landing loads, which could lead 
+to trolley detachment. The unsafe condition, if not addressed, could 
+result in blockage of an escape path during an emergency exit.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, European Union Aviation Safety Agency (EASA) AD 
+2025-0068, dated March 28, 2025 (EASA AD 2025-0068).
+
+(h) Exceptions to EASA AD 2025-0068
+
+    (1) Where EASA AD 2025-0068 refers to ``18 August 2021 [the 
+effective date of the EASA AD 2021-0183 at original issue],'' this 
+AD requires using January 9, 2023 (the effective date of AD 2022-24-
+05 Amendment 39-22245 (87 FR 74291, December 5, 2022)).
+    (2) Where EASA AD 2025-0068 refers to ``19 February 2024 [the 
+effective date of EASA AD 2024-0038],'' this AD requires using 
+January 13, 2025 (the effective date of AD 2024-24-09).
+    (3) Where EASA AD 2025-0068 refers to ``the effective date of 
+this AD,'' this AD requires using the effective date of this AD.
+    (4) Where EASA AD 2025-0068 does not specify corrective action 
+after a post-repair inspection that has findings of damage, this AD 
+requires obtaining repair instructions before further flight from 
+the FAA, EASA, or Airbus SAS's EASA Design Organization Approval 
+(DOA), and accomplishing those actions accordingly. Any approval by 
+the DOA must include the DOA-authorized signature.
+    (5) Where the second row of Table 1 of EASA AD 2025-0068 
+specifies ``P/N 6018A7-000101 or P/N 6018C1-000101'', for this AD, 
+replace that text with ``P/N 6018A7-000101 or P/N 6018C1-000101 or 
+P/N 601891-006801''.
+    (6) Where the third row of Table 1 of EASA AD 2025-0068 
+specifies ``P/N 601891-006801 or P/N 601891-003701 or P/N 601891-
+010001'', for this AD, replace that text with ``P/N 601891-003701 or 
+P/N 601891-010001''.
+    (7) Where Table 2 of EASA AD 2025-0068 specifies ``P/N 601891-
+006801 or P/N 601891-003701 or P/N 601891-010001'', for this AD, 
+replace that text with ``P/N 601891-003701 or P/N 601891-010001''.
+    (8) This AD does not adopt the ``Remarks'' section of EASA AD 
+2025-0068.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, AIR-
+520, Continued Operational Safety Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or responsible Flight Standards Office, 
+as appropriate. If sending information directly to the manager of 
+the Continued Operational Safety Branch, send it to the attention of 
+the person identified in paragraph (j) of this AD and email to: 
+[email&#160;protected].
+    (i) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (ii) AMOCs approved previously for AD 2024-24-09 are approved as 
+AMOCs for the corresponding provisions of EASA AD 2025-0068 that are 
+required by paragraph (g) of this AD.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, AIR-520, 
+Continued Operational Safety Branch, FAA; or EASA; or Airbus SAS's 
+EASA Design Organization Approval (DOA). If approved by the DOA, the 
+approval must include the DOA-authorized signature.
+    (3) Required for Compliance (RC): Except as required by 
+paragraph (i)(2) of this AD, if any material contains procedures or 
+tests that are identified as RC, those procedures and tests must be 
+done to comply with this AD; any procedures or tests that are not 
+identified as RC are recommended. Those procedures and tests that 
+are not identified as RC may be deviated from using accepted methods 
+in accordance with the operator's maintenance or inspection program 
+without obtaining approval of an AMOC, provided the procedures and 
+tests identified as RC can be done and the airplane can be put back 
+in an airworthy condition. Any substitutions or changes to 
+procedures or tests identified as RC require approval of an AMOC.
+
+(j) Additional Information
+
+    For more information about this AD, contact Evan Weaver, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 316-944-8910; email: [email&#160;protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2025-0068, 
+dated March 28, 2025.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email&#160;protected]. You may find this material on 
+the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+
+[[Page 56076]]
+
+
+    Issued on December 3, 2025.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-22106 Filed 12-4-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+

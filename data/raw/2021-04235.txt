@@ -1,0 +1,147 @@
+
+[Federal Register Volume 86, Number 43 (Monday, March 8, 2021)]
+[Proposed Rules]
+[Pages 13228-13229]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-04235]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2007-27495; Project Identifier 2005-SW-14-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Eurocopter France Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to adopt a new airworthiness directive (AD) that would 
+have applied to certain Eurocopter France (now Airbus Helicopters) 
+Model AS350B, BA, B1, B2, B3, C, D, and D1; EC-130B4; and AS355E, F, 
+F1, F2, and N helicopters. The NPRM would have required modifying the 
+collective hold-down strap (strap) and thereafter inspecting it at 
+specified intervals to ensure the rubber grommet is resting against the 
+console or replacing the strap with a strap that has a torsional spring 
+at the lower end of the strap. Since issuance of the NPRM, the FAA 
+issued AD 2014-02-05, which addresses the unsafe condition identified 
+in the NPRM. Accordingly, the NPRM is withdrawn.
+
+DATES: As of March 8, 2021, the proposed rule, which was published in 
+the Federal Register on March 13, 2007 (72 FR 11297), is withdrawn.
+
+ADDRESSES:
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2007-
+27495; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD action, any comments received, and other information. The 
+street address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Vince Massey, Aerospace Engineer, 
+Systems and Equipment Section, FAA, Seattle ACO Branch, 2200 South 
+216th St., Des Moines, WA 98198; phone and fax: 206-231-3545; email: 
+[email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The FAA issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD that would have applied to the specified products. The 
+NPRM was published in the Federal Register on March 13, 2007 (72 FR 
+11297). The NPRM was prompted by reports of two accidents occurring 
+while the pilots were performing an autorotation. The pilots were 
+unable to arrest the descent of the helicopter using collective blade 
+pitch due to the collective stick locking in the down position when the 
+collective was lowered during the maneuver. The NPRM proposed to 
+require modifying the strap and thereafter inspecting it at specified 
+intervals to ensure the rubber grommet is resting against the console 
+or replacing the strap with a strap that has a torsional spring at the 
+lower end of the strap.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, the FAA has published AD 2014-02-05, 
+Amendment 39-17733 (79 FR 5251, January 31, 2014) (AD 2014-02-05), 
+which addresses the unsafe condition for Model AS350B, BA, B1, B2, B3, 
+C, D, and D1 helicopters identified in the NPRM. The FAA also 
+determined that the Model EC-130B4 helicopters and Model AS355E, F, F1, 
+F2, and N helicopters identified in the NPRM are not affected by the 
+unsafe condition because the root cause of the unsafe condition is 
+certain collective straps that are only installed on the Model AS350B, 
+BA, B1, B2, B3, C, D, and D1 helicopters. Therefore, the FAA has 
+determined that this AD action is not appropriate.
+    AD 2014-02-05 includes certain helicopters that were not included 
+in the NPRM. Although the NPRM applied only to helicopters with a 
+certain part-numbered hold-down strap, AD 2014-02-05 applies to Model 
+AS350B, BA,
+
+[[Page 13229]]
+
+B1, B2, B3, C, D, and D1 helicopters that do not have a redesigned 
+hold-down strap. AD 2014-02-05 corresponds with EASA AD 2009-0019, 
+dated February 3, 2009.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+Request To Revise the Applicability of the NPRM
+
+    The European Aviation Safety Agency (now European Union Aviation 
+Safety Agency (EASA) and American Eurocopter, in consultation with 
+Eurocopter, requested that the applicability of the NPRM be limited to 
+helicopters modified by a Geneva center console supplemental type 
+certificate (STC).
+    The FAA acknowledges these comments to the NPRM. However, the FAA 
+considers the requested change to the NPRM moot by this withdrawal.
+
+FAA's Conclusions
+
+    Upon further consideration, the FAA has determined that the NPRM 
+does not adequately address the identified unsafe condition and is 
+unnecessary due to other rulemaking. Accordingly, the NPRM is 
+withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act, or DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+0
+Accordingly, the notice of proposed rulemaking, Docket No. FAA-2007-
+27495, which was published in the Federal Register on March 13, 2007 
+(72 FR 11297), is withdrawn.
+
+    Issued on February 24, 2021.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2021-04235 Filed 3-5-21; 8:45 am]
+BILLING CODE 4910-13-P
+
+

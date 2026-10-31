@@ -43,6 +43,12 @@ def check(case, r):
         h = next((v["history"] for v in r["verdicts"] if "history" in v), [])
         if len(h) != case["expect_versions"]:
             fails.append(f"versions {len(h)} != {case['expect_versions']}")
+    if "expect_fleet_change" in case:
+        diffs = [d for v in r["verdicts"] for d in v.get("diffs", [])]
+        got = {c["registration"]: c["after"] for d in diffs for c in d["fleet_changes"]}
+        for reg, lab in case["expect_fleet_change"].items():
+            if got.get(reg) != lab:
+                fails.append(f"fleet change {reg}: {got.get(reg)} != {lab}")
     return fails
 
 

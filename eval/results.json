@@ -1,21 +1,21 @@
 {
  "summary": {
-  "cases": 30,
-  "passed": 30,
+  "cases": 39,
+  "passed": 39,
   "per_category": {
-   "lookup": "6/6",
-   "applicability": "8/8",
-   "revision": "4/4",
+   "lookup": "7/7",
+   "applicability": "14/14",
+   "revision": "5/5",
    "out_of_scope": "6/6",
    "ambiguous": "3/3",
-   "false_premise": "3/3"
+   "false_premise": "4/4"
   },
   "refusal_precision": 1.0,
   "refusal_recall": 1.0,
-  "latency_total_p50_s": 0.0005,
-  "latency_total_p95_s": 0.0026,
-  "latency_retrieval_p95_s": 0.002,
-  "index_chunks": 934,
+  "latency_total_p50_s": 0.0007,
+  "latency_total_p95_s": 0.005,
+  "latency_retrieval_p95_s": 0.0038,
+  "index_chunks": 2816,
   "index_pages": 1341,
   "answer_mode": "extractive (no API key)"
  },
@@ -105,7 +105,7 @@
    "cat": "applicability",
    "pass": true,
    "fails": [],
-   "status": "NEEDS_INFO",
+   "status": "ANSWER",
    "code": null
   },
   {
@@ -254,6 +254,78 @@
   },
   {
    "id": "P3",
+   "cat": "false_premise",
+   "pass": true,
+   "fails": [],
+   "status": "REFUSED",
+   "code": "R6"
+  },
+  {
+   "id": "A9",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "NEEDS_INFO",
+   "code": null
+  },
+  {
+   "id": "A10",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "A11",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "A12",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "A13",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "A14",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "V5",
+   "cat": "revision",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "L7",
+   "cat": "lookup",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "P4",
    "cat": "false_premise",
    "pass": true,
    "fails": [],

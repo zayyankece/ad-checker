@@ -1,0 +1,462 @@
+
+[Federal Register Volume 91, Number 188 (Wednesday, September 30, 2026)]
+[Proposed Rules]
+[Pages 61803-61806]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-19971]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-11792; Project Identifier MCAI-2026-00135-R]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Helicopters Deutschland GmbH 
+(AHD) Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain Airbus Helicopters Deutschland GmbH (AHD) Model EC135P1, 
+EC135P2, EC135P2+, EC135P3, EC135T1, EC135T2, EC135T2+, EC135T3, and 
+EC635T2+ helicopters. This proposed AD was prompted by a report of a 
+loss of the tail rotor controls due to a broken control rod of the yaw 
+actuator. This proposed AD would require a one-time inspection of the 
+ball pivot, yaw actuator assembly, and associated parts, and a 
+repetitive inspection of the ball pivot. Depending on the inspection 
+results, this proposed AD would require replacement of affected parts, 
+further inspections, and application of new sealing compound. This 
+proposed AD would also prohibit the installation of an affected part 
+unless it is a serviceable part and certain requirements are met. The 
+FAA is proposing this AD to address the unsafe condition on these 
+products.
+
+DATES: The FAA must receive comments on this NPRM by November 16, 2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-11792; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For European Union Aviation Safety Agency (EASA) material 
+identified in this proposed AD, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; phone +49 221 8999 000; email: 
+[email&#160;protected]; website: easa.europa.eu.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+
+FOR FURTHER INFORMATION CONTACT: Anthony Kenward, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: (817) 222-5152; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under ADDRESSES. Include ``Docket No. FAA-2026-11792; Project 
+Identifier MCAI-2026-00135-R'' at the beginning of your comments. The 
+most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Anthony Kenward, Aviation Safety Engineer, FAA, 1600 Stewart Avenue, 
+Suite 410, Westbury, NY 11590. Any commentary that the FAA receives 
+which is not specifically designated as CBI will be placed in the 
+public docket for this rulemaking.
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2026-0024, dated February 5, 2026 
+(EASA AD 2026-0024) (also referred to as the MCAI), to correct an 
+unsafe condition on certain AHD Model EC135 P1, EC135 P2, EC135 P2+, 
+EC135 P3, EC135 T1, EC135 T2, EC135 T2+, EC135 T3, EC635 P2+, EC635 T1, 
+and EC635 T2+ helicopters. The MCAI states an occurrence was reported 
+where the pilot lost the tail rotor controls after hearing a noise from 
+the rear of the helicopter, and investigation revealed a broken control 
+rod of the yaw actuator. The unsafe condition, if not addressed, could 
+result in loss of tail rotor controls and loss of control of the 
+helicopter.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2026-11792.
+
+[[Page 61804]]
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed EASA AD 2026-0024, which specifies procedures for 
+a one-time inspection of the yaw actuator and ball pivot and, depending 
+on the inspection results, corrective actions to include further 
+inspections and the replacement of affected parts. EASA AD 2026-0024 
+also specifies procedures for a fluorescent penetrant inspection of the 
+rod end, if applicable, the connecting part of the yaw actuator, 
+replacement of the sealing compound on the rod end, and a check 
+(inspection) of the freedom of movement of the tail rotor control. 
+Depending on the inspection results, EASA AD 2026-0024 specifies 
+procedures for corrective actions to include further inspections and 
+the replacement of affected parts.
+    In addition, EASA AD 2026-0024 specifies procedures for repetitive 
+inspection of the ball pivot, and depending on the results of the 
+inspections, corrective actions. EASA AD 2026-0024 also prohibits 
+installing a yaw actuator assembly part number (P/N) L672M2005107; and 
+dual yaw actuator assembly P/N L221M1047101, L221M1047102, 
+L221M1047103, L221M1047104, L221M1047105 and L221M1047106; or a certain 
+part-numbered control rod or ball pivot on any helicopter unless 
+certain requirements are met.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+(CAA) of another country and are approved for operation in the United 
+States. Pursuant to the FAA's bilateral agreement with this State of 
+Design Authority, that authority has notified the FAA of the unsafe 
+condition described in the MCAI referenced above. The FAA is issuing 
+this NPRM after determining that the unsafe condition described 
+previously is likely to exist or develop on other products of the same 
+type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in EASA AD 2026-0024, described previously, as incorporated by 
+reference, except for any differences identified as exceptions in the 
+regulatory text of this proposed AD. See ``Differences Between this 
+Proposed AD and the MCAI'' for a discussion of the general differences 
+included in this proposed AD.
+
+Differences Between This Proposed AD and the MCAI
+
+    The MCAI applies to Model EC635 P2+, and EC635 T1 helicopters, 
+whereas this AD does not because those models do not have an FAA type 
+certificate.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some CAA ADs as the primary 
+source of information for compliance with requirements for 
+corresponding FAA ADs. The FAA has been coordinating this process with 
+manufacturers and CAAs. As a result, the FAA proposes to incorporate 
+EASA AD 2026-0024 by reference in the FAA final rule. This proposed AD 
+would, therefore, require compliance with EASA AD 2026-0024 in its 
+entirety through that incorporation, except for any differences 
+identified as exceptions in the regulatory text of this proposed AD. 
+Using common terms that are the same as the heading of a particular 
+section in EASA AD 2026-0024 does not mean that operators need comply 
+only with that section. For example, where the AD requirement refers to 
+``all required actions and compliance times,'' compliance with this AD 
+requirement is not limited to the section titled ``Required Action(s) 
+and Compliance Time(s)'' in EASA AD 2026-0024. Material required by 
+EASA AD 2026-0024 for compliance will be available at regulations.gov 
+under Docket No. FAA-2026-11792 after the FAA final rule is published.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 377 helicopters of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                Cost on U.S.
+              Action                     Labor cost       Parts cost    Cost per product          operators
+----------------------------------------------------------------------------------------------------------------
+Inspect ball pivot................  2 work-hours x $85            $0  $170 per inspection.  $64,090 per
+                                     per hour = $170.                                        inspection.
+Perform fluorescent penetrant       2 work-hours x $85            $0  $170................  $64,090.
+ inspection.                         per hour = $170.
+Inspect yaw actuator assembly,      2 work-hours x $85            $0  $170................  $64,090.
+ control rod, and interface          per hour = $170.
+ connections.
+Replace or inspect sealing          1 work-hour x $85        nominal  $85.................  $32,045.
+ compound.                           per hour = $85.
+Inspect freedom of movement.......  1 work-hour x $85             $0  $85 per inspection..  $32,045 per
+                                     per hour = $85.                                         inspection.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any replacements that 
+would be required based on the results of the proposed inspection. The 
+agency has no way of determining the number of helicopters that might 
+need these replacements:
+
+                           On-Condition Costs
+------------------------------------------------------------------------
+                                                              Cost per
+            Action                Labor cost    Parts cost     product
+------------------------------------------------------------------------
+Replace adapter..............  1 work-hour x          $803          $888
+                                $85 per hour =
+                                $85.
+
+[[Page 61805]]
+
+ 
+Replace ball pivot...........  1 work-hour x         2,846         2,931
+                                $85 per hour =
+                                $85.
+Replace close tolerance bolt.  1 work-hour x            42           127
+                                $85 per hour =
+                                $85.
+Replace connector cover......  1 work-hour x           571           656
+                                $85 per hour =
+                                $85.
+Replace control rod..........  1 work-hour x         6,835         6,920
+                                $85 per hour =
+                                $85.
+Replace input lever..........  2 work-hours x        9,755         9,925
+                                $85 per hour =
+                                $170.
+Replace rod end..............  1 work-hour x           643           728
+                                $85 per hour =
+                                $85.
+------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Airbus Helicopters Deutschland GmbH (AHD): Docket No. FAA-2026-
+11792; Project Identifier MCAI-2026-00135-R.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by November 16, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Airbus Helicopters Deutschland GmbH (AHD) 
+Model EC135P1, EC135P2, EC135P2+, EC135P3, EC135T1, EC135T2, 
+EC135T2+, EC135T3, and EC635T2+ helicopters, certificated in any 
+category, serial numbers 0005 through 1276.
+    Note 1 to paragraph (c): Helicopters with an EC135P3H 
+designation are Model EC135P3 helicopters, and helicopters with an 
+EC135T3H designation are Model EC135T3 helicopters.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 6720, Tail rotor 
+control system.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of a loss of tail rotor 
+controls due to a broken control rod of the yaw actuator. The FAA is 
+issuing this AD to detect and address damage to the ball bearing 
+control system. The unsafe condition, if not addressed, could result 
+in loss of tail rotor controls and loss of control of the 
+helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified in paragraphs (h) and (i) of this AD: Comply 
+with all required actions and compliance times specified in, and in 
+accordance with European Union Aviation Safety Agency AD 2026-0024, 
+dated February 5, 2026 (EASA AD 2026-0024).
+
+(h) Exceptions to EASA AD 2026-0024
+
+    (1) Where EASA AD 2026-0024 requires compliance in terms of 
+flight hours, this AD requires using hours time-in-service.
+    (2) Where EASA AD 2026-0024 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (3) Where the material referenced in EASA AD 2026-0024 specifies 
+``check'', this AD requires replacing that text with ``inspection''.
+    (4) Where the material referenced in EASA AD 2026-0024 specifies 
+to examine the close-tolerance bolt, the input lever, the adapter, 
+and the connector part of the control rod for wear and damage, for 
+the purposes of this AD damage is defined as specified in paragraphs 
+(h)(4)(i) through (iii) of this AD, as applicable.
+    (i) Damage for the close-tolerance bolt is defined as deformed 
+or stripped, rounded head; bent, stripped, or missing threads; bent 
+shank; grooves in the shank, corrosion or rust; and gouges.
+    (ii) Damage for the input lever is defined as deformation or 
+elongated attachment hole; bent flange; gouges; corrosion; and 
+cracks.
+    (iii) Damage for the adapter or connecting part is defined as 
+deformation, elongated attachment holes, gouges, cracks, corrosion, 
+and missing surface coating on the adapter or connecting part.
+    (5) Where the material referenced in EASA AD 2026-0024 specifies 
+if the ball pivot shows rough stiffness, hard stops, corrosion, or 
+damage, for the purposes of this AD damage is defined as deformation 
+(bent flanges), gouges, areas of bare metal, or missing finish.
+    (6) This AD does not adopt the ``Remarks'' section of EASA AD 
+2026-0024.
+
+(i) No Reporting or Returning of Parts Requirement
+
+    Although the material referenced in EASA AD 2026-0024 specifies 
+to submit certain information or to return parts to the 
+manufacturer, this AD does not require that action.
+
+(j) Special Flight Permits
+
+    Special flight permits, as described in 14 CFR 21.197 and 
+21.199, are not allowed.
+
+(k) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the
+
+[[Page 61806]]
+
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Validation Branch, send 
+it to the attention of the person identified in paragraph (l) of 
+this AD and email to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(l) Additional Information
+
+    For more information about this AD, contact Anthony Kenward, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; phone: (817) 222-5152; email: 
+[email&#160;protected].
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2026-0024, 
+dated February 5, 2026.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; phone: +49 221 8999 
+000; email: [email&#160;protected]; website: easa.europa.eu. You may 
+find this EASA material on the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on September 25, 2026.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-19971 Filed 9-29-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

@@ -81,3 +81,27 @@ def test_validator_rejects_fake_quote():
     r = rule()
     r.groups[0].conditions[1].quote = "serial numbers 1000 to 2000 inclusive"
     assert validate(r, SRC)
+
+
+def cert_rule(limit):
+    return Rule.model_validate(dict(doc_id="t", scope="certain", groups=[{"conditions": [
+        {"field": "model", "op": "in", "values": ["A330-941"], "quote": "A330-941"},
+        {"field": "cert_date", "op": "on_or_before", "values": [limit], "quote": "issued on or before"}]}]))
+
+
+def test_cert_date_revision_changes_scope():
+    a = ac(model="A330-941", cert_date="2025-03-10")
+    assert evaluate(cert_rule("2024-10-01"), a).label == "NOT APPLICABLE"
+    assert evaluate(cert_rule("2025-12-19"), a).label == "APPLIES"
+    assert evaluate(cert_rule("2025-03-10"), a).label == "APPLIES"
+
+
+def test_cert_date_missing_unknown():
+    assert evaluate(cert_rule("2025-12-19"), ac(model="A330-941", cert_date=None)).label == "CANNOT DETERMINE"
+
+
+def test_validator_accepts_written_date():
+    r = cert_rule("2025-12-19")
+    r.groups[0].conditions[1].quote = "issued on or before December 19, 2025"
+    r.groups[0].conditions[0].quote = "Model A330-941 airplanes"
+    assert validate(r, "Model A330-941 airplanes with a certificate issued on or before December 19, 2025.") == []

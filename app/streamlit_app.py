@@ -9,7 +9,7 @@ import pandas as pd
 import streamlit as st
 
 from adc.db import connect, one, rows
-from adc.fleet import doc_status, get_rule, impact_report, load_fleet
+from adc.fleet import doc_status, get_rule, impact_report, load_fleet, version_diff
 from qa.pipeline import ask
 
 st.set_page_config(page_title="Directive Impact Checker", layout="wide")
@@ -35,6 +35,20 @@ def show_citation(c):
             st.code(full["text"][:3000], language=None, wrap_lines=True)
 
 
+def show_diffs(diffs):
+    for df_ in diffs:
+        st.markdown(f"**Changes {df_['from']} ({df_['from_date']}) → {df_['to']} ({df_['to_date']})**")
+        if df_["fleet_changes"]:
+            for c in df_["fleet_changes"]:
+                st.markdown(f"- **{c['registration']}**: {c['before']} → {badge(c['after'] or 'n/a')}", unsafe_allow_html=True)
+        else:
+            st.markdown("- Fleet impact unchanged")
+        if df_["applicability_changes"]:
+            st.code("\n".join(df_["applicability_changes"]), language="diff", wrap_lines=True)
+        if df_["sections_added"] or df_["sections_removed"]:
+            st.caption(f"Sections added: {df_['sections_added']} · removed: {df_['sections_removed']}")
+
+
 st.title("Directive Impact Checker")
 st.caption("Proposed FAA airworthiness directives · LLM reads, rule engine decides, engineer approves")
 
@@ -56,6 +70,7 @@ with tab_ask:
             if "history" in v:
                 st.subheader(f"Docket {v['docket']}")
                 st.dataframe(pd.DataFrame(v["history"])[["version_index", "doc_id", "doc_type", "issue_date", "is_latest", "docket_status", "supersedes_ad", "final_ad_number"]], hide_index=True)
+                show_diffs(v.get("diffs", []))
             elif "directives" in v:
                 st.subheader(v["registration"])
                 st.dataframe(pd.DataFrame(v["directives"]), hide_index=True) if v["directives"] else st.write("No directive applies or is undetermined.")
@@ -88,6 +103,9 @@ with tab_fleet:
         rep = impact_report(con, pick["doc_id"], fleet)
         for w in rep["status"]["warnings"]:
             st.warning(w)
+        if rep["status"]["revision"] and rep["status"]["revision"]["n_versions"] > 1:
+            with st.expander(f"Version history ({rep['status']['revision']['n_versions']} versions) and what changed", expanded=True):
+                show_diffs(version_diff(con, pick["doc_id"], fleet))
         st.caption(f"Rule status: {rep['rule_meta']['validation']} · extractor: {rep['rule_meta']['extractor']}"
                    + (f" · approved by {rep['rule_meta']['approved_by']}" if rep['rule_meta']['approved_by'] else " · NOT YET APPROVED"))
         counts = pd.Series([a["label"] for a in rep["aircraft"]]).value_counts().to_dict()

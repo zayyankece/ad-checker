@@ -1,0 +1,405 @@
+
+[Federal Register Volume 91, Number 177 (Tuesday, September 15, 2026)]
+[Proposed Rules]
+[Pages 58390-58392]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-18850]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-8802; Project Identifier MCAI-2025-01828-A]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Airbus Defence and Space GmbH Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all Airbus Defence and Space GmbH Model BO-209-150 FF, BO-209-150 
+FV, BO-209-150 RV, BO-209-160 FV, BO-209-160 RV, and B[ouml]lkow Jr. 
+airplanes. This proposed AD was prompted by reports of corrosion damage 
+on the rudder drive. This proposed AD would require repetitive 
+inspections of the rudder drive, corrective actions including 
+replacement if corrosion is detected and the application of a corrosion 
+inhibitor. This proposed AD would also prohibit the installation of 
+affected parts. The FAA is proposing this AD to address the unsafe 
+condition on these products.
+
+DATES: The FAA must receive comments on this NPRM by October 30, 2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-8802; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Airbus material identified in this proposed AD, 
+contact Airbus Defence and Space GmbH, Dr. Alexander Allen, Willy-
+Messerschmitt-Strasse 1, 82024 Taufkirchen, Germany; phone: +49 (8459) 
+81-7883; email: [email&#160;protected].
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 1100 Main, Kansas City, MO 
+64105. For information on the availability of this material at the FAA, 
+call (817) 222-5110.
+
+FOR FURTHER INFORMATION CONTACT: Jesse Wulf, Aviation Safety Engineer, 
+FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; phone: (847) 
+294-7183; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under ADDRESSES. Include ``Docket No. FAA-2026-8802; Project Identifier 
+MCAI-2025-01828-A'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Jesse 
+Wulf, Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The European Union Aviation Safety Agency (EASA), which is the 
+Technical Agent for the Member States of the European Union, has issued 
+EASA AD 2025-0284, dated December 16, 2025 (EASA AD 2025-0284) (also 
+referred to as the MCAI), to correct an unsafe condition on all Airbus 
+Defence and Space GmbH B[ouml]lkow Model BO 208 and BO 209 airplanes.
+    The MCAI states that corrosion damage has been reported on the 
+rudder drive installed on Model BO 209 airplanes. It further states 
+that due to the similarity of the rudder drive design, Model BO 208 
+airplanes may be subject to the same unsafe condition. This condition, 
+if not detected and corrected, could reduce the structural integrity of 
+the rudder drive, which could result in reduced control of the 
+airplane. The MCAI requires repetitive inspections of the affected 
+rudder drive, corrective actions if discrepancies are found, and the 
+application of a corrosion inhibitor.
+    You may examine the MCAI in the AD docket at regulations.govunder 
+Docket No. FAA-2026-8802.
+
+[[Page 58391]]
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Airbus Service Bulletin BO208-SB-002/2025, Issue 
+1, dated December 1, 2025, and Airbus Service Bulletin BO209-SB-002/
+2025, Issue 2, dated December 1, 2025. This material specifies 
+procedures for repetitive inspections of the rudder drive (including 
+for blockage of the drainage hole), corrective actions including 
+replacement if corrosion is detected, and application of a corrosion 
+inhibitor. These documents are distinct because they apply to different 
+airplane models. This material is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority has notified the FAA of the unsafe condition 
+described in the MCAI and material referenced above. The FAA is issuing 
+this NPRM after determining that the unsafe condition described 
+previously is likely to exist or develop on other products of the same 
+type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in the material already described, except as discussed under 
+``Differences Between this Proposed AD and the MCAI/Material 
+Incorporated by Reference.''
+
+Differences Between This Proposed AD and the MCAI/Material Incorporated 
+by Reference
+
+    The MCAI and material incorporated by reference apply to Model 
+B[ouml]lkow BO 208C Junior and B[ouml]lkow Junior airplanes, however, 
+this proposed AD would only apply to Model B[ouml]lkow Junior airplanes 
+and not Model B[ouml]lkow BO 208C Junior airplanes because that model 
+does not have an FAA type certificate. Additionally, the MCAI and 
+material incorporated by reference apply to Model B[ouml]lkow BO 209 S 
+airplanes; however, this proposed AD would not because that model does 
+not have an FAA type certificate.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect five airplanes of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspect rudder drive..................  2 work-hours x $85 per                $0            $170            $850
+                                         hour = $170.
+Apply corrosion inhibitor.............  1 work-hour x $85 per                 50             135             675
+                                         hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary 
+replacement that would be required based on the results of the proposed 
+inspection. The agency has no way of determining the number of 
+airplanes that might need this replacement:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                 Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Replace rudder drive..........................  15 work-hours x $85 per hour =            $1,000          $2,275
+                                                 $1,275.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+[[Page 58392]]
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Airbus Defence and Space GmbH: Docket No. FAA-2026-8802; Project 
+Identifier MCAI-2025-01828-A.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by October 30, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Airbus Defence and Space GmbH Model BO-
+209-150 FF, BO-209-150 FV, BO-209-150 RV, BO-209-160 FV, BO-209-160 
+RV, and B[ouml]lkow Jr. airplanes, certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 2720, Rudder Control 
+System.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of corrosion damage on the 
+rudder drive. The FAA is issuing this AD to detect and correct 
+corrosion damage in the rudder drive. The unsafe condition, if not 
+addressed, could reduce the structural integrity of the rudder drive 
+and result in reduced control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Serviceable Part Definition
+
+    For the purpose of this AD, a serviceable part is an affected 
+rudder drive that is either:
+    (1) A new part (i.e., a part that has not been previously 
+installed on any airplane); or
+    (2) A part that has accumulated less than 5 years since the last 
+inspection, provided that no corrosion was found during that 
+inspection and corrosion inhibitor was applied in accordance with 
+step 5., section 7., of Airbus Service Bulletin BO208-SB-002/2025, 
+Issue 1, dated December 1, 2025 (Airbus SB BO208-SB-002/2025, Issue 
+1); or Airbus Service Bulletin BO209-SB-002/2025, Issue 2, dated 
+December 1, 2025 (Airbus SB BO209-SB-002/2025, Issue 2); as 
+applicable.
+
+(h) Required Actions
+
+    (1) Within 2 months after the effective date of this AD and 
+thereafter at intervals not to exceed 5 years, remove the rudder and 
+perform an inspection of the rudder drive torsion tube for corrosion 
+using an endoscope and inspect the drainage hole for blockage in 
+accordance with steps 1. and 2., section 7., of Airbus SB BO208-SB-
+002/2025, Issue 1; or Airbus SB BO209-SB-002/2025, Issue 2; as 
+applicable.
+    (2) If any corrosion is found during any inspection required by 
+paragraph (h)(1) of this AD, before further flight, replace the 
+rudder drive with a serviceable part in accordance with step 3., 
+section 7., of Airbus SB BO208-SB-002/2025, Issue 1; or Airbus SB 
+BO209-SB-002/2025, Issue 2; as applicable.
+    (3) After each inspection required by paragraph (h)(1) of this 
+AD and after any replacement required by paragraph (h)(2) of this 
+AD, before further flight, apply corrosion inhibitor to the inside 
+of the rudder drive in accordance with step 5., section 7., of 
+Airbus SB BO208-SB-002/2025, Issue 1; or Airbus SB BO209-SB-002/
+2025, Issue 2; as applicable. Where step 5., section 7., of the 
+applicable service bulletin specifies using LPS 3 corrosion 
+inhibitor, an equivalent corrosion inhibitor may be used instead.
+    (4) Before further flight after accomplishing the actions 
+required by paragraph (h)(3) of this AD, re-inspect the drainage 
+hole for blockage and clean it if necessary and reinstall the rudder 
+in accordance with steps 6. and 7. section 7., of Airbus SB BO208-
+SB-002/2025, Issue 1; or Airbus SB BO209-SB-002/2025, Issue 2; as 
+applicable.
+
+(i) Credit for Previous Actions
+
+    This paragraph provides credit for the actions required by 
+paragraphs (h)(1) through (4) of this AD if those actions were 
+performed before the effective date of this AD using Airbus Service 
+Bulletin BO209-SB-002/2025, Issue 1, dated August 21, 2025.
+
+(j) Parts Installation
+
+    As of the effective date of this AD, do not install an affected 
+part on any airplane that is not a serviceable part, as defined in 
+paragraph (g)(1) or (2) of this AD.
+
+(k) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Validation Branch, send 
+it to the attention of the person identified in paragraph (l) of 
+this AD and email to: [email&#160;protected]. Before using any approved AMOC, 
+notify your appropriate principal inspector, or lacking a principal 
+inspector, the manager of the local flight standards district 
+office/certificate holding district office.
+
+(l) Additional Information
+
+    For more information about this AD, contact Jesse Wulf, Aviation 
+Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 
+11590; phone: (847) 294-7183; email: [email&#160;protected].
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Airbus Service Bulletin BO208-SB-002/2025, Issue 1, dated 
+December 1, 2025.
+    (ii) Airbus Service Bulletin BO209-SB-002/2025, Issue 2, dated 
+December 1, 2025.
+    (3) For Airbus material identified in this AD, contact Airbus 
+Defence and Space GmbH, Dr. Alexander Allen, Willy-Messerschmitt-
+Strasse 1, 82024 Taufkirchen, Germany; phone: +49 (8459) 81-7883; 
+email: [email&#160;protected].
+    (4) You may view this material at FAA, Airworthiness Products 
+Section, Operational Safety Branch, 1100 Main, Kansas City, MO 
+64105. For information on the availability of this material at the 
+FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on September 10, 2026.
+Hollister B. Thorson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-18850 Filed 9-14-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+
