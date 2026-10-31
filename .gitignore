@@ -4,3 +4,4 @@ data/adc.db
 .env
 .venv/
 eval/baseline_outputs.json
+raw.zip
