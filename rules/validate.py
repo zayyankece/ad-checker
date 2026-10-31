@@ -18,6 +18,10 @@ def value_supported(v, quote_n):
     m = re.match(r"^([a-z]*\d{3}[a-z]?)(-.+)$", v)
     if m and m.group(1) in quote_n and m.group(2) in quote_n:
         return True
+    # "A300 B4-603" supported by "Model A300 B4-601, B4-603"
+    m = re.match(r"^([a-z]*\d{3}) (\S+)$", v)
+    if m and m.group(1) in quote_n and m.group(2) in quote_n:
+        return True
     # ISO date supported by "October 1, 2024"
     if re.fullmatch(r"\d{4}-\d{2}-\d{2}", v):
         from datetime import date

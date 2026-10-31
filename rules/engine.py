@@ -16,7 +16,7 @@ def norm_model(s):
 
 def family(model):
     m = norm_model(model)
-    return re.split(r"-", m)[0]
+    return re.match(r"^([A-Z]*\d{3})", m).group(1) if re.match(r"^([A-Z]*\d{3})", m) else re.split(r"-", m)[0]
 
 
 def and3(xs):

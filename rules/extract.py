@@ -67,6 +67,11 @@ def regex_extract(doc_id, text):
                 models.append(f + var)
         elif abbr and fam:
             models.append(fam + abbr)
+    fam_set = list(dict.fromkeys(fams))
+    if not models and len(fam_set) == 1:
+        # spaced variant names, e.g. "A300 B4-601, B4-603" / "C4-605R Variant F"
+        variants = re.findall(r"(?<![A-Z0-9-])([BCF]\d-\d{1,3}[A-Z]?)\b", scan)
+        models = [f"{fam_set[0]} {v}" for v in variants]
     models = list(dict.fromkeys(models))
     groups, unresolved = [], []
     scope = "all" if re.search(r"\bapplies to all\b|^all\b|\bAll Model\b", first, re.I) else "certain"

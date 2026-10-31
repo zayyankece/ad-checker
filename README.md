@@ -52,6 +52,8 @@ What the baseline errors look like:
 
 Fair notes: baselines were run before the full fetch (smaller index, 2,816 chunks); re-run with `python -m eval.run --baselines`. B1 often failed because BM25 top-5 missed the Applicability paragraph; our docket resolution and rule engine are what fix that. B1 did correctly flag one false premise (P4). The golden set was written by the same developer who built the system, so our 39/39 overstates real-world accuracy.
 
+**Rule extraction accuracy (APP-5)**: 10 fixed-wing Airbus rules sampled at random (seed 0, `python -m eval.rule_check`) and checked against the source text (`eval/rule_check.csv`): **7 correct, 1 partial but safe** (unmodelled APU part/serial condition → CANNOT DETERMINE), **2 wrong** (A300 variants written with a space, "A300 B4-601", were not parsed and the rule fell back to every A300: over-inclusive). The A300 bug was fixed after this check; the 7/10 figure is the pre-fix result. Checked by the developer with Claude; not an independent review.
+
 **Added after the spec (driven by the user's weekly workflow)**
 - **Review queue** (first tab): open proposals that hit or may hit the fleet, sorted by comment deadline, with sign-off progress.
 - **What the proposal would require**: required-action sections, compliance times and FAA work-hour estimate, pulled from the regulatory text with chunk IDs. No LLM.
@@ -261,7 +263,7 @@ Priority: **P0** = must ship for demo, **P1** = ship if time, **P2** = only if e
 | APP-2 | P0 | Verbatim validator: every `quote` must be a substring of the source chunk (whitespace/case normalized); every value must appear inside its quote | Failing rules are marked `needs_review`, never `auto_validated` | [x] |
 | APP-3 | P0 | Deterministic three-valued rule engine | Unit tests pass for: in-list, range boundaries (min, max, min-1, max+1), missing field → UNKNOWN, exclusion, unresolved text → UNKNOWN | [x] |
 | APP-4 | P0 | Rule review screen: rule shown side by side with source quotes; engineer can approve or edit | Approved rules store `approved_by` + timestamp | [x] |
-| APP-5 | P0 | Extraction accuracy measured against hand labels | Hand-label ≥ 15 Airbus docs; report field-level precision/recall in §8 | [ ] |
+| APP-5 | P0 | Extraction accuracy measured against hand labels | Hand-label ≥ 15 Airbus docs; report field-level precision/recall in §8 | [~] 10 docs, rule-level |
 
 ### Fleet impact
 
