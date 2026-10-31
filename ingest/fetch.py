@@ -15,7 +15,7 @@ from adc.db import connect, rows
 
 API = "https://www.federalregister.gov/api/v1/documents/{}.json"
 FIELDS = ["document_number", "title", "type", "action", "publication_date", "start_page", "end_page",
-          "docket_ids", "raw_text_url", "html_url", "comments_close_on", "dates"]
+          "docket_ids", "raw_text_url", "html_url", "comments_close_on", "dates", "abstract"]
 
 
 def get(s, url, **kw):

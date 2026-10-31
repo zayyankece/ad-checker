@@ -92,32 +92,36 @@ def source_text(doc):
     return None, "summary"
 
 
+def chunk_doc(con, d):
+    con.execute("DELETE FROM chunks WHERE doc_id=?", (d["doc_id"],))
+    con.execute("DELETE FROM chunks_fts WHERE doc_id=?", (d["doc_id"],))
+    out = [("Summary (dataset)", d["fr_page_start"], d["summary"] or "")]
+    text, src = source_text(d)
+    if text:
+        for label, a, b in split_sections(text):
+            page = page_at(text, a, d["fr_page_start"]) if src == "federal_register" else d["fr_page_start"]
+            body = clean(text[a:b])
+            if len(body) < 20:
+                continue
+            out.append((label, page, body))
+    con.execute("UPDATE documents SET text_source=? WHERE doc_id=?", (src, d["doc_id"]))
+    seen, n = {}, 0
+    for ordn, (label, page, body) in enumerate(out):
+        for k, w in enumerate(windows(body)):
+            base = f"{d['doc_id']}#{slug(label)}"
+            seen[base] = seen.get(base, 0) + 1
+            cid = base if seen[base] == 1 else f"{base}-{seen[base]}"
+            con.execute("INSERT INTO chunks VALUES (?,?,?,?,?,?)", (cid, d["doc_id"], label, page, ordn * 100 + k, w))
+            con.execute("INSERT INTO chunks_fts VALUES (?,?,?,?)", (cid, d["doc_id"], label, w))
+            n += 1
+    return n
+
+
 def build():
     con = connect()
     con.execute("DELETE FROM chunks")
     con.execute("DELETE FROM chunks_fts")
-    docs = rows(con, "SELECT * FROM documents")
-    n = 0
-    for d in docs:
-        out = [("Summary (dataset)", d["fr_page_start"], d["summary"] or "")]
-        text, src = source_text(d)
-        if text:
-            for label, a, b in split_sections(text):
-                page = page_at(text, a, d["fr_page_start"]) if src == "federal_register" else d["fr_page_start"]
-                body = clean(text[a:b])
-                if len(body) < 20:
-                    continue
-                out.append((label, page, body))
-        con.execute("UPDATE documents SET text_source=? WHERE doc_id=?", (src, d["doc_id"]))
-        seen = {}
-        for ordn, (label, page, body) in enumerate(out):
-            for k, w in enumerate(windows(body)):
-                base = f"{d['doc_id']}#{slug(label)}"
-                seen[base] = seen.get(base, 0) + 1
-                cid = base if seen[base] == 1 else f"{base}-{seen[base]}"
-                con.execute("INSERT INTO chunks VALUES (?,?,?,?,?,?)", (cid, d["doc_id"], label, page, ordn * 100 + k, w))
-                con.execute("INSERT INTO chunks_fts VALUES (?,?,?,?)", (cid, d["doc_id"], label, w))
-                n += 1
+    n = sum(chunk_doc(con, d) for d in rows(con, "SELECT * FROM documents"))
     con.commit()
     src = rows(con, "SELECT text_source, COUNT(*) n FROM documents GROUP BY 1")
     appl = con.execute("SELECT COUNT(DISTINCT doc_id) FROM chunks WHERE section LIKE '%Applicability%'").fetchone()[0]

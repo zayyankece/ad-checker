@@ -35,6 +35,58 @@ def load_fleet(path=FLEET):
     return good, bad
 
 
+def plain_reason(v):
+    """One sentence an engineer can read in two seconds."""
+    rs = [t.reason for t in v.traces]
+    if v.label == "APPLIES":
+        return "; ".join(t.reason for t in v.traces if t.result == "TRUE")
+    if v.label == "NOT APPLICABLE":
+        return next((t.reason for t in v.traces if t.result == "FALSE"), "not covered")
+    return "Need info: " + (v.questions[0]["text"] if v.questions else "; ".join(rs))
+
+
+def load_fleet_db(con):
+    """Live fleet (editable in the app). Seeded from fleet.csv the first time."""
+    if not one(con, "SELECT 1 FROM aircraft LIMIT 1"):
+        seed, _ = load_fleet()
+        for a in seed:
+            upsert_aircraft(con, a)
+    out = []
+    for r in rows(con, "SELECT * FROM aircraft ORDER BY registration"):
+        out.append({**r, "mods_installed": json.loads(r["mods_installed"]) if r["mods_installed"] else None,
+                    "parts_installed": json.loads(r["parts_installed"]) if r["parts_installed"] else None,
+                    "facts": json.loads(r["facts"] or "{}")})
+    return out
+
+
+def upsert_aircraft(con, a):
+    old = one(con, "SELECT facts FROM aircraft WHERE registration=?", (a["registration"],))
+    facts = a.get("facts") or (json.loads(old["facts"]) if old and old["facts"] else {})
+    con.execute("INSERT OR REPLACE INTO aircraft VALUES (?,?,?,?,?,?,?,?)", (
+        a["registration"].strip().upper(), a["model"].strip().upper(), str(a.get("msn") or "").strip() or None,
+        a.get("engine_model") or None, a.get("cert_date") or None,
+        json.dumps(a["mods_installed"]) if a.get("mods_installed") is not None else None,
+        json.dumps(a["parts_installed"]) if a.get("parts_installed") is not None else None, json.dumps(facts)))
+    con.commit()
+
+
+def delete_aircraft(con, reg):
+    con.execute("DELETE FROM aircraft WHERE registration=?", (reg,))
+    con.commit()
+
+
+def answer_question(con, reg, key, value):
+    """Store an engineer's answer. Plain fields update the aircraft record; everything else becomes a fact."""
+    if key in ("msn", "cert_date", "model", "engine_model"):
+        con.execute(f"UPDATE aircraft SET {key}=? WHERE registration=?", (value, reg))
+    else:
+        r = one(con, "SELECT facts FROM aircraft WHERE registration=?", (reg,))
+        facts = json.loads(r["facts"] or "{}")
+        facts[key] = value
+        con.execute("UPDATE aircraft SET facts=? WHERE registration=?", (json.dumps(facts), reg))
+    con.commit()
+
+
 def doc_status(con, doc_id):
     d = one(con, "SELECT * FROM documents WHERE doc_id=?", (doc_id,))
     rv = one(con, "SELECT * FROM revisions WHERE doc_id=?", (doc_id,))
@@ -74,8 +126,8 @@ def impact_report(con, doc_id, fleet):
             v.missing.insert(0, "Applicability rule failed validation; engineer review required.")
         out["aircraft"].append({
             "registration": ac["registration"], "model": ac["model"], "msn": ac["msn"], "label": v.label,
-            "evidence": [{"quote": t.condition.quote, "result": t.result, "reason": t.reason} for t in v.traces],
-            "missing": v.missing,
+            "evidence": [{"quote": t.condition.quote if t.condition else None, "result": t.result, "reason": t.reason} for t in v.traces],
+            "missing": v.missing, "questions": v.questions, "reason": plain_reason(v),
         })
     return out
 

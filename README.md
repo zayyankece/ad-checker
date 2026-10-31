@@ -22,6 +22,14 @@ Order matters: `fetch` and `extract` read the database built by `build`. Re-run 
 
 Actual code layout: `adc/` (config, db, fleet), `ingest/` (load, fetch, chunk, revisions), `rules/` (schema, extract, validate, engine), `qa/` (retrieve, verify, pipeline), `app/`, `eval/`, `tests/`.
 
+## How an engineer uses it
+
+1. **Fleet** (once): edit the fleet like a spreadsheet or import a CSV. Only registration and model are required.
+2. **Add directive**: paste a Federal Register document number or link. The system downloads the full text, reads the applicability, checks the fleet.
+3. **Inbox** (weekly): one card per open proposal, one line each: which aircraft, what work, how many hours, comment deadline, what changed if revised. Proposals that don't touch the fleet are folded away.
+4. **Need info**: when the text alone can't decide (e.g. the list is in an EASA AD, or a modification status is unknown), the system asks one yes/no question. The answer is stored on the aircraft and reused by every directive that asks the same thing.
+5. **Sign off**: one click confirms the assessment for the whole fleet; overrides need a reason; report exports to CSV. Source text and rule details stay one click away under "Evidence".
+
 ## Current results (update after every eval run)
 
 After Federal Register full-text fetch for every linked document (405 of 431 documents have full text; the other 26 have no link in the dataset and are summary-only). Regex extractor; lookup answers via Claude with citation verifier (39/39 also holds in extractive mode without an API key):

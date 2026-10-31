@@ -50,6 +50,16 @@ CREATE TABLE IF NOT EXISTS revisions (
   latest_doc_id TEXT,
   docket_status TEXT
 );
+CREATE TABLE IF NOT EXISTS aircraft (
+  registration TEXT PRIMARY KEY,
+  model TEXT,
+  msn TEXT,
+  engine_model TEXT,
+  cert_date TEXT,
+  mods_installed TEXT,
+  parts_installed TEXT,
+  facts TEXT
+);
 CREATE TABLE IF NOT EXISTS signoffs (
   doc_id TEXT,
   registration TEXT,
