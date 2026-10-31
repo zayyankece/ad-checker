@@ -21,14 +21,39 @@ fleet = load_fleet_db(con)
 TODAY = date.today().isoformat()
 
 FRIENDLY = {"APPLIES": "Affects", "NOT APPLICABLE": "Not affected", "CANNOT DETERMINE": "Need info"}
-COLORS = {"Affects": "#c0392b", "Not affected": "#2e7d32", "Need info": "#e67e22", "Revised": "#1565c0",
-          "Done": "#546e7a", "Proposed": "#6d4c41", "Withdrawn": "#546e7a", "Adopted": "#283593"}
+COLORS = {"Affects": "#B91C1C", "Not affected": "#15803D", "Need info": "#C2410C", "Revised": "#1E5BB8",
+          "Done": "#475569", "Proposed": "#0A2A66", "Withdrawn": "#475569", "Adopted": "#312E81"}
 
 st.markdown("""<style>
-.chip{display:inline-block;color:#fff;padding:1px 9px;border-radius:10px;font-size:.78rem;font-weight:600;margin-right:6px}
-.big{font-size:1.08rem;font-weight:600;margin:2px 0}
-.muted{color:#6b7280;font-size:.88rem}
-.quote{border-left:3px solid #9ca3af;padding:2px 10px;color:#374151;font-size:.9rem;margin:4px 0}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+html, body, [class*="css"], .stMarkdown, .stButton button {font-family:'Inter',system-ui,sans-serif}
+.block-container{padding-top:1.2rem;max-width:1180px}
+section[data-testid="stSidebar"]{background:#0A2A66}
+section[data-testid="stSidebar"] *{color:#E8EEF8 !important}
+section[data-testid="stSidebar"] input{color:#0B1F3A !important;background:#fff !important}
+section[data-testid="stSidebar"] [role="radiogroup"] label{padding:6px 8px;border-radius:8px}
+section[data-testid="stSidebar"] [role="radiogroup"] label:hover{background:rgba(255,255,255,.08)}
+div[data-testid="stVerticalBlockBorderWrapper"]{background:#fff;border-radius:12px;border-color:#DCE3EE !important;box-shadow:0 1px 2px rgba(10,42,102,.06)}
+.banner{background:linear-gradient(100deg,#0A2A66 0%,#123B8A 60%,#1E5BB8 100%);color:#fff;border-radius:14px;padding:18px 24px;margin-bottom:18px}
+.banner h1{color:#fff;font-size:1.55rem;margin:0;font-weight:700;letter-spacing:-.01em}
+.banner .sub{color:#C9D7F0;font-size:.92rem;margin-top:4px}
+.banner .stat{display:inline-block;background:rgba(255,255,255,.12);border-radius:8px;padding:3px 10px;margin:10px 8px 0 0;font-size:.82rem;color:#fff}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:4px 0 18px}
+.kpi{background:#fff;border:1px solid #DCE3EE;border-radius:12px;padding:12px 16px}
+.kpi .n{font-size:1.7rem;font-weight:700;color:#0A2A66;line-height:1.1}
+.kpi .l{font-size:.8rem;color:#5B6B85;margin-top:2px}
+.kpi.warn .n{color:#C2410C}.kpi.red .n{color:#B91C1C}
+.chip{display:inline-block;color:#fff;padding:2px 10px;border-radius:999px;font-size:.74rem;font-weight:600;margin-right:6px;letter-spacing:.02em}
+.big{font-size:1.1rem;font-weight:600;margin:4px 0;color:#0B1F3A}
+.muted{color:#5B6B85;font-size:.88rem}
+.quote{border-left:3px solid #1E5BB8;background:#F4F7FC;padding:6px 12px;color:#23324D;font-size:.9rem;margin:6px 0;border-radius:0 6px 6px 0}
+.step{background:#fff;border:1px solid #DCE3EE;border-radius:14px;padding:18px;height:100%}
+.step .num{display:inline-flex;width:28px;height:28px;border-radius:50%;background:#0A2A66;color:#fff;align-items:center;justify-content:center;font-weight:700;font-size:.9rem}
+.step h3{font-size:1.05rem;margin:10px 0 6px;color:#0A2A66}
+.step p{font-size:.9rem;color:#33415C;margin:0}
+.gloss td{padding:6px 10px;vertical-align:top;font-size:.9rem}
+.gloss td:first-child{font-weight:600;color:#0A2A66;white-space:nowrap}
+@media (max-width: 800px){.kpis{grid-template-columns:repeat(2,1fr)}}
 </style>""", unsafe_allow_html=True)
 
 
@@ -62,12 +87,26 @@ def go(page, doc=None):
 # ---------- sidebar ----------
 if "goto" in st.session_state:
     st.session_state["nav"] = st.session_state.pop("goto")
+PAGES = ["Start here", "To-do", "My aircraft", "New directives", "Ask", "Rule check (advanced)"]
+ICONS = {"Start here": "🧭", "To-do": "📥", "My aircraft": "✈️", "New directives": "📄", "Ask": "💬", "Rule check (advanced)": "🛠️"}
+if "nav" not in st.session_state:
+    st.session_state["nav"] = "Start here"
 with st.sidebar:
-    st.markdown("### ✈️ Directive Impact Checker")
-    st.caption("Proposed FAA airworthiness directives vs. your fleet. The language model reads; rules decide; you sign off.")
-    page = st.radio("Go to", ["Inbox", "Fleet", "Add directive", "Ask", "Expert"], key="nav", label_visibility="collapsed")
+    st.markdown("### Directive Impact Checker")
+    st.caption("New FAA rules vs. your aircraft")
+    page = st.radio("Go to", PAGES, key="nav", label_visibility="collapsed", format_func=lambda p: f"{ICONS[p]}  {p}")
+    st.divider()
     st.text_input("Your name (for sign-off)", key="engineer")
-    st.caption(f"Fleet: {len(fleet)} aircraft · today {TODAY}")
+    st.caption(f"Today {TODAY}")
+
+
+def banner(title, sub):
+    n_docs = one(con, "SELECT COUNT(*) n FROM documents")["n"]
+    last = one(con, "SELECT MAX(publish_date) d FROM documents")["d"]
+    st.markdown(f"<div class='banner'><h1>{title}</h1><div class='sub'>{sub}</div>"
+                f"<span class='stat'>✈️ {len(fleet)} aircraft in your fleet</span>"
+                f"<span class='stat'>📄 {n_docs} directive documents tracked</span>"
+                f"<span class='stat'>🕑 newest document {last}</span></div>", unsafe_allow_html=True)
 
 
 # ---------- shared pieces ----------
@@ -107,8 +146,8 @@ def show_diffs(diffs):
 
 
 def render_detail(doc_id):
-    if st.button("← Back to inbox"):
-        go("Inbox")
+    if st.button("← Back to To-do"):
+        go("To-do")
     rep = impact_report(con, doc_id, fleet)
     d, rv = rep["status"]["doc"], rep["status"]["revision"]
     c = card(con, doc_id, fleet, TODAY) or {}
@@ -194,6 +233,21 @@ def render_detail(doc_id):
     } for a in rep["aircraft"]])
     st.download_button("Download report (CSV)", export.to_csv(index=False), f"{d['docket']}_impact.csv", "text/csv")
 
+    if status == "Proposed" and (c.get("days_left") or -1) >= 0 and any(a["label"] == "APPLIES" for a in rep["aircraft"]):
+        with st.expander("✍️ Draft a comment to the FAA (optional)"):
+            from adc.comment import draft, facts_block
+            st.caption("Proposals are open for public comment until the deadline. The draft uses only the facts below; "
+                       "placeholders mark where your own position goes. You edit it and decide whether to send it.")
+            st.code(facts_block(c, rep), language=None)
+            if st.button("Draft comment", key=f"cm-{doc_id}"):
+                from adc.llm import client
+                with st.spinner("Drafting…"):
+                    st.session_state[f"cm-text-{doc_id}"], st.session_state[f"cm-how-{doc_id}"] = draft(client(), c, rep)
+            if st.session_state.get(f"cm-text-{doc_id}"):
+                txt = st.text_area("Draft (edit freely)", st.session_state[f"cm-text-{doc_id}"], height=260, key=f"cm-edit-{doc_id}")
+                st.caption(st.session_state.get(f"cm-how-{doc_id}", ""))
+                st.download_button("Download draft (.txt)", txt, f"{d['docket']}_comment.txt", key=f"cm-dl-{doc_id}")
+
     st.markdown("### Evidence")
     with st.expander("Source text the decision is based on"):
         from rules.extract import applicability_text
@@ -252,12 +306,47 @@ def inbox_card(c):
             ch = [f"{x['registration']} now {({'APPLIES': 'affected', 'NOT APPLICABLE': 'not affected'}).get(x['after'], 'needs info')}" for x in c["revised"]["fleet_changes"]]
             ch += [f"“{a}” → “{b}”" for a, b in c["revised"]["words"][:1]]
             st.markdown(f"<span class='muted'>What changed ({c['revised']['to']}): {'; '.join(ch)}</span>", unsafe_allow_html=True)
-        if st.button("Open", key=f"open-{c['doc_id']}"):
-            go("Inbox", c["doc_id"])
+        if st.button("Review →", key=f"open-{c['doc_id']}", type="primary" if not c["done"] else "secondary"):
+            go("To-do", c["doc_id"])
 
 
 # ---------- pages ----------
-if page == "Inbox":
+if page == "Start here":
+    banner("Know which new FAA rules hit your aircraft", "Built for the continuing-airworthiness engineer who reviews proposed directives every week.")
+    st.markdown("#### The problem")
+    st.markdown("Every week the FAA publishes proposed airworthiness directives. For each one, someone has to read the "
+                "applicability text, compare it with every aircraft's model, serial number and history, check whether it "
+                "replaces an earlier rule, and decide whether to comment before the deadline. It is slow, and one misread "
+                "serial range is a safety issue.")
+    st.markdown("#### How this tool works")
+    c1, c2, c3 = st.columns(3)
+    c1.markdown("<div class='step'><span class='num'>1</span><h3>✈️ My aircraft</h3><p>Keep a simple list of your aircraft: "
+                "registration, model, serial number. Edit it like a spreadsheet. You do this once.</p></div>", unsafe_allow_html=True)
+    c2.markdown("<div class='step'><span class='num'>2</span><h3>📄 New directives</h3><p>The tool pulls new FAA proposals, "
+                "reads the full text and works out exactly which aircraft each one covers. No upload needed.</p></div>", unsafe_allow_html=True)
+    c3.markdown("<div class='step'><span class='num'>3</span><h3>📥 To-do</h3><p>You only see what needs a decision: which "
+                "aircraft are affected, what work, how many hours, by when. Confirm in one click.</p></div>", unsafe_allow_html=True)
+    st.markdown("#### Why you can trust the answer")
+    st.markdown("""
+- **The AI reads, it doesn't decide.** A language model turns the legal text into a rule; plain code checks the rule against each aircraft.
+- **Every result shows its source.** The exact sentence from the Federal Register is one click away.
+- **When it isn't sure, it asks you.** E.g. *"Does EASA AD 2025-0286 list 9V-ZMF?"* Your answer is saved and reused.
+- **You sign off.** Nothing is final until an engineer confirms or overrides it.
+""")
+    st.markdown("#### Words you'll see")
+    st.markdown("""<table class='gloss'>
+<tr><td>Directive (AD)</td><td>A legally binding FAA order to inspect or fix certain aircraft.</td></tr>
+<tr><td>Proposed (NPRM)</td><td>A draft directive, open for public comment. Not binding yet, but it tells you what's coming.</td></tr>
+<tr><td>Docket</td><td>The FAA case number (e.g. FAA-2026-1338). One docket can have several versions over time.</td></tr>
+<tr><td>Revised</td><td>The FAA changed an earlier proposal. The tool shows exactly what changed and which aircraft moved in or out.</td></tr>
+<tr><td>Need info</td><td>The text alone can't decide for this aircraft. Answer one question and the tool finishes the check.</td></tr>
+<tr><td>MSN</td><td>Manufacturer serial number: the aircraft's unique build number.</td></tr>
+</table>""", unsafe_allow_html=True)
+    st.write("")
+    if st.button("Go to my To-do →", type="primary"):
+        go("To-do")
+
+elif page == "To-do":
     if st.session_state.get("open_doc"):
         render_detail(st.session_state["open_doc"])
     else:
@@ -265,12 +354,18 @@ if page == "Inbox":
         todo = [c for c in open_ if c["kind"] != "clear" and not c["done"]]
         done = [c for c in open_ if c["done"]]
         clear = [c for c in open_ if c["kind"] == "clear" and not c["done"]]
-        st.markdown("## Inbox")
+        banner("To-do", "Open FAA proposals that touch your fleet. Comment period still open, soonest deadline first.")
         n_in = sum(1 for c in todo if c["kind"] == "needs_input")
         n_af = sum(1 for c in todo if c["kind"] == "affects")
-        st.markdown(f"<span class='muted'>Open proposals (comment period still open): "
-                    f"<b>{n_in}</b> need your input · <b>{n_af}</b> affect your fleet · {len(clear)} don't affect you · "
-                    f"{len(done)} done</span>", unsafe_allow_html=True)
+        soon = sum(1 for c in todo if c["days_left"] is not None and c["days_left"] <= 14)
+        hours = sum((c["effort"] or 0) * len(c["applies"]) for c in todo)
+        st.markdown(f"""<div class='kpis'>
+<div class='kpi warn'><div class='n'>{n_in}</div><div class='l'>need your input</div></div>
+<div class='kpi red'><div class='n'>{n_af}</div><div class='l'>affect your fleet</div></div>
+<div class='kpi'><div class='n'>{soon}</div><div class='l'>comment deadline ≤ 14 days</div></div>
+<div class='kpi'><div class='n'>{hours:,.0f}</div><div class='l'>proposed work-hours (FAA estimates)</div></div>
+</div>""", unsafe_allow_html=True)
+        st.caption(f"{len(clear)} open proposals don't affect you · {len(done)} done")
         if not todo:
             st.success("Nothing to review.")
         for c in todo:
@@ -284,19 +379,19 @@ if page == "Inbox":
                 cols = st.columns([5, 1])
                 cols[0].markdown(f"**{c['docket']}** · {due_text(c['due'], c['days_left'])} · {c['require'] or ''}")
                 if cols[1].button("Open", key=f"open-clear-{c['doc_id']}"):
-                    go("Inbox", c["doc_id"])
+                    go("To-do", c["doc_id"])
         with st.expander(f"Older proposals, comment period closed ({len(older)})"):
             for c in older:
                 tag = ("affects " + ", ".join(c["applies"])) if c["applies"] else ("need info" if c["unknown"] else "not affected")
                 cols = st.columns([5, 1])
                 cols[0].markdown(f"**{c['docket']}** · {c['due'] or 'no date'} · {tag}")
                 if cols[1].button("Open", key=f"open-old-{c['doc_id']}"):
-                    go("Inbox", c["doc_id"])
+                    go("To-do", c["doc_id"])
 
-elif page == "Fleet":
-    st.markdown("## Fleet")
-    st.caption("Edit cells directly, add a row at the bottom, or select rows and delete them. Click Save when done. "
-               "Only registration and model are required; anything missing turns into a question in the inbox when a directive needs it.")
+elif page == "My aircraft":
+    banner("My aircraft", "Your fleet list. Edit it like a spreadsheet; every change re-checks all open proposals instantly.")
+    st.caption("Add a row at the bottom, edit any cell, or select rows and delete them, then click Save. "
+               "Only registration and model are required. Anything missing becomes a question in your To-do when a directive needs it.")
     known_models = sorted({str(v) for r in rows(con, "SELECT rule_json FROM rules")
                            for g in json.loads(r["rule_json"])["groups"] for c in g["conditions"]
                            if c["field"] == "model" for v in c["values"]} | {a["model"] for a in fleet})
@@ -334,13 +429,18 @@ elif page == "Fleet":
                                       "cert_date": r.get("cert_date") or None, "engine_model": r.get("engine_model") or None})
         st.rerun()
 
-    st.markdown("### Impact per aircraft (open proposals)")
+    st.markdown("### Workload per aircraft (open proposals)")
+    st.caption("For hangar planning: what each aircraft would need if the open proposals become final. Hours are the FAA's own estimates.")
     open_, _ = build_inbox(con, fleet, TODAY)
     st.dataframe(pd.DataFrame([{
         "aircraft": a["registration"], "model": a["model"],
         "affected by": ", ".join(c["docket"] for c in open_ if a["registration"] in c["applies"]) or "—",
+        "proposed work-hours": sum(c["effort"] or 0 for c in open_ if a["registration"] in c["applies"]),
+        "next comment deadline": min([c["due"] for c in open_ if a["registration"] in c["applies"] + c["unknown"] and c["due"]], default="—"),
         "need info": ", ".join(c["docket"] for c in open_ if a["registration"] in c["unknown"]) or "—",
-        "answers on file": len(a["facts"])} for a in fleet]), hide_index=True, use_container_width=True)
+    } for a in fleet]), hide_index=True, use_container_width=True,
+        column_config={"proposed work-hours": st.column_config.ProgressColumn("proposed work-hours", format="%d h", min_value=0,
+                                                                              max_value=max([1] + [sum(c["effort"] or 0 for c in open_ if a["registration"] in c["applies"]) for a in fleet]))})
     with st.expander("Answers on file (from inbox questions)"):
         any_ = False
         for a in fleet:
@@ -359,11 +459,26 @@ elif page == "Fleet":
         if not any_:
             st.write("None yet.")
 
-elif page == "Add directive":
-    st.markdown("## Add a new directive")
-    st.caption("Paste the Federal Register document number or link of a new proposed airworthiness directive. "
-               "The system downloads the full text, reads the applicability section, checks your fleet and opens the result. "
-               "Aircraft it cannot decide on show up as “Need info” with a question for you.")
+elif page == "New directives":
+    banner("New directives", "Pull new FAA proposals for the manufacturers in your fleet. Each one is read, checked against every aircraft and filed in your To-do.")
+    with st.container(border=True):
+        st.markdown("<div class='big'>Check the Federal Register for new proposals</div>", unsafe_allow_html=True)
+        st.markdown("<span class='muted'>Looks for proposed Airbus airworthiness directives published since the newest one in the system.</span>",
+                    unsafe_allow_html=True)
+        if st.button("Check for new directives", type="primary"):
+            from adc.llm import client
+            from ingest.discover import discover_and_add
+            try:
+                with st.spinner("Searching the Federal Register…"):
+                    added, seen = discover_and_add(con, client())
+                if added:
+                    st.success(f"Added {len(added)} new directive(s): {', '.join(added)}. They are in your To-do.")
+                else:
+                    st.info(f"No new proposals ({seen} checked).")
+            except Exception as e:
+                st.error(f"Could not reach the Federal Register: {e}")
+    st.markdown("#### Or add one by hand")
+    st.caption("Paste a Federal Register document number or link. Aircraft the tool cannot decide on show up as “Need info” with a question for you.")
     ref = st.text_input("Document number or link", placeholder="e.g. 2026-21334 or https://www.federalregister.gov/documents/...")
     if st.button("Add", type="primary", disabled=not ref):
         from adc.llm import client
@@ -371,13 +486,12 @@ elif page == "Add directive":
         try:
             with st.spinner("Downloading and reading…"):
                 doc_id, how = add_document(con, ref, client())
-            go("Inbox", doc_id)
+            go("To-do", doc_id)
         except Exception as e:
             st.error(f"Could not add: {e}")
 
 elif page == "Ask":
-    st.markdown("## Ask")
-    st.caption("Answers come only from the directive texts, with citations. Applicability is decided by the rule engine.")
+    banner("Ask", "Ask in plain English. Answers come only from the directive texts, with the source sentence. If the documents don't say, it tells you.")
     q = st.text_input("Question", placeholder="Does FAA-2026-11813 apply to 9V-ZMF?")
     if q:
         r = ask(con, q, fleet)
@@ -404,16 +518,15 @@ elif page == "Ask":
                 for qq in v.get("questions", []):
                     st.markdown(f"❓ {qq['text']}")
                 if v.get("doc_id") and st.button("Open directive", key=f"ask-open-{i}"):
-                    go("Inbox", v["doc_id"])
+                    go("To-do", v["doc_id"])
         for i, c in enumerate(r["claims"], 1):
             st.markdown(f"**[{i}]** {c.get('text')}")
             st.markdown(f"<div class='quote'>{c.get('quote')}</div><span class='muted'>{c.get('docket', '')} · "
                         f"{c.get('section', '')} · page {c.get('page', '?')}</span>", unsafe_allow_html=True)
         st.caption(f"Answered in {r['latency'].get('total_s', 0):.2f}s" + (f" · {r['mode']}" if r.get("mode") else ""))
 
-elif page == "Expert":
-    st.markdown("## Expert")
-    st.caption("Rule review and raw data. Day-to-day use does not need this page.")
+elif page == "Rule check (advanced)":
+    banner("Rule check (advanced)", "See and correct the machine-readable rule extracted from each directive. Day-to-day use doesn't need this page.")
     rl = rows(con, """SELECT r.doc_id, r.validation, r.extractor, r.approved_by, d.docket FROM rules r
                       JOIN documents d USING(doc_id) WHERE d.make_norm IN ('Airbus','Airbus Canada')
                       ORDER BY r.validation, d.issue_date DESC""")
