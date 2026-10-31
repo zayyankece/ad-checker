@@ -1,0 +1,264 @@
+{
+ "summary": {
+  "cases": 30,
+  "passed": 30,
+  "per_category": {
+   "lookup": "6/6",
+   "applicability": "8/8",
+   "revision": "4/4",
+   "out_of_scope": "6/6",
+   "ambiguous": "3/3",
+   "false_premise": "3/3"
+  },
+  "refusal_precision": 1.0,
+  "refusal_recall": 1.0,
+  "latency_total_p50_s": 0.0005,
+  "latency_total_p95_s": 0.0026,
+  "latency_retrieval_p95_s": 0.002,
+  "index_chunks": 934,
+  "index_pages": 1341,
+  "answer_mode": "extractive (no API key)"
+ },
+ "cases": [
+  {
+   "id": "L1",
+   "cat": "lookup",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "L2",
+   "cat": "lookup",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "L3",
+   "cat": "lookup",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "L4",
+   "cat": "lookup",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "L5",
+   "cat": "lookup",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "L6",
+   "cat": "lookup",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "A1",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "A2",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "A3",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "A4",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "A5",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "NEEDS_INFO",
+   "code": null
+  },
+  {
+   "id": "A6",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "A7",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "A8",
+   "cat": "applicability",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "V1",
+   "cat": "revision",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "V2",
+   "cat": "revision",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "V3",
+   "cat": "revision",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "V4",
+   "cat": "revision",
+   "pass": true,
+   "fails": [],
+   "status": "ANSWER",
+   "code": null
+  },
+  {
+   "id": "O1",
+   "cat": "out_of_scope",
+   "pass": true,
+   "fails": [],
+   "status": "REFUSED",
+   "code": "R2"
+  },
+  {
+   "id": "O2",
+   "cat": "out_of_scope",
+   "pass": true,
+   "fails": [],
+   "status": "REFUSED",
+   "code": "R2"
+  },
+  {
+   "id": "O3",
+   "cat": "out_of_scope",
+   "pass": true,
+   "fails": [],
+   "status": "REFUSED",
+   "code": "R1"
+  },
+  {
+   "id": "O4",
+   "cat": "out_of_scope",
+   "pass": true,
+   "fails": [],
+   "status": "REFUSED",
+   "code": "R1"
+  },
+  {
+   "id": "O5",
+   "cat": "out_of_scope",
+   "pass": true,
+   "fails": [],
+   "status": "REFUSED",
+   "code": "R2"
+  },
+  {
+   "id": "O6",
+   "cat": "out_of_scope",
+   "pass": true,
+   "fails": [],
+   "status": "REFUSED",
+   "code": "R2"
+  },
+  {
+   "id": "M1",
+   "cat": "ambiguous",
+   "pass": true,
+   "fails": [],
+   "status": "NEEDS_INFO",
+   "code": "R3"
+  },
+  {
+   "id": "M2",
+   "cat": "ambiguous",
+   "pass": true,
+   "fails": [],
+   "status": "NEEDS_INFO",
+   "code": "R3"
+  },
+  {
+   "id": "M3",
+   "cat": "ambiguous",
+   "pass": true,
+   "fails": [],
+   "status": "NEEDS_INFO",
+   "code": "R3"
+  },
+  {
+   "id": "P1",
+   "cat": "false_premise",
+   "pass": true,
+   "fails": [],
+   "status": "REFUSED",
+   "code": "R6"
+  },
+  {
+   "id": "P2",
+   "cat": "false_premise",
+   "pass": true,
+   "fails": [],
+   "status": "REFUSED",
+   "code": "R6"
+  },
+  {
+   "id": "P3",
+   "cat": "false_premise",
+   "pass": true,
+   "fails": [],
+   "status": "REFUSED",
+   "code": "R6"
+  }
+ ]
+}

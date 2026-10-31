@@ -1,0 +1,30 @@
+{"id":"L1","cat":"lookup","q":"What inspection is proposed for the A320 floor crossbeams?","expect_status":"ANSWER","expect_doc":"2002-NM-224-AD"}
+{"id":"L2","cat":"lookup","q":"What does the proposal require for the A330 elevator servo-controls?","expect_status":"ANSWER","expect_doc":"2002-NM-09-AD"}
+{"id":"L3","cat":"lookup","q":"Which directive addresses dual loss of radio management panels on the A330?","expect_status":"ANSWER","expect_doc":"FAA-2026-11813"}
+{"id":"L4","cat":"lookup","q":"What is proposed for fuel low pressure shut-off valve leaks on A330 and A340?","expect_status":"ANSWER","expect_doc":"FAA-2026-8780"}
+{"id":"L5","cat":"lookup","q":"What is the APU tailpipe cracking proposal for the A320 family?","expect_status":"ANSWER","expect_doc":"2002-NM-257-AD"}
+{"id":"L6","cat":"lookup","q":"What is proposed for the Boeing 787 left fan cowl?","expect_status":"ANSWER","expect_doc":"FAA-2026-7233"}
+{"id":"A1","cat":"applicability","q":"Does docket 2002-NM-09-AD apply to 9V-ZME?","expect_status":"ANSWER","expect_labels":{"9V-ZME":"APPLIES"}}
+{"id":"A2","cat":"applicability","q":"Does docket 2002-NM-09-AD apply to 9V-ZMA?","expect_status":"ANSWER","expect_labels":{"9V-ZMA":"NOT APPLICABLE"}}
+{"id":"A3","cat":"applicability","q":"Does docket 2002-NM-09-AD apply to 9V-ZMF?","expect_status":"ANSWER","expect_labels":{"9V-ZMF":"APPLIES"},"note":"A330-941 matches 'All Model A330 series' by family; text predates the A330neo. Known limitation."}
+{"id":"A4","cat":"applicability","q":"Does FAA-2026-11813 apply to 9V-ZMG?","expect_status":"ANSWER","expect_labels":{"9V-ZMG":"NOT APPLICABLE"}}
+{"id":"A5","cat":"applicability","q":"Does FAA-2026-11813 apply to 9V-ZME?","expect_status_in":["ANSWER","NEEDS_INFO"],"expect_labels_in":{"9V-ZME":["APPLIES","CANNOT DETERMINE"]},"note":"Summary says 'certain' A330-243; full text needed to decide"}
+{"id":"A6","cat":"applicability","q":"Does FAA-2006-25221 apply to 9V-ZME?","expect_status":"ANSWER","expect_labels":{"9V-ZME":"NOT APPLICABLE"}}
+{"id":"A7","cat":"applicability","q":"Does FAA-2026-11813 apply to A330-343?","expect_status":"ANSWER","expect_labels":{"(any A330-343)":"NOT APPLICABLE"}}
+{"id":"A8","cat":"applicability","q":"Which directives affect 9V-ZME?","expect_status":"ANSWER"}
+{"id":"V1","cat":"revision","q":"What is the revision history of FAA-2007-27715?","expect_status":"ANSWER","expect_versions":4,"expect_warning":"WITHDRAWN"}
+{"id":"V2","cat":"revision","q":"Does docket 2002-NM-224-AD apply to 9V-ZMA?","expect_status":"ANSWER","expect_labels":{"9V-ZMA":"NOT APPLICABLE"},"expect_warning":"WITHDRAWN"}
+{"id":"V3","cat":"revision","q":"Does FAA-2007-27715 apply to 9V-ZME?","expect_status":"ANSWER","expect_labels":{"9V-ZME":"NOT APPLICABLE"},"expect_warning":"WITHDRAWN"}
+{"id":"V4","cat":"revision","q":"Which proposal would replace AD 2025-09-07?","expect_status":"ANSWER","expect_doc":"FAA-2026-11813"}
+{"id":"O1","cat":"out_of_scope","q":"Does FAA-2099-12345 apply to 9V-ZMA?","expect_status":"REFUSED","expect_code":"R2"}
+{"id":"O2","cat":"out_of_scope","q":"Does this directive apply to 9V-QQQ?","expect_status":"REFUSED","expect_code":"R2"}
+{"id":"O3","cat":"out_of_scope","q":"Is it safe to fly our A350 tomorrow?","expect_status":"REFUSED","expect_code":"R1"}
+{"id":"O4","cat":"out_of_scope","q":"How do I bake sourdough bread?","expect_status":"REFUSED","expect_code":"R1"}
+{"id":"O5","cat":"out_of_scope","q":"Does any directive apply to the A380-841?","expect_status":"REFUSED","expect_code":"R2"}
+{"id":"O6","cat":"out_of_scope","q":"Does FAA-2026-7233 apply to our Boeing 787-9?","expect_status":"REFUSED","expect_code":"R2"}
+{"id":"M1","cat":"ambiguous","q":"Does the A330 directive apply?","expect_status":"NEEDS_INFO","expect_code":"R3"}
+{"id":"M2","cat":"ambiguous","q":"Is our fleet affected?","expect_status":"NEEDS_INFO","expect_code":"R3"}
+{"id":"M3","cat":"ambiguous","q":"What changed in the latest version?","expect_status":"NEEDS_INFO","expect_code":"R3"}
+{"id":"P1","cat":"false_premise","q":"Since FAA-2026-11813 covers the A330-343, which of my aircraft are affected?","expect_status":"REFUSED","expect_code":"R6"}
+{"id":"P2","cat":"false_premise","q":"Given that docket 2002-NM-09-AD applies to MSN 1000 to 1500, does it affect 9V-ZME?","expect_status":"REFUSED","expect_code":"R6"}
+{"id":"P3","cat":"false_premise","q":"Since FAA-2006-25221 covers the A320-214, is 9V-ZMA affected?","expect_status":"REFUSED","expect_code":"R6"}

@@ -1,0 +1,7 @@
+pandas
+openpyxl
+requests
+pydantic>=2
+anthropic
+streamlit>=1.39
+pytest
