@@ -119,11 +119,28 @@ def impact_report(con, doc_id, fleet):
     if rule is None:
         out["error"] = "No applicability rule extracted for this document."
         return out
+    alt = Rule.model_validate_json(meta["alt_rule_json"]) if meta.get("alt_rule_json") else None
     for ac in fleet:
         v = evaluate(rule, ac)
         if meta["validation"] == "needs_review" and v.label != "NOT APPLICABLE":
             v.label, v.value = "CANNOT DETERMINE", "UNKNOWN"
             v.missing.insert(0, "Applicability rule failed validation; engineer review required.")
+        if alt and v.label != "CANNOT DETERMINE":
+            v2 = evaluate(alt, ac)
+            if v2.label != "CANNOT DETERMINE" and v2.label != v.label:
+                key = f"agree:{doc_id}"
+                ans = (ac.get("facts") or {}).get(key)
+                if ans is None:
+                    short = {"APPLIES": "affected", "NOT APPLICABLE": "not affected"}
+                    name = {"regex": "rule-based reader", "llm": "AI reader"}
+                    q = {"key": key, "kind": "include",
+                         "text": f"The two independent readers of this directive disagree for {ac['registration']} "
+                                 f"({name.get(meta['extractor'], meta['extractor'])}: {short[v.label]}, "
+                                 f"{name.get(meta['alt_extractor'], meta['alt_extractor'])}: {short[v2.label]}). "
+                                 f"Check the source text: is {ac['registration']} included?"}
+                    v.label, v.value, v.questions, v.missing = "CANNOT DETERMINE", "UNKNOWN", [q], [q["text"]]
+                else:
+                    v.label = "APPLIES" if ans else "NOT APPLICABLE"
         out["aircraft"].append({
             "registration": ac["registration"], "model": ac["model"], "msn": ac["msn"], "label": v.label,
             "evidence": [{"quote": t.condition.quote if t.condition else None, "result": t.result, "reason": t.reason} for t in v.traces],
@@ -133,14 +150,23 @@ def impact_report(con, doc_id, fleet):
 
 
 def aircraft_report(con, ac):
+    """Every latest, non-withdrawn Airbus proposal that affects this aircraft or cannot be ruled out. Open comment periods first."""
+    from datetime import date
+    today = date.today().isoformat()
     out = []
-    for r in rows(con, "SELECT r.doc_id FROM rules r JOIN revisions v USING(doc_id) WHERE v.is_latest=1 AND v.docket_status!='WITHDRAWN'"):
-        rule, meta = get_rule(con, r["doc_id"])
-        v = evaluate(rule, ac)
-        if v.label != "NOT APPLICABLE":
-            d = one(con, "SELECT docket, subject, comments_due FROM documents WHERE doc_id=?", (r["doc_id"],))
-            out.append({"doc_id": r["doc_id"], **d, "label": v.label, "missing": v.missing, "validation": meta["validation"]})
-    return sorted(out, key=lambda x: (x["label"] != "APPLIES", x["comments_due"] or ""), reverse=False)
+    for r in rows(con, """SELECT r.doc_id FROM rules r JOIN revisions v USING(doc_id) JOIN documents d USING(doc_id)
+                          WHERE v.is_latest=1 AND v.docket_status!='WITHDRAWN' AND d.make_norm IN ('Airbus','Airbus Canada')"""):
+        rep = impact_report(con, r["doc_id"], [ac])
+        if rep.get("error") or not rep["aircraft"]:
+            continue
+        a = rep["aircraft"][0]
+        rule, _ = get_rule(con, r["doc_id"])
+        if a["label"] == "NOT APPLICABLE" or not rule.groups:
+            continue
+        d = rep["status"]["doc"]
+        out.append({"doc_id": r["doc_id"], "docket": d["docket"], "label": a["label"], "comments_due": d["comments_due"],
+                    "open": bool(d["comments_due"] and d["comments_due"] >= today), "reason": a["reason"]})
+    return sorted(out, key=lambda x: (not x["open"], x["label"] != "APPLIES", x["comments_due"] or ""))
 
 
 def version_diff(con, doc_id, fleet):

@@ -3,6 +3,23 @@
 Traceable search and fleet-impact checker for proposed FAA Airworthiness Directives.
 Autonomous SG 2026, Airbus Track, Challenge #4.
 
+![To-do](docs/todo.png)
+
+**What it is:** a working prototype that tells a continuing-airworthiness engineer which new FAA proposed airworthiness directives affect which aircraft in their fleet, what work they would require, and by when, so they don't have to read every rule themselves. The AI reads, a deterministic rule engine decides, the engineer signs off.
+
+## Demo script (2 minutes)
+
+1. **Start here**: the problem in one paragraph, three steps, why the answer can be trusted.
+2. **To-do**: 2 need input, 5 affect the fleet, 444 proposed work-hours. Open **FAA-2026-1338** (Revised): the FAA moved the certificate cutoff from 1 Oct 2024 to 19 Dec 2025, so 9V-ZMF went from Not affected to Affects. Each aircraft has a one-line reason.
+3. Back, open **FAA-2026-11813**: the dataset summary mentions the A330-243, but the proposal's own text narrows it to A330-941 "as identified in EASA AD 2025-0286". The tool asks one question: *Does EASA AD 2025-0286 list 9V-ZMF?* Click Yes, it becomes Affects; enter your name and **Confirm**.
+4. **Ask**: `Is it safe to fly our A350 tomorrow?` is refused; `Since FAA-2026-11813 applies to the A330-243, is 9V-ZME affected?` flags the false premise.
+5. **My aircraft**: workload per aircraft for hangar planning.
+6. Close on the evaluation table below (baselines: 3 confident wrong answers for naive RAG, 0 for this system).
+
+Use **Reset demo** in the sidebar between judges.
+
+![Revised proposal](docs/revised.png)
+
 > Status of this file: **requirements spec**. Every feature built must map to a requirement ID below, and every requirement has a pass/fail check. Tick the box only when the check passes.
 
 ## Quick start
@@ -13,7 +30,7 @@ make build                 # load xlsx → chunks → FTS index → revision gra
 make fetch                 # Federal Register full text for Airbus docs (needs internet)
 make build                 # re-chunk with full text
 export ANTHROPIC_API_KEY=...
-make extract               # applicability rules (LLM; regex fallback without key)
+make extract               # applicability rules: regex first, LLM only where regex is unsure (hybrid)
 make test && make eval
 make app                   # Streamlit UI
 ```
@@ -39,7 +56,7 @@ After Federal Register full-text fetch for every linked document (405 of 431 doc
 | Golden set | 39/39 pass (lookup 7, applicability 14, revision 5, out of scope 6, ambiguous 3, false premise 4) |
 | Refusal precision / recall | 1.0 / 1.0 |
 | Retrieval latency p95 | ~7 ms over 1,341 pages (7,237 chunks); end to end ~7 ms for rule-engine answers, ~5 s p95 when Claude writes a lookup answer |
-| Rule engine unit tests | 15/15 |
+| Unit tests (rule engine, validator, exclusions, coverage check) | 23/23 |
 | Airbus rules | 36 auto-validated, 12 partial (unresolved text → CANNOT DETERMINE), 27 needs review |
 
 **Baselines vs this system** (same 39 questions; baselines graded by hand, per-case grades and reasons in `eval/baseline_grades.csv`)
@@ -60,9 +77,22 @@ What the baseline errors look like:
 
 Fair notes: baselines were run before the full fetch (smaller index, 2,816 chunks); re-run with `python -m eval.run --baselines`. B1 often failed because BM25 top-5 missed the Applicability paragraph; our docket resolution and rule engine are what fix that. B1 did correctly flag one false premise (P4). The golden set was written by the same developer who built the system, so our 39/39 overstates real-world accuracy.
 
+**How rules are extracted (two independent readers)**: a deterministic rule-based reader (regex) and an AI reader (Claude) each turn the Applicability text into a rule, independently. Both must pass the same verbatim validator (every value must appear in a quote copied exactly from the source). The better-validated rule is primary, the other is kept as a second reader. Every aircraft is checked under both: if they disagree, the result is **Need info** with a question to the engineer, never a pick. The rule-based reader understands exclusions ("all A320 except A320-251N", "except MSN 1681", "except those with modification 52980") so an exception is never read as the scope; covered by unit tests. Without an API key only the rule-based reader runs, and the results above hold.
+
+Extraction run with both readers (75 Airbus documents): **66 auto-validated** (rule-based reader alone: 36), 8 partial, 1 needs review. The AI reader rescued **27** rules the rule-based reader could not parse (mostly helicopter and unusual layouts); **35** documents were read successfully by both and are cross-checked per aircraft; 13 by the rule-based reader only.
+
 **Rule extraction accuracy (APP-5)**: 10 fixed-wing Airbus rules sampled at random (seed 0, `python -m eval.rule_check`) and checked against the source text (`eval/rule_check.csv`): **7 correct, 1 partial but safe** (unmodelled APU part/serial condition → CANNOT DETERMINE), **2 wrong** (A300 variants written with a space, "A300 B4-601", were not parsed and the rule fell back to every A300: over-inclusive). The A300 bug was fixed after this check; the 7/10 figure is the pre-fix result. Checked by the developer with Claude; not an independent review.
 
-**Added after the spec (driven by the user's weekly workflow)**
+**Added after the spec**
+- **Two independent readers** (rule-based + AI) per directive; any per-aircraft disagreement becomes Need info.
+- **Exclusion-aware reading** ("all A320 except A320-251N", "except MSN …", "except modification …") and inclusive MSN ranges, unit-tested.
+- **Omission check**: every aircraft model and MSN written in the Applicability text must be used by the rule, otherwise Need info.
+- **Ask understands the fleet**: "Which directives affect my A330s?" lists, per aircraft, every proposal that applies or can't be ruled out (open comment periods first). Clickable example questions.
+- **Evidence**: per-aircraft "View source" with the exact quoted sentences and Federal Register link; full Applicability text with the quoted words highlighted.
+- **Audit trail**: sign-off history (who, when, system result, final result, override reason), exportable CSV.
+- **Check for new directives** from the Federal Register API; **FAA comment drafting** from cited facts; **workload per aircraft** for hangar planning; **Reset demo**.
+
+**Added earlier (driven by the user's weekly workflow)**
 - **Review queue** (first tab): open proposals that hit or may hit the fleet, sorted by comment deadline, with sign-off progress.
 - **What the proposal would require**: required-action sections, compliance times and FAA work-hour estimate, pulled from the regulatory text with chunk IDs. No LLM.
 - **Per-aircraft sign-off**: engineer accepts or overrides each verdict (override needs a note); impact report exports to CSV with evidence, missing info and decisions.
@@ -72,6 +102,7 @@ Fair notes: baselines were run before the full fetch (smaller index, 2,816 chunk
 - `FAA-2026-1338`: the revised proposal (2026-10-05) moves the certificate-date cutoff from 1 Oct 2024 to 19 Dec 2025. 9V-ZMF (A330-941, certificated 2025-03-10) goes from NOT APPLICABLE to APPLIES. Shown automatically in the version diff (golden V5, A13).
 
 **Known failures (so far)**
+0. **Confident-but-wrong extraction.** The verbatim validator stops *invented* values, but not *missing* conditions. Seen in the rule check (A300 spaced variants, fixed) and found while testing "all X except Y" wording (the old regex read the exception as the scope; fixed, now unit-tested). Mitigations now in place: two independent readers (rule-based + AI), disagreement → Need info; and an omission check (every model/MSN in the text must be used by the rule). Remaining gap: other condition types (part numbers, unusual date wording) can still be dropped by both readers; those currently rely on the `unresolved` keyword net and on engineer review.
 1. `2002-NM-09-AD` says "All Model A330 series airplanes" (2003). The engine matches the A330-941 (A330neo, which did not exist then) by family. Literal reading is correct; engineering intent is doubtful. Should be flagged for review, currently is not.
 2. Regex extractor cannot read applicability tables (e.g. `2002-NM-224-AD`, MSN ranges with exception lists). Marked `needs_review`, so the result is CANNOT DETERMINE, never a wrong APPLIES/NOT APPLICABLE. LLM extractor is expected to fix this.
 3. Modern Airbus proposals often define applicability as "as identified in EASA AD …". That document is not in the dataset, so those aircraft stay CANNOT DETERMINE by design.

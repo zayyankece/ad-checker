@@ -17,7 +17,9 @@ ADNUM = re.compile(r"\bAD\s+(\d{4}-\d{2}-\d{2})\b", re.I)
 REG = re.compile(r"\b(9V-[A-Z]{3})\b", re.I)
 MSN = re.compile(r"\bMSN\s*(\d{2,6})\b", re.I)
 MSN_RANGE = re.compile(r"\b(?:MSNs?|serial numbers?)\s*(\d{2,6})\s*(?:to|through|-|until)\s*(\d{2,6})", re.I)
-AIRBUS_MODEL = re.compile(r"\b(A3[0-9]\d(?:-[0-9A-Z]{2,5})?|A220(?:-\d{3})?|BD-500-1A1[01])\b", re.I)
+AIRBUS_MODEL = re.compile(r"\b(A3[0-9]\d(?:-[0-9A-Z]{2,5})?|A220(?:-\d{3})?|BD-500-1A1[01])s?\b", re.I)
+LIST = re.compile(r"\b(which|what|list|show)\b.*\b(directives?|proposals?|ADs|rules?)\b", re.I)
+FLEETWORD = re.compile(r"\b(fleet|my aircraft|our aircraft|all aircraft|my planes|our planes)\b", re.I)
 OTHER_MODEL = re.compile(r"\b((?:Boeing\s+)?7[0-8]7(?:-\d{1,3}[A-Z]*)?|ATR\s?\d{2}|E1[79]\d|ERJ-?\d{3}|CRJ\d{3,4}|Cessna\s+\d{3})\b", re.I)
 APPLIC = re.compile(r"\b(appl(?:y|ies|icable|icability)|affect(?:s|ed)?|impact(?:ed)?|cover(?:s|ed)?|kena|berlaku|my fleet|our fleet)\b", re.I)
 REVISION = re.compile(r"\b(latest|versions?|revisions?|changed?|changes|differ\w*|revised|supersed\w*|withdrawn|withdraw\w*|history|replace[sd]?)\b", re.I)
@@ -57,6 +59,8 @@ def parse(q, fleet):
         "airbus_models": [m.upper() for m in AIRBUS_MODEL.findall(q)],
         "other_models": OTHER_MODEL.findall(q),
         "premise": bool(PREMISE.search(q)),
+        "list_mode": bool(LIST.search(q)),
+        "fleet_word": bool(FLEETWORD.search(q)),
         "judgement": bool(JUDGEMENT.search(q)),
     }
     p["aircraft"] = [regs[r] for r in p["registrations"] if r in regs]
@@ -132,6 +136,14 @@ def check_premise(con, p, doc_ids):
 
 def answer_applicability(con, p, fleet, doc_ids, out):
     targets = p["aircraft"]
+    if not doc_ids and not targets and p.get("list_mode"):
+        if p["airbus_models"]:
+            fam = {family(m) for m in p["airbus_models"]}
+            targets = [a for a in fleet if family(a["model"]) in fam or norm_model(a["model"]) in {norm_model(m) for m in p["airbus_models"]}]
+            if not targets:
+                return refuse("R2", f"No aircraft in your fleet match {', '.join(p['airbus_models'])}.", parsed=p)
+        elif p.get("fleet_word"):
+            targets = fleet
     if not doc_ids and targets:
         out["verdicts"] = [{"registration": a["registration"], "directives": aircraft_report(con, a)} for a in targets]
         out["status"] = "ANSWER"
@@ -177,7 +189,29 @@ def llm_claims(client, q, chunks):
     from adc.llm import call_tool
     ctx = "\n\n".join(f"[{c['chunk_id']}] ({c['section']}, page {c['page']})\n{c['text']}" for c in chunks)
     data = call_tool(client, MODEL_ANSWER, ANSWER_SYSTEM, ANSWER_TOOL, f"QUESTION: {q}\n\nSOURCE CHUNKS:\n{ctx}")
-    return data.get("insufficient", False), data.get("claims", [])
+    return bool(data.get("insufficient", False)), normalize_claims(data.get("claims", []))
+
+
+def normalize_claims(claims):
+    """Models occasionally return claims as a JSON string or with stray items; keep only well-formed claim objects."""
+    import json
+    if isinstance(claims, str):
+        try:
+            claims = json.loads(claims)
+        except ValueError:
+            return []
+    if isinstance(claims, dict):
+        claims = [claims]
+    out = []
+    for c in claims if isinstance(claims, list) else []:
+        if isinstance(c, str):
+            try:
+                c = json.loads(c)
+            except ValueError:
+                continue
+        if isinstance(c, dict) and c.get("chunk_id") and c.get("quote"):
+            out.append({"text": str(c.get("text") or c["quote"]), "chunk_id": str(c["chunk_id"]), "quote": str(c["quote"])})
+    return out
 
 
 def terms(q):

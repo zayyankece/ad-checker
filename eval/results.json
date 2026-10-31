@@ -12,12 +12,12 @@
   },
   "refusal_precision": 1.0,
   "refusal_recall": 1.0,
-  "latency_total_p50_s": 0.002,
-  "latency_total_p95_s": 0.0367,
-  "latency_retrieval_p95_s": 0.0081,
+  "latency_total_p50_s": 0.0023,
+  "latency_total_p95_s": 5.2008,
+  "latency_retrieval_p95_s": 0.0487,
   "index_chunks": 7237,
   "index_pages": 1341,
-  "answer_mode": "extractive (no API key)",
+  "answer_mode": "llm",
   "llm_errors": 0
  },
  "cases": [

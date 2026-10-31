@@ -52,3 +52,25 @@ def validate(rule: Rule, source: str):
     if not rule.groups:
         errs.append("rule has no condition groups")
     return errs
+
+
+def coverage_gaps(rule: Rule, source: str):
+    """Omission check: every aircraft model and MSN written in the applicability text must be used somewhere in the rule
+    (scope or exclusions). The verbatim validator catches invented values; this catches dropped ones."""
+    from .engine import family, norm_model
+    from .extract import EXCEPT, parse_models
+    scan = re.sub(r"\s+", " ", re.sub(r"-\s+(?=\w)", "-", source))
+    scan = re.sub(r"^\s*(?:\([a-z]\)\s*)?Applicability:?\s*", "", scan)
+    ex = EXCEPT.search(scan)
+    incl_models, _, last_fam = parse_models(scan[:ex.start()] if ex else scan)
+    excl_models = parse_models(scan[ex.start():], last_fam)[0] if ex else []
+    conds = [c for g in rule.groups for c in g.conditions] + list(rule.exclusions)
+    used = {norm_model(v) for c in conds if c.field == "model" for v in c.values}
+    fams = {norm_model(v) for c in conds if c.field == "model_family" for v in c.values}
+    gaps = [m for m in dict.fromkeys(incl_models + excl_models) if norm_model(m) not in used and family(m) not in fams]
+    msns = set()
+    for m in re.finditer(r"(?:manufacturer(?:'s)? serial numbers?|MSNs?)\s*\(?(?:MSN)?\)?\s*((?:\d{2,6}(?:\s*(?:,|and|or|through|to)\s*)?)+)", scan, re.I):
+        msns |= set(re.findall(r"\d{2,6}", m.group(1)))
+    used_msn = {str(v) for c in conds if c.field == "msn" for v in list(c.values) + [c.min, c.max] if v is not None}
+    gaps += [f"MSN {n}" for n in sorted(msns - used_msn)]
+    return gaps

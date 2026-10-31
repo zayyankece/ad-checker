@@ -49,17 +49,17 @@ LIMITERS = re.compile(
     r"service bulletin|if |having|fitted with|equipped with|on which)\b[^.;]*[.;]?", re.I)
 
 
-def regex_extract(doc_id, text):
-    """Deterministic fallback. Conservative: anything it cannot model becomes `unresolved`."""
-    body = re.sub(r"^\s*(?:\([a-z]\)\s*)?Applicability:?\s*", "", text.strip())
-    body = re.split(r"\n\s*\(d\)\s+Subject|\n\s*Compliance:", body)[0].strip()
-    if text.strip().startswith("The FAA") or not body:
-        body = text.strip()
-    scan = re.sub(r"\s+", " ", re.sub(r"-\s+(?=\w)", "-", body))
-    first = scan
-    models, fam, fams = [], None, []
-    for m in TOKEN.finditer(first):
-        full, f, var, abbr = m.group(0), m.group(1), m.group(2), m.group(3)
+EXCEPT = re.compile(r"\b(except|excluding|other than|but not)\b", re.I)
+MSN_RANGE = re.compile(r"(?:manufacturer(?:'s)? serial numbers?|MSNs?)\s*\(?(?:MSN)?\)?\s*(\d{2,6})\s+(?:through|to)\s+(\d{2,6})(?:\s+inclusive)?", re.I)
+MSN_LIST = re.compile(r"(?:manufacturer(?:'s)? serial numbers?|MSNs?)\s+((?:\d{2,6}(?:\s*,\s*(?:and\s+)?|\s+and\s+|\s+or\s+)?)+)", re.I)
+MOD = re.compile(r"modifications?\s+(?:No\.\s*)?(\d{3,}[A-Z0-9]*)", re.I)
+NEUTRAL = re.compile(r",?\s*all (?:manufacturer(?:'s)? )?serial numbers", re.I)
+
+
+def parse_models(s, fam=None):
+    models, fams = [], []
+    for m in TOKEN.finditer(s):
+        f, var, abbr = m.group(1), m.group(2), m.group(3)
         if f:
             fam = f
             fams.append(f)
@@ -69,39 +69,89 @@ def regex_extract(doc_id, text):
             models.append(fam + abbr)
     fam_set = list(dict.fromkeys(fams))
     if not models and len(fam_set) == 1:
-        # spaced variant names, e.g. "A300 B4-601, B4-603" / "C4-605R Variant F"
-        variants = re.findall(r"(?<![A-Z0-9-])([BCF]\d-\d{1,3}[A-Z]?)\b", scan)
-        models = [f"{fam_set[0]} {v}" for v in variants]
-    models = list(dict.fromkeys(models))
-    groups, unresolved = [], []
-    scope = "all" if re.search(r"\bapplies to all\b|^all\b|\bAll Model\b", first, re.I) else "certain"
-    q = body
+        # spaced variant names, e.g. "A300 B4-601, B4-603"
+        models = [f"{fam_set[0]} {v}" for v in re.findall(r"(?<![A-Z0-9-])([BCF]\d-\d{1,3}[A-Z]?)\b", s)]
+    return list(dict.fromkeys(models)), fam_set, fam
+
+
+def regex_extract(doc_id, text):
+    """Deterministic extractor. Conservative: anything it cannot model becomes `unresolved` (-> Need info).
+    Splits inclusion from exclusion ("all A320 except A320-251N") so an exception is never read as the scope."""
+    body = re.sub(r"^\s*(?:\([a-z]\)\s*)?Applicability:?\s*", "", text.strip())
+    body = re.split(r"\n\s*\(d\)\s+Subject|\n\s*Compliance:", body)[0].strip()
+    if text.strip().startswith("The FAA") or not body:
+        body = text.strip()
+    scan = re.sub(r"\s+", " ", re.sub(r"-\s+(?=\w)", "-", body))
+    groups, exclusions, unresolved = [], [], []
+
+    ex = EXCEPT.search(scan)
+    if ex:
+        end = re.search(r"[.;]", scan[ex.start():])
+        excl = scan[ex.start(): ex.start() + end.end()] if end else scan[ex.start():]
+        incl = scan[:ex.start()] + " " + scan[ex.start() + len(excl):]
+    else:
+        excl, incl = "", scan
+
+    models, fams, last_fam = parse_models(incl)
+    scope = "all" if re.search(r"\bapplies to all\b|^all\b|\bAll Model\b", incl, re.I) else "certain"
     if models:
-        groups.append({"conditions": [{"field": "model", "op": "in", "values": models, "quote": q}]})
+        groups.append({"conditions": [{"field": "model", "op": "in", "values": models, "quote": body}]})
     elif fams:
-        groups.append({"conditions": [{"field": "model_family", "op": "in", "values": list(dict.fromkeys(fams)), "quote": q}]})
-    ext = EXTERNAL.search(scan)
+        groups.append({"conditions": [{"field": "model_family", "op": "in", "values": fams, "quote": body}]})
+
+    handled = []
+    ext = EXTERNAL.search(incl)
     if ext and groups:
-        groups[0]["conditions"].append({"field": "external_document", "op": "requires_external",
-                                        "values": [ext.group(1)],
-                                        "quote": ext.group(0)})
-    cd = CERT_DATE.search(scan)
+        groups[0]["conditions"].append({"field": "external_document", "op": "requires_external", "values": [ext.group(1)], "quote": ext.group(0)})
+        handled.append(ext.group(0))
+    cd = CERT_DATE.search(incl)
     if cd and groups:
         from datetime import datetime
         iso = datetime.strptime(cd.group(2), "%B %d, %Y").date().isoformat()
         groups[0]["conditions"].append({"field": "cert_date", "op": cd.group(1).replace(" ", "_"), "values": [iso], "quote": cd.group(0)})
-    for lm in LIMITERS.finditer(scan):
-        if ext and ext.group(0) in lm.group(0):
-            continue
-        if cd and cd.group(0) in lm.group(0):
-            continue
+        handled.append(cd.group(0))
+    rg = MSN_RANGE.search(incl)
+    if rg and groups:
+        groups[0]["conditions"].append({"field": "msn", "op": "range", "min": int(rg.group(1)), "max": int(rg.group(2)), "quote": rg.group(0)})
+        handled.append(rg.group(0))
+
+    if excl:
+        found = False
+        ex_models, ex_fams, _ = parse_models(excl, last_fam)
+        if ex_models:
+            from .validate import norm, value_supported
+            q = excl if all(value_supported(v, norm(excl)) for v in ex_models) else body
+            exclusions.append({"field": "model", "op": "in", "values": ex_models, "quote": q})
+            found = True
+        erg = MSN_RANGE.search(excl)
+        if erg:
+            exclusions.append({"field": "msn", "op": "range", "min": int(erg.group(1)), "max": int(erg.group(2)), "quote": excl})
+            found = True
+        else:
+            el = MSN_LIST.search(excl)
+            if el:
+                exclusions.append({"field": "msn", "op": "in", "values": re.findall(r"\d{2,6}", el.group(1)), "quote": excl})
+                found = True
+        mods = MOD.findall(excl)
+        if mods:
+            exclusions.append({"field": "mods_installed", "op": "contains", "values": mods, "quote": excl})
+            found = True
+        if not found or re.search(r"\b(if|unless|having|fitted with|service bulletin)\b", excl, re.I):
+            unresolved.append(excl.strip()[:300])
+
+    rest = NEUTRAL.sub("", incl)
+    for h in handled:
+        rest = rest.replace(h, "")
+    for lm in LIMITERS.finditer(rest):
         unresolved.append(lm.group(0).strip()[:300])
-    if scope == "certain" and not ext and not cd and not unresolved:
+    if re.search(r"\bTable \d", scan):
+        unresolved.append("applicability is given in a table")
+    if scope == "certain" and not handled and not exclusions and not unresolved:
         unresolved.append(scan[:300])
     if not groups:
         scope = "unknown"
         unresolved.append("no model found in applicability text")
-    return Rule(doc_id=doc_id, scope=scope, groups=groups, unresolved=unresolved)
+    return Rule(doc_id=doc_id, scope=scope, groups=groups, exclusions=exclusions, unresolved=list(dict.fromkeys(unresolved)))
 
 
 def llm_extract(client, doc_id, text, meta):
@@ -112,28 +162,56 @@ def llm_extract(client, doc_id, text, meta):
     return Rule.model_validate(data)
 
 
-def extract_doc(con, doc_id, client=None):
-    meta = rows(con, "SELECT * FROM documents WHERE doc_id=?", (doc_id,))[0]
-    _, text = applicability_text(con, doc_id)
-    errs, how = [], "regex"
+RANK = {"auto_validated": 0, "partial": 1, "needs_review": 2}
+
+
+def _run(con, doc_id, text, meta, how, client):
     try:
-        if client:
-            rule, how = llm_extract(client, doc_id, text, meta), "llm"
-        else:
-            rule = regex_extract(doc_id, text)
+        rule = llm_extract(client, doc_id, text, meta) if how == "llm" else regex_extract(doc_id, text)
     except Exception as e:
         rule = Rule(doc_id=doc_id, scope="unknown", groups=[], unresolved=[f"extraction failed: {e}"])
     errs = validate(rule, text)
+    if not errs and rule.groups:
+        from .validate import coverage_gaps
+        gaps = coverage_gaps(rule, text)
+        if gaps:
+            rule.unresolved.append("Mentioned in the text but not used by the rule: " + ", ".join(gaps[:12]))
     status = "needs_review" if errs or not rule.groups else ("partial" if rule.unresolved else "auto_validated")
-    con.execute("INSERT OR REPLACE INTO rules VALUES (?,?,?,?,?,NULL,NULL)",
-                (doc_id, rule.model_dump_json(), status, dumps(errs), how))
+    return rule, status, errs
+
+
+def extract_doc(con, doc_id, client=None, mode="dual"):
+    """dual (default with an API key): regex and the LLM read the text independently. The better-validated rule is
+    primary; the other is kept as a second reader. Where the two disagree for an aircraft, the result is Need info.
+    Without an API key this is regex only."""
+    meta = rows(con, "SELECT * FROM documents WHERE doc_id=?", (doc_id,))[0]
+    _, text = applicability_text(con, doc_id)
+    alt = alt_how = None
+    if mode == "llm" and client:
+        rule, status, errs = _run(con, doc_id, text, meta, "llm", client)
+        how = "llm"
+    else:
+        rule, status, errs = _run(con, doc_id, text, meta, "regex", None)
+        how = "regex"
+        if mode in ("dual", "hybrid") and client and (mode == "dual" or status != "auto_validated"):
+            r2, s2, e2 = _run(con, doc_id, text, meta, "llm", client)
+            if RANK[s2] < RANK[status]:
+                if status != "needs_review":
+                    alt, alt_how = rule, "regex"
+                rule, status, errs, how = r2, s2, e2, "llm"
+            elif s2 != "needs_review":
+                alt, alt_how = r2, "llm"
+    con.execute("INSERT OR REPLACE INTO rules (doc_id, rule_json, validation, validation_errors, extractor, approved_by, approved_at, "
+                "alt_rule_json, alt_extractor) VALUES (?,?,?,?,?,NULL,NULL,?,?)",
+                (doc_id, rule.model_dump_json(), status, dumps(errs), how, alt.model_dump_json() if alt else None, alt_how))
     con.commit()
     return rule, status, errs
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--regex", action="store_true")
+    ap.add_argument("--regex", action="store_true", help="regex only")
+    ap.add_argument("--llm", action="store_true", help="LLM only (for comparison)")
     ap.add_argument("--doc")
     a = ap.parse_args()
     client = None
@@ -142,12 +220,16 @@ def main():
         client = mk()
     con = connect()
     ids = [a.doc] if a.doc else [r["doc_id"] for r in rows(con, "SELECT doc_id FROM documents WHERE is_airbus=1 AND doc_type!='WITHDRAWAL'")]
-    stats = {}
+    mode = "regex" if a.regex else ("llm" if a.llm else "dual")
+    stats, used = {}, {}
     for i, d in enumerate(ids, 1):
-        _, st, errs = extract_doc(con, d, client)
+        _, st, errs = extract_doc(con, d, client, mode)
+        how, alt = con.execute("SELECT extractor, alt_extractor FROM rules WHERE doc_id=?", (d,)).fetchone()
+        how = f"{how}+{alt}" if alt else how
         stats[st] = stats.get(st, 0) + 1
-        print(f"[{i}/{len(ids)}] {d} {st} {errs[:2] if errs else ''}")
-    print("extractor:", "llm" if client else "regex", stats)
+        used[how] = used.get(how, 0) + 1
+        print(f"[{i}/{len(ids)}] {d} {st} via {how} {errs[:1] if errs else ''}")
+    print(f"mode: {mode}{'' if client else ' (no API key: regex only)'} | status {stats} | extractor used {used}")
 
 
 if __name__ == "__main__":

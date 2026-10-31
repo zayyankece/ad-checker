@@ -87,6 +87,11 @@ def connect(path=DB):
     con = sqlite3.connect(path, check_same_thread=False)
     con.row_factory = sqlite3.Row
     con.executescript(SCHEMA)
+    for col in ("alt_rule_json TEXT", "alt_extractor TEXT"):
+        try:
+            con.execute(f"ALTER TABLE rules ADD COLUMN {col}")
+        except sqlite3.OperationalError:
+            pass
     return con
 
 

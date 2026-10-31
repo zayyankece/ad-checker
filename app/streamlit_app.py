@@ -17,6 +17,24 @@ from qa.pipeline import ask
 
 st.set_page_config(page_title="Directive Impact Checker", page_icon="✈️", layout="wide")
 con = connect()
+
+
+@st.cache_resource(show_spinner="Building the index (first start only)…")
+def ensure_built():
+    """On a fresh deploy without data/adc.db: build index, revisions and rule-based rules from the files in the repo."""
+    c = connect()
+    if c.execute("SELECT COUNT(*) FROM documents").fetchone()[0] == 0:
+        from ingest import chunk, load, revisions
+        from rules import extract
+        load.load()
+        chunk.build()
+        revisions.build()
+        for r in c.execute("SELECT doc_id FROM documents WHERE is_airbus=1 AND doc_type!='WITHDRAWAL'").fetchall():
+            extract.extract_doc(c, r[0], None, "regex")
+    return True
+
+
+ensure_built()
 fleet = load_fleet_db(con)
 TODAY = date.today().isoformat()
 
@@ -25,40 +43,64 @@ COLORS = {"Affects": "#B91C1C", "Not affected": "#15803D", "Need info": "#C2410C
           "Done": "#475569", "Proposed": "#0A2A66", "Withdrawn": "#475569", "Adopted": "#312E81"}
 
 st.markdown("""<style>
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-html, body, [class*="css"], .stMarkdown, .stButton button {font-family:'Inter',system-ui,sans-serif}
-.block-container{padding-top:1.2rem;max-width:1180px}
-section[data-testid="stSidebar"]{background:#0A2A66}
-section[data-testid="stSidebar"] *{color:#E8EEF8 !important}
-section[data-testid="stSidebar"] input{color:#0B1F3A !important;background:#fff !important}
-section[data-testid="stSidebar"] [role="radiogroup"] label{padding:6px 8px;border-radius:8px}
-section[data-testid="stSidebar"] [role="radiogroup"] label:hover{background:rgba(255,255,255,.08)}
-div[data-testid="stVerticalBlockBorderWrapper"]{background:#fff;border-radius:12px;border-color:#DCE3EE !important;box-shadow:0 1px 2px rgba(10,42,102,.06)}
-.banner{background:linear-gradient(100deg,#0A2A66 0%,#123B8A 60%,#1E5BB8 100%);color:#fff;border-radius:14px;padding:18px 24px;margin-bottom:18px}
-.banner h1{color:#fff;font-size:1.55rem;margin:0;font-weight:700;letter-spacing:-.01em}
-.banner .sub{color:#C9D7F0;font-size:.92rem;margin-top:4px}
-.banner .stat{display:inline-block;background:rgba(255,255,255,.12);border-radius:8px;padding:3px 10px;margin:10px 8px 0 0;font-size:.82rem;color:#fff}
-.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:4px 0 18px}
-.kpi{background:#fff;border:1px solid #DCE3EE;border-radius:12px;padding:12px 16px}
-.kpi .n{font-size:1.7rem;font-weight:700;color:#0A2A66;line-height:1.1}
-.kpi .l{font-size:.8rem;color:#5B6B85;margin-top:2px}
-.kpi.warn .n{color:#C2410C}.kpi.red .n{color:#B91C1C}
-.chip{display:inline-block;color:#fff;padding:2px 10px;border-radius:999px;font-size:.74rem;font-weight:600;margin-right:6px;letter-spacing:.02em}
-.big{font-size:1.1rem;font-weight:600;margin:4px 0;color:#0B1F3A}
-.muted{color:#5B6B85;font-size:.88rem}
-.quote{border-left:3px solid #1E5BB8;background:#F4F7FC;padding:6px 12px;color:#23324D;font-size:.9rem;margin:6px 0;border-radius:0 6px 6px 0}
-.step{background:#fff;border:1px solid #DCE3EE;border-radius:14px;padding:18px;height:100%}
-.step .num{display:inline-flex;width:28px;height:28px;border-radius:50%;background:#0A2A66;color:#fff;align-items:center;justify-content:center;font-weight:700;font-size:.9rem}
-.step h3{font-size:1.05rem;margin:10px 0 6px;color:#0A2A66}
-.step p{font-size:.9rem;color:#33415C;margin:0}
-.gloss td{padding:6px 10px;vertical-align:top;font-size:.9rem}
-.gloss td:first-child{font-weight:600;color:#0A2A66;white-space:nowrap}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap');
+html, body, [class*="css"], .stMarkdown, .stButton button, input, textarea {font-family:'Inter',system-ui,-apple-system,sans-serif !important}
+.block-container{padding-top:2.2rem;max-width:1080px}
+h1,h2,h3,h4{letter-spacing:-.015em;color:#0F1B2D}
+section[data-testid="stSidebar"]{background:#FFFFFF;border-right:1px solid #E4E8EF}
+section[data-testid="stSidebar"] [role="radiogroup"]{gap:2px}
+section[data-testid="stSidebar"] [role="radiogroup"] label{padding:7px 10px;border-radius:8px;width:100%}
+section[data-testid="stSidebar"] [role="radiogroup"] label:hover{background:#F2F5F9}
+section[data-testid="stSidebar"] [role="radiogroup"] label div:first-child{display:none}
+section[data-testid="stSidebar"] [role="radiogroup"] label:has(input:checked){background:#EEF2F8}
+section[data-testid="stSidebar"] [role="radiogroup"] label:has(input:checked) p{color:#0A2A66;font-weight:600}
+.brand{font-weight:700;font-size:1.02rem;color:#0A2A66;letter-spacing:-.01em}
+.brand-sub{color:#6B7689;font-size:.8rem;margin-bottom:14px}
+div[data-testid="stVerticalBlockBorderWrapper"]{background:#fff;border-radius:10px;border-color:#E4E8EF !important;transition:border-color .15s}
+div[data-testid="stVerticalBlockBorderWrapper"]:hover{border-color:#C9D2E0 !important}
+.pagehead{margin:0 0 22px}
+.pagehead .t{font-size:1.75rem;font-weight:700;color:#0F1B2D;letter-spacing:-.02em;line-height:1.15}
+.pagehead .s{color:#5A6578;font-size:.95rem;margin-top:6px;max-width:760px}
+.pagehead .meta{color:#8A94A6;font-size:.8rem;margin-top:10px}
+.pagehead .meta span+span:before{content:"·";margin:0 8px;color:#C3CAD6}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);border:1px solid #E4E8EF;border-radius:10px;background:#fff;margin:0 0 22px;overflow:hidden}
+.kpi{padding:14px 18px;border-right:1px solid #E4E8EF}
+.kpi:last-child{border-right:none}
+.kpi .n{font-size:1.55rem;font-weight:700;color:#0F1B2D;line-height:1.1;font-variant-numeric:tabular-nums}
+.kpi .l{font-size:.78rem;color:#6B7689;margin-top:3px}
+.kpi.amber .n{color:#B45309}.kpi.red .n{color:#B42318}
+.pill{display:inline-block;padding:2px 9px;border-radius:999px;font-size:.72rem;font-weight:600;margin-right:6px;letter-spacing:.01em;border:1px solid transparent}
+.pill.affects{background:#FEF3F2;color:#B42318;border-color:#FDD8D3}
+.pill.needinfo{background:#FFF7E8;color:#B45309;border-color:#FBE3B8}
+.pill.clear{background:#ECFDF3;color:#067647;border-color:#C6EFD7}
+.pill.revised{background:#EEF4FF;color:#1D4ED8;border-color:#D3E0FD}
+.pill.neutral{background:#F2F4F7;color:#475467;border-color:#E4E7EC}
+.docket{font-family:'JetBrains Mono',ui-monospace,monospace;font-size:.86rem;color:#0F1B2D;font-weight:500}
+.big{font-size:1.04rem;font-weight:600;margin:6px 0 2px;color:#0F1B2D}
+.muted{color:#5A6578;font-size:.87rem}
+.faint{color:#8A94A6;font-size:.8rem}
+.quote{border-left:2px solid #0A2A66;background:#F7F9FC;padding:6px 12px;color:#23324D;font-size:.88rem;margin:6px 0;border-radius:0 6px 6px 0}
+.q{background:#FFF9EF;border:1px solid #FBE3B8;border-radius:8px;padding:10px 12px;margin:8px 0 6px;color:#7A3E06;font-size:.92rem}
+.q b{color:#7A3E06}
+.step{background:#fff;border:1px solid #E4E8EF;border-radius:10px;padding:18px 18px 16px;height:100%}
+.step .num{font-family:'JetBrains Mono',monospace;font-size:.78rem;color:#0A2A66;font-weight:600;letter-spacing:.05em}
+.step h3{font-size:1rem;margin:6px 0 6px;color:#0F1B2D}
+.step p{font-size:.88rem;color:#475467;margin:0;line-height:1.5}
+.gloss{border-collapse:collapse;width:100%;background:#fff;border:1px solid #E4E8EF;border-radius:10px}
+.gloss td{padding:9px 14px;vertical-align:top;font-size:.88rem;border-top:1px solid #EEF1F5;color:#344054}
+.gloss tr:first-child td{border-top:none}
+.gloss td:first-child{font-weight:600;color:#0F1B2D;white-space:nowrap;width:160px}
+.stButton button[kind="primary"]{background:#0A2A66;border-color:#0A2A66}
+.stButton button{border-radius:8px;font-weight:500}
 @media (max-width: 800px){.kpis{grid-template-columns:repeat(2,1fr)}}
 </style>""", unsafe_allow_html=True)
 
 
+PILL = {"Affects": "affects", "Need info": "needinfo", "Not affected": "clear", "Revised": "revised"}
+
+
 def chip(text, color=None):
-    return f"<span class='chip' style='background:{color or COLORS.get(text, '#777')}'>{text}</span>"
+    return f"<span class='pill {PILL.get(text, 'neutral')}'>{text}</span>"
 
 
 def label(engine_label):
@@ -88,30 +130,36 @@ def go(page, doc=None):
 if "goto" in st.session_state:
     st.session_state["nav"] = st.session_state.pop("goto")
 PAGES = ["Start here", "To-do", "My aircraft", "New directives", "Ask", "Rule check (advanced)"]
-ICONS = {"Start here": "🧭", "To-do": "📥", "My aircraft": "✈️", "New directives": "📄", "Ask": "💬", "Rule check (advanced)": "🛠️"}
 if "nav" not in st.session_state:
     st.session_state["nav"] = "Start here"
 with st.sidebar:
-    st.markdown("### Directive Impact Checker")
-    st.caption("New FAA rules vs. your aircraft")
-    page = st.radio("Go to", PAGES, key="nav", label_visibility="collapsed", format_func=lambda p: f"{ICONS[p]}  {p}")
+    st.markdown("<div class='brand'>Directive Impact Checker</div><div class='brand-sub'>New FAA rules vs. your aircraft</div>",
+                unsafe_allow_html=True)
+    page = st.radio("Go to", PAGES, key="nav", label_visibility="collapsed")
     st.divider()
     st.text_input("Your name (for sign-off)", key="engineer")
     st.caption(f"Today {TODAY}")
+    with st.popover("Reset demo", use_container_width=True):
+        st.caption("Clears sign-offs and answers and restores the fleet from data/fleet.csv.")
+        if st.button("Reset now", type="primary"):
+            con.execute("DELETE FROM signoffs")
+            con.execute("DELETE FROM aircraft")
+            con.commit()
+            st.session_state.clear()
+            st.rerun()
 
 
 def banner(title, sub):
     n_docs = one(con, "SELECT COUNT(*) n FROM documents")["n"]
     last = one(con, "SELECT MAX(publish_date) d FROM documents")["d"]
-    st.markdown(f"<div class='banner'><h1>{title}</h1><div class='sub'>{sub}</div>"
-                f"<span class='stat'>✈️ {len(fleet)} aircraft in your fleet</span>"
-                f"<span class='stat'>📄 {n_docs} directive documents tracked</span>"
-                f"<span class='stat'>🕑 newest document {last}</span></div>", unsafe_allow_html=True)
+    st.markdown(f"<div class='pagehead'><div class='t'>{title}</div><div class='s'>{sub}</div>"
+                f"<div class='meta'><span>{len(fleet)} aircraft in fleet</span><span>{n_docs} directive documents tracked</span>"
+                f"<span>newest {last}</span></div></div>", unsafe_allow_html=True)
 
 
 # ---------- shared pieces ----------
 def render_question(reg, q, key):
-    st.markdown(f"❓ **{q['text']}**")
+    st.markdown(f"<div class='q'><b>Question</b> · {q['text']}</div>", unsafe_allow_html=True)
     c1, c2, c3 = st.columns([1, 1, 4])
     if q["kind"] in ("yesno", "include"):
         yes, no = ("Yes", "No") if q["kind"] == "yesno" else ("Included", "Not included")
@@ -134,6 +182,19 @@ def render_question(reg, q, key):
     st.caption("Your answer is saved to this aircraft's record and reused by every directive that asks the same thing.")
 
 
+def highlight(src, quotes):
+    import html
+    import re as _re
+    out = html.escape(src)
+    for q in sorted({q for q in quotes if q}, key=len, reverse=True):
+        words = [_re.escape(html.escape(w)) for w in q.split()]
+        if not words:
+            continue
+        pat = _re.compile(r"\s*-?\s*".join(words) if len(words) < 2 else r"[\s-]*".join(words), _re.I)
+        out = pat.sub(lambda m: f"<mark style='background:#FFF1B8;padding:0 2px;border-radius:3px'>{m.group(0)}</mark>", out, count=1)
+    return f"<div style='white-space:pre-wrap;font-size:.86rem;line-height:1.55;background:#fff;border:1px solid #E4E8EF;border-radius:8px;padding:12px 14px;color:#23324D'>{out}</div>"
+
+
 def show_diffs(diffs):
     for df_ in diffs:
         st.markdown(f"**{df_['from']} ({df_['from_date']}) → {df_['to']} ({df_['to_date']})**")
@@ -152,7 +213,7 @@ def render_detail(doc_id):
     d, rv = rep["status"]["doc"], rep["status"]["revision"]
     c = card(con, doc_id, fleet, TODAY) or {}
     status = {"WITHDRAWN": "Withdrawn", "ADOPTED": "Adopted"}.get(rv["docket_status"] if rv else "", "Proposed")
-    st.markdown(f"## {d['docket']}")
+    st.markdown(f"<div class='pagehead'><div class='t docket' style='font-size:1.6rem'>{d['docket']}</div></div>", unsafe_allow_html=True)
     st.markdown(chip(status) + (chip("Revised") if c.get("revised") else "") +
                 f"<span class='muted'>{due_text(d['comments_due'], c.get('days_left'))}</span>", unsafe_allow_html=True)
     if status == "Proposed":
@@ -163,16 +224,19 @@ def render_detail(doc_id):
     if rep.get("error"):
         st.error(rep["error"])
         return
-    cols = st.columns(2)
-    cols[0].markdown(f"**Why it exists**  \n{(c.get('prompted') or '—')[:1].upper() + (c.get('prompted') or '—')[1:]}")
-    req = c.get("require") or "—"
     extra = []
     if c.get("effort"):
         extra.append(f"~{c['effort']:g} work-hours per aircraft (FAA estimate)")
     if c.get("first_time"):
         extra.append(c["first_time"])
-    cols[1].markdown(f"**What it would require**  \n{req[:1].upper() + req[1:]}" +
-                     (f"  \n<span class='muted'>{' · '.join(extra)}</span>" if extra else ""), unsafe_allow_html=True)
+    if c.get("prompted") or c.get("require"):
+        cols = st.columns(2)
+        if c.get("prompted"):
+            cols[0].markdown(f"**Why it exists**  \n{c['prompted'][:1].upper() + c['prompted'][1:]}")
+        if c.get("require"):
+            cols[1].markdown(f"**What it would require**  \n{c['require'][:1].upper() + c['require'][1:]}")
+    if extra:
+        st.markdown(f"<span class='muted'>{' · '.join(extra)}</span>", unsafe_allow_html=True)
     if c.get("revised"):
         r = c["revised"]
         lines = [f"**Revised {r['to']}** (previous version {r['from']})"]
@@ -191,12 +255,20 @@ def render_detail(doc_id):
     for a in relevant:
         with st.container(border=True):
             s_ = so.get(a["registration"])
-            done = (f" <span class='muted'>· ✅ signed off by {s_['engineer']} "
+            done = (f" <span class='faint'>· signed off by {s_['engineer']} "
                     f"({FRIENDLY.get(s_['final_label'], s_['final_label'])})</span>") if s_ else ""
             st.markdown(f"{label(a['label'])} <span class='big'>{a['registration']}</span> "
                         f"<span class='muted'>{a['model']} · MSN {a['msn']}</span>{done}", unsafe_allow_html=True)
             if a["label"] == "APPLIES":
                 st.markdown(f"<span class='muted'>Because {a['reason']}.</span>", unsafe_allow_html=True)
+            qs = [e for e in a["evidence"] if e["quote"]]
+            if qs:
+                with st.popover("View source"):
+                    st.markdown(f"<span class='faint'>{d['docket']} · Applicability · {d['fr_citation'] or ''}</span>", unsafe_allow_html=True)
+                    for e in qs:
+                        st.markdown(f"<div class='quote'>{e['quote'][:500]}</div><span class='faint'>{e['reason']}</span>", unsafe_allow_html=True)
+                    if d["url"]:
+                        st.markdown(f"[Open on federalregister.gov]({d['url']})")
             for i, q in enumerate(a["questions"]):
                 render_question(a["registration"], q, f"q-{doc_id}-{a['registration']}-{i}")
     if clear:
@@ -234,7 +306,7 @@ def render_detail(doc_id):
     st.download_button("Download report (CSV)", export.to_csv(index=False), f"{d['docket']}_impact.csv", "text/csv")
 
     if status == "Proposed" and (c.get("days_left") or -1) >= 0 and any(a["label"] == "APPLIES" for a in rep["aircraft"]):
-        with st.expander("✍️ Draft a comment to the FAA (optional)"):
+        with st.expander("Draft a comment to the FAA (optional)"):
             from adc.comment import draft, facts_block
             st.caption("Proposals are open for public comment until the deadline. The draft uses only the facts below; "
                        "placeholders mark where your own position goes. You edit it and decide whether to send it.")
@@ -254,11 +326,8 @@ def render_detail(doc_id):
         cid, src = applicability_text(con, doc_id)
         quotes = {e["quote"] for a in rep["aircraft"] for e in a["evidence"] if e["quote"]}
         st.markdown(f"**Applicability** · `{cid}`" + (f" · [Federal Register]({d['url']})" if d["url"] else ""))
-        st.code(src[:3000], language=None, wrap_lines=True)
-        if quotes:
-            st.markdown("Quoted by the rule:")
-            for q in quotes:
-                st.markdown(f"<div class='quote'>{q[:400]}</div>", unsafe_allow_html=True)
+        st.markdown(highlight(src[:4000], quotes), unsafe_allow_html=True)
+        st.caption("Highlighted: the exact words the rule is built from.")
         meta = one(con, "SELECT validation, extractor, approved_by FROM rules WHERE doc_id=?", (doc_id,))
         st.caption(f"Rule: {meta['validation']} · extracted by {meta['extractor']}" +
                    (f" · approved by {meta['approved_by']}" if meta["approved_by"] else ""))
@@ -284,8 +353,8 @@ def inbox_card(c):
             top.append(chip("Affects"))
         if c["revised"]:
             top.append(chip("Revised"))
-        st.markdown(" ".join(top) + f" <b>{c['docket']}</b> <span class='muted'>· {due_text(c['due'], c['days_left'])}</span>",
-                    unsafe_allow_html=True)
+        st.markdown(" ".join(top) + f" <span class='docket'>{c['docket']}</span> "
+                    f"<span class='faint' style='float:right'>{due_text(c['due'], c['days_left'])}</span>", unsafe_allow_html=True)
         if c["kind"] == "needs_input":
             head = f"Need your input on {', '.join(c['unknown'])}"
             if c["applies"]:
@@ -320,11 +389,11 @@ if page == "Start here":
                 "serial range is a safety issue.")
     st.markdown("#### How this tool works")
     c1, c2, c3 = st.columns(3)
-    c1.markdown("<div class='step'><span class='num'>1</span><h3>✈️ My aircraft</h3><p>Keep a simple list of your aircraft: "
+    c1.markdown("<div class='step'><span class='num'>STEP 1</span><h3>My aircraft</h3><p>Keep a simple list of your aircraft: "
                 "registration, model, serial number. Edit it like a spreadsheet. You do this once.</p></div>", unsafe_allow_html=True)
-    c2.markdown("<div class='step'><span class='num'>2</span><h3>📄 New directives</h3><p>The tool pulls new FAA proposals, "
+    c2.markdown("<div class='step'><span class='num'>STEP 2</span><h3>New directives</h3><p>The tool pulls new FAA proposals, "
                 "reads the full text and works out exactly which aircraft each one covers. No upload needed.</p></div>", unsafe_allow_html=True)
-    c3.markdown("<div class='step'><span class='num'>3</span><h3>📥 To-do</h3><p>You only see what needs a decision: which "
+    c3.markdown("<div class='step'><span class='num'>STEP 3</span><h3>To-do</h3><p>You only see what needs a decision: which "
                 "aircraft are affected, what work, how many hours, by when. Confirm in one click.</p></div>", unsafe_allow_html=True)
     st.markdown("#### Why you can trust the answer")
     st.markdown("""
@@ -360,7 +429,7 @@ elif page == "To-do":
         soon = sum(1 for c in todo if c["days_left"] is not None and c["days_left"] <= 14)
         hours = sum((c["effort"] or 0) * len(c["applies"]) for c in todo)
         st.markdown(f"""<div class='kpis'>
-<div class='kpi warn'><div class='n'>{n_in}</div><div class='l'>need your input</div></div>
+<div class='kpi amber'><div class='n'>{n_in}</div><div class='l'>need your input</div></div>
 <div class='kpi red'><div class='n'>{n_af}</div><div class='l'>affect your fleet</div></div>
 <div class='kpi'><div class='n'>{soon}</div><div class='l'>comment deadline ≤ 14 days</div></div>
 <div class='kpi'><div class='n'>{hours:,.0f}</div><div class='l'>proposed work-hours (FAA estimates)</div></div>
@@ -380,6 +449,17 @@ elif page == "To-do":
                 cols[0].markdown(f"**{c['docket']}** · {due_text(c['due'], c['days_left'])} · {c['require'] or ''}")
                 if cols[1].button("Open", key=f"open-clear-{c['doc_id']}"):
                     go("To-do", c["doc_id"])
+        log = rows(con, """SELECT s.ts AS "when", s.engineer, d.docket, s.registration AS aircraft, s.system_label, s.final_label,
+                           s.decision, s.note FROM signoffs s JOIN documents d USING(doc_id) ORDER BY s.ts DESC""")
+        with st.expander(f"Sign-off history ({len(log)})"):
+            if log:
+                ldf = pd.DataFrame(log)
+                ldf["system_label"] = ldf["system_label"].map(FRIENDLY)
+                ldf["final_label"] = ldf["final_label"].map(FRIENDLY)
+                st.dataframe(ldf, hide_index=True, use_container_width=True)
+                st.download_button("Download audit log (CSV)", ldf.to_csv(index=False), "signoff_log.csv", "text/csv")
+            else:
+                st.write("No sign-offs yet.")
         with st.expander(f"Older proposals, comment period closed ({len(older)})"):
             for c in older:
                 tag = ("affects " + ", ".join(c["applies"])) if c["applies"] else ("need info" if c["unknown"] else "not affected")
@@ -492,7 +572,16 @@ elif page == "New directives":
 
 elif page == "Ask":
     banner("Ask", "Ask in plain English. Answers come only from the directive texts, with the source sentence. If the documents don't say, it tells you.")
-    q = st.text_input("Question", placeholder="Does FAA-2026-11813 apply to 9V-ZMF?")
+    EXAMPLES = ["Which directives affect my A330s?", "Does FAA-2026-1338 apply to 9V-ZMF?",
+                "What changed between the versions of FAA-2026-1338?", "What is proposed for fuel low pressure shut-off valve leaks on A330?",
+                "Since FAA-2026-11813 applies to the A330-243, is 9V-ZME affected?", "Is it safe to fly our A350 tomorrow?"]
+    st.markdown("<span class='faint'>Try one:</span>", unsafe_allow_html=True)
+    ex_cols = st.columns(3)
+    for i, e in enumerate(EXAMPLES):
+        if ex_cols[i % 3].button(e, key=f"ex-{i}", use_container_width=True):
+            st.session_state["ask_q"] = e
+            st.rerun()
+    q = st.text_input("Question", key="ask_q", placeholder="Ask about a directive, an aircraft, or your fleet")
     if q:
         r = ask(con, q, fleet)
         if r["status"] == "REFUSED":
@@ -500,23 +589,26 @@ elif page == "Ask":
         elif r["status"] == "NEEDS_INFO" and r["refusal_code"]:
             st.warning(f"**Need more information**: {r['message']}")
         for w in dict.fromkeys(r["warnings"]):
-            st.caption(f"⚠️ {w}")
+            st.caption(w)
         for i, v in enumerate(r["verdicts"]):
             if "history" in v:
                 st.markdown(f"**Docket {v['docket']}**: {len(v['history'])} versions")
                 st.dataframe(pd.DataFrame(v["history"])[["version_index", "doc_id", "doc_type", "issue_date", "docket_status"]], hide_index=True)
                 show_diffs(v.get("diffs", []))
             elif "directives" in v:
-                st.markdown(f"**{v['registration']}**")
+                st.markdown(f"<div class='big'>{v['registration']}</div>", unsafe_allow_html=True)
                 if v["directives"]:
-                    st.dataframe(pd.DataFrame(v["directives"])[["docket", "label", "comments_due"]], hide_index=True)
+                    st.dataframe(pd.DataFrame([{"docket": d["docket"], "result": FRIENDLY[d["label"]],
+                                                "comment period": "open" if d["open"] else "closed",
+                                                "comments due": d["comments_due"], "why": d["reason"]} for d in v["directives"]]),
+                                 hide_index=True, use_container_width=True)
                 else:
-                    st.write("Nothing applies.")
+                    st.write("No open or past proposal affects this aircraft.")
             else:
                 st.markdown(f"{label(v['label'])} **{v['registration']}** · {v.get('doc_id', '')} "
                             f"<span class='muted'>{v.get('reason', '')}</span>", unsafe_allow_html=True)
                 for qq in v.get("questions", []):
-                    st.markdown(f"❓ {qq['text']}")
+                    st.markdown(f"<div class='q'><b>Question</b> · {qq['text']}</div>", unsafe_allow_html=True)
                 if v.get("doc_id") and st.button("Open directive", key=f"ask-open-{i}"):
                     go("To-do", v["doc_id"])
         for i, c in enumerate(r["claims"], 1):
