@@ -18,17 +18,29 @@ FIELDS = ["document_number", "title", "type", "action", "publication_date", "sta
           "docket_ids", "raw_text_url", "html_url", "comments_close_on", "dates"]
 
 
+def get(s, url, **kw):
+    for attempt in range(6):
+        r = s.get(url, timeout=60, **kw)
+        if r.status_code != 429:
+            r.raise_for_status()
+            return r
+        wait = int(r.headers.get("Retry-After", 0)) or 5 * 2 ** attempt
+        print(f"  429, waiting {wait}s")
+        time.sleep(wait)
+    r.raise_for_status()
+
+
 def fetch_one(s, doc_number):
     meta_p = RAW / f"{doc_number}.json"
     text_p = RAW / f"{doc_number}.txt"
     if text_p.exists() and text_p.stat().st_size > 500:
         return "cached"
-    r = s.get(API.format(doc_number), params=[("fields[]", f) for f in FIELDS], timeout=30)
-    r.raise_for_status()
-    meta = r.json()
-    meta_p.write_text(json.dumps(meta, indent=1))
-    t = s.get(meta["raw_text_url"], timeout=60)
-    t.raise_for_status()
+    if meta_p.exists():
+        meta = json.loads(meta_p.read_text())
+    else:
+        meta = get(s, API.format(doc_number), params=[("fields[]", f) for f in FIELDS]).json()
+        meta_p.write_text(json.dumps(meta, indent=1))
+    t = get(s, meta["raw_text_url"])
     body = t.text
     m = re.search(r"<pre>(.*)</pre>", body, re.S)
     if m:
@@ -54,7 +66,7 @@ def main():
         try:
             st = fetch_one(s, d["doc_number"])
             if st == "ok":
-                time.sleep(0.3)
+                time.sleep(1.0)
         except Exception as e:
             st = f"ERROR {e}"
             errors.append((d["doc_number"], str(e)))
