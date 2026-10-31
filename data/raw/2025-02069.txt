@@ -1,0 +1,185 @@
+
+[Federal Register Volume 90, Number 22 (Tuesday, February 4, 2025)]
+[Proposed Rules]
+[Pages 8914-8915]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-02069]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-1884; Project Identifier AD-2023-00948-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to supersede Airworthiness Directive (AD) 2023-08-04, 
+which applies to certain The Boeing Company Model 787-8, 787-9, and 
+787-10 airplanes. The NPRM was prompted by reports of a loss of water 
+pressure during flight and water leaks that affected multiple pieces of 
+electronic equipment, and by the discovery that some clamshell 
+couplings did not have the required safety strap. The NPRM would have 
+required inspecting all door 1 and door 3 lavatory and galley potable 
+water systems for missing or incorrectly installed clamshell couplings, 
+inspecting all clamshell couplings for the presence and correct 
+installation of safety straps at door 1 and door 3 lavatories and 
+galleys with a potable water system, and performing applicable on-
+condition actions. The NPRM would have also prohibited the installation 
+of affected parts at inspection locations and removed Model 787-10 
+airplanes from the applicability. Since issuance of the NPRM, the FAA 
+has determined that the identified service information may not 
+adequately address the unsafe condition on one of the galleys, and 
+Model 787-10 airplanes should be included in the applicability. 
+Accordingly, the NPRM is withdrawn.
+
+DATES: As of February 4, 2025, the proposed rule, which was published 
+in the Federal Register on July 15, 2024 (89 FR 57374), is withdrawn.
+
+ADDRESSES:  AD Docket: You may examine the AD docket at regulations.gov 
+by searching for and locating Docket No. FAA-2024-1884; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this AD action, any 
+comments received, and other information. The street address for Docket 
+Operations is Docket Operations, M-30, West Building Ground Floor, Room 
+W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Courtney Tuck, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3986; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued an NPRM to amend 14 CFR part 39 to supersede AD 
+2023-08-04, Amendment 39-22419 (88 FR 33823, May 25, 2023) (AD 2023-08-
+04). AD 2023-08-04 applied to certain The Boeing Company Model 787-8, 
+787-9, and 787-10 airplanes. The NPRM was published in the Federal 
+Register on July 15, 2024 (89 FR 57374). The NPRM was prompted by 
+reports of a loss of water pressure during flight and water leaks that 
+affected multiple pieces of electronic equipment. The NPRM was further 
+prompted by the discovery that some clamshell couplings did not have 
+the required safety strap and by the development of a design solution 
+that replaces the strapless clamshell couplings with clamshell 
+couplings that have safety straps to address the unsafe condition. In 
+the NPRM, the FAA proposed to continue to require inspecting all door 1 
+and door 3 lavatory and galley potable water systems for missing or 
+incorrectly installed clamshell couplings, and performing applicable 
+on-condition actions. The NPRM also proposed to require inspecting all 
+clamshell couplings for the presence and correct installation of safety 
+straps at door 1 and door 3 lavatories and galleys with a potable water 
+system, and performing applicable on-condition actions. The NPRM would 
+have also prohibited the installation of affected parts at inspection 
+locations and removed Model 787-10 airplanes from the applicability.
+    The proposed actions were intended to address water leaks and water 
+migration to critical flight equipment, which may affect the continued 
+safe flight and landing of the airplane.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, Boeing advised the FAA that an 
+inspection area is missing from Boeing Alert Requirements Bulletin 
+B787-81205-SB250299-00 RB, Issue 001, dated July 31, 2023(as specified 
+in paragraph (j) of the proposed AD). As a result, the NPRM may not 
+adequately address the unsafe condition on one of the galleys. 
+Specifically, Task 3, Figure 10, needs to be updated to add an 
+inspection area to the FWD galley located at Door 1. According to 
+Boeing, the current figure specifies inspection of only Detail K, the 
+area above the galley carts, so Detail L will be added in a revised 
+requirements bulletin to specify an inspection of the area behind all 
+of the galley carts. Boeing anticipates release of the revised bulletin 
+in the middle of 2025.
+    Since the NPRM does not address the unsafe condition and the unsafe 
+condition still exists, the FAA is withdrawing the NPRM and considering 
+additional rulemaking to require the revised service information. The 
+FAA has determined that any new AD will be issued within the timeframe 
+established by the safety assessment.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+Comments
+
+    The FAA received comments from United Airlines, the Air Line Pilots 
+Association, International (ALPA), and an individual, who supported the 
+NPRM without change.
+    The FAA also received a comment from The Boeing Company. The 
+following presents the comment received on the NPRM and the FAA's 
+response to the comment.
+
+Request To Include Model 787-10 Airplanes
+
+    Boeing noted that some Model 787-10 airplanes could be in storage 
+or are otherwise inactive and requested that
+
+[[Page 8915]]
+
+the proposed AD clarify that those airplanes that have not yet met the 
+requirements of AD 2023-08-04 must still meet the inspection 
+requirements of Boeing Alert Requirements Bulletin B787-81205-SB380021-
+00 RB, Issue 001, dated August 12, 2022.
+    The FAA agrees that the applicability of the NPRM did not include 
+Model 787-10 airplanes. Those airplanes had been removed from the 
+applicability of the proposed AD because Boeing had originally stated 
+that Model 787-10 airplanes were delivered with safety-strap clamshell 
+couplings on affected potable water lines, so those airplanes were not 
+included in Boeing Requirements Bulletin B787-81205-SB250299-00 RB, 
+Issue 001, dated July 31, 2023 (the service information specified in 
+paragraph (j) of the proposed AD). Accordingly, the NPRM stated that 
+Model 787-10 airplanes were no longer subject to the unsafe condition 
+and therefore not included in the applicability. However, as Boeing 
+stated, there is a possibility that some Model 787-10 airplanes may 
+have been in storage and not inspected as required by AD 2023-08-04 
+(and restated in retained paragraph (g) of the proposed AD). Therefore, 
+if appropriate, those airplanes will be included in future rulemaking 
+that addresses the unsafe condition. Because the NPRM is withdrawn, no 
+further action is necessary for this NPRM.
+
+FAA's Conclusions
+
+    Upon further consideration, the FAA has determined that the NPRM 
+would not adequately address the identified unsafe condition. 
+Accordingly, the NPRM is withdrawn. AD 2023-08-04 remains in effect 
+unless it is later superseded.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act, or DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+0
+Accordingly, the notice of proposed rulemaking (Docket No. FAA-2024-
+1884), which was published in the Federal Register on July 15, 2024 (89 
+FR 57374), is withdrawn.
+
+    Issued on January 28, 2025.
+Suzanne Masterson,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-02069 Filed 2-3-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+

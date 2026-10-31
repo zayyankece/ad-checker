@@ -1,0 +1,584 @@
+
+[Federal Register Volume 91, Number 63 (Thursday, April 2, 2026)]
+[Proposed Rules]
+[Pages 16595-16599]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-06459]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-2723; Project Identifier AD-2024-00429-A]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Ontic Engineering and Manufacturing, 
+Inc. Airplanes (Type Certificate Previously Held by M7 Aerospace LLC)
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain Ontic Engineering and Manufacturing, Inc. Model SA226-T, 
+SA226-AT, SA226-T(B), SA226-TC, SA227-AC (C-26A), SA227-AT, SA227-BC 
+(C-26A), SA227-CC, SA227-DC (C-26B), and SA-227-TT (300) airplanes. 
+This proposed AD was prompted by reports of in-flight pitch trim 
+actuator failures. This proposed AD would require repetitively 
+inspecting the pitch trim actuator for cracked, missing, or compromised 
+sealant, replacing and sealing the pitch trim actuator if cracked, 
+missing, or compromised, repetitively measuring the pitch trim actuator 
+travel time, and depending on the results of the measurements, 
+replacing and sealing the pitch trim actuator. This proposed AD would 
+prohibit the installation of certain pitch trim actuators unless the 
+pitch trim actuator is sealed. The FAA is proposing this AD to address 
+the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by May 18, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-2723; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Ontic Engineering and Manufacturing, Inc. material 
+identified in this proposed AD, contact Ontic, 1176 Telecom Drive, 
+Creedmoor, NC 27522; phone: (919) 956-4300; email: 
+[email&#160;protected]; website: metromerlin.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 901 Locust, Kansas City, 
+MO 64106. For information on the availability of this material at the 
+FAA, call (817) 222-5110.
+
+FOR FURTHER INFORMATION CONTACT: Trevor Carlton, Aviation Safety
+
+[[Page 16596]]
+
+Engineer, FAA, East Certification Branch, FAA, 1701 Columbia Avenue, 
+College Park, GA 30337; phone: (404) 474-5597; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2026-2723; 
+Project Identifier AD-2024-00429-A'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may revise this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Trevor Carlton, Aviation Safety Engineer, FAA, East Certification 
+Branch, FAA, 1701 Columbia Avenue, College Park, GA 30337. Any 
+commentary that the FAA receives which is not specifically designated 
+as CBI will be placed in the public docket for this rulemaking.
+
+Background
+
+    The FAA received six reports of in-flight failures of the pitch 
+trim actuator on Ontic Engineering and Manufacturing, Inc. SA226 and 
+SA227 airplanes due to corrosion. The corrosion failures are caused by 
+the piston rod of the Simmonds-Precision pitch trim actuators with part 
+number (P/N) DL5040M5, DL5040M6, and DL5040M8 being drilled through. 
+This allows moisture intrusion into the pitch trim actuator body 
+through the rod end keyway and pitch trim actuator piston.
+    AD 2007-16-03, Amendment 39-15142 (72 FR 43139, August 3, 2007) (AD 
+2007-16-03) was issued to detect excessive freeplay or rod slippage in 
+the pitch trim actuator that could result in pitch trim actuator 
+failure, which could lead to a pitch upset. AD 2007-16-03 places life 
+limits on certain P/N pitch trim actuators and requires the replacement 
+of certain P/N pitch trim actuators with one of an improved design. 
+Since the issuance of AD 2007-16-03, corrosion has been observed on 
+pitch trim actuators with P/N DL5040M5, DL5040M6, and DL5040M8. 
+Therefore, this proposed AD, while not superseding AD 2007-16-03, would 
+address moisture intrusion into the pitch trim actuator body through 
+the rod end keyway and pitch trim actuator piston.
+    The FAA is proposing this AD to prevent moisture intrusion into the 
+pitch trim actuator body through the rod end keyway and pitch trim 
+actuator piston. This condition, if not addressed, could result in 
+pitch trim actuator failure and consequent reduced control of the 
+airplane.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Ontic Engineering and Manufacturing, Inc. SA227 
+Commuter Category Series Service Bulletin CC7-27-038R3, dated January 
+27, 2026; Ontic Engineering and Manufacturing, Inc. SA227 Service 
+Bulletin 227-27-067R2, dated November 8, 2024; and Ontic Engineering 
+and Manufacturing, Inc. SA226 Service Bulletin 226-27-087R2, dated 
+November 8, 2024. This material specifies procedures for inspections 
+and functional checks of the pitch trim actuator and measurement of the 
+pitch trim actuator travel time. These documents are distinct because 
+they apply to different airplane models. This material is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+Proposed AD Requirements in This NPRM
+
+    For airplanes with a Simmonds-Precision pitch trim actuator, P/N 
+DL5040M5, DL5040M6, or DL5040M8 installed, this proposed AD would 
+require repetitively inspecting the pitch trim actuator for cracked, 
+missing, or compromised sealant, replacing and sealing the pitch trim 
+actuator if cracked, missing, or compromised, repetitively measuring 
+the pitch trim actuator travel time, and depending on the results of 
+the measurements, replacing and sealing the pitch trim actuator. For 
+all affected airplanes, this proposed AD would prohibit the 
+installation of certain pitch trim actuators unless the pitch trim 
+actuator is sealed.
+
+Differences Between This Proposed AD and the Referenced Material
+
+    Although the material specifies to submit certain information to 
+the manufacturer, this proposed AD would not include that requirement.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 198 airplanes of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                Cost on U.S.
+              Action                    Labor cost        Parts cost    Cost per product          operators
+----------------------------------------------------------------------------------------------------------------
+Measure pitch trim actuator        3 work-hours x $85             $0  $255 per cycle......  $50,490 per cycle.
+ travel time.                       per hour = $255.
+Inspect pitch trim actuator......  3 work-hours x $85              0  $255 per inspection   $50,490 per
+                                    per hour = $255.                   cycle.                inspection cycle.
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 16597]]
+
+    The FAA estimates the following costs to do any necessary 
+replacement that would be required based on the results of the proposed 
+inspection. The agency has no way of determining the number of 
+airplanes that might need these replacements.
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                 Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Seal pitch trim actuator rod ends.............  2 work-hours x $85 per hour =               $149            $319
+                                                 $170.
+Replace pitch trim actuator...................  5 work-hours x $85 per hour =             20,000          20,425
+                                                 $425.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Ontic Engineering and Manufacturing, Inc. (Type Certificate 
+Previously Held by M7 Aerospace LLC): Docket No. FAA-2026-2723; 
+Project Identifier AD-2024-00429-A.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by May 18, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Ontic Engineering and Manufacturing, Inc. 
+(type certificate previously held by M7 Aerospace LLC) model and 
+serial number airplanes certificated in any category, as identified 
+in paragraphs (c)(1) and (2) of this AD.
+    (1) Group 1 airplanes: Model SA226-T, SA226-AT, SA226-T(B), 
+SA226-TC, SA227-AC (C-26A), SA227-AT, SA227-BC (C-26A), SA227-PC, 
+and SA-227-TT (300) airplanes, all serial numbers with a pitch trim 
+actuator Simmonds-Precision part number (P/N) DL5040M5, DL5040M6, or 
+DL5040M8 installed.
+    (2) Group 2 airplanes: Model SA227-CC and SA227-DC (C-26B), all 
+serial numbers with a pitch trim actuator Simmonds-Precision P/N 
+DL5040M5, DL5040M6, or DL5040M8 installed.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 2731, Elevator Tab 
+Control System.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of in-flight pitch trim actuator 
+failure. The FAA is issuing this AD to prevent moisture intrusion 
+into the pitch trim actuator body through the rod end keyway and 
+pitch trim actuator piston. The unsafe condition, if not addressed, 
+could result in pitch trim actuator failure and consequent reduced 
+control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definitions
+
+    For the purpose of this AD:
+    (1) A new part is a pitch trim actuator with zero-hours time-in-
+service (TIS).
+    (2) An overhauled part is a pitch trim actuator that has zero 
+hours TIS since the last overhaul.
+
+(h) Required Actions for Model Group 1 Airplanes
+
+    (1) For all affected airplanes, at whichever compliance time in 
+paragraph (h)(1)(i) or (ii) of this AD occurs later, inspect the ram 
+of each actuator, specifically the pitch trim actuator rod ends, to 
+determine if the sealant is cracked, missing, or compromised in 
+accordance with Step 2.B.7, of the Accomplishment Instructions in 
+Ontic Engineering and Manufacturing, Inc. SA227 Service Bulletin 
+227-27-067R2, dated November 8, 2024 (Ontic SB 227-27-067R2) or 
+Ontic Engineering and Manufacturing, Inc. SA226 Service Bulletin 
+226-27-087R2, dated November 8, 2024 (Ontic SB 226-27-087R2), as 
+applicable for your airplane.
+    (i) Within 1,000 flight hours or 6 calendar months since the 
+pitch trim actuator was put into service, whichever occurs first; or
+    (ii) Within 30 days after the effective date of this AD.
+    (2) For affected airplanes with any pitch trim actuator whose 
+rod ends have been found to have cracked, missing, or compromised 
+sealant per the inspection in paragraph (h)(1) of this AD, and have 
+at least 1,000 flight hours or at least 6 calendar months, whichever 
+is less since the pitch trim actuator was put into service, before 
+further flight, replace the pitch trim actuator with a new or 
+overhauled pitch trim actuator and install and seal the pitch trim 
+actuator in accordance with the Accomplishment Instructions, Step 
+2.B.8, Ontic SB 227-27-067R2 or Ontic SB 226-27-087R2, as applicable 
+for your airplane.
+    (3) For affected airplanes with any pitch trim actuator whose 
+rod ends have been found to have cracked, missing, or compromised 
+sealant per the inspection in paragraph (h)(1) of this AD, and have 
+less than 1,000 flight hours or 6 calendar months, whichever is less 
+since the pitch trim actuator was put into service, before further 
+flight, inspect and apply sealant to the pitch trim actuator in 
+accordance with the
+
+[[Page 16598]]
+
+Accomplishment Instructions, Step 2.B., of Ontic SB 227-27-067R2 or 
+Ontic SB 226-27-087R2, as applicable for your airplane.
+    (4) For all affected airplanes, repetitively inspect and seal 
+the pitch trim actuator every 1,000 flight hours or every 12 
+calendar months, whichever occurs first, after the inspection 
+required in paragraph (h)(1), in accordance with the Accomplishment 
+Instructions, Step 2.B., Ontic SB 227-27-067R2 or Ontic SB 226-27-
+087R2, as applicable for your airplane.
+    (5) For all affected airplanes, at whichever compliance time in 
+paragraph (h)(1)(i) or (ii) of this AD occurs later, measure the 
+pitch trim actuator travel time in accordance with the 
+Accomplishment Instructions, Step 2.A., Ontic SB 227-27-067R2 or 
+Ontic SB 226-27-087R2, as applicable for your airplane.
+    (i) If either pitch trim actuator rod does not meet travel time 
+criteria, before further flight, replace the pitch trim actuator 
+with a new or overhauled pitch trim actuator.
+    (ii) If both pitch trim actuator rods meet travel time criteria, 
+repeat the measurement of the pitch trim actuator at intervals 
+specified below in table 1 to paragraph (h)(5)(ii) of this AD.
+
+     Table 1 of Paragraph (h)(5)(ii)--Group 1 Repetitive Measurement
+                                Intervals
+------------------------------------------------------------------------
+               Condition                 Repetitive measurement interval
+------------------------------------------------------------------------
+For airplanes that have an original      Intervals not to exceed 250
+ Simmonds-Precision pitch trim            flight hours or 6 calendar
+ actuator, P/N DL5040M5, installed.       months, whichever occurs
+                                          first.
+For airplanes that have a replacement    Intervals not to exceed 250
+ Simmonds-Precision pitch trim            flight hours or 6 calendar
+ actuator, P/N DL5040M5, installed        months, whichever occurs
+ where both nut tube assemblies, P/N      first.
+ AA56142, were not replaced with new
+ assemblies.
+For airplanes that have a replacement    Intervals not to exceed 300
+ Simmonds-Precision pitch trim            flight hours or 6 calendar
+ actuator, P/N DL5040M5, installed        months, whichever occurs
+ where both nut tube assemblies, P/N      first.
+ AA56142, were replaced with new
+ assemblies.
+For airplanes that have a replacement    Intervals not to exceed 300
+ Simmonds-Precision pitch trim            flight hours or 6 calendar
+ actuator, P/N DL5040M6, installed.       months, whichever occurs
+ This part can be new, modified from a    first.
+ P/N DL5040M5 pitch trim actuator, or
+ overhauled.
+------------------------------------------------------------------------
+
+    (6) If any affected pitch trim actuator was replaced with a 
+pitch trim actuator that makes the airplane a Group 1 airplane, the 
+actions of this AD still apply at the applicable compliance times.
+
+(i) Required Actions for Group 2 Airplanes
+
+    (1) For all affected airplanes, at whichever compliance time in 
+paragraph (i)(1)(i) or (ii) of this AD occurs later, inspect the ram 
+of each actuator, specifically the pitch trim actuator rod ends, to 
+determine if the sealant is cracked, missing, or compromised, in 
+accordance with the Accomplishment Instructions, Step 2.B.7, SA227 
+Commuter Category Series Service Bulletin CC7-27-038R3, dated 
+January 27, 2026 (Ontic SB CC7-27-038R3).
+    (i) Within 1,000 flight hours or 6 calendar months since the 
+pitch trim actuator was put into service, whichever occurs first; or
+    (ii) Within 30 days after the effective date of this AD.
+    (2) For affected airplanes with any pitch trim actuator whose 
+rod ends have been found to have cracked, missing, or compromised 
+sealant per the inspection in paragraph (i)(1) of this AD, and have 
+at least 1,000 flight hours or at least 6 calendar months, whichever 
+is less since the pitch trim actuator was put into service, before 
+further flight, replace the pitch trim actuator with a new or 
+overhauled pitch trim actuator and install and seal the pitch trim 
+actuator in accordance with the Accomplishment Instructions, Step 
+2.B.8, Ontic SB CC7-27-038R3.
+    (3) For affected airplanes with any pitch trim actuator whose 
+rod ends have been found to have cracked, missing, or compromised 
+sealant per the inspection in paragraph (i)(1) of this AD, and have 
+less than 1,000 flight hours or 6 calendar months, whichever is less 
+since the pitch trim actuator was put into service, before further 
+flight, inspect and apply sealant to the pitch trim actuator in 
+accordance with the Accomplishment Instructions, Step 2.B., Ontic SB 
+CC7-27-038R3.
+    (4) For all affected airplanes, repetitively inspect and seal 
+the pitch trim actuator every 1,000 flight hours or every 12 
+calendar months, whichever occurs first, after the inspection 
+required in paragraph (i)(1), in accordance with the Accomplishment 
+Instructions, Step 2.B., Ontic SB CC7-27-038R3.
+    (5) For all affected airplanes, at whichever compliance time in 
+paragraph (i)(1)(i) or (ii) of this AD occurs later, measure the 
+pitch trim actuator travel time in accordance with the 
+Accomplishment Instructions, Step 2.A., Ontic SB CC7-27-038R3.
+    (i) If either pitch trim actuator rod does not meet travel time 
+criteria, before further flight, replace the pitch trim actuator 
+with a new or overhauled pitch trim actuator.
+    (ii) If both pitch trim actuator rods meet travel time criteria, 
+repeat the measurement of the pitch trim actuator at intervals 
+specified below in table 2 to paragraph (i)(5)(ii) of this AD.
+
+     Table 2 to Paragraph (i)(5)(ii)--Group 2 Repetitive Measurement
+                                Intervals
+------------------------------------------------------------------------
+               Condition                 Repetitive measurement interval
+------------------------------------------------------------------------
+For airplanes that have an original      Intervals not to exceed 250
+ Simmonds-Precision pitch trim            flight hours or 6 calendar
+ actuator, P/N DL5040M5, installed.       months, whichever occurs
+                                          first.
+For airplanes that have a replacement    Intervals not to exceed 250
+ Simmonds-Precision pitch trim            flight hours or 6 calendar
+ actuator, P/N DL5040M5, installed        months, whichever occurs
+ where both nut tube assemblies, P/N      first.
+ AA56142, were not replaced with new
+ assemblies.
+For airplanes that have a replacement    Intervals not to exceed 300
+ Simmonds-Precision pitch trim            flight hours or 6 calendar
+ actuator, P/N DL5040M5, installed        months, whichever occurs
+ where both nut tube assemblies, P/N      first.
+ AA56142, were replaced with new
+ assemblies.
+For airplanes that have a Simmonds-      Intervals not to exceed 300
+ Precision pitch trim actuator, P/N       flight hours or 6 calendar
+ DL5040M6, installed.                     months, whichever occurs
+                                          first.
+For airplanes that have a Simmonds-      Intervals not to exceed 300
+ Precision pitch trim actuator P/N        flight hours or 6 calendar
+ DL5040M8, installed.                     months, whichever occurs
+                                          first.
+------------------------------------------------------------------------
+
+
+[[Page 16599]]
+
+    (6) If any affected pitch trim actuator was replaced with a 
+pitch trim actuator that makes the airplane a Group 2 airplane, the 
+actions of this AD still apply at the applicable compliance times.
+
+(j) Installation Prohibition for All Airplane Models in Both Group 1 
+and Group 2
+
+    As of the effective date of this AD, do not install a pitch trim 
+actuator unless the sealant is not cracked, missing, or compromised 
+per the applicable inspection required in paragraphs (h)(1) or 
+(i)(1) of this AD.
+
+(k) Credit for Previous Actions
+
+    (1) You may take credit for the actions required by paragraphs 
+(h)(1) of this AD if those actions were performed before the 
+effective date of this AD using Ontic Engineering and Manufacturing, 
+Inc. SA227 Service Bulletin 227-27-067R1, dated August 16, 2024; or 
+Ontic Engineering and Manufacturing Inc. SA227 Service Bulletin 227-
+27-067, dated July 29, 2024.
+    (2) You may take credit for the actions required by paragraphs 
+(i)(1) of this AD if those actions were performed before the 
+effective date of this AD using Ontic Engineering and Manufacturing, 
+Inc. SA227 Commuter Category Series Service Bulletin CC7-27-038R2, 
+dated November 8, 2024.
+
+(l) Special Flight Permit
+
+    Special flight permits, as described in 14 CFR 21.197 and 
+21.199, are not allowed.
+
+(m) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, East Certification Branch, FAA, has the authority 
+to approve AMOCs for this AD, if requested using the procedures 
+found in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your 
+request to your principal inspector or local Flight Standards 
+District Office, as appropriate. If sending information directly to 
+the manager of the East Certification Branch, send it to the 
+attention of the person identified in paragraph (n)(1) of this AD 
+and email to: [email&#160;protected]. Before using any approved AMOC, notify 
+your appropriate principal inspector, or lacking a principal 
+inspector, the manager of the local flight standards district 
+office/certificate holding district office.
+
+(n) Additional Information
+
+    (1) For more information about this AD, contact Trevor Carlton, 
+Aviation Safety Engineer, FAA, East Certification Branch, FAA, 1701 
+Columbia Avenue, College Park, GA 30337; phone: (404) 474-5597; 
+email: [email&#160;protected].
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (o)(3) 
+of this AD.
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Ontic Engineering and Manufacturing, Inc. SA227 Commuter 
+Category Series, Service Bulletin CC7-27-038R3, dated January 27, 
+2026.
+    (ii) Ontic Engineering and Manufacturing, Inc. SA227 Service 
+Bulletin 227-27-067R2, dated November 8, 2024.
+    (iii) Ontic Engineering and Manufacturing, Inc. SA226 Service 
+Bulletin 226-27-087R2, dated November 8, 2024.
+    (3) For Ontic Engineering and Manufacturing, Inc. material 
+identified in this AD, contact Ontic Engineering and Manufacturing, 
+Inc., 1176 Telecom Drive, Creedmoor, NC 27522; phone: (919) 956-
+4300; email: [email&#160;protected]; website: metromerlin.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 901 Locust, Kansas 
+City, MO 64106. For information on the availability of this material 
+at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on March 24, 2026.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-06459 Filed 4-1-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

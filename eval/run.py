@@ -53,14 +53,18 @@ def check(case, r):
 
 
 def baselines(con, cases):
-    import anthropic
-    cl = anthropic.Anthropic()
+    from adc.llm import client, text
+    cl = client()
     out = []
     for c in cases:
-        b0 = cl.messages.create(model=MODEL_ANSWER, max_tokens=400, messages=[{"role": "user", "content": c["q"]}]).content[0].text
         chunks, _ = search(con, c["q"], k=5)
         ctx = "\n\n".join(f"[{x['chunk_id']}] {x['text'][:1500]}" for x in chunks)
-        b1 = cl.messages.create(model=MODEL_ANSWER, max_tokens=400, messages=[{"role": "user", "content": f"Context:\n{ctx}\n\nQuestion: {c['q']}"}]).content[0].text
+        try:
+            b0 = text(cl.messages.create(model=MODEL_ANSWER, max_tokens=4000, messages=[{"role": "user", "content": c["q"]}]))
+            b1 = text(cl.messages.create(model=MODEL_ANSWER, max_tokens=4000, messages=[{"role": "user", "content": f"Context:\n{ctx}\n\nQuestion: {c['q']}"}]))
+        except Exception as e:
+            print("baseline error", c["id"], str(e)[:120])
+            continue
         out.append({"id": c["id"], "cat": c["cat"], "q": c["q"], "B0": b0, "B1": b1})
         print("baseline", c["id"])
     return out
@@ -81,7 +85,7 @@ def main():
         per_cat[c["cat"]][1] += 1
         lat_total.append(r["latency"]["total_s"])
         t0 = time.perf_counter(); search(con, c["q"]); lat_ret.append(time.perf_counter() - t0)
-        res.append({"id": c["id"], "cat": c["cat"], "pass": not f, "fails": f, "status": r["status"], "code": r["refusal_code"]})
+        res.append({"id": c["id"], "cat": c["cat"], "pass": not f, "fails": f, "status": r["status"], "code": r["refusal_code"], "llm_error": r.get("llm_error")})
         print(("PASS" if not f else "FAIL"), c["id"], c["q"][:70], f)
     exp_ref = [c for c in cases if c.get("expect_status") in ("REFUSED", "NEEDS_INFO") or set(c.get("expect_status_in", [])) & {"REFUSED", "NEEDS_INFO"}]
     got_ref = [x for x in res if x["status"] in ("REFUSED", "NEEDS_INFO")]
@@ -97,7 +101,11 @@ def main():
         "latency_total_p50_s": round(stt.median(lat_total), 4), "latency_total_p95_s": round(q(lat_total, .95), 4),
         "latency_retrieval_p95_s": round(q(lat_ret, .95), 4), "index_chunks": n_chunks, "index_pages": n_pages,
         "answer_mode": "llm" if os.getenv("ANTHROPIC_API_KEY") else "extractive (no API key)",
+        "llm_errors": sum(1 for x in res if x.get("llm_error")),
     }
+    errs = [x["llm_error"] for x in res if x.get("llm_error")]
+    if errs:
+        print("first LLM error:", errs[0])
     print(json.dumps(summary, indent=1))
     (HERE / "results.json").write_text(json.dumps({"summary": summary, "cases": res}, indent=1))
     if a.baselines:

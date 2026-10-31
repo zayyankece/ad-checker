@@ -1,0 +1,102 @@
+
+[Federal Register Volume 80, Number 80 (Monday, April 27, 2015)]
+[Proposed Rules]
+[Page 23244]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-09535]
+
+
+
+[[Page 23244]]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-0868; Directorate Identifier 97-ANE-42-AD
+RIN 2120-AA64
+
+
+Airworthiness Directives; Lycoming Engines Reciprocating Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM). 
+The NPRM proposed a new airworthiness directive (AD) that had applied 
+to certain Lycoming Engines (type certificate formerly held by Textron 
+Lycoming) with Superior Air Parts, Inc. (SAP), piston pins installed. 
+The NPRM had applied to those engines using SAP piston pins, part 
+number (P/N) 13444-1. The proposed action would have required removal 
+of defective SAP piston pins, P/N 13444-1, from service. Since we 
+issued the NPRM, we have learned that all the affected piston pins have 
+been removed from service. We also found that SAP has revised its 
+manufacturing process so that the subsequent piston pins were no longer 
+susceptible to cracking. Accordingly, we withdraw the proposed rule.
+
+DATES: As of April 27, 2015, the proposed rule published February 18, 
+1998 at 63 FR 8149 is withdrawn.
+
+FOR FURTHER INFORMATION CONTACT: Peter W. Hakala, Aerospace Engineer, 
+Ft. Worth Aircraft Certification Office, FAA, Rotorcraft Directorate, 
+2601 Meacham Blvd., Fort Worth, TX 76137; phone: 817-222-5145; fax: 
+817-222-5785; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION: The FAA proposed to amend 14 CFR part 39 
+with a proposed AD (63 FR 8149, February 18, 1998). The proposed AD had 
+applied to certain Lycoming Engines with SAP piston pins installed. The 
+NPRM proposed to require removing certain defective piston pins from 
+service. The proposed action was prompted by reports of defective 
+piston pins. The proposed actions were intended to prevent a piston pin 
+fracture from allowing a connecting rod and free piston to damage an 
+aluminum cylinder head or an engine case. This could result in the loss 
+of oil leading to total power failure and a possible engine fire. Also, 
+a loose connecting rod could possibly puncture the engine case or jam 
+the engine crankshaft, resulting in a catastrophic engine failure.
+    Since we issued the NPRM (63 FR 8149, February 18, 1998), 
+additional information became available after the public comment period 
+closed on March 20, 1998.
+    Upon further consideration, we hereby withdraw the proposed rule 
+for the following reasons:
+     All the suspect defective piston pins, P/N 1344-1, 
+manufactured by SAP, were taken out of service in 1998.
+     SAP changed its machining and grinding procedures in 1998 
+so that the affected piston pins were no longer susceptible to micro-
+cracks.
+    Withdrawal of the NPRM (63 FR 8149, February 18, 1998) constitutes 
+only such action, and does not preclude the agency from issuing another 
+notice in the future, nor does it commit the agency to any course of 
+action in the future.
+    Since this action only withdraws a notice of proposed rulemaking, 
+it is neither a proposed nor a final rule. Therefore, Executive Order 
+12866, the Regulatory Flexibility Act, or DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979) do not cover this 
+withdrawal.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, the notice of proposed rulemaking, Docket No. FAA-
+2015-0868; Directorate Identifier 97-ANE-42-AD, published in the 
+Federal Register on February 18, 1998 (63 FR 8149), is withdrawn.
+
+    Issued in Burlington, Massachusetts, on April 15, 2015.
+Colleen M. D'Alessandro,
+Assistant Manager, Engine & Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. 2015-09535 Filed 4-24-15; 8:45 am]
+ BILLING CODE 4910-13-P
+
+

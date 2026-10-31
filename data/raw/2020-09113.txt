@@ -1,0 +1,149 @@
+
+[Federal Register Volume 85, Number 86 (Monday, May 4, 2020)]
+[Proposed Rules]
+[Pages 26374-26375]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2020-09113]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0548; Product Identifier 2017-NM-184-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; De Havilland Aircraft of Canada Limited 
+(Type Certificate Previously Held by Bombardier, Inc.) Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that published in the Federal Register on June 22, 2018, regarding an 
+unsafe condition with certain Bombardier, Inc. Model DHC-8-400 series 
+airplanes. Since issuance of the NPRM, the FAA determined that 
+additional actions are necessary to address the unsafe condition and 
+that the applicability should be expanded to include additional 
+airplane serial numbers. Accordingly, the NPRM is withdrawn.
+
+DATES: As of May 4, 2020, the proposed rule, which was published in the 
+Federal Register on June 22, 2018 (83 FR 29059), is withdrawn.
+
+ADDRESSES: 
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0548; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD action, the regulatory evaluation, any comments received, and 
+other information. The street address for Docket Operations is U.S. 
+Department of Transportation, Docket Operations, M-30, West Building 
+Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 
+20590.
+
+FOR FURTHER INFORMATION CONTACT: Joseph Catanzaro, Aerospace Engineer, 
+Propulsion Section, FAA, New York ACO Branch, 1600 Stewart Avenue, 
+Suite 410, Westbury, NY 11590; telephone 516-228-7366; fax 516-794-
+5531.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    The FAA issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD that would have applied to the specified products. The 
+NPRM was published in the Federal Register on June 22, 2018 (83 FR 
+29059). The NPRM would have required, depending on airplane 
+configuration: Increasing the hole size in the collector tank partition 
+wall, inspecting the motive flow line for damage, and replacing the 
+associated grommet and motive flow line; replacing the affected single 
+nut plate brackets and standoffs at the affected stations on the motive 
+flow line and pressure relief line; and inspecting the motive flow line 
+and vent line at certain wing stations, and inspecting the fuel tubes, 
+to verify that an appropriate clearance has been maintained between the 
+fuel tubes and their support brackets, and applicable corrective 
+actions. The NPRM was prompted by a report of broken P-clamps on the
+
+[[Page 26375]]
+
+pressure relief line and the motive flow line in the left and right 
+fuel tanks, and fouling conditions between the motive flow line and the 
+collector tank partition wall in both fuel tanks. The NPRM proposed to 
+correct an unsafe condition for the specified products.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, the FAA has determined that additional 
+information was needed in the service information regarding the 
+relocation of certain TeflonTM sleeves and that inaccurate 
+production and maintenance manual instructions could have caused 
+TeflonTM sleeves to be incorrectly installed on the vent 
+line. The incorrect installation of Teflon TM sleeves could 
+lead to arcing between the vent line and airplane structure, resulting 
+in possible fuel tank ignition, in the event of a lightning strike. In 
+light of this information, the FAA is considering further rulemaking.
+    In addition, Bombardier revised Service Bulletin 84-28-19 and 
+issued additional service information to provide instructions regarding 
+the proper installation of TeflonTM sleeves on the vent line 
+by providing electrical isolation to preclude the risk of lightning 
+strike-induced fuel tank ignition, and installation of 
+TeflonTM sleeves on the vent line at additional wing 
+stations. The FAA has also determined that the applicability should be 
+expanded to include additional airplane serial numbers. Furthermore, 
+the FAA has determined that to adequately address the unsafe condition, 
+the airworthiness limitations should be revised and that the use of 
+certain maintenance procedures should be prohibited.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+Explanation of Change to Manufacturer's Name Specified in the NPRM
+
+    The FAA has revised references to the manufacturer's name specified 
+in the NPRM to identify the manufacturer name as published in the most 
+recent type certificate data sheet for the affected models.
+
+FAA's Conclusion
+
+    Upon further consideration, the FAA has determined that the NPRM 
+does not adequately address the identified unsafe condition. 
+Accordingly, the NPRM is withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act, or DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+0
+Accordingly, the notice of proposed rulemaking, Docket No. FAA-2018-
+0548, which was published in the Federal Register on June 22, 2018 (83 
+FR 29059), is withdrawn.
+
+    Issued on April 23, 2020.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2020-09113 Filed 5-1-20; 8:45 am]
+BILLING CODE 4910-13-P
+
+

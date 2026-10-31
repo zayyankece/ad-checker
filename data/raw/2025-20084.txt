@@ -1,0 +1,509 @@
+
+[Federal Register Volume 90, Number 220 (Tuesday, November 18, 2025)]
+[Proposed Rules]
+[Pages 51610-51613]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-20084]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-3990; Project Identifier MCAI-2025-00097-A]
+RIN 2120-AA64
+
+
+Airworthiness Directives; LAVIA ARGENTINA S.A. Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all LAVIA ARGENTINA S.A. (LAVIASA) Model PA-25, PA-25-235, and PA-
+25-260 airplanes. This proposed AD was prompted by reports of corrosion 
+in the front and rear wing spars and cracks in the front wing spar. 
+This proposed AD would require inspecting the front and rear wing spars 
+for corrosion and crack(s); inspecting the upper/lower spar flange of 
+the front wing spar for any crack(s); repairing or replacing front and 
+rear wing spars if crack(s) or corrosion are found, as applicable. The 
+FAA is proposing this AD to address the unsafe condition on these 
+products.
+
+DATES: The FAA must receive comments on this NPRM by January 2, 2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-3990; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For LAVIASA aviacion material identified in this proposed 
+AD, contact LAVIA ARGENTINA S.A., Parque Industrial Mendoza, Eje Norte, 
+manzana 13 lote 3, Las Heras, Mondoza, Argentina; phone: +54 9 2614 67-
+7682; email: laviaargentina.com">administracion@laviaargentina.com; website: 
+laviaargentina.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 901 Locust, Kansas City, 
+MO 64106. For information on the availability of this material at the 
+FAA, call (817) 222-5110.
+
+FOR FURTHER INFORMATION CONTACT: Aaron Nguyen, Aviation Safety 
+Engineer, FAA, [1600 Stewart Avenue, Suite 410, Westbury, NY 11590]; 
+phone: (281) 799-3453; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under ADDRESSES. Include ``Docket No. FAA-2025-3990; Project Identifier 
+MCAI-2025-00097-A'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Aaron 
+Nguyen, Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The National Civil Aviation Civil Administration (Argentina), which 
+is the aviation authority for Argentina, has issued Aviaci[oacute]n 
+Civil Argentina (ANAC Argentina) AD 2024-05-01, Revision 1, dated 
+December 18, 2024 (ANAC Argentina AD 2024-05-01 R1) (also referred to 
+as the MCAI), to correct an unsafe condition on all LAVIASA Model PA-
+25, PA-25-235, and PA-25-
+
+[[Page 51611]]
+
+260 airplanes. The MCAI states that corrosion was reported in the front 
+and rear wing spars and cracks were found in the front wing spar. In 
+addition, the MCAI states that after the issuance of ANAC Argentina 
+Emergency AD 2023-12-01, dated December 11, 2023, cracks were found in 
+holes that were drilled to fix the leading edges, which could propagate 
+towards the spar web.
+    The MCAI requires doing repetitive inspections of the front and 
+rear wing spars for corrosion and crack(s) and the front wing spar for 
+alteration(s) (change of leading edge, repairs, non-approved 
+perforations) and crack(s); repairing or replacing front and rear wing 
+spars if crack(s), corrosion, or alteration(s) are found.
+    The unsafe condition, if not addressed, could result in a wing 
+separating from the fuselage in flight.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2025-3990.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed LAVIASA aeroindustria Service Bulletin No. 25-57-
+09, REV 0, dated November 27, 2023. This material specifies procedures 
+for inspecting the lower wing surface for inspection covers and 
+installing inspection holes and covers as applicable, inspecting the 
+forward and aft wing spars for corrosion and crack(s), and ensuring the 
+drain holes are in the correct position and free from any 
+obstruction(s).
+    The FAA also reviewed LAVIASA aviacion Service Bulletin No. 25-57-
+11, Rev 00, dated August 23, 2024. This material specifies procedures 
+for installing rectangular inspection doors near the forward wing spar, 
+verifying the location of the screws on the upper and lower T flanges, 
+inspecting to determine if there are more than four holes between ribs 
+on the leading edge tabs, inspecting for crack(s) near the bore holes, 
+doing a borescope inspection of inside surface of the T-flange for 
+crack(s) and if any crack(s) are found uncovering the complete wing and 
+doing a detailed inspection of the wing spar.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority has notified the FAA of the unsafe condition 
+described in the MCAI referenced above. The FAA is issuing this NPRM 
+after determining that the unsafe condition described previously is 
+likely to exist or develop on other products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions in the 
+material already described above, except as discussed under 
+``Differences Between this Proposed AD and the Service Bulletins.''
+
+Differences Between This Proposed AD and the Service Bulletins
+
+    Where the service bulletins specify that airplanes will be grounded 
+if any crack(s) are found, this proposed AD would require repair before 
+further flight using instructions obtained from the FAA.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 467 airplanes of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                Cost on U.S.
+              Action                    Labor cost        Parts cost    Cost per product          operators
+----------------------------------------------------------------------------------------------------------------
+Inspect wing spars for crack(s)..  16 work-hours x $85            $0  $1,360, per           $635,120, per
+                                    per hour = $1,360,                 inspection.           inspection.
+                                    per inspection.
+Inspect wing spars for corrosion.  8 work-hours x $85              0  $680, per inspection  $317,560, per
+                                    per hour = $680,                                         inspection.
+                                    per inspection.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary 
+replacements that would be required based on the results of the 
+proposed inspections. The agency has no way of determining the number 
+of airplanes that might need these replacements:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                   Action                                 Labor cost                Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Replace front wing spar....................  40 work-hours x $85 per hour =              $15,000         $18,400
+                                              $3,400.
+Replace rear wing spar.....................  40 work-hours x $85 per hour =               11,000          14,400
+                                              $3,400.
+----------------------------------------------------------------------------------------------------------------
+
+    The repair of any front or rear wing spar that may be required as a 
+result of any proposed inspection could vary significantly from 
+airplane to airplane. The FAA has no data to determine the costs to 
+accomplish the repair or the number of airplanes that may require the 
+repair.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or
+
+[[Page 51612]]
+
+develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Lavia Argentina S.A: Docket No. FAA-2025-3990; Project Identifier 
+MCAI-2025-00097-A.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by January 2, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to LAVIA ARGENTINA S.A. (LAVIASA) Model PA-25, 
+PA-25-235, and PA-25-260 airplanes, all serial numbers, certificated 
+in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 5711, WING SPAR.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of corrosion in the front and 
+rear wing spars and cracks in the front wing spar. The FAA is 
+issuing this AD to address corrosion and crack(s) in the front and 
+rear wing spars, and crack(s) in the front wing spar upper/lower 
+spar flange. The unsafe condition, if not addressed, could result in 
+a wing separating from the fuselage in flight.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Front and Rear Wing Spar Inspections for Corrosion and Crack(s)
+
+    (1) At whichever of the compliance times in paragraphs (g)(1)(i) 
+through (iii) of this AD that applies and thereafter at intervals 
+not to exceed 100 hours time-in-service (TIS) or 12 months, 
+whichever occurs first, inspect the lower wing surface for 
+inspection covers and install inspection holes and covers as 
+applicable, inspect the front and rear wing spars for corrosion and 
+crack(s), and ensure the drain holes are in the correct position and 
+free from any obstruction(s), in accordance with steps 5.1, 5.2, and 
+6. of the ACTIONS in LAVIASA aeroindustria Service Bulletin No. 25-
+57-09, REV 0, dated November 27, 2023 (LAVIASA SB 25-57-09, REV 0).
+    Note 1 to paragraph (g)(1): Paragraph 2-14, Inspection Rings and 
+Drain Grommets, of Chapter 2, Fabric Covering, Section 1, Practices 
+and Precautions, of FAA Advisory Circular 43.13-1B, ``Acceptable 
+Methods, Techniques, and Practices--Aircraft Inspection and 
+Repair,'' Change 1, dated September 8, 1998; with Editorial Update 
+dated September 27, 2001, provides guidance regarding installing 
+inspections rings and drain grommets, as related to step 6., 
+Inspection Holes Installation, of the ACTIONS in LAVIASA SB 25-57-
+09, REV 0.
+    (i) For airplanes that have not had a wing spar replaced before 
+the effective date of this AD and not had wing spar alterations at 
+any time during the life of the airplane, before exceeding 5 years 
+on the wing spar, before exceeding 500 hours TIS on the wing spar, 
+or within 10 hours TIS after the effective date of this AD, 
+whichever occurs later;
+    (ii) For airplanes that have had wing spar alterations at any 
+time during the life of the airplane, within 10 hours TIS after the 
+effective date of this AD; or
+    (iii) For airplanes that have had the wing spar replaced before 
+the effective date of this AD with no alterations, within 500 hours 
+TIS or 5 years from the date a wing spar was replaced, or within 10 
+hours TIS after the effective date of this AD, whichever occurs 
+later.
+    (2) If any crack(s) or corrosion is found during any inspection 
+required by paragraph (g)(1) of this AD, before further flight, 
+repair or replace the affected wing spar in accordance with a method 
+approved by the Manager, International Validation Branch, FAA.
+    (i) If the wing spar is repaired after the effective date of 
+this AD, repeat the inspection requirements of paragraph (g)(1) of 
+this AD at intervals not to exceed 100 hours TIS or 12 months, 
+whichever occurs first.
+    (ii) If the wing spar is replaced after the effective date of 
+this AD, inspect the wing spar as required in paragraph (g)(1) of 
+this AD before exceeding 5 years on the wing spar or 500 hours TIS 
+after replacement, whichever occurs first, and thereafter at 
+intervals not to exceed 100 hours TIS or 12 months, whichever occurs 
+first. Repeat the inspection requirements of paragraph (g)(1) of 
+this AD at the applicable time in paragraphs (g)(2)(ii)(A) or (B) of 
+this AD when the airplane is returned to an airworthy condition.
+    (A) For airplanes that have not had a wing spar replaced before 
+the effective date of this AD and that have not had wing alterations 
+at any time during the life of the airplane, before exceeding 5 
+years on the wing spar, before exceeding 500 hours TIS on the wing 
+spar, or within 10 hours TIS after the effective date of this AD, 
+whichever occurs later; or
+    (B) For airplanes that have not had a wing spar replaced before 
+the effective date of this AD and have had wing alterations at any 
+time during the life of the airplane, within 10 hours TIS after the 
+effective date of this AD.
+    (3) Regardless of whether a crack(s) or corrosion is found 
+during any inspection required by paragraph (g)(1) of this AD that 
+show evidence of overlapping, enlarged holes, or more than four 
+holes found and at least two of them are less than one inch away 
+from each other, perform the wing spar inspection in paragraph (h) 
+or (i) of this AD, as applicable.
+
+(h) Front Wing Spar Upper/Lower Spar Flange Inspection for Crack(s)
+
+    (1) At whichever of the compliance times in paragraphs (h)(1)(i) 
+and (ii) of this AD is applicable, inspect the upper/lower spar 
+flange of the front wing spar for any crack(s), evidence of 
+overlapping, enlarged holes, or more than four holes found and at 
+least two of them are less than one inch away from each other, 
+paying particular attention to the leading-edge fitting area, in 
+accordance with steps 1 through 11 of the ACTIONS in LAVIASA 
+aviacion Service Bulletin No. 25-57-11, Rev 00, dated August 23, 
+2024 (LAVIASA SB 25-57-11, Rev 00).
+    (i) For airplanes with more than 5 years total time on the front 
+wing spar but less than 40 years total time on the front wing spar, 
+before exceeding 5 years total time on the front wing spar, within 
+100 hours TIS after the effective date of this AD, or within 12 
+months after the effective date of this AD, whichever occurs latest; 
+or
+    (ii) For airplanes with 40 years or more total time on the front 
+wing spar, within 50 hours TIS after the effective date of this AD.
+    (2) If no crack(s) is found during any inspection required by 
+paragraph (h)(1) of this AD, perform an eddy current inspection of 
+the upper/lower spar flange of the front wing spar for any crack(s) 
+at the applicable times specified in paragraph (h)(2)(i) or (ii) of 
+this AD.
+    Note 2 to paragraph (h)(2): The eddy current inspection may be 
+done using the instructions in Appendix 1 of Aviaci[oacute]n Civil 
+Argentina AD 2024-05-01, Revision 1, dated
+
+[[Page 51613]]
+
+December 18, 2024 (ANAC Argentina AD 2024-05-01 R1).
+    (i) For airplanes with more than 5 years total time on the front 
+wing spar but less than 40 years total time on the front wing spar, 
+before further flight; or
+    (ii) For airplanes with 40 years or more total time on the front 
+wing spar, before further flight and thereafter at intervals not to 
+exceed 100 hours TIS or 12 months, whichever occurs later.
+    (3) If a wing spar has alterations without discrepancies stated 
+in LAVIASA aviacion SB 25-57-11, Rev 00, during any inspection 
+required by paragraph (h)(1) of this AD, as applicable, perform an 
+eddy current inspection of the upper/lower spar flange of the front 
+wing spar for any crack(s) at the applicable times specified in 
+paragraph (h)(3)(i) or (ii) of this AD.
+    (i) For airplanes with more than 5 years total time on the front 
+wing spar but less than 40 years total time on the front wing spar, 
+before further flight and thereafter at intervals not to exceed 50 
+hours TIS except the wing spar must be replaced as specified in 
+paragraph (h)(5) of this AD; or
+    (ii) For airplanes with 40 years or more total time on the front 
+wing spar, before further flight and thereafter at intervals not to 
+exceed 100 hours TIS or 12 months, whichever occurs later.
+    (4) If any crack(s) is found during any inspection required by 
+paragraph (h) of this AD, before further flight, repair or replace 
+the affected wing spar in accordance with instructions obtained from 
+the Manager, International Validation Branch, FAA.
+    (5) Airplanes where eddy current inspections are required every 
+50 hours TIS as specified in paragraph (h)(3)(i) of this AD must 
+have the wing spar replaced within 18 months after starting the eddy 
+current inspections.
+
+(i) Special Flight Permits
+
+    Special flight permits are prohibited.
+
+(j) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Validation Branch, send 
+it to the attention of the person identified in paragraph (k)(1) of 
+this AD and email to: [email&#160;protected]. Before using any approved AMOC, 
+notify your appropriate principal inspector, or lacking a principal 
+inspector, the manager of the local flight standards district 
+office/certificate holding district office.
+
+(k) Additional Information
+
+    (1) For more information about this AD, contact Aaron Nguyen, 
+Aviation Safety Engineer, FAA, [1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590]; phone: (281) 799-3453; email: 
+[email&#160;protected].
+    (2) FAA Advisory Circular 43.13-1B, ``Acceptable Methods, 
+Techniques, and Practices--Aircraft Inspection and Repair,'' Change 
+1, dated September 8, 1998; with Editorial Update dated September 
+27, 2001, may be found at drs.faa.gov.
+    (3) For ANAC Argentina AD 2024-05-01 R1, contact Aviaci[oacute]n 
+Civil Argentina, Av. Paseo Colon, 1452 CP, Buenes Aires, Argentina; 
+phone: +54 115941 3000/7; website: argentina.gob.ar/anac.
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) LAVIASA aeroindustria Service Bulletin No. 25-57-09, REV 0, 
+dated November 27, 2023.
+    (ii) LAVIASA aviacion Service Bulletin No. 25-57-11, Rev 00, 
+dated August 23, 2024.
+    (3) For LAVIASA aviacion material identified in this AD, contact 
+LAVIA ARGENTINA S.A., Parque Industrial Mendoza, Eje Norte, Manzana 
+13 lote 3, Las Heras, Mondoza, Argentina; phone: +54 9 2614 67-7682; 
+email: laviaargentina.com">administracion@laviaargentina.com; website: 
+laviaargentina.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 901 Locust, Kansas 
+City, MO 64106. For information on the availability of this material 
+at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on October 24, 2025.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-20084 Filed 11-17-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+

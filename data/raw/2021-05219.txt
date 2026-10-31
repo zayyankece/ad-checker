@@ -1,0 +1,137 @@
+
+[Federal Register Volume 86, Number 48 (Monday, March 15, 2021)]
+[Proposed Rules]
+[Pages 14289-14290]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-05219]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2007-0373; Directorate Identifier 2006-SW-14-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Erickson Air-Crane Incorporated Model 
+S-64E and S-64F Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to adopt a new airworthiness directive (AD) that would 
+have applied to Erickson Air-Crane Incorporated (now Erickson 
+Incorporated) (Erickson) Model S-64E and S-64F helicopters. The NPRM 
+was prompted by several reports of cracking in the strap and pocket 
+areas of the tail rotor blade. The NPRM would have required inspecting 
+certain tail rotor blade assemblies (blade assembly) for a crack and 
+replacing any cracked blade assembly. Since issuance of the NPRM, the 
+FAA has determined that the unsafe condition no longer exists. 
+Accordingly, the NPRM is withdrawn.
+
+DATES: The FAA is withdrawing the proposed rule published December 31, 
+2007 (72 FR 74210), as of March 15, 2021.
+
+ADDRESSES:
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2007-
+0373; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD action, any comments received, and other information. The 
+street address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Jonas Perez, Aerospace Engineer, ACO 
+Branch, Compliance & Airworthiness Division, FAA, 10101 Hillwood Pkwy., 
+Fort Worth, TX 76177; phone: (817) 222-5145; email: 
+[email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The FAA has issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD that would apply to Erickson Model S-64E and S-64F 
+helicopters with a blade assembly part number 65161-00001-042 or -043 
+installed. The NPRM was published in the Federal Register on December 
+31, 2007 (72 FR 74210). The NPRM was prompted by several reports of 
+cracking in the strap and pocket areas of the tail rotor blade.
+    The NPRM proposed to require determining whether the blade assembly 
+has an affected serial number or part marking. If a blade assembly had 
+a certain serial number or part marking, the NPRM then proposed to 
+require an initial and repetitive inspection of the blade assembly for 
+a crack in the strap and pocket areas. If a crack was found, the NPRM 
+also proposed to require, before further flight, replacing the blade 
+assembly with an airworthy blade assembly that does not have an 
+affected serial number or part marking. The proposed actions were 
+intended to
+
+[[Page 14290]]
+
+prevent failure of the tail rotor blade and subsequent loss of control 
+of the helicopter.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, the design approval holder has reviewed 
+its records and determined that the affected blade assemblies have been 
+removed from service. Therefore, the FAA has determined that AD action 
+is not required and the NPRM is withdrawn.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+Comments
+
+    The FAA gave the public the opportunity to comment on the NPRM. The 
+FAA received comments from one commenter.
+    Erickson requested deletions, corrections, and additions to the 
+NPRM. The FAA acknowledges the commenter's requests. However, because 
+the FAA is withdrawing the NPRM, the commenter's request is no longer 
+necessary.
+
+FAA's Conclusions
+
+    Upon further consideration of the available information, the FAA 
+has determined that the NPRM is unnecessary. Accordingly, the NPRM is 
+withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act, or DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+0
+Accordingly, the notice of proposed rulemaking, Docket No. FAA-2007-
+0373, Directorate Identifier 2006-SW-14-AD, which was published in the 
+Federal Register on December 31, 2007 (72 FR 74210), is withdrawn.
+
+    Issued on March 8, 2021.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2021-05219 Filed 3-12-21; 8:45 am]
+BILLING CODE 4910-13-P
+
+

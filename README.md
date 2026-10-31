@@ -24,17 +24,38 @@ Actual code layout: `adc/` (config, db, fleet), `ingest/` (load, fetch, chunk, r
 
 ## Current results (update after every eval run)
 
-After Federal Register full-text fetch (67 Airbus documents), regex extractor, extractive answers (no API key):
+After Federal Register full-text fetch for every linked document (405 of 431 documents have full text; the other 26 have no link in the dataset and are summary-only). Regex extractor; lookup answers via Claude with citation verifier (39/39 also holds in extractive mode without an API key):
 
 | Metric | Value |
 |---|---|
 | Golden set | 39/39 pass (lookup 7, applicability 14, revision 5, out of scope 6, ambiguous 3, false premise 4) |
 | Refusal precision / recall | 1.0 / 1.0 |
-| Retrieval latency p95 | ~6 ms over 1,341 pages (2,816 chunks) |
+| Retrieval latency p95 | ~7 ms over 1,341 pages (7,237 chunks); end to end ~7 ms for rule-engine answers, ~5 s p95 when Claude writes a lookup answer |
 | Rule engine unit tests | 15/15 |
 | Airbus rules | 36 auto-validated, 12 partial (unresolved text → CANNOT DETERMINE), 27 needs review |
 
-Caveat: the golden set was written by the same developer who built the system, so these numbers overstate real-world accuracy. Baselines (B0/B1) need an API key: `python -m eval.run --baselines`.
+**Baselines vs this system** (same 39 questions; baselines graded by hand, per-case grades and reasons in `eval/baseline_grades.csv`)
+
+| | 26 answerable questions (lookup, applicability, revision) | 13 should-refuse / ask questions |
+|---|---|---|
+| **B0**: Claude, no retrieval | 1 correct · 25 unhelpful · 0 wrong | 11 correct · 2 wrong |
+| **B1**: naive RAG (BM25 top-5 → Claude) | 9 correct · 1 partial · 13 unhelpful · **3 confidently wrong** | 10 correct · 3 wrong |
+| **This system** | 26 correct | 13 correct |
+
+What the baseline errors look like:
+- **B1, A7**: "Yes, most likely" the A330-343 is covered by FAA-2026-11813, using the applicability paragraph of a *different* document. This is the cross-document blending the challenge warns about.
+- **B1, V5**: says the only difference between the two versions of FAA-2026-1338 is the document type. It misses the certificate-date change that brings 9V-ZMF into scope.
+- **B1, L2**: claims a proposal "was later withdrawn". No withdrawal exists in the data.
+- **B1, P2**: "I'll take your premise as given" and accepts a false MSN range.
+- **B0/B1, O5**: "yes, ADs apply to the A380", from model memory; the dataset has no A380 document.
+- B0 is safe but useless: it declines 25 of 26 answerable questions.
+
+Fair notes: baselines were run before the full fetch (smaller index, 2,816 chunks); re-run with `python -m eval.run --baselines`. B1 often failed because BM25 top-5 missed the Applicability paragraph; our docket resolution and rule engine are what fix that. B1 did correctly flag one false premise (P4). The golden set was written by the same developer who built the system, so our 39/39 overstates real-world accuracy.
+
+**Added after the spec (driven by the user's weekly workflow)**
+- **Review queue** (first tab): open proposals that hit or may hit the fleet, sorted by comment deadline, with sign-off progress.
+- **What the proposal would require**: required-action sections, compliance times and FAA work-hour estimate, pulled from the regulatory text with chunk IDs. No LLM.
+- **Per-aircraft sign-off**: engineer accepts or overrides each verdict (override needs a note); impact report exports to CSV with evidence, missing info and decisions.
 
 **Findings that show why full text + rules matter**
 - `FAA-2026-11813`: the dataset summary lists A330-243/-243F/-841/-941 (scope of the AD being replaced). The proposal's own section (c) narrows it to A330-941 only, "as identified in EASA AD 2025-0286". A summary-based system would wrongly flag the A330-243 (golden A5, P4).
@@ -216,61 +237,61 @@ Priority: **P0** = must ship for demo, **P1** = ship if time, **P2** = only if e
 
 | ID | Pri | Requirement | Pass check | Done |
 |---|---|---|---|---|
-| ING-1 | P0 | Load xlsx, extract `doc_number` from link, normalize `Make` via alias table | All 82 Airbus rows have `make_norm` in {Airbus, Airbus Helicopters, Airbus Canada, Airbus Defence and Space} and a `doc_number` | [ ] |
+| ING-1 | P0 | Load xlsx, extract `doc_number` from link, normalize `Make` via alias table | All 82 Airbus rows have `make_norm` in {Airbus, Airbus Helicopters, Airbus Canada, Airbus Defence and Space} and a `doc_number` | [x] |
 | ING-2 | P0 | Fetch and cache full text for all rows with a link | ≥ 95% of 406 linked rows cached in `data/raw/`; failures listed in `data/fetch_errors.csv` | [ ] |
-| ING-3 | P0 | Chunk by section; each chunk keeps doc number, section label, page | For 5 random Airbus docs, `(c) Applicability` is its own chunk and the text matches the Federal Register page | [ ] |
-| ING-4 | P0 | Full-text index (SQLite FTS5, BM25) over all chunks | Index covers all cached docs; query returns in < 3 s (see EVAL-5) | [ ] |
+| ING-3 | P0 | Chunk by section; each chunk keeps doc number, section label, page | For 5 random Airbus docs, `(c) Applicability` is its own chunk and the text matches the Federal Register page | [x] |
+| ING-4 | P0 | Full-text index (SQLite FTS5, BM25) over all chunks | Index covers all cached docs; query returns in < 3 s (see EVAL-5) | [x] |
 | ING-5 | P1 | Add embeddings for hybrid retrieval | Recall@5 on golden set improves vs BM25 only, or is dropped | [ ] |
 
 ### Revision logic
 
 | ID | Pri | Requirement | Pass check | Done |
 |---|---|---|---|---|
-| REV-1 | P0 | Group by docket, order by date, mark latest | Every docket with > 1 row has exactly one `is_latest` | [ ] |
-| REV-2 | P0 | Derive `doc_type` from subject/summary/comments ("Withdrawal", "supplemental", "OFR correction") | All withdrawal rows in Airbus subset (≥ 3) labelled WITHDRAWAL | [ ] |
-| REV-3 | P0 | Extract supersede target (`AD YYYY-NN-NN`) | All 29 Airbus "supersede" rows have `supersedes_ad` filled | [ ] |
-| REV-4 | P0 | Any answer citing a non-latest or withdrawn document shows a warning with the latest version | Golden set revision questions: 100% show the warning | [ ] |
-| REV-5 | P1 | Diff between versions of the same docket: changed applicability and changed actions, plus fleet impact delta | For one multi-version Airbus docket, diff lists changed sections and which aircraft entered/left scope | [ ] |
+| REV-1 | P0 | Group by docket, order by date, mark latest | Every docket with > 1 row has exactly one `is_latest` | [x] |
+| REV-2 | P0 | Derive `doc_type` from subject/summary/comments ("Withdrawal", "supplemental", "OFR correction") | All withdrawal rows in Airbus subset (≥ 3) labelled WITHDRAWAL | [x] |
+| REV-3 | P0 | Extract supersede target (`AD YYYY-NN-NN`) | All 29 Airbus "supersede" rows have `supersedes_ad` filled | [x] |
+| REV-4 | P0 | Any answer citing a non-latest or withdrawn document shows a warning with the latest version | Golden set revision questions: 100% show the warning | [x] |
+| REV-5 | P1 | Diff between versions of the same docket: changed applicability and changed actions, plus fleet impact delta | For one multi-version Airbus docket, diff lists changed sections and which aircraft entered/left scope | [x] |
 
 ### Applicability rules
 
 | ID | Pri | Requirement | Pass check | Done |
 |---|---|---|---|---|
 | APP-1 | P0 | LLM extracts rule JSON from the Applicability chunk, using the schema in §5 | Valid JSON for 100% of Airbus docs (schema-validated) | [ ] |
-| APP-2 | P0 | Verbatim validator: every `quote` must be a substring of the source chunk (whitespace/case normalized); every value must appear inside its quote | Failing rules are marked `needs_review`, never `auto_validated` | [ ] |
-| APP-3 | P0 | Deterministic three-valued rule engine | Unit tests pass for: in-list, range boundaries (min, max, min-1, max+1), missing field → UNKNOWN, exclusion, unresolved text → UNKNOWN | [ ] |
-| APP-4 | P0 | Rule review screen: rule shown side by side with source quotes; engineer can approve or edit | Approved rules store `approved_by` + timestamp | [ ] |
+| APP-2 | P0 | Verbatim validator: every `quote` must be a substring of the source chunk (whitespace/case normalized); every value must appear inside its quote | Failing rules are marked `needs_review`, never `auto_validated` | [x] |
+| APP-3 | P0 | Deterministic three-valued rule engine | Unit tests pass for: in-list, range boundaries (min, max, min-1, max+1), missing field → UNKNOWN, exclusion, unresolved text → UNKNOWN | [x] |
+| APP-4 | P0 | Rule review screen: rule shown side by side with source quotes; engineer can approve or edit | Approved rules store `approved_by` + timestamp | [x] |
 | APP-5 | P0 | Extraction accuracy measured against hand labels | Hand-label ≥ 15 Airbus docs; report field-level precision/recall in §8 | [ ] |
 
 ### Fleet impact
 
 | ID | Pri | Requirement | Pass check | Done |
 |---|---|---|---|---|
-| FLT-1 | P0 | Load `fleet.csv` (8 fictional aircraft) | Loaded with schema validation; bad rows rejected with reason | [ ] |
-| FLT-2 | P0 | Directive → fleet report: each aircraft APPLIES / NOT APPLICABLE / CANNOT DETERMINE with the quote that decided it | Matches hand labels for all (aircraft × hand-labelled doc) pairs, or mismatches listed in §8 | [ ] |
-| FLT-3 | P0 | CANNOT DETERMINE lists exactly which fleet field or condition is missing, phrased as a question | e.g. "Is modification 12345 embodied on MSN 1234? Not in fleet data." | [ ] |
-| FLT-4 | P0 | Every report shows: proposed (not binding), comment due date, latest version status | Present on 100% of reports | [ ] |
-| FLT-5 | P1 | Aircraft → directives: list all directives that apply / might apply to one aircraft | Works for every aircraft in fleet | [ ] |
+| FLT-1 | P0 | Load `fleet.csv` (8 fictional aircraft) | Loaded with schema validation; bad rows rejected with reason | [x] |
+| FLT-2 | P0 | Directive → fleet report: each aircraft APPLIES / NOT APPLICABLE / CANNOT DETERMINE with the quote that decided it | Matches hand labels for all (aircraft × hand-labelled doc) pairs, or mismatches listed in §8 | [x] |
+| FLT-3 | P0 | CANNOT DETERMINE lists exactly which fleet field or condition is missing, phrased as a question | e.g. "Is modification 12345 embodied on MSN 1234? Not in fleet data." | [x] |
+| FLT-4 | P0 | Every report shows: proposed (not binding), comment due date, latest version status | Present on 100% of reports | [x] |
+| FLT-5 | P1 | Aircraft → directives: list all directives that apply / might apply to one aircraft | Works for every aircraft in fleet | [x] |
 
 ### Q&A
 
 | ID | Pri | Requirement | Pass check | Done |
 |---|---|---|---|---|
-| QA-1 | P0 | Query parser (LLM → JSON: intent, aircraft, model, topic, docket) | Entities checked against DB before retrieval | [ ] |
-| QA-2 | P0 | Retrieval with metadata filter (make/model) then BM25 | Recall@5 reported (EVAL-2) | [ ] |
-| QA-3 | P0 | Applicability questions about fleet aircraft are answered by the rule engine, not the LLM | Code path test: LLM output cannot change the APPLIES/NOT/CANNOT label | [ ] |
-| QA-4 | P0 | Answer = list of claims, each with `chunk_id` + verbatim quote | Output schema-validated | [ ] |
-| QA-5 | P0 | Citation verifier: every quote must exist in its cited chunk; one failure → regenerate once → refuse | Fault-injection test: tampered quote causes refusal | [ ] |
-| QA-6 | P0 | Refusal policy (§7) implemented as explicit checks, not LLM judgement | Each refusal reason R1–R7 has at least one golden-set case that triggers it | [ ] |
-| QA-7 | P0 | System prompt forbids using outside knowledge; answer only from provided chunks | Covered by out-of-scope and false-premise cases in EVAL-3 | [ ] |
+| QA-1 | P0 | Query parser (LLM → JSON: intent, aircraft, model, topic, docket) | Entities checked against DB before retrieval | [x] |
+| QA-2 | P0 | Retrieval with metadata filter (make/model) then BM25 | Recall@5 reported (EVAL-2) | [x] |
+| QA-3 | P0 | Applicability questions about fleet aircraft are answered by the rule engine, not the LLM | Code path test: LLM output cannot change the APPLIES/NOT/CANNOT label | [x] |
+| QA-4 | P0 | Answer = list of claims, each with `chunk_id` + verbatim quote | Output schema-validated | [x] |
+| QA-5 | P0 | Citation verifier: every quote must exist in its cited chunk; one failure → regenerate once → refuse | Fault-injection test: tampered quote causes refusal | [x] |
+| QA-6 | P0 | Refusal policy (§7) implemented as explicit checks, not LLM judgement | Each refusal reason R1–R7 has at least one golden-set case that triggers it | [x] |
+| QA-7 | P0 | System prompt forbids using outside knowledge; answer only from provided chunks | Covered by out-of-scope and false-premise cases in EVAL-3 | [x] |
 
 ### Interface
 
 | ID | Pri | Requirement | Pass check | Done |
 |---|---|---|---|---|
-| UI-1 | P0 | Streamlit app, 3 tabs: Ask, Fleet impact, Rule review | All three usable end to end in demo script | [ ] |
-| UI-2 | P0 | Every citation clickable → shows chunk text, section, page, Federal Register link | Click-through works on 5 random answers | [ ] |
-| UI-3 | P0 | Status labels and refusals visually distinct (not hidden in prose) | Visible in demo | [ ] |
+| UI-1 | P0 | Streamlit app, 3 tabs: Ask, Fleet impact, Rule review | All three usable end to end in demo script | [x] |
+| UI-2 | P0 | Every citation clickable → shows chunk text, section, page, Federal Register link | Click-through works on 5 random answers | [x] |
+| UI-3 | P0 | Status labels and refusals visually distinct (not hidden in prose) | Visible in demo | [x] |
 | UI-4 | P1 | "Add new directive" by docket or document number → fetch, parse, rule review, fleet report | Works live for one Airbus doc | [ ] |
 
 ---

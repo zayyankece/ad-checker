@@ -1,0 +1,137 @@
+
+[Federal Register Volume 84, Number 167 (Wednesday, August 28, 2019)]
+[Proposed Rules]
+[Pages 45118-45119]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2019-18517]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2018-0547; Product Identifier 2017-NM-091-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Bombardier, Inc., Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to adopt a new airworthiness directive (AD) that would 
+have applied to certain Bombardier, Inc., Model DHC-8-400 series 
+airplanes. The NPRM was prompted by reports of wear on fuel couplings, 
+bonding springs, and sleeves as well as fuel tube end ferrules and fuel 
+component end ferrules. The NPRM would have required repetitive 
+inspections of the existing clamshell coupling bonding wires, fuel 
+couplings, and associated sleeves for certain criteria, and replacement 
+as necessary. The NPRM would also have required repetitive inspections 
+of the fuel tube end ferrules, fuel component end ferrules, and ferrule 
+o-ring flanges for damage and wear, and rework as necessary. Since 
+issuance of the NPRM, the FAA determined that more restrictive 
+airworthiness limitations are also necessary, that an
+
+[[Page 45119]]
+
+optional terminating modification is appropriate for certain airplanes, 
+and that the NPRM does not adequately address the identified unsafe 
+condition. Accordingly, the NPRM is withdrawn.
+
+DATES: The FAA is withdrawing the proposed rule published July 6, 2018 
+(83 FR 31488), as of August 28, 2019.
+
+ADDRESSES: 
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2018-
+0547; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD action, the regulatory evaluation, any comments received, and 
+other information. The street address for Docket Operations is U.S. 
+Department of Transportation, Docket Operations, M-30, West Building 
+Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 
+20590.
+
+FOR FURTHER INFORMATION CONTACT: Joseph Catanzaro, Aerospace Engineer, 
+Airframe and Propulsion Section, FAA, New York ACO Branch, 1600 Stewart 
+Avenue, Suite 410, Westbury, NY 11590; telephone 516-228-7366; fax 516-
+794-5531; email [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The FAA issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD that would apply to the specified products. The NPRM was 
+published in the Federal Register on July 6, 2018 (83 FR 31488). The 
+NPRM was prompted by reports of wear on fuel couplings, bonding 
+springs, and sleeves as well as fuel tube end ferrules and fuel 
+component end ferrules.
+    The NPRM proposed to require repetitive inspections of the existing 
+clamshell coupling bonding wires, fuel couplings, and associated 
+sleeves for certain criteria, and replacement as necessary. The NPRM 
+also proposed to require repetitive inspections of the fuel tube end 
+ferrules, fuel component end ferrules, and ferrule o-ring flanges for 
+damage and wear, and rework as necessary. The proposed actions were 
+intended to address wear on fuel couplings, bonding springs, and 
+sleeves as well as fuel tube end ferrules and fuel component end 
+ferrules, which could reduce the integrity of the electrical bonding 
+paths through the fuel line and components, and ultimately lead to fuel 
+tank ignition in the event of a lightning strike.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, Bombardier developed a new optional 
+terminating modification for certain Model DHC-8-400 series airplanes 
+and issued associated service information. In addition, the 
+applicability for certain required actions was revised and more 
+restrictive airworthiness limitations related to the identified unsafe 
+condition were developed. In light of these changes, the FAA is 
+considering further rulemaking.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+FAA's Conclusions
+
+    Upon further consideration, the FAA has determined that the NPRM 
+does not adequately address the identified unsafe condition. 
+Accordingly, the NPRM is withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+0
+Accordingly, the notice of proposed rulemaking, Docket No. FAA-2018-
+0547, which was published in the Federal Register on July 6, 2018 (83 
+FR 31488), is withdrawn.
+
+    Issued in Des Moines, Washington, on August 22, 2019.
+Suzanne Masterson,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2019-18517 Filed 8-27-19; 8:45 am]
+BILLING CODE 4910-13-P
+
+

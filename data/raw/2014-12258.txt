@@ -1,0 +1,135 @@
+
+[Federal Register Volume 79, Number 102 (Wednesday, May 28, 2014)]
+[Proposed Rules]
+[Pages 30485-30486]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2014-12258]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0541; Directorate Identifier 2011-NM-097-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+[[Page 30486]]
+
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA withdraws a notice of proposed rulemaking (NPRM) that 
+would supersede certain existing airworthiness directives (ADs) for The 
+Boeing Company Model 757-200, -200PF, and -200CB series airplanes. The 
+NPRM proposed to require a determination of the type of trailing edge 
+wedges of the leading edge slats, repetitive inspections on certain 
+trailing edge wedges for areas of skin-to-core disbonding, and 
+corrective actions if necessary; and proposed to revise the 
+applicability of the existing ADs to include additional airplanes. The 
+NPRM also provided an optional terminating action for the repetitive 
+inspections. Since we issued the NPRM, we have determined that the 
+manufacturer's service information is inadequate to accomplish the 
+actions necessary to address the unsafe condition. Once the 
+manufacturer has issued new service information to address the unsafe 
+condition, we may issue new rulemaking action that positively addresses 
+the unsafe condition identified in the NPRM. Accordingly, the NPRM is 
+withdrawn.
+
+DATES: As of May 28, 2014, the proposed rule, which was published in 
+the Federal Register on July 2, 2013 (78 FR 39633), is withdrawn.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2013-
+0541; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD action, the NPRM (78 FR 39633, July 2, 2013), the 
+regulatory evaluation, any comments received, and other information. 
+The address for the Docket Office (telephone 800-647-5527) is the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Nancy Marsh, Aerospace Engineer, 
+Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; phone: 425-917-6440; fax: 
+425-917-6590; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We proposed to amend part 39 of the Federal Aviation Regulations 
+(14 CFR part 39) with a notice of proposed rulemaking (NPRM) for a new 
+AD to supersede AD 90-23-06, Amendment 39-6794 (55 FR 46499, November 
+5, 1990; AD 91-22-51, Amendment 39-8129 (57 FR 781, January 9, 1992; 
+and AD 2005-07-08, Amendment 39-14032 (70 FR 16403, March 31, 2005), 
+for certain Model 757-200, -200PF, and -200CB series airplanes. The 
+NPRM published in the Federal Register on July 2, 2013 (78 FR 39633). 
+The NPRM proposed to require a determination of the type of trailing 
+edge wedges of the leading edge slats, repetitive inspections on 
+certain trailing edge wedges for areas of skin-to-core disbonding, and 
+corrective actions if necessary; and proposed to revise the 
+applicability of ADs 90-23-06, 91-22-51, and 2005-07-08 to include 
+additional airplanes. The NPRM also provided an optional terminating 
+action for the repetitive inspections. The NPRM was prompted by reports 
+of slat disbonding on airplanes on which the terminating actions of ADs 
+90-23-06, 91-22-51, and 2005-07-08 were completed; and we have received 
+reports of slats disbonding on airplanes outside of the applicability 
+of ADs 90-23-06, 91-22-51, and 2005-07-08.
+
+Actions Since the NPRM (78 FR 39633, July 2, 2013) Was Issued
+
+    Since we issued the NPRM (78 FR 39633, July 2, 2013), we have 
+determined that the manufacturer's service information is inadequate to 
+accomplish the actions necessary to address the unsafe condition.
+
+FAA's Conclusions
+
+    We have determined that the unsafe condition identified in the NPRM 
+(78 FR 39633, July 2, 2013) still exists. Once the manufacturer has 
+issued new service information to address the unsafe condition, we may 
+issue new rulemaking action that positively addresses the unsafe 
+condition identified in the NPRM. Accordingly, the NPRM is withdrawn.
+    Withdrawal of the NPRM (78 FR 39633, July 2, 2013) does not 
+preclude the FAA from issuing the related actions or commit the FAA to 
+any course of action in the future.
+
+Regulatory Impact
+
+    Since this action only withdraws the NPRM (78 FR 39633, July 2, 
+2013), it is neither a proposed nor a final rule and therefore is not 
+covered under Executive Order 12866, the Regulatory Flexibility Act, or 
+DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 
+1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, we withdraw the NPRM, Docket No. FAA-2013-0541, 
+Directorate Identifier 2011-NM-097-AD, which published in the Federal 
+Register on July 2, 2013 (78 FR 39633).
+
+    Issued in Renton, Washington, on May 16, 2014.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2014-12258 Filed 5-27-14; 8:45 am]
+BILLING CODE 4910-13-P
+
+

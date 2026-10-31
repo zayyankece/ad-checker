@@ -1,0 +1,372 @@
+
+[Federal Register Volume 91, Number 25 (Friday, February 6, 2026)]
+[Proposed Rules]
+[Pages 5384-5386]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-02420]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-0741; Project Identifier AD-2025-00817-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all The Boeing Company Model 777-200, -200LR, -300, and -300ER 
+series airplanes. This proposed AD was prompted by a report of 
+corrosion found on a satellite communications (SATCOM) high gain 
+antenna adapter plate. This proposed AD would require repetitive 
+inspections for corrosion of the SATCOM high gain antenna adapter plate 
+and applicable on-condition actions. The FAA is proposing this AD to 
+address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by March 23, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-0741; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Boeing material identified in this proposed AD, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; website myboeingfleet.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2026-0741.
+
+FOR FURTHER INFORMATION CONTACT: Stefanie Roesli, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3964; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2026-0741; 
+Project Identifier AD-2025-00817-T'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+[[Page 5385]]
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Stefanie Roesli, Aviation Safety Engineer, FAA, 2200 South 216th St., 
+Des Moines, WA 98198; phone: 206-231-3964; email: 
+[email&#160;protected]. Any commentary that the FAA receives that is 
+not specifically designated as CBI will be placed in the public docket 
+for this rulemaking.
+
+Background
+
+    The FAA has received a report indicating that during a heavy 
+maintenance check on a Model 767 airplane, corrosion was found on a 
+certain SATCOM high gain antenna adapter plate. The most severe 
+corrosion was found at the nutplates around the edge of the adapter 
+plate; the nutplates are used to fasten the antenna assembly to the 
+adapter plate. Corrosion was also found at the adapter plate mounting 
+lugs and the area around the bonding strap that is connected between 
+the adapter plate and the airplane skin. Contributing factors that lead 
+to an increase in risk of a parts departing airplane (PDA) event 
+include a lack of nutplate or nutplate recess corrosion protection, 
+lack of instructions for re-application of primer and paint, lack of 
+maintenance inspections and repair procedures, and moisture protection 
+appears to be inadequate for the environment. Undetected corrosion of 
+the adapter plate could lead to a PDA event. A PDA event of the SATCOM 
+high gain antenna adapter system could damage the primary flight 
+control surfaces, which could result in loss of continued safe flight 
+and landing.
+    The SATCOM high gain antenna for Model 777 airplane has a similar 
+adapter plate to the one installed on Model 767 airplanes. In related 
+rulemaking, the FAA issued an NPRM, Docket No. FAA-2025-0741 (90 FR 
+17741), to address the unsafe condition on Model 767 airplanes.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Alert Requirements Bulletin 777-23A0454 RB, 
+dated May 16, 2025. This material specifies procedures for repetitive 
+detailed inspections for corrosion of the SATCOM high gain antenna 
+adapter plate and applicable on-condition actions. On-condition actions 
+include repairing the SATCOM high gain antenna adapter plate or 
+replacing it with a new or serviceable SATCOM high gain antenna adapter 
+plate if any corrosion found is less than or equal to 0.005 inch in 
+depth; and replacing the SATCOM high gain antenna adapter plate with a 
+new or serviceable SATCOM high gain antenna adapter plate if any 
+corrosion found is greater than 0.005 inch in depth. This material is 
+reasonably available because the interested parties have access to it 
+through their normal course of business or by the means identified in 
+the ADDRESSES section.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in the material already described, except for any differences 
+identified as exceptions in the regulatory text of this proposed AD. 
+For information on the procedures and compliance times, see this 
+material at regulations.gov under Docket No. FAA-2026-0741.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 238 airplanes of U.S. registry. The FAA estimates the following 
+costs to comply with this proposed AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                  Cost on U.S.
+             Action                  Labor cost            Parts cost        Cost per product      operators
+----------------------------------------------------------------------------------------------------------------
+Detailed inspection............  11 work-hours x     None.................  $935 per           $222,530 per
+                                  $85 per hour =                             inspection cycle.  inspection
+                                  $935 per                                                      cycle.
+                                  inspection cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary repairs 
+or replacements that would be required based on the results of the 
+proposed inspection. The agency has no way of determining the number of 
+aircraft that might need these repairs or replacements:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                Action                          Labor cost                   Parts cost               product
+----------------------------------------------------------------------------------------------------------------
+Repair of adapter plate...............  5 work-hours x $85 per     Negligible...................            $425
+                                         hour = $425.
+Replacement of adapter plate..........  2 work-hour x $85 per      $18,000......................          18,170
+                                         hour = $170.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and
+
+[[Page 5386]]
+
+procedures the Administrator finds necessary for safety in air 
+commerce. This regulation is within the scope of that authority because 
+it addresses an unsafe condition that is likely to exist or develop on 
+products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+The Boeing Company: Docket No. FAA-2026-0741; Project Identifier AD-
+2025-00817-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by March 23, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all The Boeing Company Model 777-200, -200LR, 
+-300, and -300ER series airplanes, certificated in any category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 23, 
+Communications.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of corrosion found on a 
+satellite communications (SATCOM) high gain antenna adapter plate. 
+The FAA is issuing this AD to address corrosion of the adapter 
+plate, which could lead to a part departing airplane (PDA). A PDA 
+event of the SATCOM high gain antenna adapter system could damage 
+the primary flight control surfaces, which could result in loss of 
+continued safe flight and landing.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified by paragraph (h) of this AD: At the 
+applicable times specified in the ``Compliance'' paragraph of Boeing 
+Alert Requirements Bulletin 777-23A0454 RB, dated May 16, 2025, do 
+all applicable actions identified in, and in accordance with, the 
+Accomplishment Instructions of Boeing Alert Requirements Bulletin 
+777-23A0454 RB, dated May 16, 2025.
+    Note 1 to paragraph (g): Guidance for accomplishing the actions 
+required by this AD can be found in Boeing Alert Service Bulletin 
+777-23A0454, dated May 16, 2025, which is referred to in Boeing 
+Alert Requirements Bulletin 777-23A0454 RB, dated May 16, 2025.
+
+(h) Exception to Requirements Bulletin Specifications
+
+    Where the Condition and Boeing Recommended Compliance Time 
+columns of the tables in the ``Compliance'' paragraph of Boeing 
+Alert Requirements Bulletin 777-23A0454 RB, dated May 16, 2025, 
+refer to the original issue date of Requirements Bulletin 777-
+23A0454 RB, this AD requires using the effective date of this AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the Continued Operational 
+Safety Branch, send it to the attention of the person identified in 
+paragraph (j) of this AD. Information may be emailed to: 
+[email&#160;protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational Safety Branch, FAA, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+(j) Related Information
+
+    For more information about this AD, contact Stefanie Roesli, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3964; email: [email&#160;protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Requirements Bulletin 777-23A0454 RB, dated May 
+16, 2025.
+    (ii) [Reserved]
+    (3) For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website myboeingfleet.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on January 29, 2026.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-02420 Filed 2-5-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

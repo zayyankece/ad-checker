@@ -1,0 +1,137 @@
+
+[Federal Register Volume 87, Number 209 (Monday, October 31, 2022)]
+[Proposed Rules]
+[Pages 65534-65535]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-23170]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[FAA Rules Docket No. 95-CE-35-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Piper Aircraft, Inc. (Type Certificate 
+Previously Held by The New Piper Aircraft Inc. and Piper Aircraft 
+Corporation) Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+and supplemental notice of proposed rulemaking (SNPRM) that proposed to 
+supersede Airworthiness Directive (AD) 92-13-04 for certain Piper 
+Aircraft Corporation (now Piper Aircraft, Inc.) (Piper) Model PA-23-150 
+(type certificated as PA-23) and PA-23-160 airplanes. AD 92-13-04 
+requires preflight water draining procedures for the fuel tanks on the 
+affected airplanes. In June 2022, the FAA calculated the quantitative 
+risk using current methods, which were not available at the time the 
+NPRM and SNPRM were issued. The short- and long-term risk assessment 
+calculations establish that an AD for the additional actions and the 
+additional airplane models that were proposed to be added in the NPRM 
+and SNPRM is not warranted. Accordingly, the NPRM and SNPRM are 
+withdrawn.
+
+DATES: As of October 31, 2022, the proposed rules, which published in 
+the Federal Register on September 19, 1995 (60 FR 48433), and February 
+12, 1998 (63 FR 7085), are withdrawn.
+
+FOR FURTHER INFORMATION CONTACT: Ron Segall, Aviation Safety Engineer, 
+Atlanta ACO Branch, FAA, 1701 Columbia Avenue, College Park, GA 30337; 
+phone: (404) 474-5541; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued an NPRM that proposed to amend part 39 of the 
+Federal Aviation Regulations (14 CFR part 39) to supersede AD 92-13-04, 
+Amendment 39-8274 (57 FR 24938; June 12, 1992) (AD 92-13-04), which 
+applies to certain serial-numbered Piper Model PA-23-150 (type 
+certificated as PA-23) and PA-23-160 airplanes. The NPRM published in 
+the Federal Register on September 19, 1995 (60 FR 48433). The FAA 
+subsequently issued an SNPRM, which published in the Federal Register 
+on February 12, 1998 (63 FR 7085).
+    The NPRM proposed to:
+     Add certain Model PA-23, PA-23-235, and PA-23-250 
+airplanes to the applicability;
+     Retain the preflight draining procedures required by AD 
+92-13-04 to require incorporating pilots' operating handbook (POH) 
+revisions for Piper Model PA-23-150 and PA-23-160 airplanes that are 
+not equipped with a dual fuel drain kit, part number (P/N) 765-363 
+(unless already accomplished). The POH revisions are included in Piper 
+Service Bulletin (SB) No. 827A, dated November 4, 1988 (Piper SB No. 
+827A);
+     Require installation of external fuel ramp assemblies on 
+all the affected airplanes in accordance with Floats and Fuel Cells 
+Engineering Specification 2810-002, Revision A, dated March 21, 1995; 
+and
+     Delay the compliance for airplanes with Piper Fuel Tank 
+Wedge Kit, P/N 599-367, incorporated in accordance with Piper SB 932A, 
+dated August 30, 1990, until a new fuel tank is installed.
+    The SNPRM proposed minor changes to the NPRM and was issued as an 
+SNPRM based on the amount of time between the NPRM and the SNPRM.
+
+Actions Since the SNPRM Was Issued
+
+    In June 2022, the FAA calculated the quantitative risk of a failure 
+using the current method of assessing risk. This method used, along 
+with the breadth of data that the FAA current has, was not available in 
+1995/1998 and is the quantitative standard the FAA's continued 
+operational safety community uses to currently assess risk. The FAA 
+risk assessment estimated the future risk of water-in-the-fuel within a 
+one-year period (short-term) and over the next 20 years (long-term) for 
+all Piper PA-23 airplanes, from the first year of operation (1955) to 
+present day (2022). All probable or contributable reported
+
+[[Page 65535]]
+
+incidents attributed to water-in-the-fuel that were reported were 
+considered. The short- and long-term risk assessment calculations 
+establish that an AD for the additional actions and the additional 
+airplane models that were proposed to be added in the NPRM and SNPRM is 
+not warranted. Accordingly, the NPRM and SNPRM are to be withdrawn.
+    The FAA will continue to monitor this situation and take 
+appropriate action as required.
+    Withdrawal of the NPRM and SNPRM constitutes only such action and 
+does not preclude the agency from issuing future rulemaking on this 
+issue, nor does it commit the agency to any course of action in the 
+future.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM and SNPRM, it is neither a 
+proposed AD nor a final rule and therefore, not covered under Executive 
+Order 12866 or the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, the notice of proposed rulemaking, which published in 
+the Federal Register on September 19, 1995 (60 FR 48433), and the 
+supplemental notice of proposed rulemaking, which published in the 
+Federal Register on February 12, 1998 (63 FR 7085), are withdrawn.
+
+    Issued on October 20, 2022.
+Christina Underwood,
+Acting Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2022-23170 Filed 10-28-22; 8:45 am]
+BILLING CODE 4910-13-P
+
+

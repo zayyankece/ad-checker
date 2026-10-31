@@ -1,0 +1,319 @@
+
+[Federal Register Volume 91, Number 82 (Wednesday, April 29, 2026)]
+[Proposed Rules]
+[Pages 23023-23025]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-08322]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-3870; Project Identifier AD-2025-01364-A]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Textron Aviation Inc. Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain Textron Aviation, Inc., Model 408 airplanes. This proposed 
+AD was prompted by the manufacturer's revision of the aircraft 
+maintenance manual (AMM) to add a detailed inspection for the 
+horizontal stabilizer spar, and change the airplane serial effectivity 
+for the vertical stabilizer spar detailed inspection. This proposed AD 
+would require revising the Airworthiness Limitations Section (ALS) of 
+the existing AMM or instructions for continued airworthiness (ICA) and 
+the existing approved maintenance or inspection program, as applicable. 
+The FAA is proposing this AD to address the unsafe condition on these 
+products.
+
+DATES: The FAA must receive comments on this proposed AD by June 15, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-3870; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: Soban Saeed, Aviation Safety Engineer, 
+FAA, 1801 South Airport Road, Wichita, KS 67209; phone: (316) 946-4123; 
+email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2026-3870; 
+Project Identifier AD-2025-01364-A'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change,
+
+[[Page 23024]]
+
+and include supporting data. The FAA will consider all comments 
+received by the closing date and may revise this proposal because of 
+those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Soban 
+Saeed, Aviation Safety Engineer, FAA, 1801 South Airport Road, Wichita, 
+KS 67209. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The FAA received a report from Textron Aviation, Inc, that an 
+undetected crack could develop in the horizontal and vertical 
+stabilizers forward and aft spars on certain Model 408 airplanes due to 
+a quality escape from the supplier during manufacturing. As a result, 
+Textron Aviation, Inc. issued revised limitations to the existing Model 
+408 AMM inspection program that require addition of a horizontal 
+stabilizer spar detailed inspection and a revision to the airplane 
+serial effectivity for the vertical stabilizer spar detailed 
+inspection. The FAA is proposing this AD to detect and address cracks 
+in the horizontal and vertical stabilizers forward and aft spars. The 
+unsafe condition, if not addressed, could result in reduced structural 
+integrity of the airplane or reduced controllability of the airplane 
+with possible loss of control of the airplane.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require revising the ALS of the existing AMM 
+or ICA and the existing approved maintenance or inspection program, as 
+applicable, by incorporating the actions and associated thresholds and 
+intervals specified in table 1 to paragraph (g) of this proposed AD.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 28 airplanes of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Revise the ALS........................  1 work-hour x $85 per                 $0             $85          $2,380
+                                         hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Textron Aviation Inc.: Docket No. FAA-2026-3870; Project Identifier 
+AD-2025-01364-A.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by June 15, 2026.
+
+ (b) Affected ADs
+
+    None.
+
+ (c) Applicability
+
+    This AD applies to Textron Aviation, Inc. Model 408 airplanes, 
+serial numbers -0012 through -0051, certificated in any category.
+
+[[Page 23025]]
+
+ (d) Subject
+
+    Joint Aircraft System Component (JASC) Code 5530, Vertical 
+Stabilizer Structure; 5510, Horizontal Stabilizer Structure.
+
+ (e) Unsafe Condition
+
+    This AD was prompted by the manufacturer's revision of the 
+aircraft maintenance manual (AMM) to introduce a detailed inspection 
+for the horizontal stabilizer spar, and change the airplane serial 
+effectivity for the vertical stabilizer spar detailed inspection. 
+The FAA is issuing this AD to detect and address cracks in the 
+horizontal and vertical stabilizers forward and aft spars. The 
+unsafe condition, if not addressed, could result in reduced 
+structural integrity of the airplane or reduced controllability of 
+the airplane with possible loss of control of the airplane.
+
+ (f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+ (g) Airworthiness Limitations Section (ALS) Revision
+
+    Within 150 hours time-in-service or 12 months after the 
+effective date of this AD, whichever occurs first: Revise the ALS of 
+the existing AMM or instructions for continued airworthiness and the 
+existing approved maintenance or inspection program, as applicable, 
+by incorporating the information identified in table 1 to paragraph 
+(g) of this AD.
+
+                   Table 1 to Paragraph (g)--Revised Model 408 Airworthiness Limitation Tasks
+----------------------------------------------------------------------------------------------------------------
+                                                               Inspection                            Serial
+      Task No.            Task title          Interval          document            Zone           effectivity
+----------------------------------------------------------------------------------------------------------------
+55-10-00-221........  Horizontal         1600 flight hours  4-12-MB.........  351, 352........  -0012 through -
+                       Stabilizer Spar                                                           0040.
+                       Detailed
+                       Inspection.
+55-30-00-221........  Vertical           1600 flight hours  4-12-MB.........  341, 342, 343...  -0012 through -
+                       Stabilizer Spar                                                           0051.
+                       Detailed
+                       Inspection.
+----------------------------------------------------------------------------------------------------------------
+
+
+    Note 1 to paragraph (g):  Additional guidance for accomplishing 
+the actions required by this AD can be found in Textron Aviation 
+Service Letter SL408-04-01, dated December 8, 2025.
+
+ (h) Provisions for Alternative Actions and Intervals
+
+    After the action required by paragraph (g) of this AD has been 
+performed, no alternative actions and associated thresholds and 
+intervals are allowed unless they are approved as specified in the 
+provisions of paragraph (i) of this AD.
+
+ (i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Central Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the Central Certification Branch, send it 
+to the attention of the person identified in paragraph (j)(1) of 
+this AD and email to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+ (j) Additional Information
+
+    (1) For more information about this AD, contact Soban Saeed, 
+Aviation Safety Engineer, FAA, 1801 South Airport Road, Wichita, KS 
+67209; phone: (316) 946-4123; email: [email&#160;protected].
+    (2) For material identified in this AD that is not incorporated 
+by reference, contact Textron Aviation Inc., P.O. Box 7706, Wichita, 
+KS 67277; phone: (316) 517-6215; email: [email&#160;protected]; 
+website: ww2.txtav.com/technicalpublications/.
+
+ (k) Material Incorporated by Reference
+
+    None.
+
+    Issued on April 24, 2026.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-08322 Filed 4-28-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

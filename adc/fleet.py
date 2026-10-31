@@ -115,3 +115,41 @@ def version_diff(con, doc_id, fleet):
                     "applicability_changes": text_changes, "applicability_chunks": [a_cid, b_cid],
                     "sections_added": sorted(sb - sa), "sections_removed": sorted(sa - sb), "fleet_changes": changed})
     return out
+
+
+def review_queue(con, fleet, today=None):
+    """Weekly worklist: latest, non-withdrawn proposals that hit or may hit the fleet, soonest comment deadline first."""
+    from datetime import date
+    today = today or date.today().isoformat()
+    out = []
+    for r in rows(con, """SELECT r.doc_id FROM rules r JOIN revisions v USING(doc_id) JOIN documents d USING(doc_id)
+                          WHERE v.is_latest=1 AND v.docket_status!='WITHDRAWN' AND d.make_norm IN ('Airbus','Airbus Canada')"""):
+        rep = impact_report(con, r["doc_id"], fleet)
+        hit = [a for a in rep["aircraft"] if a["label"] == "APPLIES"]
+        unk = [a for a in rep["aircraft"] if a["label"] == "CANNOT DETERMINE"]
+        if not hit and not unk:
+            continue
+        d = rep["status"]["doc"]
+        due = d["comments_due"]
+        days = (date.fromisoformat(due) - date.fromisoformat(today)).days if due else None
+        signed = one(con, "SELECT COUNT(*) n FROM signoffs WHERE doc_id=?", (r["doc_id"],))["n"]
+        out.append({
+            "docket": d["docket"], "doc_id": r["doc_id"], "status": rep["status"]["revision"]["docket_status"],
+            "comments_due": due, "days_left": days,
+            "applies": ", ".join(a["registration"] for a in hit), "cannot_determine": ", ".join(a["registration"] for a in unk),
+            "signed_off": f"{signed}/{len(hit) + len(unk)}", "subject": (d["summary"] or "")[:160],
+        })
+    open_first = sorted([x for x in out if x["days_left"] is not None and x["days_left"] >= 0], key=lambda x: x["days_left"])
+    rest = sorted([x for x in out if x not in open_first], key=lambda x: x["comments_due"] or "", reverse=True)
+    return open_first + rest
+
+
+def sign_off(con, doc_id, registration, system_label, decision, final_label, note, engineer):
+    from datetime import datetime
+    con.execute("INSERT OR REPLACE INTO signoffs VALUES (?,?,?,?,?,?,?,?)",
+                (doc_id, registration, system_label, decision, final_label, note, engineer, datetime.now().isoformat(timespec="seconds")))
+    con.commit()
+
+
+def signoffs(con, doc_id):
+    return {r["registration"]: r for r in rows(con, "SELECT * FROM signoffs WHERE doc_id=?", (doc_id,))}

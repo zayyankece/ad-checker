@@ -1,0 +1,519 @@
+
+[Federal Register Volume 80, Number 72 (Wednesday, April 15, 2015)]
+[Proposed Rules]
+[Pages 20181-20185]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-08463]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-0827; Directorate Identifier 2014-NM-008-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Bombardier, Inc. Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: We propose to supersede Airworthiness Directive (AD) 2011-07-
+10, for certain Bombardier, Inc. Model BD-100-1A10 (Challenger 300) 
+airplanes. AD 2011-07-10 currently requires revising the Airworthiness 
+Limitations section of the Instructions for Continued Airworthiness; 
+doing detailed visual inspections; removing discrepant material; 
+cleaning the surfaces of the valves, the plug of the sensing port, and 
+the cabin pressure-sensing port plug; securing the insulation; 
+installing a new safety valve,
+
+[[Page 20182]]
+
+and replacing certain cabin pressure-sensing port plugs. Since we 
+issued AD 2011-07-10, we have received reports of in-flight loss of 
+cabin pressurization that was attributed to partial blockage of a 
+safety valve cabin pressure-sensing port in conjunction with a failed 
+safety valve manometric capsule. This proposed AD would retain all 
+requirements of AD 2011-07-10. This proposed AD would also require a 
+detailed visual inspection of both safety valves and the surrounding 
+area for foreign material, room temperature vulcanizing (RTV) silicone, 
+contamination, foam on the bulkhead structure, tape or insulation, and 
+loose material; and corrective actions if necessary. We are proposing 
+this AD to detect and correct blockage of a safety valve cabin 
+pressure-sensing port, which could result in loss of cabin pressure.
+
+DATES: We must receive comments on this proposed AD by June 1, 2015.
+
+ADDRESSES: You may send comments by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+     Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC, between 9 a.m. and 5 p.m., Monday 
+through Friday, except Federal holidays.
+    For service information identified in this proposed AD, contact 
+Bombardier, Inc., 400 C[ocirc]te-Vertu Road West, Dorval, Qu[eacute]bec 
+H4S 1Y9, Canada; telephone 514-855-5000; fax 514-855-7401; email 
+[email&#160;protected]; Internet http://www.bombardier.com. You 
+may view this referenced service information at the FAA, Transport 
+Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For information 
+on the availability of this material at the FAA, call 425-227-1221.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2015-
+0827; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this proposed AD, the regulatory evaluation, any comments 
+received, and other information. The street address for the Docket 
+Operations office (telephone 800-647-5527) is in the ADDRESSES section. 
+Comments will be available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Luke Walker, Aerospace Engineer, 
+Airframe and Mechanical Systems Branch, ANE-171, FAA, NY Aircraft 
+Certification Office (ACO), 1600 Stewart Avenue, Suite 410, Westbury, 
+NY 11590; telephone 516-228-7363; fax 516-794-5531.
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    We invite you to send any written relevant data, views, or 
+arguments about this proposed AD. Send your comments to an address 
+listed under the ADDRESSES section. Include ``Docket No. FAA-2015-0827; 
+Directorate Identifier 2014-NM-008-AD'' at the beginning of your 
+comments. We specifically invite comments on the overall regulatory, 
+economic, environmental, and energy aspects of this proposed AD. We 
+will consider all comments received by the closing date and may amend 
+this proposed AD based on those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this proposed AD.
+
+Discussion
+
+    On March 21, 2011, we issued AD 2011-07-10, Amendment 39-16647 (76 
+FR 17758, March 31, 2011). AD 2011-07-10 requires actions intended to 
+address an unsafe condition on certain Bombardier, Inc. Model BD-100-
+1A10 (Challenger 300) airplanes. AD 2011-07-10 superseded AD 2010-10-
+18, Amendment 39 16297 (75 FR 27406, May 17, 2010).
+    Since we issued AD 2011-07-10, Amendment 39-16647 (76 FR 17758, 
+March 31, 2011), we have received reports of in-flight loss of cabin 
+pressurization that were attributed to partial blockage of a safety 
+valve cabin pressure-sensing port in conjunction with a failed safety 
+valve manometric capsule.
+    Transport Canada Civil Aviation (TCCA), which is the aviation 
+authority for Canada, has issued Canadian Airworthiness Directive CF-
+2010-06R1, dated August 8, 2013 (referred to after this as the 
+Mandatory Continuing Airworthiness Information, or ``the MCAI''), to 
+correct an unsafe condition for the specified products. The MCAI 
+states:
+
+    Investigation of a high altitude loss of cabin pressurization on 
+a BD-100-1A10 aeroplane determined that it was caused by a partial 
+blockage of a safety valve cabin pressure-sensing port, in 
+conjunction with a dormant failure/leakage of the safety valve 
+manometric capsule. The blockage, caused by accumulation of lint/
+dust on the grid of the port plug, did not allow sufficient airflow 
+through the cabin pressure-sensing port to compensate for the rate 
+of leakage from the manometric capsule, resulting in the opening of 
+the safety valve. It was also determined that failure of the 
+manometric capsule alone would not result in the opening of the 
+safety valve.
+    The original issue of this [Canadian] AD mandated a revision of 
+the maintenance schedule, the cleaning of the safety valves, the 
+removal of material from the area surrounding the safety valves and 
+the modification of the safety valves with a gridless cabin 
+pressure-sensing port plug.
+    Since the original issue of this [Canadian] AD, there have been 
+two additional reported events of in-flight loss of cabin 
+pressurization that were attributed to partial blockage of a safety 
+valve cabin pressure-sensing port in conjunction with a failed 
+safety valve manometric capsule.
+    Bombardier Aerospace has determined that aeroplanes with a 
+particular interior installation require improved instructions to 
+clean the safety valves and their surrounding area. In addition, 
+Aircraft Maintenance Manual tasks have been updated to ensure that 
+inspection of the safety valves and their surrounding is carried out 
+after any maintenance action.
+    Revision 1 of this [Canadian] AD is issued to mandate inspection 
+and cleaning of the safety valves and their surrounding area on the 
+affected aeroplanes.
+
+    Corrective actions include removing foreign material, cleaning 
+surfaces of the safety valve and bulkhead, installing a new safety 
+valve, removing loose tape, and trimming insulation. You may examine 
+the MCAI in the AD docket on the Internet at http://www.regulations.gov 
+by searching for and locating Docket No. FAA-2015-0827.
+
+Related Service Information Under 1 CFR Part 51
+
+    Bombardier has issued Service Bulletin 100-25-21, Revision 02, 
+dated July 25, 2013. The service information describes procedures for a 
+detailed visual inspection of both safety valves and the surrounding 
+area for foreign material, RTV silicone, contamination, foam on the 
+bulkhead structure, tape or insulation, and loose material, and 
+applicable corrective actions. The actions described in this service 
+information are intended to correct the unsafe condition identified in 
+the MCAI. This service information is reasonably available; see 
+ADDRESSES for ways to access this service information.
+
+[[Page 20183]]
+
+FAA's Determination and Requirements of This Proposed AD
+
+    This product has been approved by the aviation authority of another 
+country, and is approved for operation in the United States. Pursuant 
+to our bilateral agreement with the State of Design Authority, we have 
+been notified of the unsafe condition described in the MCAI and service 
+information referenced above. We are proposing this AD because we 
+evaluated all pertinent information and determined an unsafe condition 
+exists and is likely to exist or develop on other products of the same 
+type design.
+    This AD requires revisions to certain operator maintenance 
+documents to include new actions (e.g., inspections). Compliance with 
+these actions is required by 14 CFR 91.403(c). For airplanes that have 
+been previously modified, altered, or repaired in the areas addressed 
+by this AD, the operator may not be able to accomplish the actions 
+described in the revisions. In this situation, to comply with 14 CFR 
+91.403(c), the operator must request approval for an alternative method 
+of compliance according to paragraph (n)(1) of this AD. The request 
+should include a description of changes to the required inspections 
+that will ensure the continued operational safety of the airplane.
+
+Costs of Compliance
+
+    We estimate that this proposed AD affects 67 airplanes of U.S. 
+registry.
+    The actions required by AD 2011-07-10, Amendment 39-16647 (76 FR 
+17758, March 31, 2011), and retained in this proposed AD take about 10 
+work-hours per product, at an average labor rate of $85 per work-hour. 
+Required parts cost $0 per product. Based on these figures, the 
+estimated cost of the actions that were required by AD 2011-07-10 is 
+$850 per product.
+    We also estimate that it would take about 4 work-hours per product 
+to comply with the basic requirements of this proposed AD. The average 
+labor rate is $85 per work-hour. Based on these figures, we estimate 
+the cost of this proposed AD on U.S. operators to be $22,780, or $340 
+per product.
+    According to the manufacturer, all of the costs of this proposed AD 
+may be covered under warranty, thereby reducing the cost impact on 
+affected individuals. We do not control warranty coverage for affected 
+individuals. As a result, we have included all costs in our cost 
+estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by removing Airworthiness Directives (AD) 
+2011-07-10, Amendment 39-16647 (76 FR 17758, March 31, 2011), and 
+adding the following new AD:
+
+Bombardier, Inc.: Docket No. FAA-2015-0827; Directorate Identifier 
+2014-NM-008-AD.
+
+(a) Comments Due Date
+
+    We must receive comments by June 1, 2015.
+
+(b) Affected ADs
+
+    This AD replaces AD 2011-07-10, Amendment 39-16647 (76 FR 17758, 
+March 31, 2011).
+
+(c) Applicability
+
+    This AD applies to Bombardier, Inc. Model BD-100-1A10 
+(Challenger 300) airplanes, certificated in any category, serial 
+numbers 20001 through 20274.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+Furnishings.
+
+(e) Reason
+
+    This AD was prompted by reports of in-flight loss of cabin 
+pressurization that were attributed to partial blockage of a safety 
+valve cabin pressure-sensing port in conjunction with a failed 
+safety valve manometric capsule. We are issuing this AD to detect 
+and correct blockage of a safety valve cabin pressure-sensing port, 
+which could result in loss of cabin pressure.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Revision
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2011-07-10, Amendment 39-16647 (76 FR 17758, March 31, 2011), with 
+no changes. For all airplanes: Within 30 days after June 1, 2010 
+(the effective date of AD 2010-10-18, Amendment 39-16297 (75 FR 
+27406, May 17, 2010)), revise the Airworthiness Limitations section 
+of the Instructions for Continued Airworthiness by incorporating 
+Tasks 21-31-09-101 and 21-31-09-102 in the Bombardier Temporary 
+Revision (TR) 5-2-53, dated October 1, 2009, to Section 5-10-40, 
+``Certification Maintenance Requirements,'' in Part 2 of Chapter 5 
+of Bombardier Challenger 300 BD-100 Time Limits/Maintenance Checks.
+    (1) For the new tasks identified in Bombardier TR 5-2-53, dated 
+October 1, 2009: For airplanes identified in the ``Phase-in'' 
+section of Bombardier TR 5-2-53, dated October 1, 2009, the initial 
+compliance with the new tasks must be carried out in accordance with 
+the phase-in schedule detailed in Bombardier TR 5-2-53, dated 
+October 1, 2009, except where that TR specifies a compliance time 
+from the date of the TR, this AD requires compliance within the 
+specified time after June 1, 2010 (the effective date of AD 2010-10-
+18, Amendment 39-16297 (75 FR 27406, May 17, 2010)).
+
+[[Page 20184]]
+
+    Thereafter, except as provided by paragraph (n)(1) of this AD, 
+no alternative to the task intervals may be used.
+    (2) When information in Bombardier TR 5-2-53, dated October 1, 
+2009, has been included in the general revisions of the applicable 
+Airworthiness Limitations section, that TR may be removed from that 
+Airworthiness Limitations section of the Instructions for Continued 
+Airworthiness.
+
+(h) Retained Inspection, Removal, Cleaning, and Installation
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2011-07-10, Amendment 39-16647 (76 FR 17758, March 31, 2011), with 
+certain clarified compliance times. For airplanes having S/Ns 20003 
+through 20173 inclusive, 20176, and 20177: Within 50 flight hours 
+after June 1, 2010 (the effective date of AD 2010-10-18, Amendment 
+39-16297 (75 FR 27406, May 17, 2010)), do a detailed visual 
+inspection of the safety valves and surrounding areas for discrepant 
+material (e.g., foreign material surrounding the safety valves, room 
+temperature vulcanizing (RTV) sealant on safety valves, RTV excess 
+on the bulkhead, tape near the safety valve opening, and, on certain 
+airplanes, insulation near the safety valve opening, and foam in the 
+area surrounding the safety valves) and a detailed visual inspection 
+for contamination (e.g., RTV, dust, or lint) in the safety valve 
+pressure ports, in accordance with the Accomplishment Instructions 
+of Bombardier Service Bulletin 100-25-14, dated June 30, 2008 (for 
+airplanes having S/Ns 20124, 20125, 20128, 20134, 20139, 20143, 
+20146, 20148 through 20173 inclusive, 20176, and 20177); or 
+Bombardier Service Bulletin 100-25-21, dated June 30, 2008 (for 
+airplanes having S/Ns 20003 through 20123 inclusive, 20126, 20127, 
+20129 to 20133 inclusive, 20135 to 20138 inclusive, 20140 through 
+20142 inclusive, 20144, 20145, and 20147).
+    (1) If any discrepant material is found during the detailed 
+visual inspection, before further flight, remove the discrepant 
+material, clean the surfaces of the valves, and secure the 
+insulation, as applicable, in accordance with the Accomplishment 
+Instructions of Bombardier Service Bulletin 100-25-14, dated June 
+30, 2008 (for airplanes having S/Ns 20124, 20125, 20128, 20134, 
+20139, 20143, 20146, 20148 through 20173 inclusive, 20176, and 
+20177); or Bombardier Service Bulletin 100-25-21, dated June 30, 
+2008 (for airplanes having S/Ns 20003 through 20123 inclusive, 
+20126, 20127, 20129 through 20133 inclusive, 20135 through 20138 
+inclusive, 20140 through 20142 inclusive, 20144, 20145, and 20147).
+    (2) If contamination (e.g., RTV, dust, or lint) is found on the 
+safety valve pressure sensing ports, before further flight, do a 
+detailed visual inspection of the outside and inside diameters of 
+the pressure sensing port conduit for the presence of RTV; and 
+before further flight do the actions specified in paragraph 
+(h)(2)(i) and (h)(2)(ii) of this AD, as applicable; in accordance 
+with the Accomplishment Instructions of Bombardier Service Bulletin 
+100-25-14, dated June 30, 2008 (for airplanes having S/Ns 20124, 
+20125, 20128, 20134, 20139, 20143, 20146, 20148 through 20173 
+inclusive, 20176, and 20177); or Bombardier Service Bulletin 100-25-
+21, dated June 30, 2008 (for airplanes having S/Ns 20003 through 
+20123 inclusive, 20126, 20127, 20129 through 20133 inclusive, 20135 
+through 20138 inclusive, 20140 through 20142 inclusive, 20144, 
+20145, and 20147).
+    (i) If no RTV is found, clean the plug of the sensing port.
+    (ii) If any RTV is found, install a new safety valve.
+
+(i) Retained Cleaning for Certain Airplanes
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2011-07-10, Amendment 39-16647 (76 FR 17758, March 31, 2011), with 
+no changes. For airplanes having S/Ns 20174, 20175, 20178 through 
+20189 inclusive, 20191 through 20228 inclusive, 20230 through 20232 
+inclusive, 20235, 20237, 20238, 20241, 20244, 20247, 20249 through 
+20251 inclusive, 20254, 20256 and 20259: Within 50 flight hours 
+after June 1, 2010 (the effective date of AD 2010-10-18, Amendment 
+39-16297 (75 FR 27406, May 17, 2010)), clean the cabin pressure-
+sensing port plug in both safety valves, in accordance with 
+Paragraph 2.B., ``Part A--Modification--Cleaning,'' of the 
+Accomplishment Instructions of Bombardier Service Bulletin A100-21-
+08, dated June 18, 2009.
+
+(j) Retained Cleaning for Certain Other Airplanes
+
+    This paragraph restates the requirements of paragraph (j) of AD 
+2011-07-10, Amendment 39-16647 (76 FR 17758, March 31, 2011), with 
+no changes. For airplanes having S/Ns 20003 through 20189 inclusive, 
+20191 through 20228 inclusive, 20230 through 20232 inclusive, 20235, 
+20237, 20238, 20241, 20244, 20247, 20249 through 20251 inclusive, 
+20254, 20256, and 20259: Within 50 flight hours after June 1, 2010 
+(the effective date of AD 2010-10-18, Amendment 39-16297 (75 FR 
+27406, May 17, 2010)), clean the cabin pressure-sensing port plug in 
+both safety valves, in accordance with Paragraph 2.B., ``Part A--
+Modification--Cleaning,'' of the Accomplishment Instructions of 
+Bombardier Service Bulletin A100-21-08, dated June 18, 2009. Repeat 
+the cleaning thereafter at intervals not to exceed 50 flight hours 
+until the actions specified by paragraph (k) of this AD are 
+completed.
+
+(k) Retained Replacement
+
+    This paragraph restates the requirements of paragraph (k) of AD 
+2011-07-10, Amendment 39-16647 (76 FR 17758, March 31, 2011), with 
+no changes. For airplanes having S/Ns 20003 through 20189 inclusive, 
+20191 through 20228 inclusive, 20230 through 20232 inclusive, 20235, 
+20237, 20238, 20241, 20244, 20247, 20249 through 20251 inclusive, 
+20254, 20256, and 20259: Within 12 months after May 5, 2011 (the 
+effective date of AD 2011-07-10), replace the cabin pressure-sensing 
+port plug having part number (P/N) 2844-060 in both safety valves 
+with a new gridless plug having P/N 2844-19 and re-identify the 
+safety valves, in accordance with Paragraph 2.C., ``Part B--
+Modification--Replacement,'' of the Accomplishment Instructions of 
+Bombardier Service Bulletin A100-21-08, dated June 18, 2009. Doing 
+the actions in paragraph (k) of this AD terminates the repetitive 
+cleanings required by paragraph (j) of this AD.
+
+(l) New Requirement of This AD: Inspection and Cleaning
+
+    For airplanes having S/Ns 20003 through 20123 inclusive, 20126, 
+20127, 20129 through 20133 inclusive, 20135 through 20138 inclusive, 
+20140 through 20142 inclusive, 20144, 20145, and 20147: Within 500 
+flight hours or 15 months after the effective date of this AD, 
+whichever occurs first, do a detailed visual inspection of both 
+safety valves and the surrounding area for foreign material, RTV 
+silicone, contamination, foam on the bulkhead structure, tape or 
+insulation, and loose material, in accordance with the 
+Accomplishment Instructions of Bombardier Service Bulletin 100-25-
+21, Revision 02, dated July 25, 2013. Do all applicable corrective 
+actions before further flight, in accordance with the Accomplishment 
+Instructions of Bombardier Service Bulletin 100-25-21, Revision 02, 
+dated July 25, 2013.
+
+(m) Credit for Previous Actions
+
+    This paragraph provides credit for actions required by paragraph 
+(l) of this AD, if those actions were performed before the effective 
+date of this AD using Bombardier Service Bulletin 100-25-21, 
+Revision 01, dated February 26, 2013, which is not incorporated by 
+reference in this AD.
+
+(n) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, New 
+York Aircraft Certification Office (ACO), ANE-170, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the New York ACO, send it to ATTN: Program Manager, 
+Continuing Operational Safety, FAA, New York ACO, 1600 Stewart 
+Avenue, Suite 410, Westbury, NY 11590; telephone 516-228-7300; fax 
+516-794-5531. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office/
+certificate holding district office. The AMOC approval letter must 
+specifically reference this AD.
+    (2) Contacting the Manufacturer: As of the effective date of 
+this AD, for any requirement in this AD to obtain corrective actions 
+from a manufacturer, the action must be accomplished using a method 
+approved by the Manager, New York ACO, ANE-170, FAA; or Transport 
+Canada Civil Aviation (TCCA); or Bombardier, Inc.'s TCCA Design 
+Approval Organization (DAO). If approved by the DAO, the approval 
+must include the DAO-authorized signature.
+
+(o) Related Information
+
+    (1) Refer to Mandatory Continuing Airworthiness Information 
+(MCAI) Canadian Airworthiness Directive CF-2010-06R1, dated August 
+8, 2013, for related information.
+
+[[Page 20185]]
+
+This MCAI may be found in the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-
+2015-0827.
+    (2) For service information identified in this AD, contact 
+Bombardier, Inc., 400 C[ocirc]te-Vertu Road West, Dorval, 
+Qu[eacute]bec H4S 1Y9, Canada; telephone 514-855-5000; fax 514-855-
+7401; email [email&#160;protected]; Internet http://www.bombardier.com. You may view this service information at the 
+FAA, Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, 
+WA. For information on the availability of this material at the FAA, 
+call 425-227-1221.
+
+    Issued in Renton, Washington, on April 6, 2015.
+John P. Piccola, Jr.,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-08463 Filed 4-14-15; 8:45 am]
+ BILLING CODE 4910-13-P
+
+

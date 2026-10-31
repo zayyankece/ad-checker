@@ -1,0 +1,158 @@
+
+[Federal Register Volume 90, Number 120 (Wednesday, June 25, 2025)]
+[Proposed Rules]
+[Pages 26950-26951]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-11665]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-0341; Product Identifier MCAI-2024-00679-E]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Safran Helicopter Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM); withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing an NPRM that proposed to adopt a new 
+airworthiness directive (AD) that would have applied to all Safran 
+Helicopter Engines, S.A. (Safran) Model ARRIUS 2F and ARRIUS 2R 
+engines. The NPRM was prompted by a manufacturer investigation that 
+revealed certain high-pressure (HP) turbine blades may contain non-
+compliant porosity rates due to a change in the manufacturing process. 
+The NPRM would have required replacement of affected HP turbine blades. 
+Since the NPRM was issued, further investigation and tests demonstrated 
+that the non-compliant rate of porosity has no impact on the use limit 
+of the affected parts and the FAA has determined that the unsafe 
+condition no longer exists. Accordingly, the NPRM is withdrawn.
+
+DATES: As of June 25, 2025, the proposed rule, which was published in 
+the Federal Register on March 13, 2025 (90 FR 11914), is withdrawn.
+
+ADDRESSES: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-0341; or in person at the Docket Operations between 
+9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The 
+AD docket contains this AD action (withdrawal), the NPRM, the mandatory 
+continuing airworthiness information, any comments received, and other 
+information. The street address for Docket Operations is U.S. 
+Department of Transportation, Docket Operations, M-30, West Building 
+Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 
+20590.
+
+FOR FURTHER INFORMATION CONTACT: David Bergeron, Aerospace Engineer, 
+FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; phone: (781) 
+238-7157; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+Background
+
+    The FAA issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD for all Safran Model ARRIUS 2F and ARRIUS 2R engines. The 
+NPRM was published in the Federal Register on March 13, 2025 (90 FR 
+11914). The NPRM was prompted by a manufacturer investigation that 
+revealed certain HP turbine blades may contain non-compliant porosity 
+rates due to a change in the manufacturing process. The NPRM proposed 
+to require replacement of affected HP turbine blades, as specified in 
+European Union Aviation Safety Agency (EASA) AD 2024-0218R1, dated 
+December 19, 2024 (EASA AD 2024-0218R1).
+    The proposed actions were intended to prevent the failure of the HP 
+turbine blades. The unsafe condition, if not addressed, could result in 
+an in-flight shutdown and a significant reduction in the control of the 
+helicopter.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, EASA, which is the Technical Agent for 
+the Member States of the European Union, has issued EASA AD 2024-
+0218R1-CN, dated March 17, 2025 (EASA AD 2024-
+
+[[Page 26951]]
+
+0218R1-CN), which cancels EASA AD 2024-0218R1. EASA AD 2024-0218R1-CN 
+states that since EASA AD 2024-0218R1 was issued, further investigation 
+and tests demonstrated that the non-compliant rate of porosity has no 
+impact on the use limit of the affected parts, and the subsequent risk 
+re-assessment has shown that the safety issue addressed by the previous 
+EASA AD does not qualify as an unsafe condition. Therefore, the FAA has 
+determined that AD action is no longer appropriate.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+Comments
+
+    The FAA received comments from two commenters, including Summit 
+Helicopters, Inc. and an anonymous commenter. The following presents 
+the comments received on the NPRM and the FAA's response to each 
+comment.
+
+Request for Clarification Dependent on Issuance of New EASA AD
+
+    Summit Helicopers, Inc. requested that the FAA either cancel the 
+NPRM or revise to remove reference to EASA AD 2024-0218R1. Summit 
+Helicopters, Inc. pointed out that EASA has issued EASA AD 2024-0218R1-
+CN, which cancelled EASA AD 2024-0218R1.
+    The FAA agrees with the request and is withdrawing the NPRM.
+
+Request for Greater Oversight of, and Transparency From, the 
+Manufacturer
+
+    An anonymous commenter discussed numerous topics affecting the 
+NPRM, especially requesting that the FAA require greater oversight of, 
+and transparency from, the engine manufacturer. Additional topics 
+included specialized training for technicians, environmental 
+considerations, emergency preparedness, publication of root cause 
+analysis reports, cost burden for operators, health and safety 
+standards and equipment, and alignment of future oversight with 
+international best practices and quality management standards.
+    The FAA agrees that all the discussed topics may have had an impact 
+should the NPRM have continued to become a final rule. However, because 
+the NPRM is withdrawn, the discussion and requests are no longer 
+necessary.
+
+FAA's Conclusions
+
+    Upon further consideration, the FAA has determined that the NPRM is 
+unnecessary. Accordingly, the NPRM is withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule and therefore is not covered under Executive Order 
+12866, the Regulatory Flexibility Act, or DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, the notice of proposed rulemaking (Docket No. FAA-
+2025-0341), which was published in the Federal Register on March 13, 
+2025 (90 FR 11914), is withdrawn.
+
+    Issued on June 18, 2025.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-11665 Filed 6-24-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+

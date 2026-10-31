@@ -1,0 +1,461 @@
+
+[Federal Register Volume 90, Number 220 (Tuesday, November 18, 2025)]
+[Proposed Rules]
+[Pages 51613-51620]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-20085]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-3438; Project Identifier AD-2025-01163-A]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Twin Commander Aircraft LLC Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all Twin Commander Aircraft LLC (Twin Commander) Model 685, 690, 
+690A, 690B, 690C, 690D, 695, and 695A airplanes. This proposed AD was 
+prompted by reports of fatigue cracking affecting structural components 
+within the fuselage and empennage structure. This proposed AD would 
+require inspecting certain structural components within the fuselage 
+and vertical stabilizer for any evidence of cracks, corrosion, or loose 
+hardware, and inspecting the working fasteners at the diagonal braces 
+of fuselage station (FS) 386 for cracks, elongation, or deformation; 
+and depending on the results of the inspections, replacing with new 
+parts or used parts or repairing, as applicable; and reporting 
+inspection results to the FAA. The FAA is proposing this AD to address 
+the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by January 2, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-3438; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: Lekebis Russell, Aviation Safety 
+Engineer, FAA, 1701 Columbia Avenue, College Park, GA 30337; phone: 
+(404) 474-5510; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2025-3438; 
+Project Identifier AD-2025-01163-A'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA
+
+[[Page 51614]]
+
+will consider all comments received by the closing date and may revise 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Lekebis Russell, Aviation Safety Engineer, FAA, 1701 Columbia Avenue, 
+College Park, GA 30337. Any commentary that the FAA receives which is 
+not specifically designated as CBI will be placed in the public docket 
+for this rulemaking.
+
+Background
+
+    The FAA received reports of fatigue cracking throughout the 
+fuselage and vertical stabilizer's structural components on Twin 
+Commander Model 685, 690, 690A, 690B, 690C, 690D, 695, and 695A 
+airplanes. The fatigue cracking was found in areas with insufficient 
+access for inspections, which led to undetected crack development. 
+Specifically, cracking was observed at FS 409, the vertical 
+stabilizer's aft spar, the horizontal stabilizer's forward spar, and 
+the vertical stabilizer skin.
+    AD 95-13-02, Amendment 39-9283 (60 FR 32583, June 23, 1995) (AD 95-
+13-02) was issued to address cracking in the vertical stabilizer. This 
+AD requires initially inspecting the vertical stabilizer for cracks, 
+modifying any cracked vertical stabilizer, and, if not cracked, either 
+repetitively inspecting or modifying the vertical stabilizer, and 
+allowed for terminating action through modification or repair. Since 
+the issuance of AD 95-13-02, continued cracking has been observed at FS 
+409. These findings show that previously implemented modifications in 
+AD 95-13-02 did not provide an effective terminating action, along with 
+the detection of additional cracking at FS 386 and FS 429 during later 
+inspections. FS 386 and FS 429, where cracks were recently found, were 
+not part of the inspections required by AD 95-13-02. Therefore, this 
+proposed AD, while not superseding AD 95-13-02, addresses continued 
+cracking in FS 409, including areas adjacent to prior repairs, by 
+requiring inspections around repaired members, thereby complementing 
+the ongoing requirements of AD 95-13-02.
+    The FAA is proposing this AD to prevent the failure of the aft 
+fuselage or empennage structural members. The unsafe conditions, if not 
+addressed, could result in structural failure of the empennage, which 
+could lead to loss of control of the airplane.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require inspecting certain structural 
+components within the fuselage and vertical stabilizer for any evidence 
+of cracks, corrosion, or loose hardware, and inspecting the working 
+fasteners at the diagonal braces of FS 386 for cracks, elongation, or 
+deformation; and depending on the results of the inspections, replacing 
+with new parts or used parts or repairing, as applicable. This proposed 
+AD would also require reporting the inspection results to the FAA.
+
+Interim Action
+
+    The FAA considers that this proposed AD would be an interim action. 
+An investigation is ongoing, and the final corrective action has not 
+yet been determined. Once corrective action has been determined, the 
+FAA may consider additional rulemaking action.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 589 airplanes of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                       Cost per    Cost on U.S.
+                  Action                            Labor cost           Parts cost    product       operators
+----------------------------------------------------------------------------------------------------------------
+Perform detailed visual inspection FS      60 work-hours x $85 per               $0       $5,100      $3,003,900
+ 386, 409, 429, and vertical stabilizer.    hour = $5,100.
+Perform general visual inspection of       30 work-hours x $85 per                0        2,550       1,501,950
+ empennage structure.                       hour = $2,550.
+Report inspection findings...............  1 work-hour x $85 per hour             0           85          50,065
+                                            = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    The extent of the fatigue cracking within the fuselage or empennage 
+structural components may vary significantly from airplane to airplane. 
+The FAA has no way to determine how much damage may be found on each 
+airplane, the extent of the damage, the cost to repair the damaged 
+areas (or replace the part, if needed), or the number of airplanes that 
+might require repair or replacement.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to be 
+approximately 1 hour per response, including the time for reviewing 
+instructions, searching existing data
+
+[[Page 51615]]
+
+sources, gathering and maintaining the data needed, and completing and 
+reviewing the collection of information. All responses to this 
+collection of information are mandatory. Send comments regarding this 
+burden estimate or any other aspect of this collection of information, 
+including suggestions for reducing this burden, to: Information 
+Collection Clearance Officer, Federal Aviation Administration, 10101 
+Hillwood Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Twin Commander Aircraft LLC: Docket No. FAA-2025-3438; Project 
+Identifier AD-2025-01163-A.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by January 2, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Twin Commander Aircraft LLC Model 685, 690, 
+690A, 690B, 690C, 690D, 695, and 695A airplanes, all serial numbers, 
+certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 5500, Empennage 
+Structure.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of fatigue cracking affecting 
+structural components within the fuselage and empennage structure. 
+The FAA is issuing this AD to prevent the failure of the aft 
+fuselage or empennage structural members. The unsafe condition, if 
+not addressed, could result in structural failure of the empennage, 
+which could lead to loss of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) Within 50 hours time-in-service (TIS) after the effective 
+date of this AD, thoroughly clean the empennage interior structure 
+and perform the inspections in paragraphs (g)(1)(i), (ii), and (iii) 
+of this AD.
+    (i) A detailed visual inspection for cracks, corrosion, or loose 
+hardware, using at least 10x magnification, and the figures provided 
+in appendix 1 of this AD, at the locations identified in paragraphs 
+(g)(1)(i)(A) through (P).
+
+(A) Fuselage Station (FS) 386: Frame Web at each corner radius
+(B) FS 386: Horizontal Brace Joggles
+(C) FS 386: Frame Upper Cable Cutouts
+(D) FS 386: Diagonal Braces
+(E) FS 409: Horizontal Stabilizer Front Spar
+(F) FS 409: Vertical Stabilizer Spar Web
+(G) FS 409: Frame Web at each corner fillet radius
+(H) FS 409: Frame Web below horizontal stabilizer spar
+(I) FS 409: Frame Tangs attaching fuselage skin
+(J) FS 409: Exterior Fuselage Skin at cutouts corners
+(K) FS 409: Exterior Fuselage Skin at frame tang attachment
+(L) FS 409: Vertical Stabilizer Spar Web Forward and Aft Clips
+(M) FS 429: Aft Frame Channel and Web
+(N) FS 429: Forward Channel attached to frame
+(O) Vertical Stabilizer Skin: Repair Skin Doubler
+(P) Vertical Stabilizer: Mid Spar Flange
+
+    (ii) A detailed visual inspection for cracks, elongation, or 
+deformation of the working fasteners at location (D) FS 386 diagonal 
+braces, using at least 10x magnification.
+    (iii) A general visual inspection of areas adjacent to the 
+structures in paragraphs (g)(1)(i)(A) through (P) of this AD within 
+the empennage structure for any evidence of cracks, corrosion, or 
+loose hardware. Additional access or teardown is not required for 
+this inspection.
+    (iv) For inspections required by paragraph (g)(1)(i), (ii), and 
+(iii) of this AD, it is satisfactory to inspect the immediate area 
+adjacent to previously installed repairs for any cracking, or 
+corrosion, or loose hardware. Repairs or modifications previously 
+installed will not be required to be removed from the airplane 
+unless damage is found.
+    Note 1 to paragraph (g)(1): Paragraph 5-18, Visual Inspection 
+Procedures, of Chapter 5, Nondestructive Inspection (NDI), Section 
+2, Visual Inspection, of FAA Advisory Circular 43.13-1B, 
+``Acceptable Methods, Techniques, and Practices--Aircraft Inspection 
+and Repair,'' Change 1, dated September 8, 1998; with Editorial 
+Update dated September 27, 2001, provides guidance on performing 
+visual inspections.
+    (2) If, during the inspections required by paragraph (g)(1)(i), 
+(ii), or (iii)of this AD, any evidence of cracks, corrosion, or 
+loose hardware is found at FS 386, or FS 409, or FS 429 or the 
+vertical stabilizer or cracks, elongation, or deformation are found 
+to the holes of the working fasteners at the diagonal braces of FS 
+386, before further flight, replace with new parts with zero hours 
+TIS or used parts that have been inspected per paragraphs (g)(1)(i), 
+(ii), and (iii) of this AD and found to be free of cracks corrosion, 
+or loose hardware, or repair using a method approved by the Manager, 
+East Certification Branch, FAA. For a repair method to be approved 
+by the Manager, East Certification Branch, FAA as required by this 
+paragraph, the Manager's approval letter must specifically refer to 
+this AD.
+    Note 2 to paragraph (g)(2): If a repair in FS 409 is necessary, 
+then an alternative method of compliance would also be necessary in 
+this area for those doing repetitive inspections in accordance with 
+AD 95-13-02; Amendment 39-9283; (87 FR 32583; June 23, 1995) per 14 
+CFR 39.17. This would include if a repair was necessary that was 
+different than that required by AD 95-13-02.
+
+[[Page 51616]]
+
+(h) Reporting Requirement
+
+    Within 30 days after performing the inspections required by 
+paragraphs (g)(1)(i), (ii), and (iii) of this AD or within 30 days 
+after the effective date of this AD, whichever occurs later, report 
+the results of the inspections, including no findings, to the FAA at 
+[email&#160;protected]. The report must include the following:
+    (1) The name and address of owner;
+    (2) The date of the inspection;
+    (3) The name, address, telephone number, and email address of 
+person submitting the report;
+    (4) The airplane serial number, registration number, total 
+flight hours, flight hours during the last 12 months, airplane usage 
+(e.g., 14 CFR part 91/135--general, forest service, fire attack 
+roles, low aerial survey, etc.);
+    (5) The flight hours of any usage under forest service, fire 
+attack roles, or aerial survey (nonstandard usage).
+    (6) A description of cracks, corrosion, or loose hardware of the 
+fuselage structure or vertical stabilizer or cracks, elongation, or 
+deformation of the working fasteners at the diagonal braces of FS 
+386. Include affected structure, dimensions, including length and 
+location.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, East Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the East Certification Branch, send it to 
+the attention of the person identified in paragraph (j)(1) of this 
+AD and email to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Additional Information
+
+    (1) For more information about this AD, contact Lekebis Russell, 
+Aviation Safety Engineer, FAA, 1701 Columbia Avenue, College Park, 
+GA 30337; phone: (404) 474-5510; email: [email&#160;protected].
+    (2) FAA Advisory Circular 43.13-1B, ``Acceptable Methods, 
+Techniques, and Practices--Aircraft Inspection and Repair,'' Change 
+1, dated September 8, 1998; with Editorial Update dated September 
+27, 2001, may be found at drs.faa.gov.
+
+(k) Material Incorporated by Reference
+
+    None.
+BILLING CODE 4910-13-P
+
+[[Page 51617]]
+
+Appendix 1 to Docket FAA-2025-3438
+[GRAPHIC] [TIFF OMITTED] TP18NO25.029
+
+Figure 1 to Appendix 1
+
+[[Page 51618]]
+
+Appendix 1 to Docket FAA-2025-3438
+[GRAPHIC] [TIFF OMITTED] TP18NO25.030
+
+Figure 2 to Appendix 1
+
+[[Page 51619]]
+
+Appendix 1 to Docket FAA-2025-3438
+[GRAPHIC] [TIFF OMITTED] TP18NO25.031
+
+Figure 3 to Appendix 1
+
+[[Page 51620]]
+
+Appendix 1 to Docket FAA-2025-3438
+[GRAPHIC] [TIFF OMITTED] TP18NO25.032
+
+Figure 4 to Appendix 1
+
+    Issued on November 13, 2025.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-20085 Filed 11-17-25; 8:45 am]
+BILLING CODE 4910-13-C
+
+

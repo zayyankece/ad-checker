@@ -1,0 +1,377 @@
+
+[Federal Register Volume 82, Number 107 (Tuesday, June 6, 2017)]
+[Proposed Rules]
+[Pages 25978-25980]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2017-11174]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2017-0492; Directorate Identifier 2016-SW-025-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Honeywell International Inc. 
+(Honeywell) Enhanced Ground Proximity Warning System (EGPWS)
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: We propose to adopt a new airworthiness directive (AD) for 
+various normal and transport category rotorcraft with certain Honeywell 
+EGPWS installed. This proposed AD would require updating the software 
+version of the EGPWS. This proposed AD is prompted by a software defect 
+that prevents the EGPWS from providing terrain warnings. The proposed 
+actions are intended to address an unsafe condition on these products.
+
+DATES: We must receive comments on this proposed AD by August 7, 2017.
+
+ADDRESSES: You may send comments by any of the following methods:
+     Federal eRulemaking Docket: Go to http://www.regulations.gov. Follow the online instructions for sending your 
+comments electronically.
+     Fax: 202-493-2251.
+     Mail: Send comments to the U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590-0001.
+     Hand Delivery: Deliver to the ``Mail'' address between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-
+0492; or in person at the Docket Operations Office between 9 a.m. and 5 
+p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this proposed AD, the economic evaluation, any comments 
+received, and other information. The street address for the Docket 
+Operations Office (telephone 800-647-5527) is in the ADDRESSES section. 
+Comments will be available in the AD docket shortly after receipt.
+    For service information identified in this proposed rule, contact 
+Honeywell International Inc., 15001 NE. 36 Street, Redmond, Washington 
+98052-5317; telephone (800) 601-3099; internet address 
+www.myaerospace.com. You may review the referenced service information 
+at the FAA, Office of the Regional Counsel, Southwest Region, 10101 
+Hillwood Pkwy., Room 6N-321, Fort Worth, TX 76177.
+
+FOR FURTHER INFORMATION CONTACT: Judy Heredia, Aviation Safety 
+Engineer, Los Angeles Aircraft Certification Office, Transport Airplane 
+Directorate, FAA, 3960 Paramount Blvd., Lakewood, California 90712; 
+telephone (562) 627-5335; email [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    We invite you to participate in this rulemaking by submitting 
+written comments, data, or views. We also invite comments relating to 
+the economic, environmental, energy, or federalism impacts that might 
+result from adopting the proposals in this document. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. To 
+ensure the docket does not contain duplicate comments, commenters 
+should send only one copy of written comments, or if comments are filed 
+electronically, commenters should submit only one time.
+    We will file in the docket all comments that we receive, as well as 
+a report summarizing each substantive public contact with FAA personnel 
+concerning this proposed rulemaking. Before acting on this proposal, we 
+will consider all comments we receive on or before the closing date for 
+comments. We will consider comments filed after the comment period has 
+closed if it is possible to do so without incurring expense or delay. 
+We may change this proposal in light of the comments we receive.
+
+Discussion
+
+    We propose to adopt a new AD for Honeywell MK XXI EGPWS part number 
+(P/N) 965-1227-005 and MK XXII EGPWS P/N 965-1595-020, P/N 965-1595-
+021, 965-1595-022, 965-1595-024, 965-1595-026, 965-1595-028, and 965-
+1595-030 installed on various normal and transport category helicopters 
+from five manufacturers. This proposed AD would require updating the 
+software of the EGPWS. This proposed AD is prompted by a software 
+defect found by Honeywell in certain MK XXI and MK XXII EGPWSs during 
+testing. The testing revealed the terrain alerting feature will not 
+function as intended in certain specific geographical areas under 
+altitudes of 175-feet mean sea level (MSL). According to Honeywell, the 
+terrain display is not affected by the defect and will correctly 
+present terrain and its corresponding elevation information. However, 
+in some locations, the EGPWS will not issue a warning or caution for 
+terrain, water, or obstacles below 175 feel MSL. Without this feature 
+of the EGPWS, the helicopter could potentially operate into threatening 
+terrain or obstacles without providing any warning to the crew, 
+resulting in loss of the helicopter. Since the defect was discovered, 
+Honeywell has developed a software modification (MOD) that corrects 
+this condition.
+
+Record of Ex Parte Communication
+
+    In preparation of AD actions such as notices of proposed rulemaking 
+and immediately adopted final rules, it is the practice of the FAA to 
+obtain technical information and information on the operational and 
+economic impact from design approval holders and aircraft operators. We 
+discussed certain aspects of this proposed AD by email with Honeywell. 
+A copy of each email contact can be found in the rulemaking docket. For 
+information on locating the docket, see ``Examining the AD Docket.''
+
+[[Page 25979]]
+
+FAA's Determination
+
+    We are proposing this AD because we evaluated all known relevant 
+information and determined that an unsafe condition exists and is 
+likely to exist or develop on other helicopters of these same type 
+designs.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed Honeywell Service Bulletin (SB) 965-1227-34-0001, 
+Revision 0, dated May 4, 2015 (SB 965-1227-34-0001); Honeywell SB 965-
+1595-34-0034, Revision 0, dated February 18, 2015 (SB 965-1595-34-
+0034); and Honeywell SB 965-1595-34-0035, Revision 0, dated March 25, 
+2015 (SB 965-1595-34-0035). SB 965-1227-34-0001 specifies procedures 
+for installing and verifying a software MOD to a certain part-numbered 
+MK XXI EGPWS and for replacing the front panel label identifying the 
+software version. SB 965-1595-34-0034 specifies procedures for 
+installing and verifying a software MOD to certain part-numbered MK 
+XXII EGPWS and for replacing the front panel label identifying the 
+software version. SB 965-1595-34-0035 specifies procedures for 
+installing and verifying a software MOD to certain part-numbered MK 
+XXII EGPWS and for replacing the front panel label identifying the 
+software version. This service information also states that terrain 
+database version 437 must be installed prior to updating the EGPWS 
+software.
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section of this 
+NPRM.
+
+Other Related Service Information
+
+    We also reviewed Honeywell SB ATA No. 965-1590/1595-34-18, dated 
+July 30, 2004. This service information contains procedures for 
+updating the MK XXII EGPWS with terrain database version 437 and 
+verifying the updated software was successfully installed.
+
+Proposed AD Requirements
+
+    By following certain procedures in the manufacturer's service 
+bulletin, this proposed AD would require, within 1,080 hours time-in-
+service (TIS), installing terrain database version 437 if not already 
+installed; updating, installing, and confirming software MOD 1 or MOD 2 
+as determined by the model and serial number of the EGPWS; and 
+replacing the software version label on the EGPWS front face.
+
+Differences Between This Proposed AD and the Service Information
+
+    The service information requires the software MODs to be 
+accomplished within 60 months, while this proposed AD would require 
+compliance within 1,080 hours TIS.
+
+Costs of Compliance
+
+    We estimate that this proposed AD would affect 3,000 appliances 
+installed on helicopters of U.S. Registry.
+    We estimate that operators may incur the following costs in order 
+to comply with this proposed AD. At an average labor rate of $85 per 
+hour, updating and confirming the software and replacing the software 
+version label would require about 0.5 work-hour, and required parts 
+would cost $2,500, for a total cost of $2,543 per helicopter and 
+$7,629,000 for the U.S. fleet.
+    According to Honeywell's service information all of the costs of 
+this proposed AD may be covered under warranty, thereby reducing the 
+cost impact on affected individuals. We do not control warranty 
+coverage by Honeywell. Accordingly, we have included all costs in our 
+cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, Section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed, I certify this proposed regulation:
+    1. Is not a ``significant regulatory action'' under Executive Order 
+12866;
+    2. Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979);
+    3. Will not affect intrastate aviation in Alaska to the extent that 
+it justifies making a regulatory distinction; and
+    4. Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+    We prepared an economic evaluation of the estimated costs to comply 
+with this proposed AD and placed it in the AD docket.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+Reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2.The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+Honeywell International, Inc. (Honeywell): Docket No. FAA-2017-0492; 
+Directorate Identifier 2016-SW-025-AD.
+
+(a) Applicability
+
+    This AD applies to Honeywell MK XXI Enhanced Ground Proximity 
+Warning System (EGPWS) part number (P/N) 965-1227-005 with software 
+modification (MOD) 1 and MK XXII EGPWS P/N 965-1595-020 with MOD 1, 
+P/N 965-1595-021 with MOD 1, 965-1595-022 with MOD 1, 965-1595-024 
+with MOD 1, 965-1595-026 with MOD 1, 965-1595-028 with MOD 0, and 
+965-1595-030 with MOD 0. These EGPWSs are installed on, but not 
+limited to, the following helicopters, certificated in any category:
+    (1) Agusta S.p.A. Model A109 and AW139;
+    (2) Airbus Helicopters Model AS350B, AS350B1, AS350B2, AS350B3, 
+AS350BA, AS350C, AS350D, AS350D1, AS355E, AS355F, AS355F1, AS355F2, 
+AS355N, AS355NP, SA-365N, EC130B4, EC130T2, EC 155B, EC155B1, and 
+EC225LP;
+    (3) Airbus Helicopters Deutschland GmbH Model EC135P1, EC135P2, 
+EC135P2+, EC135P3, EC135T1, EC135T2, EC135T2+, and EC135T3;
+    (4) Bell Helicopter Textron Inc. Model 212 and 412;
+    (5) Bell Helicopter Textron Canada Limited Model 407;
+
+[[Page 25980]]
+
+    (6) Bell Helicopter Textron Model 430;
+    (7) MD Helicopters, Inc. Model MD900; and
+    (8) Sikorsky Aircraft Corporation Model S-76B, S-76C, S-76D, and 
+S-92A.
+
+(b) Unsafe Condition
+
+    This AD defines the unsafe condition as failure of an EGPWS to 
+generate a terrain warning, which could result in flight into 
+terrain.
+
+(c) Comments Due Date
+
+    We must receive comments by August 7, 2017.
+
+(d) Compliance
+
+    You are responsible for performing each action required by this 
+AD within the specified compliance time unless it has already been 
+accomplished prior to that time.
+
+(e) Required Actions
+
+    Within 1,080 hours time-in-service:
+    (1) Install terrain database version 437 if not already 
+installed.
+    (2) For helicopters with an MK XXI EGPWS P/N 965-1227-005:
+    (i) Update the software by following the Accomplishment 
+Instructions, paragraphs 3.B.(1)(a) through 3.B.(1)(j), of Honeywell 
+Service Bulletin (SB) 965-1227-34-0001, Revision 0, dated May 4, 
+2015 (SB 965-1227-34-0001).
+    (ii) Determine whether the software updated by following 
+paragraphs 3.B.(2)(a) through 3.B.(2)(d) of SB 965-1227-34-0001.
+    (iii) Install a new software version label on the EGPWS by 
+following paragraph 3.D.(1) or 3.D.(2), as appropriate for your 
+model EGPWS, of SB 965-1227-34-0001.
+    (3) For helicopters with an MK XXII EGPWS P/N 965-1595-020, P/N 
+965-1595-021, or P/N 965-1595-022:
+    (i) Update the software by following the Accomplishment 
+Instructions, paragraphs 3.C.(1)(a) through (h), of Honeywell SB 
+965-1595-34-0035, Revision 0, dated March 25, 2015 (SB 965-1595-34-
+0035).
+    (ii) Determine whether the software updated by following 
+paragraphs 3.C.(2)(a) through 3.C.(2)(d)6 or 3.C.(3)(a) through (g) 
+of SB 965-1595-34-0035.
+    (iii) Install a new software version label on the EGPWS by 
+following paragraph 3.E.(1) or 3.E.(2), as appropriate for your 
+model EGPWS, of SB 965-1595-34-0035.
+    (4) For helicopters with an MK XXII EGPWS P/N 965-1595-024, P/N 
+965-1595-026, P/N 965-1595-028, or P/N 965-1595-030:
+    (i) Update the software by following the Accomplishment 
+Instructions, paragraphs 3.C.(1)(a) through 3.C.(1)(h), of Honeywell 
+Service Bulletin 965-1595-34-0034, Revision 0, dated February 18, 
+2015 (SB 965-1595-34-0034).
+    (ii) Determine whether the software updated by following 
+paragraphs 3.C.(2)(a) through 3.C.(2)(d)6 or 3.C.(3)(a) through 
+3.C.(3)(g) of SB 965-1595-34-0034.
+    (iii) Install a new software version label on the EGPWS by 
+following paragraph 3.E.(1) or 3.E.(2), as appropriate for your 
+model EGPWS, of SB 965-1595-34-0034.
+    (5) Do not install an EGPWS on any helicopter unless you have 
+complied with the requirements in this AD.
+
+(f) Alternative Methods of Compliance (AMOC)
+
+    (1) The Manager, Los Angeles Aircraft Certification Office, FAA, 
+may approve AMOCs for this AD. Send your proposal to: Judy Heredia, 
+Aviation Safety Engineer, Los Angeles Aircraft Certification Office, 
+Transport Airplane Directorate, FAA, 3960 Paramount Blvd., Lakewood, 
+California 90712; telephone (562) 627-5335; email [email&#160;protected].
+    (2) For operations conducted under a 14 CFR part 119 operating 
+certificate or under 14 CFR part 91, subpart K, we suggest that you 
+notify your principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office or 
+certificate holding district office before operating any aircraft 
+complying with this AD through an AMOC.
+
+(g) Additional Information
+
+    Honeywell SB ATA No. 965-1590/1595-34-18, dated July 30, 2004, 
+which is not incorporated by reference, contains additional 
+information about the subject of this AD. For service information 
+identified in this AD, contact Honeywell International Inc., 15001 
+NE. 36 Street, Redmond, Washington, 98052-5317; telephone (800) 601-
+3099; internet address www.myaerospace.com. You may review a copy of 
+information at the FAA, Office of the Regional Counsel, Southwest 
+Region, 10101 Hillwood Pkwy, Room 6N-321, Fort Worth, TX 76177.
+
+ (h) Subject
+
+    Joint Aircraft Service Component (JASC) Code: 3444 Ground 
+Proximity System.
+
+    Issued in Fort Worth, Texas, on May 15, 2017.
+Scott A. Horn,
+Acting Manager, Rotorcraft Directorate, Aircraft Certification Service.
+[FR Doc. 2017-11174 Filed 6-5-17; 8:45 am]
+BILLING CODE 4910-13-P
+
+

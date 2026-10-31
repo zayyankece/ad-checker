@@ -8,7 +8,7 @@ PREAMBLE = ["AGENCY", "ACTION", "SUMMARY", "DATES", "ADDRESSES", "FOR FURTHER IN
             "SUPPLEMENTARY INFORMATION"]
 PRE_RE = re.compile(r"^\s*(" + "|".join(PREAMBLE) + r"):", re.M)
 # Modern AD paragraph heading on its own line: "(c) Applicability"
-PARA_RE = re.compile(r"^\s*\(([a-z])\)\s+([A-Z][A-Za-z ,/&()'-]{2,70})\s*$", re.M)
+PARA_RE = re.compile(r"^\s*\(([a-z])\)\s+([A-Z][A-Za-z0-9 ,/&()'-]{2,80})\s*$", re.M)
 # Old-style AD: "Applicability: ..." / "Compliance: ..."
 OLD_RE = re.compile(r"^\s*(Applicability|Compliance):", re.M)
 # Federal Register body headings: short Title Case lines without a full stop

@@ -1,0 +1,439 @@
+
+[Federal Register Volume 87, Number 206 (Wednesday, October 26, 2022)]
+[Proposed Rules]
+[Pages 64734-64737]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-22698]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2022-1303; Project Identifier MCAI-2022-01001-G]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Alexander Schleicher GmbH & Co. 
+Segelflugzeugbau Gliders
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to supersede Airworthiness Directive (AD) 
+2022-14-14, which applies to all Alexander Schleicher GmbH & Co. 
+Segelflugzeugbau Model ASW-15 gliders. AD 2022-14-14 requires 
+repetitively inspecting the wing root ribs for cracks, looseness, and 
+damage and replacing any root rib with a crack, a loose rib or lift pin 
+bushing, or any damage. Since the FAA issued AD 2022-14-14, the 
+European Union Aviation Safety Agency (EASA) superseded its mandatory 
+continuing airworthiness information (MCAI) to add all Model ASW-15B 
+gliders to the applicability. This proposed AD is prompted by MCAI 
+originated by an aviation authority of another country to identify and 
+correct an unsafe condition on an aviation product. This proposed AD 
+would retain the requirements from AD 2022-14-14 of repetitively 
+inspecting the wing root ribs for cracks, looseness, and damage and 
+replacing any root rib with a crack, a loose rib or lift pin bushing, 
+or any damage; and would add the Model ASW-15B gliders to the 
+applicability. The FAA is proposing this AD to address the unsafe 
+condition on these products.
+
+DATES: The FAA must receive comments on this NPRM by December 12, 2022.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2022-1303; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, the MCAI, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For service information identified in this NPRM, contact 
+Alexander Schleicher GmbH & Co. Segelflugzeugbau, Alexander-Schleicher-
+Str. 1, Poppenhausen, Germany D-36163; phone: +49 (0) 06658 89-0; 
+email: [email&#160;protected]; website: alexander-schleicher.de.
+     You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 901 Locust, 
+Kansas City, MO 64106. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+
+FOR FURTHER INFORMATION CONTACT: Jim Rutherford, Aviation Safety 
+Engineer, General Aviation & Rotorcraft Section, International 
+Validation Branch, FAA, 901 Locust, Room 301, Kansas City, MO 64106; 
+phone: (816) 329-4165; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+[[Page 64735]]
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under ADDRESSES. Include ``Docket No. FAA-2022-1303; Project Identifier 
+MCAI-2022-01001-G'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+the proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Jim 
+Rutherford, Aviation Safety Engineer, General Aviation & Rotorcraft 
+Section, International Validation Branch, FAA, 901 Locust, Room 301, 
+Kansas City, MO 64106. Any commentary that the FAA receives which is 
+not specifically designated as CBI will be placed in the public docket 
+for this rulemaking.
+
+Background
+
+    The FAA issued AD 2022-14-14, Amendment 39-22119 (87 FR 43403, July 
+21, 2022), (AD 2022-14-14), for all serial-numbered Alexander 
+Schleicher GmbH & Co. Segelflugzeugbau Model ASW-15 gliders. AD 2022-
+14-14 was prompted by MCAI originated by EASA, which is the Technical 
+Agent for the Member States of the European Union. EASA issued EASA AD 
+2021-0187, dated August 9, 2021 (EASA AD 2021-0187), for all Alexander 
+Schleicher GmbH & Co. Segelflugzeugbau Model ASW 15 gliders to correct 
+an unsafe condition identified as wing root rib damage.
+    AD 2022-14-14 requires repetitively inspecting the wing root ribs 
+for cracks, looseness, and damage and replacing any root rib with a 
+crack, a loose rib or lift pin bushing, or any damage. The FAA issued 
+AD 2022-14-14 to detect and correct damaged root ribs.
+
+Actions Since AD 2022-14-14 Was Issued
+
+    Since the FAA issued AD 2022-14-14, Alexander Schleicher GmbH & Co. 
+Segelflugzeugbau determined that Model ASW-15B gliders can also be 
+affected by wing root rib damage. As a result, EASA superseded EASA AD 
+2021-0187, and issued EASA AD 2022-0146, dated July 11, 2022 (referred 
+to after this as ``the MCAI''). The MCAI states that wing root rib 
+damage can also affect Model ASW-15B gliders and the Model ASW-15B as 
+well as the ASW-15 gliders require repetitively inspecting the wing 
+root ribs and replacing any damaged wing root ribs. The MCAI retains 
+the requirements of EASA AD 2021-0187 and expands the applicability to 
+include all Model ASW-15B gliders.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2022-1303.
+
+Related Service Information Under 1 CFR Part 51
+
+    The FAA reviewed Alexander Schleicher GmbH & Co. Segelflugzeugbau 
+ASW 15 Technical Note No. 29, Issue II (TN No. 29, Issue II), dated May 
+4, 2022. This service information specifies replacement of root ribs.
+    This proposed AD would also require Alexander Schleicher GmbH & Co. 
+Segelflugzeugbau ASW 15 Technical Note No. 29, dated June 28, 2021; 
+Alexander Schleicher GmbH & Co. Segelflugzeugbau ASW 15 Repair 
+instruction exchange of wing root ribs according to TN 29, dated June 
+28, 2021; and Alexander Schleicher GmbH & Co. Segelflugzeugbau ASW 15 
+Maintenance Instruction G, Issue 1, dated June 28, 2021, which the 
+Director of the Federal Register approved for incorporation by 
+reference as of August 25, 2022 (87 FR 43403, July 21, 2022).
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in ADDRESSES.
+
+FAA's Determination
+
+    These products have been approved by the aviation authority of 
+another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, it has notified the FAA of the unsafe condition described in 
+the MCAI and service information described above. The FAA is issuing 
+this NPRM after determining that the unsafe condition described 
+previously is likely to exist or develop on other products of these 
+same type designs.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would retain all of the requirements of AD 2022-
+14-14, would add Model ASW-15B gliders to the applicability, and would 
+provide the option of using the service material from AD 2022-14-14 or 
+the updated service material.
+
+Differences Between This Proposed AD and the Service Information
+
+    TN No. 29, Issue II, specifies the exchange of page 22A and page 
+27A of the Flight and Operations Manual for the Model ASW-15 and ASW-
+15B gliders, respectively, with a new version of those pages and then 
+specifies documenting this change on page 3, Amendments, of the 
+respective manual, and the MCAI, and this proposed AD do not.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 29 gliders of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+[[Page 64736]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                  Cost on U.S.
+            Action                  Labor cost            Parts cost          Cost per product      operators
+----------------------------------------------------------------------------------------------------------------
+Inspect root ribs.............  1 work-hour x $85  Not Applicable..........  $85 per product    $2,465 per
+                                 per hour = $85.                              per inspection     inspection
+                                                                              cycle.             cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary 
+replacements that would be required based on the results of the 
+proposed inspection. The agency has no way of determining the number of 
+gliders that might need these replacements:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                 Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Replace all four root ribs....................  8 work-hours x $85 per hour =             $1,000          $1,680
+                                                 $680.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that the proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive AD 2022-14-14, Amendment 39-22119 
+(87 FR 43403, July 21, 2022); and
+0
+b. Adding the following new airworthiness directive:
+
+Alexander Schleicher GmbH & Co. Segelflugzeugbau: Docket No. FAA-
+2022-1303; Project Identifier MCAI-2022-01001-G.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by December 12, 2022.
+
+(b) Affected ADs
+
+    This AD replaces AD 2022-14-14, Amendment 39-22119 (87 FR 43403, 
+July 21, 2022) (AD 2022-14-14).
+
+(c) Applicability
+
+    This AD applies to Alexander Schleicher GmbH & Co. 
+Segelflugzeugbau Model ASW-15 and ASW-15B gliders, all serial 
+numbers, certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 5712, Wing, Rib/
+Bulkhead.
+
+(e) Unsafe Condition
+
+    This AD was prompted by mandatory continuing airworthiness 
+information (MCAI) originated by an aviation authority of another 
+country to identify and correct an unsafe condition on an aviation 
+product. The MCAI describes the unsafe condition as wing root rib 
+damage. The FAA is issuing this AD to detect and correct damaged 
+root ribs. The unsafe condition, if not addressed, could result in 
+reduced structural integrity of the wing assembly, which could lead 
+to loss of control of the glider.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Action
+
+    (1) For Model ASW-15 gliders: Within 30 days after August 25, 
+2022 (effective date of AD 2022-14-14), and thereafter at intervals 
+not to exceed 12 months, inspect all wing root ribs (4 places) for 
+cracks, looseness, and damage, in accordance with the Action section 
+in Alexander Schleicher GmbH & Co. Segelflugzeugbau ASW 15 
+Maintenance Instruction G, Issue 1, dated June 28, 2021. If there is 
+a crack in any root rib, a loose rib or lift pin bushing, or any 
+damage, before further flight, replace the root rib in accordance 
+with Action paragraph (B) in Alexander Schleicher GmbH & Co. 
+Segelflugzeugbau ASW 15 Technical Note No. 29, dated June 28, 2021, 
+and steps 1 through 7 in Alexander Schleicher GmbH & Co. 
+Segelflugzeugbau ASW 15 Repair instruction exchange of wing root 
+ribs according to TN 29, dated June 28, 2021; or Action paragraph 
+(C) in Alexander Schleicher GmbH & Co. Segelflugzeugbau ASW 15 
+Technical Note No. 29, Issue II, dated May 4, 2022, and steps 1 
+through 7 in Alexander Schleicher GmbH & Co. Segelflugzeugbau ASW 15 
+Repair instruction exchange of wing root ribs according to TN 29, 
+dated June 28, 2021.
+    (2) For Model ASW-15B gliders: Within 30 days after the 
+effective date of this AD and thereafter at intervals not to exceed 
+12 months, inspect all wing root ribs (4 places) for cracks, 
+looseness, and damage, in accordance with the Action section in
+
+[[Page 64737]]
+
+Alexander Schleicher GmbH & Co. Segelflugzeugbau ASW 15 Maintenance 
+Instruction G, Issue 1, dated June 28, 2021. If there is a crack in 
+any root rib, a loose rib or lift pin bushing, or any damage, before 
+further flight, replace the root rib in accordance with Action 
+paragraph (C) in Alexander Schleicher GmbH & Co. Segelflugzeugbau 
+ASW 15 Technical Note No. 29, Issue II, dated May 4, 2022, and steps 
+1 through 7 in Alexander Schleicher GmbH & Co. Segelflugzeugbau ASW 
+15 Repair instruction exchange of wing root ribs according to TN 29, 
+dated June 28, 2021.
+    (3) For Model ASW-15 and ASW-15B gliders: Replacing all four 
+wing root ribs is terminating action for the repetitive inspections 
+required by this AD.
+
+(h) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in Sec.  39.19. In accordance with Sec.  39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Validation Branch, mail 
+it to the address identified in paragraph (i)(2) of this AD or email 
+to: [email&#160;protected]. If mailing information, also submit 
+information by email. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the local flight standards district office/
+certificate holding district office.
+
+(i) Additional Information
+
+    (1) Refer to European Union Aviation Safety Agency (EASA) AD 
+2022-0146, dated July 11, 2022, for related information. This EASA 
+AD may be found in the AD docket at regulations.gov under Docket No. 
+FAA-2022-1303.
+    (2) For more information about this AD, contact Jim Rutherford, 
+Aviation Safety Engineer, General Aviation & Rotorcraft Section, 
+International Validation Branch, FAA, 901 Locust, Room 301, Kansas 
+City, MO 64106; phone: (816) 329-4165; email: 
+[email&#160;protected].
+
+(j) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the service information listed 
+in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this service information as applicable to do 
+the actions required by this AD, unless the AD specifies otherwise.
+    (3) The Director of the Federal Register approved the following 
+service information for incorporation by reference on November 30, 
+2022.
+    (i) Alexander Schleicher GmbH & Co. Segelflugzeugbau ASW 15 
+Technical Note No. 29, Issue II dated May 4, 2022.
+    (ii) [Reserved]
+    (4) The Director of the Federal Register approved the following 
+service information for incorporation by reference on August 25, 
+2022 (87 FR 43403, July 21, 2022)
+    (i) Alexander Schleicher GmbH & Co. Segelflugzeugbau ASW 15 
+Maintenance Instruction G, Issue 1, dated June 28, 2021.
+    (ii) Alexander Schleicher GmbH & Co. Segelflugzeugbau ASW 15 
+Repair instruction exchange of wing root ribs according to TN 29, 
+dated June 28, 2021.
+    (iii) Alexander Schleicher GmbH & Co. Segelflugzeugbau ASW 15 
+Technical Note No. 29, dated June 28, 2021.
+    (5) For service information identified in this AD, contact 
+Alexander Schleicher GmbH & Co. Segelflugzeugbau, Alexander-
+Schleicher-Str. 1, Poppenhausen, Germany D-36163; phone: +49 (0) 
+06658 89-0; email: [email&#160;protected]; website: alexander-
+schleicher.de.
+    (6) You may view this service information at the FAA, 
+Airworthiness Products Section, Operational Safety Branch, 901 
+Locust, Kansas City, MO 64106. For information on the availability 
+of this material at the FAA, call (817) 222-5110.
+    (7) You may view this service information that is incorporated 
+by reference at the National Archives and Records Administration 
+(NARA). For information on the availability of this material at 
+NARA, email: [email&#160;protected], or go to: www.archives.gov/federal-register/cfr/ibr-locations.html.
+
+    Issued on October 13, 2022.
+Christina Underwood,
+Acting Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2022-22698 Filed 10-25-22; 8:45 am]
+BILLING CODE 4910-13-P
+
+

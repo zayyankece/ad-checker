@@ -1,0 +1,390 @@
+
+[Federal Register Volume 81, Number 180 (Friday, September 16, 2016)]
+[Proposed Rules]
+[Pages 63725-63728]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-22182]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-9139; Directorate Identifier 2016-CE-023-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Mitsubishi Heavy Industries, Ltd. 
+Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: We propose to adopt a new airworthiness directive (AD) for 
+certain Mitsubishi Heavy Industries, Ltd. Models MU-2B-10, MU-2B-15, 
+MU-2B-20, MU-2B-25, MU-2B-26, MU-2B-26A, MU-2B-30, MU-2B-35, MU-2B-36, 
+MU-2B-36A, MU-2B-40, and MU-2B-60 airplanes. This proposed AD results 
+from mandatory continuing airworthiness information (MCAI) originated 
+by an aviation authority of another country to identify and correct an 
+unsafe condition on an aviation product. The MCAI describes the unsafe 
+condition as reports of cracks found in the wing spacer plates. We are 
+issuing this proposed AD to require actions to detect and correct 
+cracks in the wing spacer plates, which could result in reduced 
+structural integrity of the wings and loss of control.
+
+DATES: We must receive comments on this proposed AD by October 31, 
+2016.
+
+ADDRESSES: You may send comments by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+     Hand Delivery: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590, between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays.
+    For service information identified in this proposed AD, contact 
+Mitsubishi Heavy Industries America, Inc., c/o Turbine Aircraft 
+Services, Inc., 4550 Jimmy Doolittle Drive, Addison, Texas 75001; 
+telephone: (972) 248-3108, ext. 209; fax: (972) 248-3321; Internet: 
+http://mu-2aircraft.com. You may review this referenced service 
+information at the FAA, Small Airplane Directorate, 901 Locust, Kansas 
+City, Missouri 64106. For information on the availability of this 
+material at the FAA, call (816) 329-4148.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+9139; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this proposed AD, the
+
+[[Page 63726]]
+
+regulatory evaluation, any comments received, and other information. 
+The street address for the Docket Office (telephone (800) 647-5527) is 
+in the ADDRESSES section. Comments will be available in the AD docket 
+shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Andrew McAnaul, Aerospace Engineer, 
+FAA, ASW-143 (c/o San Antonio MIDO), 10100 Reunion Place, Suite 650, 
+San Antonio, Texas 78216; phone: (210) 308-3365; fax: (210) 308-3370; 
+email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    We invite you to send any written relevant data, views, or 
+arguments about this proposed AD. Send your comments to an address 
+listed under the ADDRESSES section. Include ``Docket No. FAA-2016-9139; 
+Directorate Identifier 2016-CE-023-AD'' at the beginning of your 
+comments. We specifically invite comments on the overall regulatory, 
+economic, environmental, and energy aspects of this proposed AD. We 
+will consider all comments received by the closing date and may amend 
+this proposed AD because of those comments.
+    We will post all comments we receive, without change, to http://regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this proposed AD.
+
+Discussion
+
+    The Japan Civil Aviation Bureau (JCAB), which is the aviation 
+authority for Japan, has issued AD No. TCD-8783-2016, dated June 28, 
+2016 (referred to after this as ``the MCAI''), to correct an unsafe 
+condition for certain Mitsubishi Heavy Industries, Ltd. (MHI) Models 
+MU-2B-20, MU-2B-25, MU-2B-26, MU-2B-30, MU-2B-35, and MU-2B-36, 
+airplanes. You may examine the MCAI on the Internet at http://www.regulations.gov by searching for and locating it in Docket No. FAA-
+2016-9139.
+    As part of the MHI MU-2B aging aircraft program, one-piece and 
+three-piece main wings were subjected to detailed teardown inspections, 
+and cracks were found in the wing spacer plates attached to the forward 
+lower spar area at wing station 580. It was determined that the cracks 
+resulted from fatigue caused by flight loads.
+    Japan is the State of Design for MHI Models MU-2B-20, MU-2B-25, MU-
+2B-26, MU-2B-30, MU-2B-35, and MU-2B-36 airplanes, which the MCAI AD 
+applies to, and the United States is the State of Design for MHI Models 
+MU-2B-26A, MU-2B-36A, MU-2B-40, and MU-2B-60 airplanes.
+
+Related Service Information Under 1 CFR Part 51
+
+    Mitsubishi Heavy Industries, Ltd. has issued MU-2 Service Bulletin 
+No. 245, dated April 21, 2016, and MU-2 Service Bulletin No. 107/57-
+005, dated May 3, 2016. These service bulletins describe procedures for 
+doing a fluorescent penetrant inspection of the wing spacer plates for 
+cracks and replacing cracked wing spacer plates with an improved part. 
+This service information is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section of this NPRM.
+
+FAA's Determination and Requirements of This Proposed AD
+
+    The Models MU-2B-20, MU-2B-25, MU-2B-26, MU-2B-30, MU-2B-35, and 
+MU-2B-36 airplanes have been approved by the aviation authority of 
+another country, and are approved for operation in the United States. 
+Pursuant to our bilateral agreement with this State of Design 
+Authority, they have notified us of the unsafe condition described in 
+the MCAI and service information referenced above. We are proposing 
+this AD because we evaluated all information and determined the unsafe 
+condition exists and is likely to exist or develop on other products of 
+the same type design.
+    The procedures described in this proposed AD meet the FAA's 
+expectations for flight with known cracks described in Chapter 6 in FAA 
+Advisory Circular (AC) 23-13A Fatigue, Fail-Safe and Damage Tolerance 
+Evaluation of Metallic Structure for Normal, Utility, Acrobatic, and 
+Commuter Category Airplanes.
+    In addition, we are including the Models MU-2B-26A, MU-2B-36A, MU-
+2B-40, and MU-2B-60 airplanes for which the United States is the State 
+of Design and the unsafe condition exists and is likely to exist or 
+develop in other products of the same type design.
+    The Models MU-2B-10 and MU-2B-15 are not included in Japan Civil 
+Aviation Bureau (JCAB) AD No. TCD-8783-2016, dated June 28, 2016, or 
+any of the service bulletins referenced in this proposed AD. The FAA 
+does not believe there are any of these airplanes currently in 
+operation, but are including them as a part of this proposed AD.
+
+Costs of Compliance
+
+    We estimate that this proposed AD will affect 209 products of U.S. 
+registry. We also estimate that it would take about 8 work-hours per 
+product to comply with the fluorescent penetrant inspection requirement 
+of this proposed AD. The average labor rate is $85 per work-hour.
+    Based on these figures, we estimate the cost of the fluorescent 
+penetrant inspection requirement of this proposed AD on U.S. operators 
+to be $142,120, or $680 per product.
+    In addition, we estimate the following to do any necessary follow-
+on actions:
+    It would take about 200 work-hours and require parts costing $500, 
+for a cost of $17,500, per product to replace a cracked wing spacer 
+plate on one side of the airplane.
+    It would take about 250 work-hours and require parts costing 
+$1,000, for a cost of $22,250, per product to replace a cracked wing 
+spacer plate on both sides of the airplane.
+    We have no way of determining the number of products that may need 
+this action.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. ``Subtitle VII: Aviation 
+Programs,'' describes in more detail the scope of the Agency's 
+authority.
+    We are issuing this rulemaking under the authority described in 
+``Subtitle VII, Part A, Subpart III, section 44701: General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+
+[[Page 63727]]
+
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new AD:
+
+Mitsubishi Heavy Industries, Ltd.: Docket No. FAA-2016-9139; 
+Directorate Identifier 2016-CE-023-AD.
+
+(a) Comments Due Date
+
+    We must receive comments by October 31, 2016.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the following Mitsubishi Heavy Industries, 
+Ltd. (MHI) models airplanes that are certificated in any category:
+    (1) MU-2B-10 and MU-2B-15: Serial Numbers (S/Ns) 101 and 103 
+through 120.
+
+    Note 1 to paragraph (c)(1) of this AD: The Models MU-2B-10 and 
+MU-2B-15 are not included in Japan Civil Aviation Bureau (JCAB) AD 
+No. TCD-8783-2016, dated June 28, 2016, or any of the service 
+bulletins referenced in this AD. The FAA does not believe there are 
+any of these airplanes currently in operation, but are including 
+them as a part of this AD.
+
+    (2) MU-2B-20, MU-2B-25, and MU-2B-26: S/Ns 102 and 121 through 
+347, except 313 and 321;
+    (3) MU-2B-25, MU-2B-26, MU-2B-26A, and MU-2B-40: S/Ns 313SA, 
+321SA, and 348SA through 459SA;
+    (4) MU-2B-30, MU-2B-35, and MU-2B-36: S/Ns 502 through 696, 
+except 652 and 661; and
+    (5) MU-2B-36A and MU-2B-60 airplanes: S/Ns 661SA, and 697SA 
+through 1569SA.
+
+(d) Subject
+
+    Air Transport Association of America (ATA) Code 57: Wings.
+
+(e) Reason
+
+    This AD was prompted by mandatory continuing airworthiness 
+information (MCAI) originated by an aviation authority of another 
+country to identify and correct an unsafe condition on an aviation 
+product. The MCAI describes the unsafe condition as reports of 
+cracks found in the wing spacer plates. We are issuing this AD to 
+detect and correct cracks in the wing spacer plates, which could 
+result in reduced structural integrity of the wings and loss of 
+control.
+
+(f) Compliance
+
+    Comply with paragraphs (g)(1) through (3) of this AD using the 
+following service bulletins within the compliance times specified 
+below, unless already done. The Models MU-2B-10 and MU-2B-15 
+currently do not have service bulletins associated with them. The 
+FAA does not believe any of these airplanes are currently in 
+operation. If they do become operational, an alternative method of 
+compliance must be obtained to comply with this AD.
+    (1) For Models MU-2B-20, MU-2B-25, and MU-2B-26: S/Ns 102 and 
+121 through 347, except 313 and 321, and MU-2B-30, MU-2B-35, and MU-
+2B-36: S/Ns 502 through 696, except 652 and 661: Use Mitsubishi 
+Heavy Industries, Ltd. (MHI) MU-2 Service Bulletin No. 245, dated 
+April 21, 2016.
+    (2) Models MU-2B-25, MU-2B-26, MU-2B-26A, and MU-2B-40: S/Ns 
+313SA, 321SA, and 348SA through 459SA, and MU-2B-36A and MU-2B-60 
+airplanes: S/Ns 661SA, and 697SA through 1569SA: Use MHI MU-2 
+Service Bulletin No. 107/57-005, dated May 3, 2016.
+
+(g) Actions
+
+    (1) Do an initial fluorescent penetrant inspection of the wing 
+spacer plates at whichever of the following compliance times that 
+occurs later, and repetitively inspect thereafter at intervals not 
+to exceed 2,000 hours time-in-service (TIS). Do the inspections 
+following the Instructions section of the service bulletins 
+identified in paragraph (f) of this AD, including all subparagraphs, 
+as applicable.
+    (i) At or before accumulating 7,500 hours TIS; or
+    (ii) Within the next 200 hours TIS after the effective date of 
+this AD or within the next 12 months after the effective date of 
+this AD, whichever occurs first.
+    (2) During any inspection required in paragraph (g)(1) of this 
+AD, including all subparagraphs, if any crack is found that is 0.6-
+inch or more in length, before further flight after the inspection 
+in which the crack is found, replace the cracked wing spacer plate 
+with an improved wing spacer plate, part number (P/N) 017A-11102-13 
+or 017A-11102-14. Do the replacement following the Instructions 
+section of the service bulletins identified in paragraph (f) of this 
+AD, including all subparagraphs, as applicable. Installing the 
+improved wing spacer plates terminates the repetitive inspections 
+required in paragraph (g)(1) of this AD.
+    (3) During any inspection required in paragraph (g)(1) of this 
+AD, including all subparagraphs, if any crack is found that is less 
+than 0.6-inch in length, repetitively fluorescent penetrant inspect 
+for crack growth every 600 hours TIS after the inspection in which 
+the crack was found. Do the inspections following the Instructions 
+section of the service bulletins identified in paragraph (f) of this 
+AD, including all subparagraphs, as applicable. If it is found 
+during any required inspection that the crack has grown to0.6-inch 
+in length or more, before further flight, replace the wing spacer 
+plate as specified in paragraph (g)(2) of this AD.
+    (4) Installing improved wing spacer plates, part number (P/N) 
+017A-11102-13 or 017A-11102-14, terminates the repetitive 
+inspections required in paragraph (g)(1) of this AD. You may install 
+the improved wing spacer plates at any time to terminate the 
+repetitive inspection requirement of this AD.
+
+(h) Other FAA AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+Standards Office, FAA, has the authority to approve AMOCs for this 
+AD, if requested using the procedures found in 14 CFR 39.19. Send 
+information to ATTN: Andrew McAnaul, Aerospace Engineer, FAA, ASW-
+143 (c/o San Antonio MIDO), 10100 Reunion Place, Suite 650, San 
+Antonio, Texas 78216; phone: (210) 308-3365; fax: (210) 308-3370; 
+email: [email&#160;protected]. Before using any approved AMOC on any 
+airplane to which the AMOC applies, notify your appropriate 
+principal inspector (PI) in the FAA Flight Standards District Office 
+(FSDO), or lacking a PI, your local FSDO.
+    (2) Airworthy Product: For any requirement in this AD to obtain 
+corrective actions from a manufacturer or other source, use these 
+actions if they are FAA-approved. Corrective actions are considered 
+FAA-approved if they are approved by the State of Design Authority 
+(or their delegated agent). You are required to assure the product 
+is airworthy before it is returned to service.
+
+(i) Related Information
+
+    Refer to MCAI JCAB AD No. TCD-8783-2016, dated June 28, 2016, 
+for related information. You may examine the MCAI on the Internet at 
+http://www.regulations.gov by searching for and locating Docket No. 
+FAA-2016-9139. For service information related to this AD, contact 
+Mitsubishi Heavy Industries America, Inc., c/o Turbine Aircraft 
+Services, Inc., 4550 Jimmy Doolittle Drive, Addison, Texas 75001; 
+telephone: (972) 248-3108, ext. 209; fax: (972) 248-3321; Internet: 
+http://mu-2aircraft.com. Youmay review this referenced service 
+information at the FAA, Small Airplane Directorate, 901 Locust, 
+Kansas City, Missouri 64106. For information on the availability of 
+this material at the FAA, call (816) 329-4148.
+
+
+[[Page 63728]]
+
+
+    Issued in Kansas City, Missouri, on September 8, 2016.
+Pat Mullen,
+Acting Manager, Small Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-22182 Filed 9-15-16; 8:45 am]
+ BILLING CODE 4910-13-P
+
+

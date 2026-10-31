@@ -1,0 +1,447 @@
+
+[Federal Register Volume 91, Number 60 (Monday, March 30, 2026)]
+[Proposed Rules]
+[Pages 15566-15569]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-06067]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-2726; Project Identifier AD-2025-00364-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all The Boeing Company Model 737-600, -700, -700C, -800, -900, and 
+-900ER series airplanes. This proposed AD was prompted by a report 
+indicating that adjusting the upper locking hydraulic actuator 
+proximity sensor targets in accordance with certain data in the 
+aircraft maintenance manual (AMM) could result in incorrect upper 
+locking hydraulic actuator indications, which could result in a thrust 
+reverser that indicates `locked' when it is not locked. This proposed 
+AD would require conducting measurements, tests, and operational checks 
+of the upper locking hydraulic actuator for certain functions, 
+performing applicable on-condition actions, and revising the existing 
+maintenance or inspection program, as applicable, to incorporate 
+certain certification maintenance requirements (CMR). The FAA is 
+proposing this AD
+
+[[Page 15567]]
+
+to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by May 14, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-2726; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Boeing material identified in this proposed AD, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; website myboeingfleet.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2026-2726.
+
+FOR FURTHER INFORMATION CONTACT: Erica Bayles, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 907-
+271-5844; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2026-2726; 
+Project Identifier AD-2025-00364-T'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Erica 
+Bayles, Aviation Safety Engineer, FAA, 2200 South 216th St., Des 
+Moines, WA 98198; phone: 907-271-5844; email: [email&#160;protected]. 
+Any commentary that the FAA receives that is not specifically 
+designated as CBI will be placed in the public docket for this 
+rulemaking.
+
+Background
+
+    The FAA has received a report indicating that adjusting the upper 
+locking hydraulic actuator proximity sensor targets in accordance with 
+certain data in the AMM could result in incorrect upper locking 
+hydraulic actuator indications, which could result in a thrust reverser 
+that indicates `locked' when it is not locked. This condition, if not 
+addressed, could lead to a decrease in safety margins to prevent a 
+possible uncommanded in-flight deployment of the thrust reverser, which 
+could result in loss of control of the airplane.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Alert Requirements Bulletin 737-78A1099 RB, 
+dated July 8, 2025. This material specifies procedures for the 
+following checks to verify the lock indication function of each upper 
+locking hydraulic actuator of the left and right thrust reverser halves 
+of each engine position and applicable on-condition actions:
+     Measurement of manual unlock handle assembly angular free-
+play.
+     Lock integrity test of the upper locking hydraulic 
+actuator.
+     Operational check of the manual unlock handle assembly 
+torsion spring.
+     Measurement of the clearance between the upper locking 
+hydraulic actuator proximity sensor and proximity sensor target leading 
+edge.
+     Measurement of the upper locking hydraulic actuator 
+proximity sensor target.
+    On-condition actions include replacing the upper locking hydraulic 
+actuator manual unlock handle assembly torsion spring, replacing the 
+upper locking hydraulic actuator proximity sensor target, deactivating 
+the thrust reverser for flight, and replacing the actuator.
+    This material also specifies procedures for revising the operator's 
+maintenance program to incorporate certain inspections and checks of 
+the engine thrust reverser (CMR items 70-CMR-01 and 78-CMR-01 through 
+78-CMR-07 of Boeing 737-600/700/700C/800/900/900ER CMR D626A001-9-03, 
+dated September 2023).
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in the material already described, except for any differences 
+identified as exceptions in the regulatory text of this proposed AD. 
+For information on the procedures and compliance times, see this 
+material at regulations.gov under Docket No. FAA-2026-2726.
+
+Terminating Action for Related Rulemaking
+
+    The FAA issued AD 2019-18-03, Amendment 39-19730 (84 FR 49005, 
+September 18, 2019) (AD 2019-18-03), for all The Boeing Company Model 
+737 series airplanes, certificated in any category, excluding Model 
+737-100,
+
+[[Page 15568]]
+
+-200, -200C, -300, -400, and -500 series airplanes. AD 2019-18-03 was 
+prompted by a report indicating that alteration of thrust reverser 
+upper locking actuators in accordance with certain data contained in 
+the Boeing AMM could delay or prevent detection of the failure of the 
+locking mechanism of a thrust reverser upper locking actuator. AD 2019-
+18-03 requires revising the existing maintenance or inspection program 
+to remove certain text that instructs the maintainers to remove 
+material from or grind or trim the sensor target of the thrust reverser 
+upper locking actuator. For Model 737-600, -700, -700C, -800, -900, and 
+-900ER series airplanes, AD 2019-18-03 also requires repetitive 
+integrity tests of the thrust reverser upper locking actuator.
+    The FAA has determined that accomplishing the actions required by 
+paragraph (g) of this proposed AD would terminate the actuator 
+integrity test and corrective actions required by paragraphs (i), (j), 
+and (k) of AD 2019-18-03.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 1,805 airplanes of U.S. registry. The FAA estimates the 
+following costs to comply with this proposed AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Measurements, integrity test, and       18 work-hours x $85 per               $0          $1,530      $2,761,650
+ operational check.                      hour = $1,530.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has determined that revising the maintenance or inspection 
+program takes an average of 90 work-hours per operator, although the 
+agency recognizes that this number may vary from operator to operator. 
+Since operators incorporate maintenance or inspection program changes 
+for their affected fleet(s), the FAA has determined that a per-operator 
+estimate is more accurate than a per-airplane estimate. Therefore, the 
+FAA estimates the average total cost per operator to be $7,650 (90 
+work-hours x $85 per work-hour).
+    The FAA estimates the following costs to do any necessary 
+replacements that would be required based on the results of the 
+proposed inspection. The agency has no way of determining the number of 
+aircraft that might need these replacements:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                Action                        Labor cost               Parts cost            Cost per product
+----------------------------------------------------------------------------------------------------------------
+Actuator replacement.................  8 work-hours x $85 per   $47,240................  $47,920.
+                                        hour = $680.
+Torsion spring replacement...........  1 work-hour x $85 per    $19....................  $104.
+                                        hour = $85.
+Proximity sensor target replacement..  1 work-hour x $85 per    Up to $130.............  Up to $215.
+                                        hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+The Boeing Company: Docket No. FAA-2026-2726; Project Identifier AD-
+2025-00364-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by May 14, 2026.
+
+[[Page 15569]]
+
+(b) Affected ADs
+
+    This AD affects AD 2019-18-03, Amendment 39-19730 (84 FR 49005, 
+September 18, 2019) (AD 2019-18-03).
+
+(c) Applicability
+
+    This AD applies to all The Boeing Company Model 737-600, -700, -
+700C, -800, -900, and -900ER series airplanes, certificated in any 
+category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 78, Thrust 
+Reverser.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report indicating that adjusting the 
+upper locking hydraulic actuator proximity sensor targets in 
+accordance with certain data in the aircraft maintenance manual 
+(AMM) could result in incorrect upper locking hydraulic actuator 
+indications, which could result in a thrust reverser that indicates 
+`locked' when it is not locked. The FAA is issuing this AD to 
+address this condition which, if not addressed, could lead to a 
+decrease in safety margins to prevent a possible uncommanded in-
+flight deployment of the thrust reverser, which could result in loss 
+of control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified by paragraph (h) of this AD: At the 
+applicable times specified in the ``Compliance'' paragraph of Boeing 
+Alert Requirements Bulletin 737-78A1099 RB, dated July 8, 2025, do 
+all applicable actions identified in, and in accordance with, the 
+Accomplishment Instructions of Boeing Alert Requirements Bulletin 
+737-78A1099 RB, dated July 8, 2025.
+    Note 1 to paragraph (g): Guidance for accomplishing the actions 
+required by this AD can be found in Boeing Alert Service Bulletin 
+737-78A1099, dated July 8, 2025, which is referred to in Boeing 
+Alert Requirements Bulletin 737-78A1099 RB, dated July 8, 2025.
+
+(h) Exceptions to Requirements Bulletin Specifications
+
+    (1) Where the Compliance Time column of the tables in the 
+``Compliance'' paragraph of Boeing Alert Requirements Bulletin 737-
+78A1099 RB, dated July 8, 2025, refers to the original issue date of 
+Requirements Bulletin 737-78A1099 RB, this AD requires using the 
+effective date of this AD.
+    (2) Where note (a) of table 12 of the Compliance paragraph of 
+Boeing Alert Requirements Bulletin 737-78A1099 RB, dated July 8, 
+2025, specifies ``Boeing recommends operators accomplish the initial 
+inspection required by 78-CMR-07 prior to completing this RB on 
+airplanes with more than 28,000 flight hours. The initial compliance 
+time for accomplishing 78-CMR-07 is prior to the accumulation of 
+28,000 total flight hours'', this AD requires replacing that text 
+with ``The initial compliance time for accomplishing the initial 
+inspection required by 78-CMR-07 is before further flight after 
+accomplishing any procedure specified in Table 1 or prior to the 
+accumulation of 28,000 total flight hours, whichever occurs later''.
+
+(i) No Alternative Actions or Intervals
+
+    After the existing maintenance or inspection program has been 
+revised as required by paragraph (g) of this AD, no alternative 
+actions (e.g., inspections) or intervals may be used unless the 
+actions and intervals are approved as an alternative method of 
+compliance in accordance with the procedures specified in paragraph 
+(k) of this AD.
+
+(j) Terminating Action for Certain Requirements of AD 2019-18-03
+
+    Accomplishing the actions required by paragraph (g) of this AD 
+terminates the actuator integrity test and corrective actions 
+required by paragraphs (i), (j), and (k) of AD 2019-18-03.
+
+(k) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the Continued Operational 
+Safety Branch, send it to the attention of the person identified in 
+paragraph (l)(1) of this AD. Information may be emailed to: 
+[email&#160;protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational Safety Branch, FAA, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+(l) Additional Information
+
+    (1) For more information about this AD, contact Erica Bayles, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 907-271-5844; email: [email&#160;protected].
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (m)(3) 
+of this AD.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Requirements Bulletin 737-78A1099 RB, dated 
+July 8, 2025.
+    (ii) [Reserved].
+    (3) For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website myboeingfleet.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on March 24, 2026.
+Lona C. Saccomando,
+Acting Deputy Director, Integrated Certificate Management Division, 
+Aircraft Certification Service.
+[FR Doc. 2026-06067 Filed 3-27-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

@@ -1,0 +1,406 @@
+
+[Federal Register Volume 90, Number 11 (Friday, January 17, 2025)]
+[Proposed Rules]
+[Pages 5754-5756]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-00826]
+
+
+
+[[Page 5754]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-0003; Project Identifier AD-2024-00110-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain The Boeing Company Model 757-200 and -300 series airplanes. 
+This proposed AD was prompted by a report that some passenger service 
+unit (PSU)-mounted video monitors became detached from the PSU rails 
+during a hard landing. This proposed AD would require replacing PSU-
+mounted video monitors that do not have secondary retention lanyards. 
+The FAA is proposing this AD to address the unsafe condition on these 
+products.
+
+DATES: The FAA must receive comments on this proposed AD by March 3, 
+2025.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-0003; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For the material, contact Boeing Commercial Airplanes, 
+Attention: Contractual & Data Services (C&DS), 2600 Westminster Blvd., 
+MC 110-SK57, Seal Beach, CA 90740-5600; telephone 562-797-1717; website 
+myboeingfleet.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2025-0003.
+
+FOR FURTHER INFORMATION CONTACT: Julie Linn, Aviation Safety Engineer, 
+FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-231-3584; 
+email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under ADDRESSES. Include ``Docket No. FAA-2025-0003; Project Identifier 
+AD-2024-00110-T'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Julie 
+Linn, Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, 
+WA 98198; phone: 206-231-3584; email: [email&#160;protected]. Any 
+commentary that the FAA receives that is not specifically designated as 
+CBI will be placed in the public docket for this rulemaking.
+
+Background
+
+    The FAA has received a report that some PSU-mounted video monitors 
+became detached from the PSU rails during a hard landing that did not 
+exceed the emergency load requirements for the PSUs. PSU-mounted video 
+monitors that become fully detached or are held at an unsafe height 
+could result in injury to passengers and impede passenger and crew 
+egress during emergency evacuation.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Special Attention Requirements Bulletins 
+757-25-0320 RB and 757-25-0321 RB, both dated January 19, 2024. This 
+material specifies procedures for replacing all PSU-mounted video 
+monitors that do not have secondary retention lanyards with PSU-mounted 
+video monitors that have secondary retention lanyards. These documents 
+are distinct since Boeing Special Attention Requirements Bulletin 757-
+25-0320 RB, dated January 19, 2024, addresses airplanes with certain 
+Burrana monitors, and Boeing Special Attention Requirements Bulletin 
+757-25-0321 RB, dated January 19, 2024, addresses airplanes with 
+certain Panasonic monitors. This material is reasonably available 
+because the interested parties have access to it through their normal 
+course of business or by the means identified in ADDRESSES.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in the material already described, except for any differences 
+identified as exceptions in the regulatory text of this proposed AD, 
+and except as described under ``Difference Between this Proposed AD and 
+the Referenced Material.''. For information on the procedures and 
+compliance times, see this material at regulations.gov under Docket No. 
+FAA-2025-0003.
+
+[[Page 5755]]
+
+Difference Between This Proposed AD and the Referenced Material
+
+    The effectivity in Boeing Special Attention Requirements Bulletin 
+757-25-0320 RB, and Boeing Special Attention Requirements Bulletin 757-
+25-0321 RB, both dated January 19, 2024, is limited to certain line 
+numbers, which address PSU-mounted video monitors installed in 
+production. However, affected PSU-mounted video monitors may also be 
+installed on airplanes modified in accordance with a supplemental type 
+certificate. The applicability of this proposed AD, therefore, is 
+expanded to specify The Boeing Company Model 757-200 and -300 series 
+model airplanes equipped with PSU-mounted video monitors to ensure that 
+the unsafe condition is adequately addressed in the fleet.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 85 airplanes of U.S. registry. The FAA estimates the following 
+costs to comply with this proposed AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+             Action                   Labor cost          Parts cost       Cost per monitor        operators
+----------------------------------------------------------------------------------------------------------------
+Replacement (Burrana monitors--   2 work-hours x $85  $2,734............  $2,904............  Up to $3,641,616*
+ airplanes identified in Boeing    per hour = $170,                                           (38 airplanes).
+ Special Attention Requirements    per monitor.
+ Bulletin 757-25-0320 RB, dated
+ January 19, 2024).
+Replacement (Panasonic monitors-- 2 work-hours x $85  $354..............  $524..............  Up to $639,804*
+ airplanes identified in Boeing    per hour = $170,                                           (37 airplanes).
+ Special Attention Requirements    per monitor.
+ Bulletin 757-25-0321 RB, dated
+ January 19, 2024).
+Replacement.....................  2 work-hours x $85  Up to $2,734......  Up to $2,904......  Up to $958,320*
+(monitors for airplanes not        per hour = $170,                                           (10 airplanes).
+ identified in the Boeing          per monitor.
+ service information).
+----------------------------------------------------------------------------------------------------------------
+*An airplane may have up to 33 monitors.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+The Boeing Company: Docket No. FAA-2025-0003; Project Identifier AD-
+2024-00110-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by March 3, 2025.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 757-200 and -300 
+series airplanes, certificated in any category, equipped with 
+passenger service unit (PSU)-mounted video monitors.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+furnishings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report that some PSU-mounted video 
+monitors became detached from the PSU rails during a hard landing 
+that did not exceed the emergency load requirements for the PSUs. 
+The FAA is issuing this AD to address PSU-mounted video monitors 
+that could become fully detached or be held at an unsafe height, 
+which, if not addressed, could result in injury to passengers and 
+impede passenger and crew egress during emergency evacuation.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) For airplanes identified in Boeing Special Attention 
+Requirements Bulletin 757-25-0320 RB, dated January 19, 2024: Except 
+as specified by paragraph (h) of this AD: At the applicable times 
+specified in the ``Compliance'' paragraph of Boeing Special 
+Attention Requirements Bulletin 757-25-0320 RB, dated January 19, 
+2024, do all applicable actions identified in, and in accordance 
+with, the Accomplishment Instructions of Boeing Special Attention 
+Requirements Bulletin 757-25-0320 RB, dated January 19, 2024.
+    Note 1 to paragraph (g)(1): Guidance for accomplishing the 
+actions required by
+
+[[Page 5756]]
+
+paragraph (g)(1) of this AD can be found in Boeing Special Attention 
+Service Bulletin 757-25-0320, dated January 19, 2024, which is 
+referred to in Boeing Special Attention Requirements Bulletin 757-
+25-0320 RB, dated January 19, 2024.
+    (2) For airplanes identified in Boeing Special Attention 
+Requirements Bulletin 757-25-0321 RB, dated January 19, 2024: Except 
+as specified by paragraph (h) of this AD, at the applicable times 
+specified in the ``Compliance'' paragraph of Boeing Special 
+Attention Requirements Bulletin 757-25-0321 RB, January 19, 2024, do 
+all applicable actions identified in, and in accordance with, the 
+Accomplishment Instructions of Boeing Special Attention Requirements 
+Bulletin 757-25-0321 RB, dated January 19, 2024.
+    Note 2 to paragraph (g)(2): Guidance for accomplishing the 
+actions required by paragraph (g)(2) of this AD can be found in 
+Boeing Special Attention Service Bulletin 757-25-0321, dated January 
+19, 2024, which is referred to in Boeing Special Attention 
+Requirements Bulletin 757-25-0321 RB, dated January 19, 2024.
+    (3) For airplanes not identified in paragraph (g)(1) or (2) of 
+this AD: Within 60 months after the effective date of this AD, 
+replace all PSU-mounted video monitors that do not have secondary 
+retention lanyards with PSU-mounted video monitors that have 
+secondary retention lanyards, using a method approved in accordance 
+with the procedures specified in paragraph (i) of this AD.
+
+(h) Exceptions to Service Information Specifications
+
+    (1) Where the Compliance Time columns of the tables in the 
+``Compliance'' paragraph of Boeing Special Attention Requirements 
+Bulletin 757-25-0320 RB, dated January 19, 2024, refers to the 
+original issue date of Requirements Bulletin 757-25-0320 RB, this AD 
+requires using the effective date of this AD.
+    (2) Where the Compliance Time columns of the tables in the 
+``Compliance'' paragraph of Boeing Special Attention Requirements 
+Bulletin 757-25-0321 RB, dated January 19, 2024, refers to the 
+original issue date of Requirements Bulletin 757-25-0321 RB, this AD 
+requires using the effective date of this AD.
+    (3) Where Boeing Special Attention Requirements Bulletins 757-
+25-0320 RB and 757-25-0321 RB, both dated January 19, 2024, specify 
+contacting Boeing for alternative installation instructions and 
+doing the installation: This AD requires doing the installation 
+using a method approved in accordance with the procedures specified 
+in paragraph (i) of this AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the certification office, 
+send it to the attention of the person identified in paragraph 
+(j)(1) of this AD. Information may be emailed to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational Safety Branch, FAA, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+(j) Related Information
+
+    (1) For more information about this AD, contact Julie Linn, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3584; email: [email&#160;protected].
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (k)(3) 
+this AD.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Special Attention Requirements Bulletin 757-25-0320 
+RB, dated January 19, 2024.
+    (ii) Boeing Special Attention Requirements Bulletin 757-25-0321 
+RB dated January 19, 2024.
+    (3) For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website myboeingfleet.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on January 8, 2025.
+Suzanne Masterson,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-00826 Filed 1-16-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+

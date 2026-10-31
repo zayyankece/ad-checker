@@ -1,0 +1,650 @@
+
+[Federal Register Volume 91, Number 129 (Wednesday, July 8, 2026)]
+[Proposed Rules]
+[Pages 42144-42149]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-13781]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-5394; Project Identifier AD-2025-01194-R]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Restricted Category Model CH-47D 
+Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Supplemental notice of proposed rulemaking (SNPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is revising a notice of proposed rulemaking (NPRM) 
+that would have applied to all restricted category Model CH-47D 
+helicopters. This proposed action would revise the NPRM by expanding 
+the required actions paragraph applicable to all right-hand (RH) 
+forward transmission support beam fittings with any part number, 
+narrowing the area of inspection, and increasing the reporting 
+requirement compliance times. The FAA is proposing this airworthiness 
+directive (AD) to address the unsafe condition on these products. Since 
+these actions would impose an additional burden over those in the NPRM 
+and to address some commenters' concerns, the agency is requesting 
+comments on this SNPRM.
+
+DATES: The FAA must receive comments on this SNPRM by August 24, 2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-5394; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this SNPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: Taffy Shenoy, Aviation Safety 
+Engineer, FAA, 3960 Paramount Boulevard, Lakewood, CA 90712; phone: 
+(206) 231-3559; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under ADDRESSES. Include ``Docket No. FAA-2025-5394; Project Identifier 
+AD-2025-01194-R'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may again 
+revise the proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency
+
+[[Page 42145]]
+
+will also post a report summarizing each substantive verbal contact 
+received about this SNPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this SNPRM contain 
+commercial or financial information that is customarily treated as 
+private, that you actually treat as private, and that is relevant or 
+responsive to this SNPRM, it is important that you clearly designate 
+the submitted comments as CBI. Please mark each page of your submission 
+containing CBI as ``PROPIN.'' The FAA will treat such marked 
+submissions as confidential under the FOIA, and they will not be placed 
+in the public docket of this SNPRM. Submissions containing CBI should 
+be sent to Taffy Shenoy, Aviation Safety Engineer, FAA, 3960 Paramount 
+Boulevard, Lakewood, CA 90712. Any commentary that the FAA receives 
+which is not specifically designated as CBI will be placed in the 
+public docket for this rulemaking.
+
+Background
+
+    The FAA issued an NPRM to amend 14 CFR part 39 by adding an AD that 
+would have applied to all restricted category Model CH-47D helicopters. 
+The NPRM was published in the Federal Register on December 22, 2025 (90 
+FR 59764). The NPRM was prompted by reports of fatigue cracking of the 
+RH forward transmission support beam fitting having part number 
+145S1838-1. In the NPRM, the FAA proposed to require repetitively 
+inspecting the RH forward transmission support beam fitting for 
+cracking, and depending on the results, repairing any crack(s) or 
+replacing parts. In the NPRM, the FAA also proposed to require 
+submitting data on any previous repairs and replaced fittings.
+
+Actions Since the NPRM Was Issued
+
+    Since the FAA issued the NPRM, several comments have been received, 
+and the FAA has determined to revise the NPRM by making the actions in 
+paragraph (g) of this proposed AD applicable to all RH forward 
+transmission support beam fittings with any part number, narrowing the 
+area of inspection by defining the station range and butt-line 
+location, and increasing the reporting requirement compliance time. 
+Additionally, new information received during the comment period from a 
+type certificate holder identified crack findings in fittings with part 
+number 145S1838-6, further supporting the expansion of applicability to 
+all part numbers. The comment disposition below explains and addresses 
+these comments. Due to these comments and the FAA's response to the 
+comments, the FAA determined some of the requests expanded the scope of 
+the proposed AD. The FAA is proposing this AD to detect and address 
+fatigue cracking of the RH forward transmission support beam fittings. 
+The unsafe condition, if not addressed, could result in crack 
+propagation and lead to failure of the RH forward transmission support 
+beam fitting, excessive vibration, and loss of control of the 
+helicopter.
+
+Comments
+
+    The FAA received comments from seven commenters. The commenters 
+were an anonymous individual; Billings Flying Service; Coulson 
+Aviation; Design Analysis Certification Aerospace (DACA); PJ 
+Helicopters, Inc.; Tandem Rotor, LLC; and Vertical Aviation 
+International. The following discussion presents the comments received 
+on the NPRM and the FAA's response to these comments. DACA also 
+submitted additional comments that are not related to this proposed AD 
+and did not suggest any changes. Vertical Aviation International 
+supported the NPRM without change.
+
+Requests To Withdraw the NPRM
+
+    An anonymous individual requested the FAA withdraw the NPRM because 
+the aged airframe no longer requires further restrictions.
+    Billings Flying Service requested the FAA withdraw the NPRM because 
+the existing maintenance program and repair infrastructure for these 
+restricted category aircraft have been shown to find and address the 
+cracks.
+    Billings Flying Service and Tandem Rotor, LLC requested the FAA 
+withdraw the NPRM due to the lack of relevant technical data and that 
+no data has been shown detailing this is a frequently occurring unsafe 
+condition rather than limited infrequent repairs, nor is data present 
+confirming the contributing factors.
+    DACA requested the FAA withdraw the NPRM and not issue an AD until 
+``certification bodies'' accept a long overdue aircraft level master 
+data list (MDL) and its supporting analysis dataset into the restricted 
+category type certificate (RCTC) qualifying program through a 
+memorandum of understanding (MOU) with each of the RCTC holders. DACA 
+stated that operators and RCTC holders should voluntarily shorten their 
+inspection intervals through service material. DACA also requested the 
+FAA delay final rulemaking to allow RCTC holders to further investigate 
+the potential root cause for the cracking of the RH forward 
+transmission support beam fitting.
+    The FAA disagrees with the requests to withdraw the NPRM. The FAA 
+has received data supporting its determination that an unsafe condition 
+exists with the specified parts. Additionally, the FAA cannot rely on 
+owners or operators voluntarily adopting certain manuals or shortening 
+their inspection intervals. Although existing maintenance programs can 
+possibly address cracks, the FAA finds that sufficient data exists to 
+support the requirements of this proposed AD. This proposed AD has not 
+been changed regarding these requests.
+
+Requests for Documentation To Be Posted in the Docket
+
+    Billings Flying Service and Tandem Rotor, LLC requested the FAA 
+provide all relevant technical data, reports of fatigue cracking, 
+records of ex-parte contacts, decisions or reports that led to the need 
+for this rulemaking, the substantiation of the required 100-hour 
+inspection interval time, and corrective action determinations, to be 
+posted in the AD docket. Billings Flying Service stated there is no 
+evidence of the agency's analysis to determine whether the condition 
+was caused by design miscalculations, manufacturing anomalies, the 
+operational environment, maintenance findings, or maintenance 
+activities. Additionally, Billings Flying Service and Tandem Rotor, LLC 
+stated that without basic safety data uploaded in the AD docket, the 
+NPRM lacks a record of the facts supporting its conclusion and thus 
+fails to provide a reasonable basis for the proposed rule.
+    Billings Flying Service requested the Corrective Action Review 
+Board (CARB) report that supported the 100-hour time-in-service (TIS) 
+repetitive inspection requirement be posted in the docket as evidence 
+of the need for rulemaking.
+    The FAA disagrees with posting decision-making documents in the AD 
+docket. The FAA has obtained operator information indicating that 
+mandatory action is necessary to maintain the continued operational 
+safety of all helicopters of this type design. Furthermore, the FAA 
+does not post pre-decisional documents in the AD docket for public 
+view. Under the provisions of the Freedom of Information Act, 5 U.S.C. 
+552, these materials are not releasable because they are pre-decisional 
+and often contain information that is proprietary to the design 
+approval holder. Additionally,
+
+[[Page 42146]]
+
+no ex-parte records exist for this proposed AD at the time of 
+publication of this SNPRM. This proposed AD has not been changed 
+regarding these requests.
+
+Requests To Remove or Revise the Reporting Requirements
+
+    Billings Flying Service, Tandem Rotor, LLC, and PJ Helicopters, 
+Inc. requested the FAA remove or revise the reporting requirement as it 
+will place an undue burden on operators. Billings Flying Service, 
+Tandem Rotor, LLC, and PJ Helicopters, Inc., all stated that data 
+related to previous repairs and replacement fittings are mixed between 
+civilian and military environments and have different reporting 
+requirements, and the TIS of these used parts have no requirement to be 
+time-tracked per military manuals or FAA approved type certificate (TC) 
+instructions for continued airworthiness (ICAs).
+    Billings Flying Service and Tandem Rotor, LLC requested the FAA 
+revise and condense paragraphs (g)(3)(i) and (ii) of the proposed AD to 
+remove the 30-day requirement and add ``If a fitting was replaced, 
+submit information regarding its sourcing (if available) to include but 
+not limited to: Seller, Production Date, Producer and/or 
+manufacturer.'' They further stated that the applicable part is not 
+life-limited, and the serial number (if the part has one) and life 
+status were not required to be recorded, therefore the TIS will not be 
+readily available. Billings Flying Service and Tandem Rotor, LLC also 
+stated that requiring operators to submit this sourcing information 
+would be outside the regulations of 14 CFR.
+    Additionally, Billings Flying Service and Tandem Rotor, LLC 
+requested the FAA remove paragraph (g)(2) of the proposed AD, because 
+for repairs that were accomplished prior to civilian certification, 
+obtaining the data requested from the appropriate military branch 
+within the stated timeline is likely to put the operator at an 
+unnecessary compliance risk. Additionally, they stated that militaries 
+have no requirement on response times, or requirement to respond at all 
+to civilian operators, and this requirement could cause grounding 
+aircraft in order to comply with this research request. The commenters 
+also stated that the part is not life-limited, the serial number (if 
+the part has one) and life status were not required to be recorded, 
+therefore the TIS will not be readily available. Research to obtain the 
+information would take hours and more than likely be unsuccessful in 
+fulfilling the requirements of the proposed rule.
+    The FAA disagrees with removing the reporting requirements in 
+paragraphs (g)(2) or (3) of the proposed AD. The FAA also disagrees 
+with condensing paragraphs (g)(3)(i) and (ii) of the proposed AD into 
+one paragraph. The purpose of the reporting requirement is for the FAA 
+to recognize if any repairs have failed and if the existing repairs 
+provide an acceptable level of safety. The affected part TIS is the 
+same as the airframe, since the part is not rotable. The time of 
+removal of the used part should be recorded in maintenance records. If 
+operators have difficulty providing military Form 2408-15, then they 
+are able to apply for an alternative method of compliance (AMOC) in 
+accordance with the provisions provided in paragraph (i) of the 
+proposed AD.
+    The FAA agrees with revising paragraph (g)(3)(ii) of this proposed 
+AD by modifying the requirement to say ``Donor Part Seller, Donor Part 
+Production Date, Donor Part Producer and/or Donor Part Manufacturer,'' 
+in order to be more specific about the source. Even though the FAA 
+disagrees with removing or combining the reporting paragraphs, the FAA 
+has determined that an additional 30 days to report allows applicants, 
+operators, and TC holders additional time to gather the required 
+information. The required actions section of this proposed AD has been 
+revised accordingly to allow 60 days for reporting.
+
+Request To Revise the Applicability Paragraph
+
+    Billings Flying Service requested the FAA revise the Applicability 
+paragraph of the NPRM, stating that the effectivity should be based on 
+the known configuration that is proposed to be affected, specifically 
+to part number 145S1838-1.
+    The FAA disagrees with adding the part number to the applicability 
+section because the part number for the installed fitting may vary by 
+the dash number and some parts may not be labeled with the part number. 
+Furthermore, the FAA does not know of any specific part number that is 
+not susceptible to the subject cracking. This proposed AD has not been 
+changed regarding this request.
+
+Request To Revise or Remove the Inspection Interval
+
+    Billings Flying Service and Tandem Rotor, LLC requested the FAA 
+revise the 100-hour TIS repetitive inspection interval because the FAA 
+has not provided data or a summary of why the repetitive inspection 
+interval of 100 hours is appropriate. Billings Flying Service stated an 
+arbitrary 100-hour TIS repetitive inspection requirement burdens 
+operators and requested further information on why the inspection 
+interval could not be substantiated at 400 hours TIS or 800 hours TIS. 
+Additionally, Billings Flying Service stated that if the FAA has 
+substantiating data that there is fatigue cracking, the initial 30-hour 
+TIS inspection is likely appropriate based upon that data.
+    The FAA disagrees with the request to revise or remove the 
+inspection interval. The FAA determined that the repetitive 100-hour 
+TIS interval is necessary to allow for sufficient opportunity to detect 
+a crack prior to failure without requiring specialized equipment and 
+technicians while aligning with already prescribed maintenance tasks. 
+This proposed AD has not been changed regarding this request.
+
+Request To Revise the Initial Inspection Compliance Time
+
+    Coulson Aviation requested the FAA revise the compliance time for 
+the initial inspection from 30 hours TIS to 100 hours TIS after the 
+effective date of the proposed AD. The commenter stated an initial 30-
+hour TIS inspection may be unnecessarily restrictive and may not 
+provide a safety benefit when combined with the repetitive 100-hour TIS 
+inspection requirement.
+    The FAA disagrees with the request. In developing an appropriate 
+compliance time, the FAA considered the safety implications, parts 
+availability, and normal maintenance schedules for timely 
+accomplishment of the required inspection. If additional data are 
+presented that would justify a longer compliance time than the required 
+30 hours, the FAA may consider further rulemaking on this issue. The 
+proposed AD has not been changed regarding this request.
+
+Request To Clarify the Inspection Area in the Required Actions 
+Paragraph
+
+    Billings Flying Service stated that if the reported cracks are 
+exclusively found to be in the forward area on the inboard face of the 
+mount (``area of interest''), then the inspection should be conducted 
+and specified where the damage has been found. The commenter further 
+stated requiring full open-up and complete mount inspection every 100 
+hours TIS would be a significant burden to the operator, and complete 
+access to the installed part would require significant additional 
+maintenance.
+    The FAA acknowledges the commenter's concern and infers that the 
+commenter is requesting that the inspection area be clarified. The FAA 
+agrees to clarify the inspection area in
+
+[[Page 42147]]
+
+order to provide a boundary area. Paragraph (g)(1) of the Required 
+Actions paragraph of this proposed AD has been revised by adding, ``and 
+from the top cap to lower termination of the fitting for cracks'' when 
+describing the area of inspection.
+
+Request To Revise the Inspection Method To Require an Eddy Current 
+Inspection
+
+    Coulson Aviation requested that the FAA revise paragraph (g)(1) of 
+the Required Actions paragraph of the proposed AD to require an eddy 
+current inspection in lieu of or in addition to the visual inspection. 
+The commenter stated that they have identified four cracked 
+transmission beams on seven airframes and only two of these cracks were 
+visible per the visual inspection criteria noted in the proposed AD, 
+but all four were identified clearly via eddy current inspection. The 
+commenter also stated that relying solely on a visual inspection may 
+not be reliable to detect subsurface or early-stage cracking within the 
+fitting. Furthermore, the commenter stated that without a detailed 
+inspection method such as an eddy current inspection, the safety margin 
+of CH-47D operations is significantly degraded.
+    The FAA acknowledges that operators can choose to use eddy current 
+in addition to the required detailed visual inspection or request an 
+AMOC to use eddy current inspections instead of a detailed visual 
+inspection. The FAA disagrees with requiring an eddy current inspection 
+in lieu of a detailed visual inspection because a detailed visual 
+inspection at the 100-hour TIS interval allows for sufficient 
+opportunity to detect a crack prior to failure without requiring 
+specialized equipment and technicians while aligning with already 
+prescribed maintenance tasks. This proposed AD has not been changed 
+regarding this request.
+
+Request To Revise the Costs of Compliance Paragraph
+
+    Billings Flying Service stated the hour estimates as stated in the 
+proposed rule would not allow for the additional required structure to 
+be open to allow full access. The commenter also stated that the 
+information required for reporting on previous repairs and replaced 
+fittings is more extensive than the time estimated in the cost of 
+compliance. The commenter further stated that it is not realistic to 
+assume that operators can review the entirety of an aircraft's records 
+in an hour because this data is not easily accessible and the records 
+will range from paper documents to modern maintenance recordkeeping 
+systems, resulting in extensive operational and maintenance data that 
+would need to be combed through and analyzed.
+    The FAA agrees and has revised the cost estimate for reporting in 
+the Costs of Compliance paragraph of this proposed AD from one hour to 
+five hours.
+
+Request To Revise the Special Flight Permit Paragraph
+
+    Coulson Aviation requested the FAA revise paragraph (h) of the 
+proposed AD to allow special flight permits for the purpose of 
+relocating the aircraft to a facility capable of performing the 
+required repair. The commenter stated that if replacement of the 
+fitting is necessary, the repair will require substantial 
+infrastructure, tooling, and manpower that may not be available at the 
+aircraft's current location. Additionally, the commenter stated that 
+prohibiting ferry flights may unnecessarily ground aircraft in 
+locations not suitable for corrective maintenance.
+    The FAA partially agrees. The FAA disagrees with allowing special 
+flight permits without restriction. However, the FAA agrees that 
+special flight permits may be requested through the AMOC process. 
+Accordingly, paragraph (h) of this proposed AD has been revised to 
+state, ``Special flight permits, as described in 14 CFR 21.197 and 
+21.199, are not allowed unless approved in accordance with the 
+procedures specified in paragraph (i)(1) of this AD.''
+
+FAA's Determination
+
+    The FAA is proposing this AD after determining the unsafe condition 
+described previously is likely to exist or develop in other products of 
+the same type design. Certain changes described above expand the scope 
+of the NPRM. As a result, it is necessary to reopen the comment period 
+to provide additional opportunity for the public to comment on this 
+SNPRM.
+
+Proposed AD Requirements in This SNPRM
+
+    This proposed AD would require repetitively inspecting the RH 
+forward transmission support beam fitting for cracking, and depending 
+on the results, repairing any crack(s) or replacing parts. This 
+proposed AD would also require submitting data on any previous repairs 
+and replaced fittings to the FAA.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 42 helicopters of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                  Cost on U.S.
+               Action                       Labor cost         Parts cost    Cost per product      operators
+----------------------------------------------------------------------------------------------------------------
+Inspect RH forward transmission       2 work-hours x $85 per            $0               $170             $7,140
+ support beam fitting.                 hour = $170.
+Report previous repairs and replaced  5 work-hours x $85 per             0                425             17,850
+ fittings.                             hour = $425.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the on-condition repairs specified in this proposed AD.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to be 
+approximately 5 hours per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Send comments regarding this burden estimate 
+or any other aspect of this collection of information, including 
+suggestions for reducing this burden, to:
+
+[[Page 42148]]
+
+Information Collection Clearance Officer, Federal Aviation 
+Administration, 10101 Hillwood Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Restricted Category Model CH-47D Helicopters: Docket No. FAA-2025-
+5394; Project Identifier AD-2025-01194-R.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by August 24, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to restricted category Model CH-47D helicopters; 
+current type certificate holders include but are not limited to 
+Billings Flying Service, Inc.; Columbia Helicopters, Inc.; Tandem 
+Rotor, LLC; and Unical Air Inc.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 6330, Main rotor 
+transmission mount.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of fatigue cracking of the 
+right-hand (RH) forward transmission support beam fittings. The FAA 
+is issuing this AD to detect and address fatigue cracking of the RH 
+forward transmission support beam fittings. The unsafe condition, if 
+not addressed, could result in crack propagation and lead to failure 
+of the RH forward transmission support beam fittings, excessive 
+vibration, and loss of control of the helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) Within 30 hours time in service (TIS) after the effective 
+date of this AD and thereafter at intervals not to exceed 100 hours 
+TIS, using a 7X or higher power magnification and light source, 
+visually inspect the RH forward transmission support beam fitting, 
+any part number, at right butt line (RBL) 18 from station (STA) 76 
+to STA 95, and from the top cap to lower termination of the fitting 
+for cracks. Fastener holes in the area circled in figure 1 to 
+paragraph (g)(1) of this AD are most susceptible to cracking. If any 
+crack is detected, before further flight, repair or replace parts 
+using a method approved by the Manager, West Certification Branch, 
+FAA, in accordance with the procedures specified in paragraph (i) of 
+this AD.
+
+[[Page 42149]]
+
+Figure 1 to Paragraph (g)(1)--Transmission Support Beam Inspection
+[GRAPHIC] [TIFF OMITTED] TP08JY26.000
+
+    (2) For repairs accomplished before the effective date of this 
+AD, within 60 days after the effective date of this AD, submit the 
+information specified in paragraphs (g)(2)(i) through (v) of this AD 
+to the person identified in paragraph (j) of this AD.
+    (i) Aircraft serial number, registration number, and TIS when 
+fitting was repaired.
+    (ii) Design data used to accomplish repair (drawings, 
+engineering orders, etc.).
+    (iii) Substantiation data used to approve repair.
+    (iv) Copy of FAA Form 337 ``Major Repair or Alteration'' or 
+other approval of return to service. If repair was performed by the 
+U.S. military, provide a copy of Form 2408-15 (or equivalent) 
+documenting major repair.
+    (v) Alternative methods of compliance for previously approved 
+repairs.
+    (3) For fittings that have been replaced before the effective 
+date of this AD, within 60 days after the effective date of this AD, 
+submit the information specified in paragraphs (g)(3)(i) and (ii) of 
+this AD to the person identified in paragraph (j) of this AD.
+    (i) If the replacement fitting was new production (under 14 CFR 
+21.9 or exemption): submit information to include but not limited 
+to: where the part was sourced from, when the part was produced, and 
+the manufacturer of the part.
+    (ii) If a fitting was replaced with a used part, submit 
+information regarding its sourcing to include but not limited to: 
+Donor Part Seller, Donor Part Production Date, Donor Part Producer, 
+and/or Donor Part Manufacturer, TIS of the used part prior to 
+installation, and TIS after installation.
+
+(h) Special Flight Permits
+
+    Special flight permits, as described in 14 CFR 21.197 and 
+21.199, are not allowed unless approved in accordance with the 
+procedures specified in paragraph (i)(1) of this AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, West Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the West Certification Branch, send it to 
+the attention of the person identified in paragraph (j) of this AD 
+and email to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Additional Information
+
+    For more information about this AD, contact Taffy Shenoy, 
+Aviation Safety Engineer, FAA, 3960 Paramount Boulevard, Lakewood, 
+CA 90712; phone: (206) 231-3559; email: [email&#160;protected].
+
+(k) Material Incorporated by Reference
+
+    None.
+
+    Issued on July 2, 2026.
+Christopher R. Parker,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-13781 Filed 7-7-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

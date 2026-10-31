@@ -1,0 +1,141 @@
+
+[Federal Register Volume 80, Number 3 (Tuesday, January 6, 2015)]
+[Proposed Rules]
+[Page 422]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2014-30911]
+
+
+
+[[Page 422]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2012-1319; Directorate Identifier 2012-NM-179-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; the Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA withdraws a notice of proposed rulemaking (NPRM) that 
+proposed to revise Airworthiness Directive (AD) 2012-12-15, which 
+applies to all The Boeing Company Model 757 airplanes. The NPRM would 
+have corrected errors in certain paragraph references in AD 2012-12-15; 
+continued to require revising the maintenance program by incorporating 
+new and revised fuel tank system limitations in the Airworthiness 
+Limitations (AWLs) section of the Instructions for Continued 
+Airworthiness; and continued to require the initial inspection of 
+certain repetitive AWL inspections to phase-in those inspections, and 
+repair if necessary. Since the proposed AD was issued, we have received 
+new data that the unsafe condition has been addressed by AD 2012-12-15, 
+and the compliance relief that would have been provided by the proposed 
+AD is no longer relevant. Accordingly, the proposed AD is withdrawn.
+
+DATES: As of January 6, 2015, the proposed rule, which was published in 
+the Federal Register on January 30, 2013 (78 FR 6247), is withdrawn.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2012-
+1319; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD action, the NPRM (78 FR 6247, January 30, 2013), the 
+regulatory evaluation, any comments received, and other information. 
+The address for the Docket Office (telephone 800-647-5527) is the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Jon Regimbal, Aerospace Engineer, 
+Propulsion Branch, ANM-140S, FAA, Seattle Aircraft Certification 
+Office, 1601 Lind Avenue SW., Renton, WA 98057-3356; phone: 425-917-
+6506; fax: 425-917-6590; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We proposed to amend part 39 of the Federal Aviation Regulations 
+(14 CFR part 39) with a notice of proposed rulemaking (NPRM) to revise 
+AD 2012-12-15, Amendment 39-17095 (77 FR 42964, July 23, 2012), which 
+applies to all The Boeing Company Model 757 airplanes. That NPRM was 
+published in the Federal Register on January 30, 2013 (78 FR 6247). The 
+NPRM would have corrected errors in certain paragraph references in AD 
+2012-12-15; continued to require revising the maintenance program by 
+incorporating new and revised fuel tank system limitations in the AWLs 
+section of the Instructions for Continued Airworthiness; and continued 
+to require the initial inspection of certain repetitive AWL inspections 
+to phase-in those inspections, and repair if necessary. The NPRM 
+resulted from the discovery of errors in certain paragraph references 
+in AD 2012-12-15. The proposed actions were intended to prevent the 
+potential for ignition sources inside fuel tanks caused by latent 
+failures, alterations, repairs, or maintenance actions, which in 
+combination with flammable fuel vapors, could result in a fuel tank 
+explosion and consequent loss of the airplane.
+
+Actions Since NPRM (78 FR 6247, January 30, 2013) Was Issued
+
+    Since we issued the NPRM (78 FR 6247, January 30, 2013), commenters 
+identified errors in the service information that was referenced in the 
+NPRM. We reviewed those errors, considered the amount of time needed to 
+address those errors in the service information, and re-considered the 
+effect of the errors identified in AD 2012-12-15, Amendment 39-17095 
+(77 FR 42964, July 12, 2012). The identified errors in AD 2012-12-15 
+could have the unintended effect of implying that the grace period was 
+24 months after June 12, 2008 (which is the effective date of AD 2008-
+10-11, Amendment 39-15517 (73 FR 25974, May 8, 2008)), which is earlier 
+than the intended 24 months after August 27, 2012 (the effective date 
+of AD 2012-12-15). In either case, the grace period will have passed 
+before the new, corrected AD would be effective. The compliance time 
+relief that would have been provided by the new, corrected AD is no 
+longer relevant, and there would be no benefit to publishing that new, 
+corrected AD.
+
+FAA's Conclusions
+
+    Upon further consideration, we have determined that the compliance 
+time relief that would have been provided to operators by the NPRM (78 
+FR 6247, January 30, 2013) is no longer relevant. Accordingly, the NPRM 
+is withdrawn.
+    Withdrawal of the NPRM (78 FR 6247, January 30, 2013), does not 
+preclude the FAA from issuing another related action or commit the FAA 
+to any course of action in the future.
+
+Regulatory Impact
+
+    Since this action only withdraws an NPRM (78 FR 6247, January 30, 
+2013), it is neither a proposed nor a final rule and therefore is not 
+covered under Executive Order 12866, the Regulatory Flexibility Act, or 
+DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 
+1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, we withdraw the NPRM, Docket No. FAA-2012-1319, 
+Directorate Identifier 2012-NM-179-AD, which was published in the 
+Federal Register on January 30, 2013 (78 FR 6247).
+
+    Issued in Renton, Washington, on December 22, 2014.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2014-30911 Filed 1-5-15; 8:45 am]
+BILLING CODE 4910-13-P
+
+

@@ -1,0 +1,402 @@
+
+[Federal Register Volume 84, Number 36 (Friday, February 22, 2019)]
+[Proposed Rules]
+[Pages 5620-5622]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2019-02933]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2019-0021; Product Identifier 2018-NM-038-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; AmSafe Inc. Seatbelts
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: We propose to adopt a new airworthiness directive (AD) for all 
+AmSafe Inc. seatbelts, as installed in, but not limited to, various 
+airplanes and rotorcraft. This proposed AD was prompted by reports of 
+multiple failed keepers on seatbelt hook assemblies. This proposed AD 
+would require an inspection for affected parts, repetitive general 
+visual inspections of the seatbelt hook assembly for damage, repetitive 
+functional checks, and replacement of all affected parts. We are 
+proposing this AD to address the unsafe condition on these products.
+
+DATES: We must receive comments on this proposed AD by April 8, 2019.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    For service information identified in this NPRM, contact AmSafe 
+Inc., 1043 N 47th Avenue, Phoenix, AZ 85043; telephone: 602-850-2850; 
+fax: 602-850-2812; internet: https://www.amsafe.com. You may view this 
+service information at the FAA, Transport Standards Branch, 2200 South 
+216th St., Des Moines, WA. For information on the availability of this 
+material at the FAA, call 206-231-3195.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2019-
+0021; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this NPRM, the regulatory evaluation, any comments received, and other 
+information. The street address for Docket Operations (phone: 800-647-
+5527) is in the ADDRESSES section. Comments will be available in the AD 
+docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Patrick Farina, Aerospace Engineer, 
+Cabin Safety and Environmental Systems Section, FAA, Los Angeles ACO 
+Branch, 3960 Paramount Boulevard, Lakewood, CA 90712-4137; phone: 562-
+627-5344; fax: 562-627-5210; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    We invite you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2019-0021; 
+Product Identifier 2018-NM-038-AD'' at the beginning of your comments. 
+We specifically invite comments on the overall regulatory, economic, 
+environmental, and energy aspects of this NPRM. We will consider all 
+comments received by the closing date and may amend this NPRM because 
+of those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this NPRM.
+
+Discussion
+
+    We have received a report indicating that failed keepers on 
+seatbelt hook assemblies have been found on multiple transport category 
+airplanes. These seatbelt hook assemblies might also be installed on 
+other types of aircraft. The keepers have been found with the metal 
+bridge above the spring bent or broken in a way that does not allow the 
+seatbelt hook assemblies to be securely fastened to the seat structure. 
+Failure of keepers on seatbelt hook assemblies, if not addressed, could 
+result in the seatbelt disengaging from and detaching from the seat 
+structure under certain conditions, and could result in injury to 
+passengers or flightcrew.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed AmSafe Safety Bulletin SB505960-01, Issue 5, dated 
+August 6, 2018. The service information describes procedures for an 
+inspection for affected
+
+[[Page 5621]]
+
+parts, repetitive general visual inspections of the seatbelt hook 
+assembly for damage (including compressed springs, bends, rotation or 
+deformation of the bridge), repetitive functional checks and 
+replacement. This service information is reasonably available because 
+the interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    We are proposing this AD because we evaluated all the relevant 
+information and determined the unsafe condition described previously is 
+likely to exist or develop in other products of the same type designs.
+
+Proposed AD Requirements
+
+    This proposed AD would require accomplishing the actions specified 
+in the service information described previously, except as discussed 
+under ``Differences Between this Proposed AD and the Service 
+Information.''
+
+Differences Between This Proposed AD and the Service Information
+
+    AmSafe Safety Bulletin SB505960-01, Issue 5, dated August 6, 2018, 
+specifies to return parts to the manufacturer. This proposed AD would 
+not include that requirement.
+
+Costs of Compliance
+
+    We estimate that this proposed AD affects 100,000 appliances 
+installed on, but not limited to, various airplanes and rotorcraft of 
+U.S. registry. We estimate the following costs to comply with this 
+proposed AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+              Action                    Labor cost        Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection for affected part.....  1 work-hour x $85                $0  $85................  $8,500,000.
+                                    per hour = $85.
+Repetitive inspections and         1 work-hour x $85                 0  $85 per inspection   $8,500,000 per
+ functional checks.                 per hour = $85 per                   cycle.               inspection cycle.
+                                    inspection cycle.
+Replacement......................  1 work-hour x $85                28  $113...............  $11,300,000.
+                                    per hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    We estimate the following costs to do any necessary replacements 
+that would be required based on the results of the proposed inspection. 
+We have no way of determining the number of aircraft that might need 
+these replacements:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                 Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Replacement...................................  1 work-hour x $85 per hour = $85             $28            $113
+----------------------------------------------------------------------------------------------------------------
+
+    According to the manufacturer, some or all of the costs of this 
+proposed AD may be covered under warranty, thereby reducing the cost 
+impact on affected individuals. We do not control warranty coverage for 
+affected individuals. As a result, we have included all known costs in 
+our cost estimate.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+    This proposed AD is issued in accordance with authority delegated 
+by the Executive Director, Aircraft Certification Service, as 
+authorized by FAA Order 8000.51C. In accordance with that order, 
+issuance of ADs is normally a function of the Compliance and 
+Airworthiness Division, but during this transition period, the 
+Executive Director has delegated the authority to issue ADs applicable 
+to transport category airplanes and associated appliances to the 
+Director of the System Oversight Division.
+
+Regulatory Findings
+
+    We determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+[[Page 5622]]
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+AmSafe Inc. Seatbelts: Docket No. FAA-2019-0021; Product Identifier 
+2018-NM-038-AD.
+
+(a) Comments Due Date
+
+    We must receive comments by April 8, 2019.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to AmSafe Inc. seatbelts installed on various 
+airplanes and rotorcraft, certificated in any category, including, 
+but not limited to, the airplanes of the manufacturers specified in 
+paragraphs (c)(1) through (c)(5) of this AD.
+
+(1) Airbus SAS
+(2) The Boeing Company
+(3) Bombardier, Inc.
+(4) Embraer S.A.
+(5) Fokker Services B.V.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+furnishings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of multiple failed keepers on 
+seatbelt hook assemblies. We are issuing this AD to address failed 
+keepers on seatbelt hook assemblies. Failure of keepers on seatbelt 
+hook assemblies, if not addressed, could result in the seatbelt 
+disengaging from and detaching from the seat structure under certain 
+conditions, and could result in injury to passengers or flightcrew.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspection for Affected Parts
+
+    For any seatbelt buckle half and connector half having a part 
+number listed in Table 1 of paragraph ``1.1., Effectivity'' of 
+AmSafe Safety Bulletin SB505960-01, Issue 5, dated August 6, 2018: 
+Within 180 days after the effective date of this AD, do a general 
+visual inspection of each seatbelt buckle half and connector half to 
+determine whether the seatbelt hook assembly has exposed springs, in 
+accordance with AmSafe Safety Bulletin SB505960-01, Issue 5, dated 
+August 6, 2018.
+    (1) An affected part is any seatbelt buckle half or connector 
+half that has a seatbelt hook assembly with exposed springs.
+    (2) An unaffected part is any seatbelt buckle half or connector 
+half that has a seatbelt hook assembly without exposed springs.
+
+(h) Repetitive Inspections and Functional Checks
+
+    Within 180 days after the effective date of this AD, do a 
+general visual inspection of each affected part for damage to the 
+seatbelt hook assembly and do a functional check in accordance with 
+AmSafe Safety Bulletin SB505960-01, Issue 5, dated August 6, 2018.
+    (1) If any seatbelt hook assembly is damaged or the part fails 
+the functional check, before further flight, replace the part with a 
+new or serviceable part. If an affected part is installed, repeat 
+the inspection and functional check at intervals not to exceed 24 
+months or at the next scheduled heavy maintenance check, whichever 
+occurs first, until the actions specified in paragraph (i) of this 
+AD are done.
+    (2) If an affected part is undamaged and passes the functional 
+check, repeat the inspection and functional check at intervals not 
+to exceed 24 months or at the next scheduled heavy maintenance 
+check, whichever occurs first, until the actions specified in 
+paragraph (i) of this AD are done.
+
+(i) Terminating Action
+
+    Within 58 months after the effective date of this AD, replace 
+all affected parts with unaffected parts in accordance with AmSafe 
+Safety Bulletin SB505960-01, Issue 5, dated August 6, 2018. 
+Replacing all affected parts with unaffected parts on a seatbelt 
+hook assembly terminates the repetitive inspections and functional 
+checks specified in paragraph (h) of this AD for that seatbelt hook 
+assembly. Replacing all affected parts with unaffected parts on an 
+airplane or rotorcraft terminates the repetitive inspections and 
+functional checks specified in paragraph (h) of this AD for that 
+airplane or rotorcraft.
+
+(j) Parts Installation Prohibition
+
+    No person may install on any seat an affected part as of the 
+time specified in paragraph (j)(1), (j)(2), or (j)(3) of this AD, as 
+applicable.
+    (1) For seats on which, as of the effective date of this AD any 
+affected part is found during the inspection required by paragraph 
+(g) of this AD: After replacement of the affected part(s) with 
+unaffected part(s).
+    (2) For seats on which no affected parts are found during the 
+inspection required by paragraph (g) of this AD: As of the date of 
+the inspection required by paragraph (g) of this AD.
+    (3) For seats on which both the seatbelt buckle half and 
+connector half have part numbers not listed in Table 1 of paragraph 
+``1.1., Effectivity'' of AmSafe Safety Bulletin SB505960-01, Issue 
+5, dated August 6, 2018: As of the effective date of this AD.
+
+(k) No Return of Parts
+
+    Although AmSafe Safety Bulletin SB505960-01, Issue 5, dated 
+August 6, 2018, specifies to return parts to the manufacturer, this 
+AD does not require the return of the parts to the manufacturer.
+
+(l) Credit for Previous Actions
+
+    This paragraph provides credit for the actions specified in 
+paragraphs (g), (h), and (i) of this AD, if those actions were 
+performed before the effective date of this AD using the service 
+information specified in paragraphs (l)(1) or (l)(2), of this AD.
+    (1) AmSafe Safety Bulletin SB505960-01, Issue 3, dated April 19, 
+2018.
+    (2) AmSafe Safety Bulletin SB505960-01, Issue 4, dated July 12, 
+2018.
+
+(m) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Los Angeles ACO Branch, FAA, has the authority 
+to approve AMOCs for this AD, if requested using the procedures 
+found in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your 
+request to your principal inspector or local Flight Standards 
+District Office, as appropriate. If sending information directly to 
+the manager of the certification office, send it to the attention of 
+the person identified in paragraph (n)(1) of this AD. Information 
+may be emailed to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(n) Related Information
+
+    (1) For more information about this AD, contact Patrick Farina, 
+Aerospace Engineer, Cabin Safety and Environmental Systems Section, 
+FAA, Los Angeles ACO Branch, 3960 Paramount Boulevard, Lakewood, CA 
+90712-4137; phone: 562-627-5344; fax: 562-627-5210; email: 
+[email&#160;protected].
+    (2) For service information identified in this AD, contact 
+AmSafe Inc., 1043 N 47th Avenue, Phoenix, AZ 85043; telephone: 602-
+850-2850; fax: 602-850-2812; internet: https://www.amsafe.com. You 
+may view this service information at the FAA, Transport Standards 
+Branch, 2200 South 216th St., Des Moines, WA. For information on the 
+availability of this material at the FAA, call 206-231-3195.
+
+    Issued in Des Moines, Washington, on February 8, 2019.
+Michael Kaszycki,
+Acting Director, System Oversight Division, Aircraft Certification 
+Service.
+[FR Doc. 2019-02933 Filed 2-21-19; 8:45 am]
+ BILLING CODE 4910-13-P
+
+

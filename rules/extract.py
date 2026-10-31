@@ -100,12 +100,9 @@ def regex_extract(doc_id, text):
 
 
 def llm_extract(client, doc_id, text, meta):
-    msg = client.messages.create(
-        model=MODEL_EXTRACT, max_tokens=4000, system=SYSTEM,
-        tools=[TOOL], tool_choice={"type": "tool", "name": "emit_rule"},
-        messages=[{"role": "user", "content": f"doc_id: {doc_id}\nsubject: {meta['subject']}\n\nAPPLICABILITY TEXT:\n<<<\n{text}\n>>>"}],
-    )
-    data = next(b.input for b in msg.content if b.type == "tool_use")
+    from adc.llm import call_tool
+    data = call_tool(client, MODEL_EXTRACT, SYSTEM, TOOL,
+                     f"doc_id: {doc_id}\nsubject: {meta['subject']}\n\nAPPLICABILITY TEXT:\n<<<\n{text}\n>>>")
     data["doc_id"] = doc_id
     return Rule.model_validate(data)
 
@@ -135,9 +132,9 @@ def main():
     ap.add_argument("--doc")
     a = ap.parse_args()
     client = None
-    if not a.regex and os.getenv("ANTHROPIC_API_KEY"):
-        import anthropic
-        client = anthropic.Anthropic()
+    if not a.regex:
+        from adc.llm import client as mk
+        client = mk()
     con = connect()
     ids = [a.doc] if a.doc else [r["doc_id"] for r in rows(con, "SELECT doc_id FROM documents WHERE is_airbus=1 AND doc_type!='WITHDRAWAL'")]
     stats = {}

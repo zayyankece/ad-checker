@@ -1,0 +1,478 @@
+
+[Federal Register Volume 90, Number 114 (Monday, June 16, 2025)]
+[Proposed Rules]
+[Pages 25170-25173]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-11032]
+
+
+
+[[Page 25170]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-1105; Project Identifier AD-2024-00721-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to supersede Airworthiness Directive (AD) 
+2013-08-11, which applies to certain The Boeing Company Model 737-900 
+and -900ER series airplanes. AD 2013-08-11 requires repetitive 
+inspections for cracking of the fuselage skin along chem-mill steps at 
+certain crown skin and shear wrinkle areas and repair if necessary. 
+Since the FAA issued AD 2013-08-11, the FAA has determined that the 
+compliance times are not adequate. This proposed AD would continue to 
+require the actions in AD 2013-08-11 but at reduced compliance times 
+and would require post-modification inspections if an optional 
+modification is accomplished. The FAA is proposing this AD to address 
+the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by July 31, 
+2025.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-1105; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Boeing material identified in this proposed AD, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; website myboeingfleet.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2025-1105.
+
+FOR FURTHER INFORMATION CONTACT: Luis Cortez-Muniz, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3958; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2025-1105; 
+Project Identifier AD-2024-00721-T'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Luis 
+Cortez-Muniz, Aviation Safety Engineer, FAA, 2200 South 216th St., Des 
+Moines, WA 98198; phone: 206-231-3958; email: [email&#160;protected]. Any commentary that the FAA receives that is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The FAA issued AD 2013-08-11, Amendment 39-17428 (78 FR 24338, 
+April 25, 2013) (AD 2013-08-11), for The Boeing Company Model 737-900 
+and -900ER series airplanes with certain line numbers. AD 2013-08-11 
+was prompted by reports of early fatigue cracks at chem-mill areas on 
+the crown skin panels. AD 2013-08-11 requires repetitive inspections 
+for cracking of the fuselage skin along chem-mill steps at certain 
+crown skin and shear wrinkle areas, as applicable, and repair if 
+necessary. AD 2013-08-11 requires the initial inspections before the 
+airplane accumulates 43,000 total flight cycles. AD 2013-08-11 also 
+provides modification of the inspection areas as an optional 
+terminating action for the repetitive inspections. The agency issued AD 
+2013-08-11 to detect and correct fatigue cracking of the skin panel at 
+the specified chem-mill step locations, which could result in rapid 
+decompression of the airplane.
+
+Actions Since AD 2013-08-11 Was Issued
+
+    Since the FAA issued AD 2013-08-11, the FAA received reports of 
+three suspected fuselage fatigue cracks found adjacent to non-chem-mill 
+skin bays on Model 737-700 airplanes with between 40,000 and 43,000 
+total flight cycles--earlier than the inspection thresholds specified 
+by AD 2013-08-11. Boeing has reported that the inspection compliance 
+times and repetitive intervals in Boeing Service Bulletin 737-53-1312, 
+Revision 1, dated March 14, 2012, are not adequate. The reports 
+indicate that crack growth is faster and cracks are more distributed 
+along the chem-mill steps between the tear straps, resulting in longer 
+cracks than initially observed in the test data that prompted Boeing 
+Service Bulletin 737-53-1312, Revision 1, dated March 14, 2012. As a 
+result of these findings, the FAA has determined that reduced 
+inspection thresholds and intervals for the chem-mill areas and the 
+post modification inspections (for airplanes on which the optional 
+terminating action is accomplished) are now necessary to address the 
+unsafe condition.
+
+[[Page 25171]]
+
+    The FAA is considering superseding similar ADs for Model 737-600, -
+700, -700C, and -800 series airplanes, which have crown skin panels 
+that are of a similar design as those on Model 737-900 and -900ER 
+series airplanes and may be subject to the same unsafe condition.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Special Attention Service Bulletin 737-53-
+1312, Revision 2, dated May 22, 2024. This material specifies 
+procedures for repetitive external detailed inspections and either (1) 
+external medium frequency eddy current (MFEC), magneto optic imager 
+(MOI), or C-scan inspections or (2) external ultrasonic phased array 
+(UTPA) inspections, and repairing any cracks. This material also 
+describes procedures for installing modification doublers in certain 
+locations, which involves an external detailed inspection and an 
+external non-destructive (MFEC, MOI, C-Scan, or UTPA) inspection for 
+any cracking of the area to be modified prior to the doubler being 
+placed on that area, and a high frequency eddy current inspection of 
+all existing holes for cracking. This material specifies that 
+accomplishment of the modification terminates the repetitive 
+inspections provided post-modification inspections are performed for 
+the modified areas.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in the material already described, except for any differences 
+identified as exceptions in the regulatory text of this proposed AD. 
+For information on the procedures and compliance times, see this 
+material at regulations.gov under Docket No. FAA-2025-1105.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 56 airplanes of U.S. registry. The FAA estimates the following 
+costs to comply with this proposed AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                Cost on U.S.
+              Action                    Labor cost        Parts cost    Cost per product          operators
+----------------------------------------------------------------------------------------------------------------
+Inspections......................  31 work-hours x $85            $0  $2,635 per            $147,560 per
+                                    per hour = $2,635                  inspection cycle.     inspection cycle.
+                                    per inspection
+                                    cycle.
+----------------------------------------------------------------------------------------------------------------
+
+
+                                      Estimated Costs for Optional Actions
+----------------------------------------------------------------------------------------------------------------
+               Action                        Labor cost               Parts cost             Cost per product
+----------------------------------------------------------------------------------------------------------------
+Modification........................  632 work-hours x $85     Minimal.................  $53,720.
+                                       per hours = $53,720.
+Post-modification inspection........  50 work-hours x $85 per  $0......................  $4,250 per inspection
+                                       hour = $4,250 per                                  cycle.
+                                       inspection cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    The extent of cracking found during the inspections could vary 
+significantly from airplane to airplane. The FAA has no way of 
+determining which conditions may be found on each airplane, the cost to 
+correct or repair each airplane, or the number of airplanes that may 
+require repair.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive AD 2013-08-11, Amendment 39-17428 
+(78 FR 24338, April 25, 2013), and
+0
+b. Adding the following new airworthiness directive:
+
+The Boeing Company: Docket No. FAA-2025-1105; Project Identifier AD-
+2024-00721-T.
+
+[[Page 25172]]
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by July 31, 2025.
+
+(b) Affected ADs
+
+    This AD replaces AD 2013-08-11, Amendment 39-17428 (78 FR 24338, 
+April 25, 2013) (AD 2013-08-11).
+
+(c) Applicability
+
+    (1) This AD applies to The Boeing Company Model 737-900 and -
+900ER series airplanes, certificated in any category, as identified 
+in Boeing Special Attention Service Bulletin 737-53-1312, Revision 
+2, dated May 22, 2024.
+    (2) Installation of Supplemental Type Certificate (STC) 
+ST00830SE does not affect the ability to accomplish the actions 
+required by this AD. Therefore, for airplanes on which STC ST00830SE 
+is installed, a ``change in product'' alternative method of 
+compliance (AMOC) approval request is not necessary to comply with 
+the requirements of 14 CFR 39.17.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of fatigue cracks at chem-mill 
+areas on the crown skin panels and by recent reports of fuselage 
+fatigue cracks adjacent to non-chem-mill skin bays. The FAA is 
+issuing this AD to detect and correct fatigue cracking of the skin 
+panel at the specified chem-mill step locations. The unsafe 
+condition, if not addressed, could result in rapid decompression of 
+the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspections of Crown Skin Areas
+
+    At the applicable times specified in paragraph 1.E., Compliance, 
+of Boeing Special Attention Service Bulletin 737-53-1312, Revision 
+2, dated May 22, 2024, except as required by paragraph (k) of this 
+AD, do an external detailed inspection and an external 
+nondestructive inspection (a medium frequency eddy current (MFEC), 
+magneto optic imager (MOI), C-scan, or ultrasonic phased array 
+(UTPA) inspection) for cracking in the fuselage skin along the chem-
+mill steps at certain locations specified in, and in accordance 
+with, paragraph 3.B.2.a. of the Accomplishment Instructions of 
+Boeing Special Attention Service Bulletin 737-53-1312, Revision 2, 
+dated May 22, 2024. Repeat the inspections thereafter at the 
+applicable times specified in paragraph 1.E., Compliance, of Boeing 
+Special Attention Service Bulletin 737-53-1312, Revision 2, dated 
+May 22, 2024.
+
+(h) Inspections of Shear Wrinkle Areas
+
+    For Group 1 airplanes as identified in Boeing Special Attention 
+Service Bulletin 737-53-1312, Revision 2, dated May 22, 2024: At the 
+applicable time specified in paragraph 1.E., Compliance, of Boeing 
+Special Attention Service Bulletin 737-53-1312, Revision 2, dated 
+May 22, 2024, except as required by paragraph (k) of this AD, do an 
+external detailed inspection and an external nondestructive 
+inspection (MFEC, MOI, C-scan, or UTPA) for cracking in the fuselage 
+skin along the chem-mill steps at certain shear wrinkle locations 
+specified in, and in accordance with, paragraph 3.B.2.b. of the 
+Accomplishment Instructions of Boeing Special Attention Service 
+Bulletin 737-53-1312, Revision 2, dated May 22, 2024. Repeat the 
+inspections thereafter at the applicable times specified in 
+paragraph 1.E., Compliance, of Boeing Special Attention Service 
+Bulletin 737-53-1312, Revision 2, dated May 22, 2024.
+
+(i) Repair
+
+    If any cracking is found during any inspection required by 
+paragraph (g) or (h) of this AD, before further flight, repair the 
+cracking using a method approved in accordance with the procedures 
+specified in paragraph (m) of this AD.
+
+(j) Optional Terminating Actions
+
+    Accomplishment of the actions in paragraphs (j)(1) through (3) 
+of this AD terminates the repetitive inspections required by 
+paragraph (g) of this AD for the modified area only.
+    (1) Do an external detailed inspection and an external 
+nondestructive inspection (MFEC, MOI, C-scan, or UTPA) for cracking 
+of the area to be modified, and if no cracking is found, do the 
+modification, including doing a high frequency eddy current 
+inspection of all existing holes for cracking in accordance with 
+paragraph 3.B.3., ``Part 3: Modification,'' of the Accomplishment 
+Instructions in Boeing Special Attention Service Bulletin 737-53-
+1312, Revision 2, dated May 22, 2024.
+    (2) Repair, before further flight, any cracking found during any 
+inspection specified in paragraph (j)(1) or (3) of this AD using a 
+method approved in accordance with the procedures specified in 
+paragraph (l) of this AD.
+    (3) Do the post-modification repetitive inspections specified in 
+paragraph 1.E., Compliance, and in Part 5 of the Accomplishment 
+Instructions of Boeing Special Attention Service Bulletin 737-53-
+1312, Revision 2, dated May 22, 2024. The inspections must be 
+performed and repeated at the applicable times specified in 
+paragraph 1.E., Compliance, of Boeing Special Attention Service 
+Bulletin 737-53-1312, Revision 2, dated May 22, 2024, except as 
+required by paragraph (k) of this AD.
+
+(k) Exceptions to Service Bulletin Specifications
+
+    Where the Compliance Time column in the tables under the 
+``Compliance'' paragraph of Boeing Special Attention Service 
+Bulletin 737-53-1312, Revision 2, dated May 22, 2024, refer to the 
+Revision 2 date of Boeing Special Attention Service Bulletin 737-53-
+1312, dated May 22, 2024, this AD requires using the effective date 
+of this AD.
+
+(l) Credit for Previous Actions
+
+    This paragraph provides credit for the optional actions in 
+paragraph (j)(1) of this AD, if the modification was performed 
+before the effective date of this AD using Boeing Service Bulletin 
+737-53-1312, dated October 21, 2011, as revised by Boeing Service 
+Bulletin 737-53-1312, Revision 1, dated March 14, 2012.
+
+(m) AMOCs
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the certification office, 
+send it to the attention of the person identified in paragraph (n) 
+of this AD. Information may be emailed to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational Safety Branch, FAA, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+(n) Related Information
+
+    For more information about this AD, contact Luis Cortez-Muniz, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3958; email: [email&#160;protected].
+
+(o) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Special Attention Service Bulletin 737-53-1312, 
+Revision 2, dated May 22, 2024.
+    (ii) [Reserved]
+    (3) For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website myboeingfleet.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+
+[[Page 25173]]
+
+
+    Issued on June 12, 2025.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-11032 Filed 6-13-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+

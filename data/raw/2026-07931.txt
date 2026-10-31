@@ -1,0 +1,426 @@
+
+[Federal Register Volume 91, Number 78 (Thursday, April 23, 2026)]
+[Proposed Rules]
+[Pages 21744-21747]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-07931]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-3865; Project Identifier AD-2025-01395-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to supersede Airworthiness Directive (AD) 
+2021-02-13, which applies to certain The Boeing Company Model 737-600, 
+-700, -700C, -800, and -900 series airplanes. AD 2021-02-13 requires 
+inspections of the fuselage skin and bear strap at the forward galley 
+door between certain stations for cracks, and applicable on-condition 
+actions. Since the FAA issued AD 2021-02-13, a report was received of 
+cracking outside the required inspection area, and it has been 
+determined that additional airplanes may be subject to the identified 
+unsafe condition. This proposed AD would continue to require the 
+actions of AD 2021-02-13 and would add airplanes to the applicability. 
+This proposed AD would also add inspections for an extended inspection 
+area. The FAA is proposing this AD to address the unsafe condition on 
+these products.
+
+DATES: The FAA must receive comments on this proposed AD by June 8, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-3865; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Boeing material identified in this proposed AD, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; website myboeingfleet.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2026-3865.
+
+FOR FURTHER INFORMATION CONTACT: Luis Cortez-Muniz, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3958; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2026-3865; 
+Project Identifier AD-2025-01395-T'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each
+
+[[Page 21745]]
+
+substantive verbal contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Luis 
+Cortez-Muniz, Aviation Safety Engineer, FAA, 2200 South 216th St., Des 
+Moines, WA 98198; phone: 206-231-3958; email: [email&#160;protected]. Any commentary that the FAA receives that is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The FAA issued AD 2021-02-13, Amendment 39-21396 (86 FR 10776, 
+February 23, 2021) (AD 2021-02-13), for certain The Boeing Company 
+Model 737-600, -700, -700C, -800, and -900 series airplanes. AD 2021-
+02-13 was prompted by reports of cracks in the bear strap from station 
+(STA) 290 to STA 296, and between stringers S-8R and S-9R, sometimes 
+common to fasteners in the gap cover and emanating from rough sanding 
+marks found on the surface of the bear strap. AD 2021-02-13 requires 
+inspections of the fuselage skin and bear strap at the forward galley 
+door between certain stations for cracks, and applicable on-condition 
+actions. The agency issued AD 2021-02-13 to address cracking of the 
+bear strap, which could result in severing of the bear strap, possibly 
+leading to uncontrolled decompression and loss of structural integrity 
+of the airplane.
+
+Actions Since AD 2021-02-13 Was Issued
+
+    Since the FAA issued AD 2021-02-13, the FAA received a report that 
+during routine maintenance, a crack was found on the forward galley 
+door bear strap of a Model 737-900ER series airplane, which is not 
+included in the applicability of AD 2021-02-13. In addition, cracks 
+were found in the bear strap between stringers S-7R and S-9R, and the 
+FAA determined that inspections of the surrounding stub frame for 
+cracking are necessary. The FAA has determined that these additional 
+areas require inspections, and Model 737-600, -700, -700C, -800, -900, 
+and -900ER series airplanes having line numbers 1763 and subsequent are 
+subject to the same unsafe condition.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Alert Requirements Bulletin 737-53A1383 RB, 
+Revision 3, dated July 30, 2025. This material specifies the following 
+procedures including options, depending on configuration, and 
+applicable on-condition actions:
+     Internal general visual inspection of the bear strap and 
+external general visual inspection of the fuselage skin and gap cover 
+for any repair.
+     External general visual inspection of the fuselage skin 
+and gap cover for any external repair.
+     Internal general visual inspection of the forward galley 
+door cutout stub frame for any repair.
+    On-condition actions include obtaining and following alternative 
+inspection instructions and doing the inspections if repairs are found, 
+repetitive HFEC inspections for cracks, low frequency eddy current 
+(LFEC) inspections for cracks, and replacement or repair.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Proposed AD Requirements in This NPRM
+
+    Although this proposed AD does not explicitly restate the 
+requirements of AD 2021-02-13, this proposed AD would retain all of the 
+requirements of AD 2021-02-13. Those requirements are referenced in the 
+material identified previously, which, in turn, is referenced in 
+paragraph (g) of this proposed AD.
+    This proposed AD would revise the applicability to add Model 737-
+900ER series airplanes and would add inspections for an extended 
+inspection area. This proposed AD would also require accomplishing the 
+actions specified in the material already described, except for any 
+differences identified as exceptions in the regulatory text of this 
+proposed AD.
+    For information on the procedures and compliance times, see this 
+material at regulations.gov under Docket No. FAA-2026-3865.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 1,965 airplanes of U.S. registry. The FAA estimates the 
+following costs to comply with this proposed AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+              Action                    Labor cost        Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection (retained action from   Up to 28 work-hours              $0  Up to $2,380.......  Up to $4,676,700.
+ AD 2021-02-13).                    x $85 per hour =
+                                    $2,380.
+Inspection of the stub frame (new  Up to 25 work-hours               0  Up to 2,125........  Up to 4,175,625.
+ proposed action).                  x $85 per hour =
+                                    $2,125.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary on-
+condition action that would be required based on the results of the 
+proposed inspection. The agency has no way of determining the number of 
+aircraft that might need this on-condition action:
+
+[[Page 21746]]
+
+
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                Action                            Labor cost              Parts cost        Cost per  product
+----------------------------------------------------------------------------------------------------------------
+External HFEC and LFEC inspection for   Up to 28 work-hours x $85 per               $0  Up to $2,380.
+ cracks.                                 hour = $2,380.
+HFEC inspection for cracks............  Up to 27 work-hours per                     $0  Up to $2,295 per
+                                         inspection cycle.                               inspection cycle.
+Stub frame replacement................  35 work-hours x $85 per hour =          $1,400  $4,375.
+                                         $2,975.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the bear strap replacement and other on-condition actions 
+specified in this proposed AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2021-02-13, Amendment 39-21396 
+(86 FR 10776, February 23, 2021), and
+0
+b. Adding the following new AD:
+
+The Boeing Company: Docket No. FAA-2026-3865; Project Identifier AD-
+2025-01395-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by June 8, 2026.
+
+(b) Affected ADs
+
+    This AD replaces AD 2021-02-13, Amendment 39-21396 (86 FR 10776, 
+February 23, 2021) (AD 2021-02-13).
+
+(c) Applicability
+
+    This AD applies to all The Boeing Company Model 737-600, -700, -
+700C, -800, -900, and -900ER series airplanes, certificated in any 
+category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 53, Fuselage.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of cracks in the bear strap from 
+station (STA) 290 to STA 296, and between stringers S-7R and S-9R, 
+sometimes common to fasteners in the gap cover and emanating from 
+rough sanding marks found on the surface of the bear strap, and by a 
+report of cracking outside the required inspection area. The FAA is 
+issuing this AD to address cracking of the fuselage skin, bear 
+strap, and stub frame. The unsafe condition, if not addressed, could 
+result in severing of the bear strap, possibly leading to 
+uncontrolled decompression and loss of structural integrity of the 
+airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Inspections and Corrective Actions
+
+    Except as specified by paragraph (h) of this AD: At the 
+applicable times specified in the ``Compliance'' paragraph of Boeing 
+Alert Requirements Bulletin 737-53A1383 RB, Revision 3, dated July 
+30, 2025, do all applicable actions identified in, and in accordance 
+with, the Accomplishment Instructions of Boeing Alert Requirements 
+Bulletin 737-53A1383 RB, Revision 3, dated July 30, 2025.
+    Note 1 to paragraph (g): Guidance for accomplishing the actions 
+required by this AD can be found in Boeing Alert Service Bulletin 
+737-53A1383, Revision 3, dated July 30, 2025, which is referred to 
+in Boeing Alert Requirements Bulletin 737-53A1383 RB, Revision 3, 
+dated July 30, 2025.
+
+(h) Exceptions to Requirements Bulletin Specifications
+
+    (1) Where the Compliance Time columns of the tables in the 
+``Compliance'' paragraph of Boeing Alert Requirements Bulletin 737-
+53A1383 RB, Revision 3, dated July 30, 2025, refer to the Revision 2 
+issue date of Requirements Bulletin 737-53A1383 RB, this AD requires 
+using the effective date of this AD.
+    (2) Where Boeing Alert Requirements Bulletin 737-53A1383 RB, 
+Revision 3, dated July 30, 2025, specifies contacting Boeing for 
+alternative inspections: This AD requires doing the alternative 
+inspections and applicable on-condition actions using a method 
+approved in accordance with the procedures specified in paragraph 
+(i) of this AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the certification office, 
+send it to the attention of the person identified in paragraph (j) 
+of this AD. Information may be emailed to: [email&#160;protected]. Before 
+using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational
+
+[[Page 21747]]
+
+Safety Branch, FAA, to make those findings. To be approved, the 
+repair method, modification deviation, or alteration deviation must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (3) AMOCs for repairs approved for AD 2021-02-13 are approved as 
+AMOCs for the corresponding provisions of Boeing Alert Requirement 
+Bulletin 737-53A1383, Revision 3, dated July 30, 2025, that are 
+required by paragraph (g) of this AD, for the area covered by the 
+repair only.
+
+(j) Additional Information
+
+    For more information about this AD, contact Luis Cortez-Muniz, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3958; email: [email&#160;protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Alert Requirements Bulletin 737-53A1383 RB, Revision 
+3, dated July 30, 2025.
+    (ii) [Reserved]
+    (3) For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website myboeingfleet.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on April 21, 2026.
+Victor Wicklund,
+Acting Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-07931 Filed 4-22-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

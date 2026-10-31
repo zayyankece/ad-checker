@@ -1,0 +1,510 @@
+
+[Federal Register Volume 91, Number 194 (Thursday, October 8, 2026)]
+[Proposed Rules]
+[Pages 64309-64315]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-20677]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-11799; Project Identifier MCAI-2026-00594-R]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Various Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+[[Page 64310]]
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all helicopters equipped with a radio (also known as radar) 
+altimeter. This proposed AD was prompted by the determination that 
+radio altimeters cannot be relied upon to perform their intended 
+function if they experience interference from wireless broadband 
+operations in the 3.7 to 3.98 GHz frequency band (5G Lower C-Band) 
+while operating in Canadian airspace. This proposed AD would require 
+revising the existing rotorcraft flight manual (RFM) for the helicopter 
+to incorporate limitations prohibiting certain operations requiring 
+radio altimeter data when operating within Canadian airspace. The FAA 
+is proposing this AD to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by November 
+23, 2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-11799; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: Ken Fairhurst, Continued Operational 
+Safety Technical Advisor, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 817-222-5390; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2026-11799; 
+Project Identifier MCAI-2026-00594-R'' at the beginning of your 
+comments. The most helpful comments reference a specific portion of the 
+proposal, explain the reason for any recommended change, and include 
+supporting data. The FAA will consider all comments received by the 
+closing date and may amend the proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Ken 
+Fairhurst, Continued Operational Safety Technical Advisor, FAA, 2200 
+South 216th St., Des Moines, WA 98198; phone: 817-222-5390; email: 
+[email&#160;protected]. Any commentary that the FAA receives which 
+is not specifically designated as CBI will be placed in the public 
+docket for this rulemaking.
+
+Background
+
+    The FAA issued AD 2021-23-13, Amendment 39-21811 (86 FR 69992, 
+December 9, 2021), (AD 2021-23-13), for all helicopters equipped with a 
+radio altimeter. AD 2021-23-13 was prompted by a determination that 
+radio altimeters cannot be relied upon to perform their intended 
+function if they experience interference from wireless broadband 
+operations in the 3.7-3.98 GHz frequency band (5G Lower C-Band). AD 
+2021-23-13 required revising the limitations section of the existing 
+RFM to incorporate limitations prohibiting certain operations requiring 
+radio altimeter data when in the presence of 5G Lower C-Band 
+interference as identified by Notices to Air Missions (NOTAMs). The 
+agency issued AD 2021-23-13 because radio altimeter anomalies that are 
+undetected by the automation or pilot, particularly close to the 
+ground, could lead to loss of continued safe flight and landing.
+    After the FAA issued AD 2021-23-13, the agency determined that 
+additional limitations were needed due to the continued deployment of 
+new 5G Lower C-Band base stations whose signals were expected to cover 
+most of the contiguous United States at transmission frequencies 
+between 3.7-3.98 GHz. Additionally, the FAA found that radio altimeter 
+anomalies could lead to increased pilot workload and pilot 
+desensitization to warnings. Therefore, the FAA issued AD 2023-11-07, 
+Amendment 39-22453 (88 FR 40685, June 22, 2023) (AD 2023-11-07), to 
+supersede AD 2021-23-13. For rotorcraft that are not radio altimeter 
+tolerant rotorcraft, AD 2023-11-07 maintains the RFM limitations 
+imposed by AD 2021-23-13 in areas identified by NOTAMs until June 30, 
+2023. After June 30, 2023, for rotorcraft that are not radio altimeter 
+tolerant rotorcraft, AD 2023-11-07 requires revising the RFM to 
+incorporate the same limitations but with expanded coverage for 
+operations in the entire contiguous U.S. airspace instead of only in 
+areas identified by NOTAMs. AD 2023-11-07 also provides an option to 
+modify the rotorcraft to become a radio altimeter tolerant rotorcraft 
+in order to terminate the RFM limitations.
+
+Actions Since AD 2023-11-07 Was Issued
+
+    Since the FAA issued AD 2023-11-07, Transport Canada, which is the 
+aviation authority for Canada, issued Transport Canada AD CF-2024-15, 
+dated May 15, 2024 (the MCAI), to correct an unsafe condition for all 
+helicopters equipped with a radio altimeter. The MCAI states that in 
+July 2023, Innovation, Science and Economic Development Canada (ISED), 
+Canada's spectrum regulator, published Standard Radio System Plans 
+(SRSP)-520 Issue 3,\1\ and Radio Standard Specifications (RSS)-192 
+Issue 5,\2\ which define the spectrum environment for the 3.45-3.90 GHz 
+frequency band in
+
+[[Page 64311]]
+
+Canada. The MCAI further states that spectrum auctions for the 3.45-
+3.65 GHz and the 3.65-3.9 GHz band were completed in 2021 and 2023, 
+respectively.
+---------------------------------------------------------------------------
+
+    \1\ https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/standard-radio-system-plans/srsp-520-technical-requirements-fixed-andor-mobile-systems-including-flexible-use-broadband-systems.
+    \2\ https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/devices-and-equipment/radio-equipment-standards/radio-standards-specifications-rss/rss-192-flexible-use-broadband-equipment-operating-band-3450-3900-mhz.
+---------------------------------------------------------------------------
+
+    In July 2023, ISED implemented measures to mitigate Lower C-band 
+interference to radio altimeters, which provide the Canadian airspace 
+greater protection from 5G Lower C-band interference to radio 
+altimeters as compared to the Lower C-band environment in the 
+contiguous U.S. airspace. These measures include exclusion and 
+protection zones and airport effective isotropic radiated power (EIRP) 
+elevation mask (a restriction that requires nearby cell tower signals 
+to be angled downward so they do not interfere with aircraft 
+altimeters) at certain airport runways covering the majority of air 
+traffic in Canada, as well as nationwide reduced fundamental power 
+emissions based on the degree of antenna uptilt above the horizon to 
+minimize emissions from 5G base stations toward aircraft.
+    In late March 2026, Transport Canada notified the FAA that, 
+beginning July 1, 2026, changes in the 5G Lower C-band protection 
+mitigations established by ISED in 2023 would result in a more severe 
+5G interference environment in the Canadian airspace. Exclusion and 
+protection zones at airports will no longer exist and updates to the 
+airport EIRP elevation mask, nationwide tilt restriction, emitter 
+height limitation, and reduced spurious emissions will only protect 
+rotorcraft that are radio altimeter tolerant. The change in mitigations 
+will result in an unsafe condition in the Canadian 5G interference 
+environment.
+    Transport Canada determined that radio altimeters cannot be relied 
+upon to perform their intended function if they experience interference 
+from wireless broadband operations in the 3.45-3.98 GHz frequency band. 
+Transport Canada based its determination on the same unsafe condition 
+found by the FAA in AD 2023-11-07. As a result, the MCAI requires 
+revising the limitations section of the existing RFM to incorporate 
+limitations prohibiting certain operations requiring radio altimeter 
+data, due to the presence of 5G Lower C-Band interference, while 
+operating in Canadian airspace.
+    As terminating action for the operating limitations, the MCAI 
+provides that operators may modify their radio altimeters to 
+demonstrate the tolerances for emissions as specified in the MCAI and 
+AD 2023-11-07. You may examine the MCAI in the AD docket at 
+regulations.gov under Docket No. FAA-2026-11799.
+    The FAA is proposing this AD because radio altimeter anomalies that 
+are undetected by the automation or pilot, particularly close to the 
+ground, could lead to loss of continued safe flight and landing.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM because the agency has determined the 
+unsafe condition described previously is likely to exist or develop in 
+other products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    For non-radio altimeter tolerant rotorcraft: Before further flight 
+in Canadian airspace, this proposed AD would require revising the 
+existing RFM for the helicopter to incorporate limitations prohibiting 
+the following when operating in Canadian airspace.
+     Performing approaches that require radio altimeter 
+minimums for rotorcraft offshore operations. Barometric minimums must 
+be used for these operations instead.
+     Engaging hover autopilot modes that require radio 
+altimeter data.
+     Engaging Search and Rescue (SAR) autopilot modes that 
+require radio altimeter data.
+     Performing takeoffs and landings in accordance with any 
+procedure (Category A, Category B, or by Performance Class in the 
+Rotorcraft Flight Manual or Operations Specification) that requires the 
+use of radio altimeter data.
+    This proposed AD provides that modifying the rotorcraft from a non-
+radio altimeter tolerant rotorcraft to a radio altimeter tolerant 
+rotorcraft terminates the RFM operating limitations.
+    A rotorcraft that is a radio altimeter tolerant rotorcraft using a 
+method approved by the FAA for AD 2023-11-07 is also a radio altimeter 
+tolerant rotorcraft for the purposes of paragraph (g)(1) of this 
+proposed AD.
+
+Differences Between This Proposed AD and the MCAI
+
+    The MCAI specifies the fundamental emissions are in the 3.45-3.98 
+GHz frequency band, while this proposed AD specifies the 3.7-3.98 GHz 
+frequency band. AD 2023-11-07 identified an unsafe condition from 
+wireless broadband transmissions in the 3.7-3.98 GHz frequency band and 
+this proposed AD is based on that same determination. In addition, 
+rotorcraft determined to be a radio altimeter tolerant rotorcraft for 
+the purposes of AD 2023-11-07, which has demonstrated the performance 
+tolerances for fundamental emissions within the 3.7-3.98 GHz frequency 
+band, would also be a radio altimeter tolerant rotorcraft for purposes 
+of this proposed AD. Frequencies less than 3.7 GHz are further away 
+from the frequency bands used by radio altimeters (4.2 to 4.4 GHz), so 
+rotorcraft determined to be tolerant in the range of 3.7-3.98 GHz are 
+also tolerant to emissions less than 3.7 GHz.
+
+Interim Action
+
+    The FAA considers this proposed AD to be an interim action. The FAA 
+may consider further rulemaking if the Canadian 5G C-band interference 
+environment changes or if Canada issues an operational rule to address 
+5G C-band interference with radio altimeters.
+
+Costs of Compliance
+
+    The FAA notes that since operators must comply with this proposed 
+AD before a rotorcraft's first flight in Canadian airspace, rotorcraft 
+that do not operate in Canada will not have to comply and therefore 
+will have no costs under this proposed AD.
+    The FAA estimates that there are approximately 5,500 helicopters of 
+U.S. registry that are likely to have a radio altimeter installed. The 
+FAA also estimates that 1,128 of the 5,500 helicopters of U.S. registry 
+are equipped to be able to perform the operations prohibited by this 
+proposed AD for non-radio altimeter rotorcraft. While the FAA expects 
+that some of the affected rotorcraft have been modified (either by 
+replacing the radio altimeter or adding radio altimeter filters), the 
+FAA does not have definitive data on how many rotorcraft have been 
+become radio altimeter tolerant rotorcraft since July 2023, and 
+therefore this proposed AD retains the estimates from AD 2023-11-07. 
+The FAA estimates the following costs to comply with this proposed AD:
+
+[[Page 64312]]
+
+
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+RFM revision for non-radio altimeter    1 work-hour x $85 per                 $0             $85        $467,500
+ tolerant rotorcraft.                    hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs for operators who elect to 
+modify their helicopter to be radio altimeter tolerant:
+
+                                        Estimated Costs for Modification
+----------------------------------------------------------------------------------------------------------------
+                Action                        Labor cost               Parts cost            Cost per product
+----------------------------------------------------------------------------------------------------------------
+Modification (replacement)...........                                                    Up to $60,000 per
+                                                                                          helicopter (includes
+                                                                                          labor and parts).
+Modification (filter)................  Up to 24 work-hours x    Up to $12,000..........  Up to $14,040 per
+                                        $85 per hour = $2,040.                            filter.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Various Helicopters: Docket No. FAA-2026-11799; Project Identifier 
+MCAI-2026-00594-R.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by November 23, 2026.
+
+ (b) Affected ADs
+
+    None.
+
+ (c) Applicability
+
+    This AD applies to all helicopters, certificated in any 
+category, equipped with a radio (also known as radar) altimeter. 
+These radio altimeters are installed on various helicopter models 
+including, but not limited to, the helicopters for which the design 
+approval holder is identified in paragraphs (c)(1) through (20) of 
+this AD.
+
+(1) Airbus Helicopters
+(2) Airbus Helicopters Deutschland GmbH
+(3) Air Space Design and Manufacturing, LLC
+(4) Bell Textron Canada Limited
+(5) Bell Textron Inc.
+(6) Brantly International, Inc.
+(7) Centerpointe Aerospace Inc.
+(8) Columbia Helicopters, Inc.
+(9) The Enstrom Helicopter Corporation
+(10) Erickson Air-Crane Incorporated, DBA Erickson Air-Crane
+(11) Helicopteres Guimbal
+(12) Siam Hiller Holdings, Inc.
+(13) Kaman Aerospace Corporation
+(14) Leonardo S.p.a.
+(15) MD Helicopters Inc.
+(16) PZL-Swidnik S.A.
+(17) Robinson Helicopter Company
+(18) Schweizer RSG LLC
+(19) Scotts-Bell 47 Inc.
+(20) Sikorsky Aircraft Corporation
+
+ (d) Subject
+
+    Air Transport Association (ATA) of America Code 3444, Ground 
+Proximity System.
+
+(e) Unsafe Condition
+
+    This AD was prompted by the determination that radio altimeters 
+cannot be relied upon to perform their intended function if they 
+experience interference from wireless broadband operations in the 
+3.7 to 3.98 GHz frequency band (5G Lower C-Band) while operating in 
+Canadian airspace. The FAA is issuing this AD because radio 
+altimeter anomalies that are undetected by the automation or pilot, 
+particularly while close to the ground, could lead to loss of 
+continued safe flight and landing.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definitions
+
+    (1) For purposes of this AD, a ``radio altimeter tolerant 
+rotorcraft'' is one for which the radio altimeter, as installed, 
+demonstrates the tolerances specified in paragraphs (g)(1)(i) and 
+(ii) of this AD, using a method approved by the FAA. No actions are 
+required by this AD for radio altimeter tolerant rotorcraft.
+    (i) Tolerance to radio altimeter interference, for the 
+fundamental emissions (3.7-3.98 GHz), at or above the power spectral 
+density (PSD) curve threshold
+
+[[Page 64313]]
+
+specified in figure 1 to paragraph (g)(1)(i) of this AD.
+BILLING CODE 4910-13-P
+[GRAPHIC] [TIFF OMITTED] TP08OC26.028
+
+    (ii) Tolerance to radio altimeter interference, for the spurious 
+emissions (4.2-4.4 GHz), at or above the PSD curve threshold 
+specified in figure 2 to paragraph (g)(1)(ii) of this AD.
+
+[[Page 64314]]
+
+[GRAPHIC] [TIFF OMITTED] TP08OC26.029
+
+BILLING CODE 4910-13-C
+    (2) For purposes of this AD, a ``non-radio altimeter tolerant 
+rotorcraft'' is one for which the radio altimeter, as installed, 
+does not demonstrate the tolerances specified in paragraphs 
+(g)(1)(i) and (ii) of this AD.
+
+(h) Rotorcraft Flight Manual (RFM) Revision
+
+    For non-radio altimeter tolerant rotorcraft: Before further 
+flight in Canadian airspace, revise the Limitations Section of the 
+existing RFM for the helicopter by including the information 
+specified in figure 3 to paragraph (h) of this AD. This may be done 
+by inserting a copy of figure 3 to paragraph (h) of this AD into the 
+existing RFM for the helicopter. The action required by this 
+paragraph may be performed by the owner/operator (pilot) holding at 
+least a private pilot certificate and must be entered into the 
+aircraft records showing compliance with this AD in accordance with 
+14 CFR 43.9(a)(1) through (4) and 14 CFR 91.417(a)(2)(v). The record 
+must be maintained as required by 14 CFR 91.417 or 14 CFR 135.439.
+
+[[Page 64315]]
+
+[GRAPHIC] [TIFF OMITTED] TP08OC26.030
+
+(i) Terminating Action for RFM Limitations
+
+    (1) Modifying the rotorcraft from a non-radio altimeter tolerant 
+rotorcraft to a radio altimeter tolerant rotorcraft terminates the 
+limitations in paragraph (h) of this AD for that rotorcraft.
+    (2) After modifying the rotorcraft to a radio altimeter tolerant 
+rotorcraft, the limitations specified by paragraph (h) of this AD 
+may be removed from the RFM.
+
+(j) Alternative Methods of Compliance (AMOCs):
+
+    (1) The Manager, Operational Safety Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or responsible Flight 
+Standards Office, as appropriate. If sending information directly to 
+the manager of the Operational Safety Branch, send it to the 
+attention of the person identified in paragraph (k) of this AD. 
+Information may be emailed to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+
+(k) Additional Information
+
+    For more information about this AD, contact Ken Fairhurst, 
+Continued Operational Safety Technical Advisor, FAA, 2200 South 
+216th St., Des Moines, WA 98198; phone: 817-222-5390; email: 
+[email&#160;protected].
+
+(l) Material Incorporated by Reference
+
+    None.
+
+    Issued on October 5, 2026.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-20677 Filed 10-7-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

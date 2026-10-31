@@ -1,0 +1,211 @@
+
+[Federal Register Volume 82, Number 154 (Friday, August 11, 2017)]
+[Proposed Rules]
+[Pages 37554-37555]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2017-16775]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-6417; Product Identifier 2015-NM-134-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA withdraws a notice of proposed rulemaking (NPRM) that 
+published on May 10, 2016. Since the NPRM was issued, we have 
+determined that the identified unsafe condition is adequately addressed 
+by existing actions. Accordingly, the NPRM is withdrawn.
+
+DATES:  As of August 11, 2017, the proposed rule, which was published 
+in the Federal Register on May 10, 2016 (81 FR 28770), is withdrawn.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+6417; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD action, the NPRM (81 FR 28770, May 10, 2016) (``the 
+NPRM''), the regulatory evaluation, any comments received, and other 
+information. The address for the Docket Office (telephone 800-647-5527) 
+is the Docket Management Facility, U.S. Department of Transportation, 
+Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 
+New Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Serj Harutunian, Aerospace Engineer, 
+Propulsion Section, FAA, Los Angeles Aircraft Certification Office 
+(ACO) Branch, 3960 Paramount Boulevard, Lakewood, CA 90712-4137; phone: 
+562-627-5254; fax: 562-627-5210; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We proposed to amend part 39 of the Federal Aviation Regulations 
+(14 CFR part 39) with an NPRM for a new AD for all The Boeing Company 
+Model DC-10-10 and DC-10-10F airplanes, Model DC-10-15 airplanes, Model 
+DC-10-30 and DC-10-30F (KC-10A and KDC-10) airplanes, Model DC-10-40 
+and DC-10-40F airplanes, Model MD-10-10F and MD-10-30F airplanes, and 
+Model MD-11 and MD-11F airplanes. The NPRM published in the Federal 
+Register on May 10, 2016 (81 FR 28770). The proposed AD would have 
+required replacement of the fuel pump housing electrical connector or 
+replacement of the fuel pump housing; repetitive inspections for proper 
+operation of the fuel pump, and corrective actions if necessary; and 
+revising the maintenance or inspection program to incorporate new 
+airworthiness limitations. The proposed AD also would have required, 
+for certain airplanes, a general visual inspection of the protective 
+cap and replacement if necessary. The NPRM was prompted by results from 
+fuel system reviews conducted by the manufacturer and multiple reports 
+of fuel pump housing electrical connector failures related to ingress 
+of airplane fluids. The proposed actions were intended to prevent 
+failure of the fuel pump housing electrical connector, which could 
+result in a potential ignition source in a fuel tank and consequent 
+fire or explosion.
+
+Actions Since the NPRM Was Issued
+
+    Since we issued the NPRM, we have determined that the identified 
+unsafe condition is adequately addressed by existing actions.
+
+Comments
+
+    We gave the public the opportunity to participate in considering 
+the NPRM. The following presents the comments received on the proposal 
+and the FAA's response to each comment. Multiple commenters (Boeing, 
+FedEx, United Parcel Service (UPS), and Lufthansa Cargo) requested 
+certain changes to the NPRM that are considered moot in light of this 
+withdrawal.
+
+Requests To Withdraw the NPRM
+
+    UPS stated that the unsafe condition identified in the NPRM is 
+addressed by Boeing Service Bulletin MD11-28-145, dated July 15, 2014 
+(installation of sealed terminal lugs on the existing GEN 1 fuel pump 
+connector), in combination with repetitive inspections, which 
+accomplishes the same intent as having installed the GEN 4 fuel pump 
+connector. UPS stated that AD 2016-04-16, Amendment 39-18410 (81 FR 
+12806, dated March 11, 2016) (``AD 2016-04-16''), also addresses issues 
+with the fuel system. UPS concluded that sealing of the current GEN 1 
+fuel pump connector via Boeing Service Bulletin MD11-28-145, dated July 
+15, 2014, in conjunction with the installation of the fault current 
+detectors installed via Boeing Alert Service Bulletin MD11-28A133, 
+dated June 5, 2014 (referenced as an appropriate source of service 
+information in AD 2016-04-16), including a repetitive 24-month 
+inspection of the connectors as required by paragraph (j) of AD 2016-
+04-16, addresses the unsafe condition described by the NPRM. UPS stated 
+that, furthermore, the installation of the ``uncommanded on'' system 
+via Boeing Service Bulletin MD11-28-137, dated June 24, 2014 
+(referenced as an appropriate source of service information in AD 2016-
+04-16), provides an additional level of safety in all pump positions 
+where the tanks normally empty and can potentially support a 
+combustible environment. UPS stated that the other pump positions on 
+the airplane remain submerged in fuel, thus not providing a combustible 
+environment.
+    FedEx stated that according to the fire pyramid or fire triangle, 
+three elements--oxygen, fuel (jet fuel), and heat (ignition)--are 
+needed in order to have fire or explosion. FedEx noted that all of the 
+main fuel pumps on MD11/DC10 airplanes are covered by fuel during all 
+flight phases. FedEx stated that these pumps do not meet the 
+aforementioned condition where fuel vapors are present surrounding the 
+pump. FedEx remarked that only pumps in fuel tanks that become empty 
+during flights, i.e., auxiliary tanks and tail tanks, should be 
+affected by the proposed AD. Based on this logic, FedEx concluded that 
+the proposed AD should mandate the replacement of only the connector 
+assemblies in any fuel tank that might normally be empty during flight. 
+FedEx noted that AD 2016-04-16 has already addressed this safety 
+concern and required the installation of fault current detectors in all 
+fuel pumps. FedEx also noted that AD 2002-13-10, Amendment 39-12798 (67 
+FR 45053, dated July 8, 2002), requires repetitive inspections until a 
+new connector assembly is certified.
+    We infer that FedEx and UPS are requesting we withdraw the NRPM 
+because those commenters stated that the identified unsafe condition is 
+already addressed.
+    We agree to withdraw the NPRM because the identified unsafe 
+condition is adequately addressed by existing actions. When we issued 
+the NPRM, we
+
+[[Page 37555]]
+
+had determined that the NPRM was necessary to comply with the 
+regulation titled ``Transport Airplane Fuel Tank System Design Review, 
+Flammability Reduction and Maintenance and Inspection Requirements'' 
+(66 FR 23086, May 7, 2001). In addition to new airworthiness standards 
+for transport airplanes and new maintenance requirements, this rule 
+included Special Federal Aviation Regulation No. 88 (``SFAR 88,'' 
+Amendment 21-78, and subsequent Amendments 21-82 and 21-83).
+    Subsequently, we have determined the fuel pump connector redesign/
+improvement issue is adequately addressed by the actions required by AD 
+2016-04-16. The risk of the unsafe condition developing during the 
+remaining life of the airplanes identified in the applicability of the 
+proposed AD (e.g., the TriJet fleet) has been greatly reduced by the 
+installation of additional ignition prevention design features such as 
+fault current detectors, automatic pump shutoff, and uncommanded dry 
+running detection systems, which are mandated by AD 2016-04-16. The 
+risk of a fuel tank explosion in a Trijet airplane with low 
+flammability exposure time fuel tanks is not foreseeable.
+    We are considering further rulemaking to revise AD 2016-04-16 to 
+include an optional replacement, i.e., installing the new connectors 
+introduced in Boeing Service Bulletin DC10-28-264, dated May 15, 2015, 
+and Boeing Service Bulletin MD11-28-146, dated May 15, 2015, as 
+specified in the NPRM. Accomplishing this option would end the 24-month 
+repetitive inspections required by paragraph (j) of AD 2016-04-16 for 
+that airplane.
+
+FAA's Conclusions
+
+    Upon further consideration, we have determined that the NPRM is not 
+necessary to address the identified safety concern. Accordingly, the 
+NPRM is withdrawn.
+    Withdrawal of the NPRM does not preclude the FAA from issuing 
+another related action or commit the FAA to any course of action in the 
+future.
+
+Regulatory Impact
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule and therefore is not covered under Executive Order 
+12866, the Regulatory Flexibility Act, or DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979).
+
+Authority for This Rulemaking
+
+    This withdrawal of an NPRM is issued in accordance with authority 
+delegated by the Executive Director, Aircraft Certification Service, as 
+authorized by FAA Order 8000.51C. In accordance with that order, 
+issuance of ADs is normally a function of the Compliance and 
+Airworthiness Division, but during this transition period, the 
+Executive Director has delegated the authority to issue ADs applicable 
+to transport category airplanes to the Director of the System Oversight 
+Division.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, we withdraw the NPRM, Docket No. FAA-2016-6417, 
+Product Identifier 2015-NM-134-AD, which was published in the Federal 
+Register on May 10, 2016 (81 FR 28770).
+
+    Issued in Renton, Washington, on August 2, 2017.
+Jeffrey E. Duven,
+Director, System Oversight Division, Aircraft Certification Service.
+[FR Doc. 2017-16775 Filed 8-10-17; 8:45 am]
+ BILLING CODE 4910-13-P
+
+

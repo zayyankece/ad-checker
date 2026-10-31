@@ -41,10 +41,8 @@ ANSWER_TOOL = {
 
 
 def _client():
-    if not os.getenv("ANTHROPIC_API_KEY"):
-        return None
-    import anthropic
-    return anthropic.Anthropic()
+    from adc.llm import client
+    return client()
 
 
 def parse(q, fleet):
@@ -176,11 +174,9 @@ def answer_applicability(con, p, fleet, doc_ids, out):
 
 
 def llm_claims(client, q, chunks):
+    from adc.llm import call_tool
     ctx = "\n\n".join(f"[{c['chunk_id']}] ({c['section']}, page {c['page']})\n{c['text']}" for c in chunks)
-    msg = client.messages.create(model=MODEL_ANSWER, max_tokens=1500, system=ANSWER_SYSTEM, tools=[ANSWER_TOOL],
-                                 tool_choice={"type": "tool", "name": "emit_answer"},
-                                 messages=[{"role": "user", "content": f"QUESTION: {q}\n\nSOURCE CHUNKS:\n{ctx}"}])
-    data = next(b.input for b in msg.content if b.type == "tool_use")
+    data = call_tool(client, MODEL_ANSWER, ANSWER_SYSTEM, ANSWER_TOOL, f"QUESTION: {q}\n\nSOURCE CHUNKS:\n{ctx}")
     return data.get("insufficient", False), data.get("claims", [])
 
 
@@ -220,12 +216,18 @@ def answer_lookup(con, q, p, doc_ids, out, client):
     out["warnings"].insert(0, "All documents in this dataset are proposed rules (NPRMs) unless stated otherwise.")
     for attempt in range(2):
         if client:
-            insufficient, claims = llm_claims(client, q, chunks)
+            try:
+                insufficient, claims = llm_claims(client, q, chunks)
+            except Exception as e:
+                out["llm_error"] = str(e)[:200]
+                client = None
+        if client:
             if insufficient:
                 return refuse("R1", "The retrieved documents do not contain the answer.", parsed=p, latency=out["latency"],
                               retrieved=[c["chunk_id"] for c in chunks])
         else:
-            claims, out["mode"] = extractive_claims(q, chunks), "extractive (no API key)"
+            claims = extractive_claims(q, chunks)
+            out["mode"] = "extractive (LLM call failed)" if out.get("llm_error") else "extractive (no API key)"
         errs = verify(claims, chunks)
         if not errs:
             out["claims"] = [cite(con, c["chunk_id"], c["quote"], c["text"]) for c in claims]

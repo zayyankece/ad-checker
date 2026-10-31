@@ -1,0 +1,442 @@
+
+[Federal Register Volume 91, Number 71 (Tuesday, April 14, 2026)]
+[Proposed Rules]
+[Pages 19087-19089]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-07218]
+
+
+
+[[Page 19087]]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-3483; Project Identifier AD-2024-00454-R]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Columbia Helicopters, Inc. and 
+Restricted Category Model CH-47D Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all Columbia Helicopters, Inc. Model 234 helicopters and all 
+Restricted Category Model CH-47D helicopters. This proposed AD was 
+prompted by reports of corrosion detected on certain flight control 
+rigid connecting links (connecting link). This proposed AD would 
+require repetitive borescope inspections of the connecting links for 
+corrosion and, depending on the results of the inspection, repair of 
+the corrosion or replacement of the connecting link with a serviceable 
+part. This proposed AD would also require reporting the results of 
+these inspections and would prohibit installing a certain part-numbered 
+connecting link or a connecting link with an unknown part number on a 
+helicopter unless certain requirements are met. The FAA is proposing 
+this AD to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by May 29, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-3483; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: David Herron, Aviation Safety 
+Engineer, FAA, 3960 Paramount Boulevard, Lakewood, CA 90712; phone: 
+(206) 231-3544; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under ADDRESSES. Include ``Docket No. FAA-2026-3483; Project Identifier 
+AD-2024-00454-R'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may revise 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to David 
+Herron, Aviation Safety Engineer, FAA, 3960 Paramount Boulevard, 
+Lakewood, CA 90712. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The FAA received reports regarding corrosion detected on connecting 
+links with part numbers (P/N) 145C3340-1, -2, -7, -8, -9, -10, -11, and 
+-12 installed on Columbia Helicopters, Inc. Model 234 helicopters and 
+Restricted Category Model CH-47D helicopters. The connecting links are 
+hollow control tubes that have witness holes to facilitate verification 
+of proper rod end thread engagement during installation. When 
+manufactured from non-stainless steel, these links are susceptible to 
+corrosion over time. This corrosion is internal to the connecting link 
+and is attributed to a lack of proper corrosion inhibition methods or 
+damage to corrosion protection during installation or inspection. This 
+condition, if not addressed, could result in connecting link failure 
+within the flight control system that could lead to reduced 
+controllability of the helicopter and reduced ability of the flight 
+crew to maintain the safe flight and landing of the helicopter.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require repetitive borescope inspections of 
+the connecting links to identify if there is light corrosion (less than 
+0.001 inches), moderate corrosion (0.001 to 0.005 inches), or severe 
+corrosion (greater than 0.005 inches), as defined in this proposed AD. 
+Depending on the results of these inspections, this proposed AD would 
+require repair of the corrosion or removal of the affected connecting 
+link from service and replacement with a serviceable part. 
+Additionally, this proposed AD would require reporting the results of 
+the borescope inspections to the FAA for four inspection cycles and 
+would prohibit the installation of an affected link on a helicopter 
+unless certain requirements are met.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 36 helicopters of U.S. registry. There are 324 connecting links 
+identified as having this unsafe condition. There are nine connecting 
+links installed per helicopter. The FAA has no way of knowing the 
+number of helicopters of U.S. registry that may have the affected 
+connecting links installed. The estimated cost on U.S. operators 
+reflects
+
+[[Page 19088]]
+
+the costs based on the number of connecting links that need to be 
+inspected and, if necessary, repaired or replaced.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Perform borescope inspection..........  1.5 work-hours x $85 per              $0            $128          $4,608
+                                         hour = $128.
+Report results........................  1 work-hour x $85 per                  0              85           3,060
+                                         hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any repairs or 
+replacements that would be required based on the results of the 
+proposed borescope inspection. The agency has no way of determining the 
+number of helicopters that might need these repairs or replacements:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                Action                        Labor cost               Parts cost            Cost per product
+----------------------------------------------------------------------------------------------------------------
+Remove corrosion.....................  2 work-hours x $85 per   $0.....................  $170 (per link).
+                                        hour = $170.
+Replace connecting links.............  2 work-hours x $85 per   Up to $2,535 (per link)  Up to $2,705 (per
+                                        hour = $170 (per link).                           link).
+----------------------------------------------------------------------------------------------------------------
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to be 
+approximately 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Send comments regarding this burden estimate 
+or any other aspect of this collection of information, including 
+suggestions for reducing this burden, to: Information Collection 
+Clearance Officer, Federal Aviation Administration, 10101 Hillwood 
+Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+    Columbia Helicopters, Inc. and Restricted Category Helicopters: 
+Docket No. FAA-2026-3483; Project Identifier AD-2024-00454-R.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by May 29, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the helicopters identified in paragraphs 
+(c)(1) and (2) of this AD:
+    (1) Columbia Helicopters, Inc. Model 234 helicopters, 
+certificated in any category; and
+    (2) Restricted Category Model CH-47D helicopters; current type 
+certificate holders include, but are not limited to, Billings Flying 
+Service, Inc., Columbia Helicopters, Inc., Tandem Rotor, LLC, and 
+Unical Air Inc.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 2700, Flight Control 
+System.
+
+[[Page 19089]]
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of corrosion detected on certain 
+connecting links. The FAA is issuing this AD to detect and address 
+corrosion on certain connecting links. The unsafe condition, if not 
+addressed, could result in failure of the connecting link within the 
+flight control system that could lead to reduced controllability of 
+the helicopter and reduced ability of the flight crew to maintain 
+the safe flight and landing of the helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) For helicopters identified in paragraphs (c)(1) and (2) of 
+this AD with a flight control rigid connecting link (connecting 
+link) having part numbers (P/N) 145C3340-1, 145C3340-2, 145C3340-7, 
+145C3340-8, 145C3340-9, 145C3340-10, 145C3340-11, or 145C3340-12, or 
+a link with an unknown P/N installed, within 30 days after the 
+effective date of this AD, accomplish a borescope inspection to 
+determine the level of corrosion (if any) by accomplishing the 
+actions required by paragraphs (g)(1)(i) and (ii) of this AD:
+    (i) With connecting links removed from the helicopter, loosen 
+the locknut and unscrew the rod end bearing on non-riveted end.
+    (ii) Using a borescope, inspect the interior surface of the 
+support rod for corrosion. Complete the following actions depending 
+on the results:
+    (A) For connecting links properly treated with primer and no 
+corrosion is found, before further flight, using a label or paint 
+pen, if unmarked, mark the tube with the part number, and mark the 
+following, ``H-47-24-ASAM-03 Compliant'' after each part number, and 
+repeat the borescope inspection at the intervals specified in table 
+1 to paragraph (g)(1)(ii) of this AD.
+    Note 1 to paragraph (g)(1)(ii)(A): This note applies to 
+paragraphs (g)(1)(ii)(A) through (C). Aviation Safety Action Message 
+(ASAM) Flight Control Link Corrosion Assessment and Repair, H-47-24-
+ASAM-03, dated April 26, 2024 (H-47-24-ASAM-03), contains 
+information regarding corrosion and part marking.
+    (B) If no corrosion is found and the connecting link is not 
+treated with primer, or if any light or moderate corrosion is found 
+on any connecting link during any inspection required by this AD, 
+depending on the condition found, before further flight, repair the 
+primer defects or remove or repair the corrosion by using a method 
+approved by the Manager, West Certification Branch, FAA. For a 
+repair method to be approved by the Manager, West Certification 
+Branch, FAA as required by this paragraph, the Manager's approval 
+letter must specifically refer to this AD. After repair as approved 
+by the FAA, mark the following, ``H-47-24-ASAM-03 Compliant'' after 
+each part number. Repeat the borescope inspection at the intervals 
+specified in table 1 to paragraph (g)(1)(ii) of this AD.
+    (C) For connecting links that are determined to have severe 
+corrosion during any inspection required by this AD, before further 
+flight, remove the connecting link from service and replace it with 
+a serviceable part. If the replacement connecting link is not marked 
+``H-47-24-ASAM-03 Compliant'', mark it in accordance with paragraph 
+(g)(1)(ii)(A) of this AD. Repeat the borescope inspection of the 
+replacement connecting link at the intervals specified in table 1 to 
+paragraph (g)(1)(ii) of this AD.
+
+    Table 1 to Paragraph (g)(1)(ii): Repetitive Borescope Inspection
+                                Intervals
+------------------------------------------------------------------------
+                                         Repetitive borescope inspection
+        Type of corrosion found                     intervals
+------------------------------------------------------------------------
+No Corrosion...........................  At intervals not to exceed 24
+                                          months.
+Light corrosion........................  At intervals not to exceed 18
+                                          months.
+Moderate corrosion.....................  At intervals not to exceed 12
+                                          months.
+Severe corrosion.......................  No repetitive inspections.
+------------------------------------------------------------------------
+
+    (2) Within 30 days after each inspection required by paragraph 
+(g)(1) of this AD or within 30 days after the effective date of this 
+AD, whichever occurs later, and for 3 reporting/inspection intervals 
+thereafter, report the results of these inspections to the FAA by 
+either email: [email&#160;protected]; or mail: Attn: 
+Continued Operational Safety, West Certification Branch (AIR-770), 
+FAA, 3960 Paramount Boulevard, Lakewood, CA 90712-4137.
+
+(h) Parts Installation Limitation
+
+    After the effective date of this AD, do not install a connecting 
+link having P/N 145C3340-1, 145C3340-2, 145C3340-7, 145C3340-8, 
+145C3340-9, 145C3340-10, 145C3340-11, or 145C3340-12 on any 
+helicopter, unless it is a serviceable part as defined in paragraph 
+(i)(1) of this AD.
+
+(i) Definitions
+
+    For the purpose of this AD:
+    (1) A ``serviceable'' part is a connecting link that has been 
+inspected and repaired if necessary, as required by paragraphs 
+(g)(1)(i) and (ii) of this AD, or a connecting link that is new 
+(zero hours).
+    (2) Light corrosion involves scaling, blistering, or flaking of 
+the surface and penetrates to a depth less than 0.001 inches.
+    (3) Moderate corrosion involves scaling, pitting, blistering, or 
+flaking of the surface area and penetrates to a depth between 0.001 
+inches to 0.005 inches.
+    (4) Severe corrosion involves scaling, pitting, blistering, or 
+flaking of the surface area and penetrates to a depth greater than 
+0.005 inches.
+
+(j) Special Flight Permits
+
+    Special flight permits, as described in 14 CFR 21.197 and 
+21.199, are not allowed.
+
+(k) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, West Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the West Certification Branch, send it to 
+the attention of the person identified in paragraph (l)(1) of this 
+AD and email to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(l) Additional Information
+
+    (1) For more information about this AD, contact David Herron, 
+Aviation Safety Engineer, FAA, 3960 Paramount Boulevard, Lakewood, 
+CA 90712; phone: (206) 231-3544; email: [email&#160;protected].
+    (2) For material identified in this AD that is not incorporated 
+by reference, contact U.S. Army Aviation and Missile Command 
+(AMCOM), AMCOM Safety, 5300 Martin Road, Redstone Arsenal, AL 35898-
+5000; phone: (256) 313-4870.
+
+(m) Material Incorporated by Reference
+
+    None.
+
+    Issued on April 10, 2026.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-07218 Filed 4-13-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

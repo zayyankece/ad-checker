@@ -1,0 +1,135 @@
+
+[Federal Register Volume 86, Number 48 (Monday, March 15, 2021)]
+[Proposed Rules]
+[Page 14293]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-05194]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2010-0720; Project Identifier 2010-SW-050-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Sikorsky Aircraft Corporation 
+(Sikorsky) Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to adopt a new airworthiness directive (AD) that would 
+have applied to certain Sikorsky Model S-92A helicopters. The NPRM was 
+prompted by a fatigue analysis conducted after a helicopter was found 
+with a severed main gearbox (MGB) mounting foot pad (foot pad) that 
+failed due to fatigue. The NPRM would have required revising the 
+airworthiness limitations section of the existing Instructions for 
+Continued Airworthiness (ICA) for your helicopter to reduce the life 
+limit of the MGB housing and replacing any MGB housing that exceeds the 
+life limit. Since issuance of the NPRM, the FAA has determined that the 
+affected MGB housings are no longer in service. Accordingly, the NPRM 
+is withdrawn.
+
+DATES: The FAA is withdrawing the proposed rule published July 21, 2010 
+(75 FR 42340), as of March 15, 2021.
+
+ADDRESSES:
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2010-
+0720; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD action, any comments received, and other information. The 
+street address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Michael Schwetz, Aerospace Engineer, 
+Aviation Safety Section, Boston ACO Branch, FAA, 1200 District Avenue, 
+Burlington, MA 01803; phone: 781-238-7761; email: 
+[email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The FAA has issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD that would apply to the specified products. The NPRM was 
+published in the Federal Register on July 21, 2010 (75 FR 42340). The 
+NPRM was prompted by a fatigue analysis conducted after a helicopter 
+was found with a severed foot pad that failed due to fatigue.
+    The NPRM proposed to require revising the existing airworthiness 
+limitations section of the ICA for your helicopter to reduce the life 
+limit of the MGB housing and replacing any MGB housing that exceeds the 
+life limit. The proposed actions were intended to address failure of 
+the foot pad, loss of the MGB, and subsequent loss of control of the 
+helicopter.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, the FAA has determined that the 
+affected MGB housings are no longer in service and the identified 
+unsafe condition no longer exists. Therefore, the FAA has determined 
+that AD action is not appropriate.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+Comments
+
+    The FAA gave the public the opportunity to comment on the NPRM. The 
+following presents the comments received on the NPRM and the FAA's 
+response to each comment.
+
+Request To Clarify Certain Language in the NPRM
+
+    Sikorsky Aircraft requested that the FAA clarify certain language 
+in the NPRM.
+    The FAA acknowledges that, in the event of publication of a final 
+rule, Sikorsky Aircraft's request would have been valuable in 
+clarifying the language. However, this NPRM will not be published as a 
+final rule. The FAA has determined that the affected MGB housings are 
+no longer in service, and that the NPRM is no longer necessary.
+
+FAA's Conclusions
+
+    Upon further consideration, the FAA has determined that the NPRM is 
+unnecessary. Accordingly, the NPRM is withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act, or DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, the notice of proposed rulemaking, Docket No. FAA-
+2010-0720, which was published in the Federal Register on July 21, 2010 
+(75 FR 42340), is withdrawn.
+
+    Issued on January 25, 2021.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2021-05194 Filed 3-12-21; 8:45 am]
+BILLING CODE 4910-13-P
+
+

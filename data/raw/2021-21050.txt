@@ -1,0 +1,185 @@
+
+[Federal Register Volume 86, Number 187 (Thursday, September 30, 2021)]
+[Proposed Rules]
+[Pages 54135-54136]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-21050]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2010-0427; Project Identifier 2008-SW-72-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Arrow Falcon Exporters, Inc. 
+(Previously Utah State University); California Department of Forestry; 
+Firefly Aviation Helicopter Services (Previously Erickson Air-Crane 
+Co.); Garlick Helicopters, Inc.; Global Helicopter Technology, Inc.; 
+Hagglund Helicopters, LLC (Previously Western International Aviation, 
+Inc.); International Helicopters, Inc.; Precision Helicopters, LLC; 
+Robinson Air Crane, Inc.; San Joaquin Helicopters (Previously Hawkins 
+and Powers Aviation, Inc.); S.M.&T. Aircraft (Previously US 
+Helicopters, Inc., UNC Helicopter, Inc., Southern Aero Corporation, and 
+Wilco Aviation); Smith Helicopters; Southern Helicopter, Inc.; 
+Southwest Florida Aviation International, Inc. (Previously Jamie R. 
+Hill and Southwest Florida Aviation); Tamarack Helicopters, Inc. 
+(Previously Ranger Helicopter Services, Inc.); US Helicopter, Inc. 
+(Previously UNC Helicopter, Inc.); West Coast Fabrication; and Williams 
+Helicopter Corporation (Previously Scott Paper Co.) Model AH-1G, AH-1S, 
+HH-1K, TH-1F, TH-1L, UH-1A, UH-1B, UH-1E, UH-1F, UH-1H, UH-1L, and UH-
+1P Helicopters; and Southwest Florida Aviation Model UH-1B (SW204 and 
+SW204HP) and UH-1H (SW205) Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to supersede Airworthiness Directive (AD) AD 2002-20-01, 
+which applies to certain Model HH-1K, TH-1F, TH-1L, UH-1A, UH-1B, UH-
+1E, UH-1F, UH-1H, UH-1L, and UH-1P helicopters; and Southwest Florida 
+Aviation Model SW204, SW204HP, SW205, and SW205A-1 helicopters, 
+manufactured by Bell Helicopter Textron, Inc. (BHTI) for the Armed 
+Forces of the United States. The NPRM would have required removing 
+certain serial-numbered tension-torsion (TT) straps from service, 
+reducing the retirement life for other TT straps, and establishing a 
+retirement life in terms of calendar time in addition to hours time-in-
+service (TIS) for certain other affected TT straps. The NPRM also would 
+have added two model helicopters to the applicability of the AD. The 
+NPRM was prompted by fatigue cracking in certain TT straps that have 
+stainless steel filament windings and a determination that corrosion 
+damage, which is related to calendar time, necessitated a calendar time 
+retirement life for certain TT straps in addition to the retirement 
+life based on hours TIS. The NPRM was also prompted by fatigue cracking 
+in other TT straps with encased thin stainless steel plates. Since 
+issuance of the NPRM, the FAA has re-reviewed the available information 
+and determined that the totality of the available information does not 
+support issuance of a final rule. Accordingly, the NPRM is withdrawn.
+
+DATES: As of September 30, 2021 the proposed rule, which was published 
+in the Federal Register on April 22, 2010 (75 FR 20933), is withdrawn.
+
+ADDRESSES: 
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2010-
+0427; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD action, any comments received, and other information. The 
+street address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Jurgen Priester, Aviation Safety 
+Engineer, Delegation Oversight Section, DSCO Branch, FAA, 10101 
+Hillwood Pkwy., Fort Worth, TX 76177; telephone 817-222-5159; email 
+[email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+[[Page 54136]]
+
+Discussion
+
+    The FAA issued an NPRM that proposed to amend 14 CFR part 39 by 
+removing AD 2002-20-01, Amendment 39-12895 (67 FR 61771, October 2, 
+2002), which applies to restricted category Model HH-1K, TH-1F, TH-1L, 
+UH-1A, UH-1B, UH-1E, UH-1F, UH-1H, UH-1L, and UH-1P helicopters; and 
+Southwest Florida Aviation Model SW204, SW204HP, SW205, and SW205A-1 
+helicopters, manufactured by BHTI for the Armed Forces of the United 
+States. The NPRM published in the Federal Register on April 22, 2010 
+(75 FR 20933). The NPRM would have applied to Model AH-1G, AH-1S, HH-
+1K, TH-1F, TH-1L, UH -A, UH-1B, UH-1E, UH-1F, UH-1H, UH-1L, and UH-1P 
+helicopters with BHTI main rotor TT strap, part number (P/N) 204-011-
+113-1, 204-012-112-1, 204-012-112-5, 204-012-112-7, 204-012-122-1, 204-
+012-122-5, 204 310-101-101, or Bendix Energy Controls Co. P/N 2601139, 
+2601399, 2601400, or 2606650, installed; and Southwest Florida Aviation 
+Model UH-1B (SW204 and SW204HP) and UH-1H (SW205) helicopters. The NPRM 
+was prompted by fatigue cracking in certain TT straps that have 
+stainless steel filament windings and a determination that corrosion 
+damage, which is related to calendar time, necessitates a calendar time 
+retirement life for certain TT straps in addition to the retirement 
+life based on hours TIS. The NPRM was also prompted by fatigue cracking 
+in other TT straps with encased thin stainless steel plates.
+    The NPRM proposed to require removing certain serial-numbered TT 
+straps from service, reducing the retirement life for other TT straps, 
+and establishing a retirement life in terms of calendar time in 
+addition to hours TIS for certain other affected TT straps. The NPRM 
+also proposed to add two model helicopters to the applicability. The 
+proposed actions were intended to prevent failure of a TT strap, loss 
+of a main rotor blade, and subsequent loss of control of the 
+helicopter.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, the FAA has re-reviewed the available 
+information and failure data used to justify issuance of the NPRM, and 
+reviewed the service difficulty data produced since the NPRM was 
+issued. Through that review, the FAA determined that there have not 
+been any further reported problems with the affected part number TT 
+straps since the NPRM was issued. Based on that review, the FAA 
+concluded that the totality of the available information and the lack 
+of additional reports does not support issuance of a final rule. The 
+potential unsafe condition identified as the justification for issuance 
+of the NPRM has not materialized. Therefore, the FAA has determined 
+that AD action is not appropriate.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+Comments
+
+    The FAA gave the public the opportunity to comment on the NPRM and 
+received 38 comments. The FAA received comments from individual 
+commenters as well as from organizations on a variety of topics, 
+including the costs estimates, compliance times, and requests to 
+withdraw the NPRM. You may examine the comments received in the AD 
+docket at https://www.regulations.gov by searching for and locating 
+Docket No. FAA-2010-0427.
+    The FAA acknowledges these comments to the NPRM. However, because 
+the FAA is withdrawing the NPRM, the commenter's requests are no longer 
+necessary.
+
+FAA's Conclusions
+
+    Upon further consideration of the available information, the FAA 
+has determined that the NPRM is unnecessary. Accordingly, the NPRM is 
+withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act, or DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+0
+Accordingly, the notice of proposed rulemaking, Docket No. FAA-2010-
+0427, which was published in the Federal Register on April 22, 2010 (75 
+FR 20933), is withdrawn.
+
+    Issued on September 23, 2021.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2021-21050 Filed 9-29-21; 8:45 am]
+BILLING CODE 4910-13-P
+
+

@@ -1,0 +1,415 @@
+
+[Federal Register Volume 91, Number 176 (Monday, September 14, 2026)]
+[Proposed Rules]
+[Pages 58036-58039]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-18749]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-8805; Project Identifier MCAI-2025-01179-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Dassault Aviation Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all Dassault Aviation Model FALCON 6X and FALCON 7X airplanes, and 
+certain Model FALCON 900EX and FALCON 2000EX airplanes. This proposed 
+AD was prompted by reports of passenger seats sliding without passenger 
+input, which subsequent investigation determined to be caused by the 
+ring brakes and ring brake housing being out of allowed adjustment 
+tolerances, failing to lock the seat in place. This proposed AD would 
+require an inspection of each affected seat for discrepancies and 
+applicable on-condition actions. This proposed AD would also limit the 
+installation of affected seats under certain conditions. The FAA is 
+proposing this AD to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by October 29, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket
+
+[[Page 58037]]
+
+No. FAA-2026-8805; or in person at Docket Operations between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this NPRM, the mandatory continuing airworthiness information 
+(MCAI), any comments received, and other information. The street 
+address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For European Union Aviation Safety Agency (EASA) material 
+identified in this proposed AD, contact EASA, Konrad-Adenauer-Ufer 3, 
+50668 Cologne, Germany; telephone +49 221 8999 000; email 
+[email&#160;protected]. You may find this material on the EASA website at 
+ad.easa.europa.eu. It is also available at regulations.gov under Docket 
+No. FAA-2026-8805.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA 98198. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+
+FOR FURTHER INFORMATION CONTACT: Brenda Buitrago Perez, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: 516-288-7368; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2026-8805; 
+Project Identifier MCAI-2025-01179-T'' at the beginning of your 
+comments. The most helpful comments reference a specific portion of the 
+proposal, explain the reason for any recommended change, and include 
+supporting data. The FAA will consider all comments received by the 
+closing date and may amend this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Brenda Buitrago Perez, Aviation Safety Engineer, FAA, 1600 Stewart 
+Avenue, Suite 410, Westbury, NY 11590; phone: 516-288-7368; email: [email&#160;protected]. Any commentary that the FAA receives which is 
+not specifically designated as CBI will be placed in the public docket 
+for this rulemaking.
+
+Background
+
+    EASA, which is the Technical Agent for the Member States of the 
+European Union, has issued EASA AD 2025-0134, dated June 26, 2025 (EASA 
+AD 2025-0134) (also referred to as the MCAI), to correct an unsafe 
+condition for all Dassault Aviation Model FALCON 6X and FALCON 7X 
+airplanes, and certain Model FALCON 900EX and FALCON 2000EX airplanes. 
+The MCAI states that reports of passenger seats sliding without 
+passenger input were received. Relevant investigations determined that 
+the ring brakes and ring brake housing were out of allowed adjustment 
+tolerances and failed to lock the seat in place. This condition, if not 
+detected and corrected, could lead to failure of the affected seat to 
+remain in its position during critical phases of flight, which could 
+result in injury to passengers.
+    The FAA is proposing this AD to address the unsafe condition on 
+these products.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2026-8805.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    EASA AD 2025-0134 specifies procedures for accomplishment of a one-
+time inspection of affected seats for the following discrepancies: 
+failure of one or both ring brake assemblies to lock the seat during 
+the functional test, and incorrect tension in the mechanical assembly 
+and, depending on findings, on-condition actions. On-condition actions 
+include realigning the ring brake housing assembly, replacing any 
+affected brake assemblies, and adjusting the tension in the mechanical 
+assembly. EASA AD 2025-0134 also limits the installation of affected 
+seats to those that have been inspected and on which applicable 
+corrective actions have been accomplished. This material is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority has notified the FAA of the unsafe condition 
+described in the MCAI referenced above. The FAA is issuing this NPRM 
+after determining that the unsafe condition described previously is 
+likely to exist or develop in other products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in EASA AD 2025-0134 described previously, except for any differences 
+identified as exceptions in the regulatory text of this proposed AD.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some civil aviation 
+authority (CAA) ADs as the primary source of information for compliance 
+with requirements for corresponding FAA ADs. The FAA has been 
+coordinating this process with manufacturers and CAAs. As a result, the 
+FAA proposes to incorporate EASA AD 2025-0134 by reference in the FAA 
+final rule. This proposed AD would, therefore, require compliance with 
+EASA AD 2025-0134 in its entirety through that incorporation, except 
+for any differences identified as exceptions in the regulatory text of 
+this proposed AD. Using common terms that are the same as the heading 
+of a particular section in EASA AD 2025-0134 does not mean that 
+operators need comply only with that section. For example, where the AD 
+requirement refers to ``all required actions and compliance times,'' 
+compliance with this AD requirement is not limited to the section 
+titled ``Required Action(s) and Compliance Time(s)'' in EASA AD 2025-
+0134. Material required by EASA AD 2025-0134 for compliance will be 
+available at
+
+[[Page 58038]]
+
+regulations.gov under Docket No. FAA-2026-8805 after the FAA final rule 
+is published.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 148 airplanes of U.S. registry. The FAA estimates the following 
+costs to comply with this proposed AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+               Labor cost                   Parts cost         Cost per product         Cost on U.S. operators
+----------------------------------------------------------------------------------------------------------------
+3 work-hours x $85 per hour = $255 per                $0  $255 per seat.............  Up to $717,060.*
+ seat.
+----------------------------------------------------------------------------------------------------------------
+* The number of passenger seats varies by airplane configuration; the FAA estimates that there could be up to 19
+  passenger seats per airplane.
+
+    The FAA estimates the following costs to do any necessary on-
+condition actions that would be required based on the results of any 
+required actions. The FAA has no way of determining the number of 
+aircraft that might need these on-condition actions:
+
+                 Estimated Costs of On-Condition Actions
+------------------------------------------------------------------------
+           Labor cost                 Parts cost       Cost per product
+------------------------------------------------------------------------
+4 work-hours x $85 per hour =     $6,727 per seat...  $7,067 per seat.
+ $340 per seat.
+------------------------------------------------------------------------
+
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some or all of the costs of 
+this proposed AD may be covered under warranty, thereby reducing the 
+cost impact on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+    1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Dassault Aviation: Docket No. FAA-2026-8805; Project Identifier 
+MCAI-2025-01179-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by October 29, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the Dassault Aviation airplanes identified in 
+(c)(1) through (4) of this AD, certificated in any category, as 
+identified in European Union Aviation Safety Agency (EASA) AD 2025-
+0134, dated June 26, 2025 (EASA AD 2025-0134).
+    (1) Model FALCON 6X airplanes.
+    (2) Model FALCON 7X airplanes.
+    (3) Model FALCON 900EX airplanes.
+    (4) Model FALCON 2000EX airplanes.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 25, Equipment/
+Furnishings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of passenger seats sliding 
+without passenger input. Relevant investigations identified that the 
+ring brakes and ring brake housing were out of allowed adjustment 
+tolerances and failed to lock the seat in place. The unsafe 
+condition, if not detected and corrected, could lead to failure of 
+the affected seat to remain in its position during critical phases 
+of flight, which could result in injury to passengers.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraph (h) of this AD: Comply with all 
+required actions and compliance times specified in, and in 
+accordance with, EASA AD 2025-0134.
+
+(h) Exceptions to EASA AD 2025-0134
+
+    (1) Where EASA AD 2025-0134 refers to its effective date, this 
+AD requires using the effective date of this AD.
+    (2) Where paragraph (2) of EASA AD 2025-0134 specifies ``any 
+discrepancy is identified'', this AD requires replacing that text 
+with ``one or both ring brake assemblies fail to lock the seat on 
+the tracking tubes under the functional test criteria specified in
+
+[[Page 58039]]
+
+the SB; or any incorrect tension is found in the mechanical 
+assembly,''.
+    (3) Where paragraph (2) of EASA AD 2025-0134 specifies ``Where 
+B/E Aerospace UCT SB SB-3ABF0107-25-79 provides instructions to'', 
+this AD requires replacing that text with ``Where B/E Aerospace UCT 
+SB SB-3ABF0107-25-79 or the SB provides instructions to''.
+    (4) This AD does not adopt the ``Remarks'' section of EASA AD 
+2025-0134.
+    (5) Where the definition of Groups in EASA AD 2025-0134 
+specifies ``affected part'', this AD requires replacing that text 
+with ``affected seat''.
+
+(i) No Reporting Requirement
+
+    Although the material referenced in EASA AD 2025-0134 specifies 
+to submit certain information to the manufacturer, this AD does not 
+include that requirement.
+
+(j) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or responsible Flight Standards Office, as 
+appropriate. If sending information directly to the manager of the 
+International Validation Branch, send it to the attention of the 
+person identified in paragraph (k) of this AD and email to: 
+[email&#160;protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or EASA; or Dassault Aviation's EASA Design 
+Organization Approval (DOA). If approved by the DOA, the approval 
+must include the DOA-authorized signature.
+
+(k) Additional Information
+
+    For more information about this AD, contact Brenda Buitrago 
+Perez, Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 
+410, Westbury, NY 11590; phone: 516-288-7368; email: [email&#160;protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) European Union Aviation Safety Agency (EASA) AD 2025-0134, 
+dated June 26, 2025.
+    (ii) [Reserved]
+    (3) For EASA material identified in this AD, contact EASA, 
+Konrad-Adenauer-Ufer 3, 50668 Cologne, Germany; telephone +49 221 
+8999 000; email [email&#160;protected]. You may find this material on 
+the EASA website at ad.easa.europa.eu.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA 98198. For information on the availability of this 
+material at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on September 9, 2026.
+Christopher R. Parker,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-18749 Filed 9-11-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

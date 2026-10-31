@@ -1,0 +1,540 @@
+
+[Federal Register Volume 91, Number 92 (Wednesday, May 13, 2026)]
+[Proposed Rules]
+[Pages 26952-26955]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-09574]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-4633; Project Identifier MCAI-2025-01173-A]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Diamond Aircraft Industries Inc. 
+Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all Diamond Aircraft Industries Inc. (DAI) Model DA 40, DA 40 F, 
+and DA 40 NG airplanes. This proposed AD was prompted by several 
+reports of passenger door separation during flight. This proposed AD 
+would require revising the existing airplane flight manual (AFM) to 
+provide the flight crew with revised operating limitations, emergency 
+procedures, and normal operating procedures; inspecting the passenger 
+door latching mechanism and safety hook mechanism areas and performing 
+corrective action, as applicable; inspecting the safety hook, latching 
+bolts, front and rear door guide blocks, canopy and passenger door 
+warning light, carbon hinges, tension spring, retaining block, safety 
+hook push button, latching mechanism spring, gas spring, and door 
+frame; measuring the passenger door handle actuation force; modifying 
+the airplane with placards; replacing the gas spring; and replacing the 
+hook assembly, retaining block, door guide blocks, and door sealant if 
+necessary. The FAA is proposing this AD to address the unsafe condition 
+on these products.
+
+DATES: The FAA must receive comments on this NPRM by June 29, 2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-4633; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Diamond Aircraft Industries material identified in 
+this proposed AD, contact DAI, 1560 Crumlin Sideroad, London, Ontario, 
+Canada, N5V 1S2; phone: (519) 457-4041; email: diamondaircraft.com">support-canada@diamondaircraft.com; website: diamondaircraft.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 901 Locust, Kansas City, 
+MO 64106. For information on the availability of this material at the 
+FAA, call (817) 222-5110.
+
+FOR FURTHER INFORMATION CONTACT: Fatin Saumik, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: (516) 228-7300; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under ADDRESSES. Include ``Docket No. FAA-2026-4633; Project Identifier 
+MCAI-2025-01173-A'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Fatin 
+Saumik, Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+[[Page 26953]]
+
+Background
+
+    Transport Canada, which is the aviation authority for Canada, has 
+issued Transport Canada AD CF-2025-30, dated June 23, 2025 (Transport 
+Canada AD CF-2025-30) (also referred to as the MCAI), to correct an 
+unsafe condition on all DAI Model DA 40, DA 40 D, DA 40 F, and DA 40 NG 
+airplanes. The MCAI states that DAI received several reports of 
+passenger door separation. DAI attributed the root cause of certain 
+instances to the passenger door not being properly latched and 
+subsequent attempts to latch the passenger door in flight. DAI was 
+unable to find a definitive root cause of the remaining occurrences. 
+Passenger door separation, if not addressed, could result in damage to 
+the airplane structure and lead to loss of control of the airplane and 
+injury to persons on the ground. The MCAI requires updating the AFM, 
+modifying the airplane in the passenger door latching mechanism and 
+safety hook mechanism areas, repetitively inspecting the door latching 
+and safety hook mechanisms, and reporting all findings to DAI.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2026-4633.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Diamond Aircraft Mandatory Service Bulletin MSB 
+40-103/MSB F4-042/MSB D4-114/MSB 40NG-084 REV. 2, dated June 5, 2025 
+(issued as one document), published with Diamond Aircraft Work 
+Instruction WI-MSB 40-103/WI-MSB F4-042/WI-MSB D4-114/WI-MSB 40NG-084 
+REV. 2, dated June 5, 2025 (issued as one document). This material 
+specifies procedures for inspecting the passenger door latching 
+mechanism and safety hook mechanism areas and performing corrective 
+action, as applicable; inspecting the safety hook, latching bolts, 
+front and rear door guide blocks, canopy and passenger door warning 
+light, carbon hinges, tension spring, retaining block, safety hook push 
+button, latching mechanism spring, gas spring, and door frame; 
+measuring the passenger door handle actuation force; modifying the 
+airplane with placards; replacing the gas spring; and replacing the 
+hook assembly, retaining block, door guide blocks, and door sealant if 
+necessary for Model DA 40, DA 40 F, and DA 40 NG airplanes.
+    The FAA also reviewed Diamond Aircraft DA 40 AFM Doc. No. 6.01.01-E 
+Temporary Revision TR-MAM-40-1203, Door Latching and Locking, dated 
+December 16, 2024; Diamond Aircraft DA 40 F AFM Doc. No. 6.01.02-E 
+Temporary Revision TR-MAM-40-1203, Door Latching and Locking, dated 
+December 16, 2024; and Diamond Aircraft DA 40 NG AFM Doc. No. 6.01.15-E 
+Temporary Revision TR-MAM-40-1203/a, Door Latching and Locking, dated 
+February 18, 2025. This material specifies procedures for amending the 
+AFM by revising the operating limitations, emergency procedures, and 
+normal operating procedures related to door latching and locking for 
+Model DA 40, DA 40 F, and DA 40 NG airplanes.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority has notified the FAA of the unsafe condition 
+described in the MCAI and material referenced above. The FAA is issuing 
+this NPRM after determining that the unsafe condition described 
+previously is likely to exist or develop on other products of the same 
+type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in the material already described, except as discussed under 
+``Differences Between this Proposed AD and the MCAI.'' The owner/
+operator (pilot) holding at least a private pilot certificate may 
+revise the existing AFM for the airplane and must enter compliance with 
+the applicable paragraph of this proposed AD into the airplane 
+maintenance records in accordance with 14 CFR 43.9(a) and 
+91.417(a)(2)(v). The pilot may perform this action because it only 
+involves revising the existing AFM. This action could be performed 
+equally well by a pilot or mechanic. This is an exception to the FAA's 
+standard maintenance regulations.
+
+Differences Between This Proposed AD, the MCAI, and the Referenced 
+Material
+
+    The MCAI applies to DAI Model DA 40 D airplanes, but this proposed 
+AD would not include this model because it does not have an FAA type 
+certificate.
+    The service bulletin referred to in the MCAI specifies to contact 
+DAI for repair instructions, but this proposed AD would require 
+contacting the Manager, International Validation Branch, FAA; Transport 
+Canada; or DAI's Transport Canada Design Organization Approval (DOA) 
+instead.
+    The material referenced above specifies recording any findings in 
+the execution report and submitting the execution report to DAI, but 
+this proposed AD does not include that requirement.
+
+Interim Action
+
+    The FAA considers that this proposed AD would be an interim action. 
+This unsafe condition is still under investigation by the manufacturer 
+and, depending on the results of that investigation, the FAA may 
+consider further rulemaking action.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 987 airplanes of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+              Action                    Labor cost        Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+AFM revision.....................  1 work-hour x $85                $0  $85................  $83,895.
+                                    per hour = $85.
+Initial inspection...............  3 work-hours x $85               76  $331...............  $326,697.
+                                    per hour = $255.
+Repetitive inspections...........  1 work-hour x $85                 0  $85 per inspection.  $83,895 per
+                                    per hour = $85 per                                        inspection.
+                                    inspection.
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 26954]]
+
+    The FAA estimates the following costs to do any replacements that 
+would be required based on the results of the proposed inspection. The 
+agency has no way of determining the number of airplanes that might 
+need these replacements:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                 Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Gas spring replacement........................  2 work-hours x $85 per hour =               $489            $659
+                                                 $170.
+Hook assembly replacement.....................  4 work-hours x $85 per hour =                484             824
+                                                 $340.
+Retaining block replacement...................  1 work-hour x $85 per hour = $85             166             251
+Door guide block replacement..................  1 work-hour x $85 per hour = $85             206             291
+Door sealant replacement......................  1 work-hour x $85 per hour = $85              15             100
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some of the costs of this 
+proposed AD may be covered under warranty, thereby reducing the cost 
+impact on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+
+
+    List of Subjects in 14 CFR Part 39 Air transportation, Aircraft, 
+Aviation safety, Incorporation by reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Diamond Aircraft Industries Inc.: Docket No. FAA-2026-4633; Project 
+Identifier MCAI-2025-01173-A.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by June 29, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Diamond Aircraft Industries Inc. (DAI) 
+Model DA 40, DA 40 F, and DA 40 NG airplanes, certificated in any 
+category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 5210, Passenger/Crew 
+Doors.
+
+(e) Unsafe Condition
+
+    This AD was prompted by several reports of passenger door 
+separation during flight. The FAA is issuing this AD to address this 
+unsafe condition. The unsafe condition, if not addressed, could 
+result in damage to the airplane structure and lead to loss of 
+control of the airplane and injury to persons on the ground.
+
+(f) Definition
+
+    For the purposes of this AD, the Diamond Aircraft work 
+instruction is defined as Diamond Aircraft Work Instruction WI-MSB 
+40-103/WI-MSB F4-042/WI-MSB D4-114/WI-MSB 40NG-084 REV. 2, dated 
+June 5, 2025 (issued as one document), published with Diamond 
+Aircraft Mandatory Service Bulletin MSB 40-103/MSB F4-042/MSB D4-
+114/MSB 40NG-084 REV. 2, dated June 5, 2025 (issued as one 
+document).
+
+(g) Applicable Airplane Flight Manual (AFM) Temporary Revisions
+
+    The following presents the AFM and temporary revisions that 
+apply to this AD and each individual model.
+    (1) For Model DA 40 airplanes: Diamond Aircraft DA 40 AFM Doc. 
+No. 6.01.01-E Temporary Revision TR-MAM-40-1203, Door Latching and 
+Locking, dated December 16, 2024.
+    (2) For Model DA 40 F airplanes: Diamond Aircraft DA 40 F AFM 
+Doc. No. 6.01.02-E Temporary Revision TR-MAM-40-1203, Door Latching 
+and Locking, dated December 16, 2024.
+    (3) For Model DA 40 NG airplanes: Diamond Aircraft DA 40 NG AFM 
+Doc. No. 6.01.15-E Temporary Revision TR-MAM-40-1203/a, Door 
+Latching and Locking, dated February 18, 2025.
+
+(h) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(i) Required Actions
+
+    (1) Within 100 hours time-in-service (TIS) or 100 days, 
+whichever occurs first after the effective date of this AD, revise 
+the existing AFM for the airplane to include the information 
+specified in the applicable AFM temporary revision specified in 
+paragraphs (g)(1) through (3) of this AD.
+    (i) The owner/operator (pilot) holding at least a private pilot 
+certificate may revise the existing AFM for the airplane and must 
+enter compliance with the applicable paragraph of this AD into the 
+airplane maintenance records in accordance with 14 CFR 43.9(a) and 
+91.417(a)(2)(v). The record must be maintained as required by 14 CFR 
+91.417, 121.380, or 135.439.
+    (ii) The AFM revision required by paragraph (i)(1) of this AD 
+may be accomplished before the initial inspection and modification 
+required by paragraph (i)(2) or (3) of this AD for that airplane.
+
+[[Page 26955]]
+
+    (2) For airplanes with less than 100 total hours TIS as of the 
+effective date of this AD: Within 100 hours TIS or 100 days, 
+whichever occurs first after the effective date of this AD, 
+accomplish the initial inspection of the safety hook, latching 
+bolts, front and rear door guide blocks and the modification of the 
+airplane with placards in accordance with the instructions of 
+Section III, steps 5, 20 through 23, 28, 30, 31, and 33 through 36 
+in the Diamond Aircraft Work Instruction specified in paragraph (f) 
+of this AD, except accomplish the actions required by step 20(f) in 
+accordance with paragraphs (i)(4) and (5) of this AD.
+    (3) For airplanes that have accumulated 100 or more total hours 
+TIS as of the effective date of this AD: Within 100 hours TIS or 100 
+days, whichever occurs first after the effective date of this AD, 
+accomplish the initial inspection of the canopy and passenger door 
+warning light, carbon hinges, safety hook, tension spring, retaining 
+block, safety hook push button, safety hook mechanism, latching 
+mechanism spring, gas spring, latching bolts, front and rear door 
+guide blocks, and door frame; measure the passenger door handle 
+actuation force; and accomplish the modification of the airplane 
+with placards in accordance with the instructions of Section III, 
+steps 2 through 10, 12, 13, 15, 17, 18, 20 through 24, and 28 
+through 36 in the Diamond Aircraft Work Instruction specified in 
+paragraph (f) of this AD, except accomplish the actions required by 
+step 20(f) in accordance with paragraphs (i)(4) and (5) of this AD.
+    (4) If, during the inspection required by step 20(f) in the 
+Diamond Aircraft Work Instruction specified in paragraph (f) of this 
+AD, the force measured is less than 1.8 kg (18 N), and if the force 
+measured during the inspection required by step 20(c) was between 2 
+kg (20 N) and 6 kg (60 N), perform the following:
+    (i) Repeat the inspection required by step 20(c) in the Diamond 
+Aircraft Work Instruction specified in paragraph (f) of this AD 
+every 100 hours TIS until the replacement of the gas spring required 
+by paragraph (i)(4)(ii) of this AD is accomplished.
+    (ii) Within 12 months after the effective date of this AD, 
+replace the gas spring in accordance with the Diamond Aircraft Work 
+Instruction specified in paragraph (f) of this AD.
+    (5) If, during the inspection specified in step 20(f) in the 
+Diamond Aircraft Work Instruction specified in paragraph (f) of this 
+AD, the force measured is less than 1.8 kg (18 N), and if the force 
+measured during the inspection required by step 20(c) was greater 
+than 6 kg (60 N) or less than 2 kg (20 N), before further flight, 
+replace the gas spring.
+    (6) If, during any inspection as required by paragraph (i)(2) or 
+(3) of this AD, any findings, as defined in Section III, steps 5, 6, 
+9, 12, 20, and 23 are identified, before further flight, accomplish 
+the applicable corrective action(s) in accordance with the 
+instructions of Section IV, IV.1, steps 1 through 9, IV.2, steps 1 
+and 2, IV.3, steps 1 and 2, and IV.4, steps 1 through 5 in the 
+Diamond Aircraft Work Instruction specified in paragraph (f) of this 
+AD.
+    (7) Where the instructions of Section III or Section IV of the 
+Diamond Aircraft Work Instruction specified in paragraph (f) of this 
+AD state to contact the manufacturer ``in case of doubt'' or for 
+approved instructions, this AD requires before further flight, using 
+instructions approved by the Manager, International Validation 
+Branch, FAA; Transport Canada; or DAI's Transport Canada Design 
+Organization Approval (DOA), and within the compliance time 
+specified therein, accomplishing those instructions. If approved by 
+the DOA, the approval must include the DOA-authorized signature.
+
+(j) No Reporting Requirement
+
+    Although the material referenced in paragraph (f) of this AD 
+specifies to submit information to the manufacturer, this AD does 
+not require that action.
+
+(k) Credit for Previous Actions
+
+    You may take credit for the actions required by paragraph (i) of 
+this AD if you performed those actions before the effective date of 
+this AD using Diamond Aircraft Mandatory Service Bulletin MSB 40-
+103/MSB F4-042/MSB D4-114/MSB 40NG-084 REV. 1, dated May 15, 2025 
+(issued as one document), published with Diamond Aircraft Work 
+Instruction WI-MSB 40-103/WI-MSB F4-042/WI-MSB D4-114/WI-MSB 40NG-
+084 REV. 1, dated May 15, 2025 (issued as one document); or Diamond 
+Aircraft Mandatory Service Bulletin MSB 40-103/MSB F4-042/MSB D4-
+114/MSB 40NG-084 REV. 0, dated March 20, 2025 (issued as one 
+document), published with Diamond Aircraft Work Instruction WI-MSB 
+40-103/WI-MSB F4-042/WI-MSB D4-114/WI-MSB 40NG-084 REV. 0, dated 
+March 20, 2025 (issued as one document).
+
+(l) Alternative Methods of Compliance (AMOCs)
+
+    The Manager, International Validation Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the International Validation Branch, send 
+it to the attention of the person identified in paragraph (m) of 
+this AD and email to: [email&#160;protected]. Before using any approved AMOC, 
+notify your appropriate principal inspector, or lacking a principal 
+inspector, the manager of the local flight standards district 
+office/certificate holding district office.
+
+(m) Additional Information
+
+    For more information about this AD, contact Fatin Saumik, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; phone: (516) 228-7300; email: 
+[email&#160;protected].
+
+(n) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Diamond Aircraft Mandatory Service Bulletin MSB 40-103/MSB 
+F4-042/MSB D4-114/MSB 40NG-084 REV. 2, dated June 5, 2025 (issued as 
+one document), published with Diamond Aircraft Work Instruction WI-
+MSB 40-103/WI-MSB F4-042/WI-MSB D4-114/WI-MSB 40NG-084 REV. 2, dated 
+June 5, 2025 (issued as one document).
+    (ii) Diamond Aircraft DA 40 Airplane Flight Manual (AFM) Doc. 
+No. 6.01.01-E Temporary Revision TR-MAM-40-1203, Door Latching and 
+Locking, dated December 16, 2024.
+    (iii) Diamond Aircraft DA 40 F AFM Doc. No. 6.01.02-E Temporary 
+Revision TR-MAM-40-1203, Door Latching and Locking, dated December 
+16, 2024.
+    (iv) Diamond Aircraft DA 40 NG AFM Doc. No. 6.01.15-E Temporary 
+Revision TR-MAM-40-1203/a, Door Latching and Locking, dated February 
+18, 2025.
+    (3) For Diamond Aircraft Industries material identified in this 
+AD, contact Diamond Aircraft Industries Inc., 1560 Crumlin Sideroad, 
+London, Ontario, Canada, N5V 1S2; phone: (519) 457-4041; email: 
+diamondaircraft.com">support-canada@diamondaircraft.com; website: diamondaircraft.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 901 Locust, Kansas 
+City, MO 64106. For information on the availability of this material 
+at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on May 6, 2026.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-09574 Filed 5-12-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

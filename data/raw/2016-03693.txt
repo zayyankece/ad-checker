@@ -1,0 +1,138 @@
+
+[Federal Register Volume 81, Number 37 (Thursday, February 25, 2016)]
+[Proposed Rules]
+[Page 9367]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-03693]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0254; Directorate Identifier 2010-NM-180-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA withdraws a notice of proposed rulemaking (NPRM) that 
+proposed a new airworthiness directive (AD), which would have applied 
+to certain The Boeing Company Model 737-600, -700, -700C, -800, -900, 
+and -900ER series airplanes. For certain airplanes, the NPRM would have 
+required a one-time inspection for damage of the hydraulic actuator rod 
+ends and actuator attach fittings on the thrust reversers, and repair 
+or replacement if necessary. For all airplanes, the NPRM would have 
+required repetitive inspections for damage of the hydraulic actuator 
+rod ends, attach bolts, and nuts; repetitive inspections for damage of 
+fitting assemblies, wear spacers, and actuator attach fittings on the 
+thrust reverser; repetitive measurements of the wear spacer; and 
+corrective actions if necessary. Since the NPRM was issued, the 
+manufacturer notified us that an assumption regarding a failure mode of 
+the rod ends or attachment fittings for the thrust reverser actuator 
+used in the original safety assessment was incorrect. A new safety 
+analysis was conducted and we determined that this issue is no longer a 
+safety concern. Accordingly, the NPRM is withdrawn.
+
+DATES: As of February 25, 2016, the proposed rule, which was published 
+in the Federal Register on March 22, 2011 (76 FR 15864), is withdrawn.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2011-
+0254; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD action, the NPRM (76 FR 15864, March 22, 2011), the 
+regulatory evaluation, any comments received, and other information. 
+The address for the Docket Office (telephone 800-647-5527) is the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Tak Kobayashi, Aerospace Engineer, 
+Propulsion Branch, ANM-140S, FAA, Seattle Aircraft Certification 
+Office, 1601 Lind Avenue SW., Renton, WA 98057-3356; phone: 425-917-
+6499; fax: 425-917-6590; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We proposed to amend part 39 of the Federal Aviation Regulations 
+(14 CFR part 39) with a notice of proposed rulemaking (NPRM) for a new 
+AD for certain The Boeing Company Model 737-600, -700, -700C, -800, -
+900, and -900ER series airplanes. The NPRM published in the Federal 
+Register on March 22, 2011 (76 FR 15864) (``the NPRM''). For certain 
+airplanes, the NPRM would have required a one-time inspection for 
+damage of the hydraulic actuator rod ends and actuator attach fittings 
+on the thrust reversers, and repair or replacement if necessary. For 
+all airplanes, the NPRM would have required repetitive inspections for 
+damage of the hydraulic actuator rod ends, attach bolts, and nuts; 
+repetitive inspections for damage of fitting assemblies, wear spacers, 
+and actuator attach fittings on the thrust reverser; repetitive 
+measurements of the wear spacer; and corrective actions if necessary.
+    The NPRM was prompted by reports of in-service damage of the 
+attachment fittings for the thrust reverser actuator. The proposed 
+actions were intended to detect and correct such damage, which could 
+result in actuator attach fitting failure, loss of the thrust reverser 
+auto restow function, and consequent loss of control of the airplane.
+
+Actions Since NPRM Was Issued
+
+    Since we issued the NPRM, the manufacturer has notified us that an 
+assumption regarding a failure mode of the attachment fittings for the 
+thrust reverser actuator used in the original safety assessment was 
+incorrect. It was originally assumed that all hydraulic actuators 
+attached to the thrust reverser have the failure mode (failure of the 
+hydraulic actuator rod end or attach fitting due to severe wear-out) 
+addressed in the NPRM. Based on field reports and design review, the 
+manufacturer found that certain hydraulic actuators do not have this 
+failure mode. Based on this new manufacturer finding, a new safety 
+analysis was conducted and we determined that this issue is no longer a 
+safety concern.
+
+FAA's Conclusions
+
+    Upon further consideration, we have determined that the safety 
+concern identified in the NPRM does not affect The Boeing Company Model 
+737-600, -700, -700C, -800, -900, and -900ER series airplanes 
+identified in the NPRM. Accordingly, the NPRM is withdrawn.
+    Withdrawal of the NPRM does not preclude the FAA from issuing 
+another related action or commit the FAA to any course of action in the 
+future.
+
+Regulatory Impact
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule and therefore is not covered under Executive Order 
+12866, the Regulatory Flexibility Act, or DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, we withdraw the NPRM, Docket No. FAA-2011-0254, 
+Directorate Identifier 2010-NM-180-AD, which was published in the 
+Federal Register on March 22, 2011 (76 FR 15864).
+
+    Issued in Renton, Washington, on February 15, 2016.
+Michael Kaszycki,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-03693 Filed 2-24-16; 8:45 am]
+BILLING CODE 4910-13-P
+
+

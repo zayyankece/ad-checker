@@ -1,0 +1,110 @@
+
+[Federal Register Volume 79, Number 124 (Friday, June 27, 2014)]
+[Proposed Rules]
+[Pages 36442-36443]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2014-15139]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0742; Directorate Identifier 2013-CE-012-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Piper Aircraft, Inc.
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This document withdraws a notice of proposed rulemaking (NPRM) 
+that would have applied to certain Piper Aircraft, Inc. Models PA-28-
+140, PA-28-150, PA-28-160, PA-28-180, PA-28R-180, and PA-28R-200 
+airplanes. The proposed airworthiness directive (AD) would have 
+superseded AD 71-21-08, Amendment 39-1312, which currently requires 
+replacement of the fuel selector valve cover. This proposed AD would 
+have added additional airplanes to the AD's applicability section and 
+changed the compliance time of the required actions. Since issuance of 
+the NPRM, the FAA has re-evaluated this airworthiness concern and 
+determined that an unsafe condition does not exist that would warrant 
+AD action. This withdrawal does not prevent the FAA from initiating 
+future rulemaking on this subject.
+
+DATES: As of June 27, 2014, the proposed rule published August 20, 2013 
+(78 FR 51121), is withdrawn.
+
+FOR FURTHER INFORMATION CONTACT: Gary Wechsler, Aerospace Engineer, 
+Atlanta Aircraft Certification Office, FAA, 1701 Columbia Avenue, 
+College Park, Georgia 30337; telephone: (404) 474-5575; fax: (404) 474-
+5606; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR 
+part 39 to include an AD that would apply to Piper Aircraft, Inc. 
+Models PA-28-140, PA-28-150, PA-28-160, PA-28-180, PA-28R-180, and PA-
+28R-200 airplanes. That NPRM published in the Federal Register on 
+August 20, 2013 (78 FR 51121). That NPRM proposed to supersede AD 71-
+21-08, Amendment 39-1312 (36 FR 19572, October 8, 1971), by adding 
+airplanes to and changing the compliance time of AD 71-21-08 fuel 
+selector valve cover replacement requirements.
+    Because of the comments received on the NPRM (78 FR 51121, August 
+20, 2013), the FAA re-evaluated the data collected on the safety 
+concern and concluded that:
+     There was evidence of pilot inexperience and an absence of 
+fuel selector valve maintenance (in accordance with Piper Service 
+Bulletin 355, dated June 5, 1972) in the Piper PA-28-180 crash of 
+December 28, 2011; and
+     The low frequency of PA-28 series safety events due to the 
+inadvertent selection of the ``OFF'' position of fuel selector valves, 
+since AD 71-21-08 was published on October 13, 1971, does not warrant 
+AD action.
+    To mitigate the safety concern from recurring, the FAA may take 
+other airworthiness action such as a special airworthiness information 
+bulletin (SAIB) to recommend the actions contained in the proposed rule 
+and capture the concerns identified by the public during the NPRM (78 
+FR 51121, August 20, 2013) comment period.
+    Withdrawal of this NPRM (78 FR 51121, August 20, 2013) constitutes 
+only such action and does not preclude the agency from issuing future 
+rulemaking on this issue, nor does it commit the agency to any course 
+of action in the future.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule and therefore, is not covered under Executive Order 
+12866, the Regulatory Flexibility Act, or DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979).
+
+[[Page 36443]]
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, the notice of proposed rulemaking (NPRM), FAA-2013-
+0742, published in the Federal Register on August 20, 2013 (78 FR 
+51121), is withdrawn.
+
+    Issued in Kansas City, Missouri, on June 19, 2014.
+Timothy Smyth,
+Acting Manager, Small Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2014-15139 Filed 6-26-14; 8:45 am]
+BILLING CODE 4910-13-P
+
+

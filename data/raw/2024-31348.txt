@@ -1,0 +1,385 @@
+
+[Federal Register Volume 89, Number 250 (Tuesday, December 31, 2024)]
+[Proposed Rules]
+[Pages 107067-107069]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2024-31348]
+
+
+
+[[Page 107067]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-2716; Project Identifier AD-2024-00262-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain The Boeing Company Model 737-8, 737-9, and 737-8200 
+airplanes. This proposed AD was prompted by a report indicating that 
+certain clip-on nuts with primer, in lieu of clip-on nuts with cadmium 
+surface finish only (without primer), were inadvertently used to 
+install the self-bonded saddle clamps, which support the fuel tank 
+system tubing inside the left main, center, and right main fuel tanks. 
+This proposed AD would require a general visual inspection (GVI) to 
+identify affected parts, and applicable on-condition actions. The FAA 
+is proposing this AD to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by February 
+14, 2025.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2024-2716; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For the Boeing material identified in this proposed AD, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; website myboeingfleet.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2024-2716.
+
+FOR FURTHER INFORMATION CONTACT: James Laubaugh, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3622; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2024-2716; 
+Project Identifier AD-2024-00262-T'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to James 
+Laubaugh, Aviation Safety Engineer, FAA, 2200 South 216th St., Des 
+Moines, WA 98198; phone: 206-231-3622; email: [email&#160;protected]. 
+Any commentary that the FAA receives that is not specifically 
+designated as CBI will be placed in the public docket for this 
+rulemaking.
+
+Background
+
+    The FAA has received a report indicating that certain clip-on nuts 
+with primer, in lieu of clip-on nuts with cadmium surface finish only 
+(without primer), were inadvertently used to install the self-bonded 
+saddle clamps, which support the fuel tank system tubing inside the 
+left main, center, and right main fuel tanks. The self-bonded saddle 
+clamps are designed to be attached to the structure with clip-on nuts 
+with cadmium surface finish only (without primer). The cadmium plating 
+is an electrically conductive finish and bonds the fuel tank system 
+tubing to the structure. Each self-bonded saddle clamp has two 
+independent and redundant bond paths from the fuel system tubing to the 
+structure. These bond paths are necessary for the dissipation of 
+conducted lightning current, induced lightning current, and 
+electrostatic energy. The clip-on nuts with non-conductive primer can 
+interrupt or reduce the capability of the electrical bond. This 
+condition, if not addressed, could disperse lightning and electrostatic 
+energy to the structure, creating a possible ignition source inside a 
+fuel tank and subsequent fuel tank explosion.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Special Attention Requirements Bulletin 
+737-28-1376 RB, dated May 3, 2024. This material specifies procedures 
+for a general visual inspection (GVI) of the self-bonded saddle clamps 
+installed with clip-on nuts to determine whether the surface finish is 
+primer or cadmium surface finish only (no primer) in the left main, 
+center, and right main fuel tanks, and applicable on-condition actions. 
+The on-condition actions include replacing any clip-on nut with primer 
+with a clip-on nut that has
+
+[[Page 107068]]
+
+cadmium surface finish only (no primer). This material is reasonably 
+available because the interested parties have access to it through 
+their normal course of business or by the means identified in the 
+ADDRESSES section.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in the material already described, except for any differences 
+identified as exceptions in the regulatory text of this proposed AD. 
+This proposed AD would also prohibit the installation of affected 
+parts. For information on the procedures and compliance times, see this 
+material at regulations.gov under Docket No. FAA-2024-2716.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 393 airplanes of U.S. registry. The FAA estimates the following 
+costs to comply with this proposed AD:
+
+                             Estimated Costs
+------------------------------------------------------------------------
+                                                               Cost on
+   Action        Labor cost      Parts cost     Cost per        U.S.
+                                                 product      operators
+------------------------------------------------------------------------
+GVI.........  31 work-hours x            $0        $2,635    $1,035,555
+               $85 per hour =
+               $2,635.
+------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any replacements that 
+would be required based on the results of the proposed inspection. The 
+agency has no way of determining the number of aircraft that might need 
+this replacement:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                      Cost per
+                     Action                                   Labor cost               Parts cost      product
+----------------------------------------------------------------------------------------------------------------
+Replace clip-on nuts............................  42 work-hours x $85 per hour =             $692        $4,262
+                                                   $3,570.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some or all of the costs of 
+this proposed AD may be covered under warranty, thereby reducing the 
+cost impact on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+    The Boeing Company: Docket No. FAA-2024-2716; Project Identifier 
+AD-2024-00262-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by February 14, 2025.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 737-8, 737-9, and 
+737-8200 airplanes, certificated in any category, as identified in 
+Boeing Special Attention Requirements Bulletin 737-28-1376 RB, dated 
+May 3, 2024.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 28, Fuel.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report indicating that certain clip-on 
+nuts with primer, in lieu of the clip-on nuts with cadmium surface 
+finish only (without primer), were inadvertently used to install the 
+self-bonded saddle clamps, which support the fuel tank system tubing 
+inside the left main, center, and right main fuel tanks. The FAA is 
+issuing this AD to address clip-on nuts with the non-conductive 
+primer that can interrupt or reduce the capability of the electrical 
+bond. The unsafe condition, if
+
+[[Page 107069]]
+
+not addressed, could disperse lightning and electrostatic energy to 
+the structure, creating a possible ignition source inside a fuel 
+tank and subsequent fuel tank explosion.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified by paragraph (h) of this AD: At the 
+applicable times specified in the ``Compliance'' paragraph of Boeing 
+Special Attention Requirements Bulletin 737-28-1376 RB, dated May 3, 
+2024, do all applicable actions identified in, and in accordance 
+with, the Accomplishment Instructions of Boeing Special Attention 
+Requirements Bulletin 737-28-1376 RB, dated May 3, 2024.
+    Note 1 to paragraph (g): Guidance for accomplishing the actions 
+required by this AD can be found in Boeing Special Attention Service 
+Bulletin 737-28-1376, dated May 3, 2024, which is referred to in 
+Boeing Special Attention Requirements Bulletin 737-28-1376 RB, dated 
+May 3, 2024.
+
+(h) Exceptions to Requirements Bulletin Specifications
+
+    Where the Compliance Time columns of the tables in the 
+``Compliance'' paragraph of Boeing Special Attention Requirements 
+Bulletin 737-28-1376 RB, dated May 3, 2024, refer to the original 
+issue date of Requirements Bulletin 737-28-1376 RB, this AD requires 
+using the effective date of this AD.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the certification office, 
+send it to the attention of the person identified in paragraph 
+(j)(1) of this AD. Information may be emailed to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the responsible Flight Standards Office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational Safety Branch, FAA, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+
+(j) Related Information
+
+    (1) For more information about this AD, contact James Laubaugh, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3622; email: [email&#160;protected].
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (k)(3) 
+of this AD.
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Special Attention Requirements Bulletin 737-28-1376 
+RB, dated May 3, 2024.
+    (ii) [Reserved]
+    (3) For the material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website myboeingfleet.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on December 20, 2024.
+Suzanne Masterson,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2024-31348 Filed 12-30-24; 8:45 am]
+BILLING CODE 4910-13-P
+
+

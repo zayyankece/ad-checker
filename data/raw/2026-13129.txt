@@ -1,0 +1,415 @@
+
+[Federal Register Volume 91, Number 124 (Tuesday, June 30, 2026)]
+[Proposed Rules]
+[Pages 39573-39575]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-13129]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-4668; Project Identifier AD-2025-01680-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain The Boeing Company Model 747-400 series airplanes. This 
+proposed AD was prompted by reports of potable water leaking into the 
+electrical equipment bay cooling air inlet. This proposed AD would 
+require performing repetitive inspections of potential water sources 
+from the upper deck and the main deck, including potable water and 
+waste water lines, for any water leaks and clogs, and applicable on-
+condition actions. The FAA is proposing this AD to address the unsafe 
+condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by August 14, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-4668; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Boeing material identified in this proposed AD, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; website myboeingfleet.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2026-4668.
+
+FOR FURTHER INFORMATION CONTACT: Nicole S. Tsang, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 206-
+231-3959; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2026-4668; 
+Project Identifier AD-2025-01680-T'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Nicole S. Tsang, Aviation Safety Engineer, FAA, 2200 South 216th St., 
+Des Moines, WA 98198; phone: 206-231-3959; email: 
+[email&#160;protected]. Any commentary that the FAA receives that is 
+not specifically designated as CBI will be placed in the public docket 
+for this rulemaking.
+
+Background
+
+    The FAA received reports of potable water leaking into the 
+electrical equipment bay cooling air inlet on the Boeing Model 777F 
+series airplanes. There are no reported events of water leaking into 
+the electrical equipment bay cooling air inlet on the large cargo 
+freighter variant of the Model 747-400 series airplanes. However, there 
+are reported events of leakages on the upper deck in areas that could 
+pool and drip onto the air inlet. The FAA has determined that the large 
+cargo freighter variant has unique design features that introduce 
+several potential potable and waste water sources from the upper deck 
+and the main deck that could leak into the air inlet and enter the 
+electrical equipment bay. This condition, if not addressed, could 
+impact the function of multiple electronics and line replaceable units 
+in the equipment bay racks that are essential for safe flight, which 
+could result in loss of continued safe flight and landing.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Message TBC-TBC-25-6694-01B, dated
+
+[[Page 39574]]
+
+November 7, 2025 (pages 4 through 15 of this document are dated October 
+29, 2025). This material specifies procedures for the following 
+repetitive inspections of potential water sources from the upper deck 
+and the main deck, including potable water and waste water lines, for 
+any water leaks and clogs, and applicable on-condition actions. The 
+inspections include the following actions:
+     Perform general visual inspection (GVI) of the potable 
+water lines for any water leaks;
+     Run the coffee maker through a brew cycle;
+     Perform GVI of the galley compartments for any water 
+leaks;
+     Check for any indication of clog from the drainage system 
+in the lavatory and galley sinks and the lavatory and galley sink 
+drains;
+     Perform GVI of the floor of the lavatory, the lavatory 
+sink, the area behind the galley on its outboard left side including 
+the potable water and waste water lines, and the upper deck hallway 
+floor for signs of leakage; and
+     Inspect the potable water and drain lines running along 
+the main deck ceiling for sign of leaks.
+    On-condition actions include using normal operator procedures and 
+repeating the work step(s) as required to resolve the leakage or clog 
+or rendering the water/waste systems or individual components 
+inoperable; and checking the engine indication crew alert system 
+(EICAS) display for any new messages.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions identified 
+as ``RC'' (required for compliance) in the Water Leak Check Work 
+Instructions of Boeing Message TBC-TBC-25-6694-01B, dated November 7, 
+2025, already described, except for any differences identified as 
+exceptions in the regulatory text of this proposed AD. For information 
+on the procedures and compliance times, see this material at 
+regulations.gov under Docket No. FAA-2026-4668.
+
+Clarification of Compliance Time for On-Condition Actions
+
+    Although Boeing Message TBC-TBC-25-6694-01B, dated November 7, 
+2025, specifies the compliance time to perform RC actions is within 
+1,000 flight hours (FH) of the date of Boeing Message TBC-TBC-25-6694-
+01B and at recurring intervals not to exceed 1,000 FH, step 27 of the 
+Water Leak Check Work Instructions specifies the compliance times for 
+the applicable on-condition actions are before further flight. 
+Therefore, paragraph (h)(2) of this proposed AD would require the 
+applicable on-condition actions to be done before further flight.
+
+Interim Action
+
+    The FAA considers that this proposed AD would be an interim action. 
+The manufacturer is currently developing a modification that will 
+address the unsafe condition identified in this AD. Once this 
+modification is developed, approved, and available, the FAA might 
+consider additional rulemaking.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 4 airplanes of U.S. registry. The FAA estimates the following 
+costs to comply with this proposed AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+              Action                    Labor cost        Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspection.......................  5 work-hours x $85               $0  $425 per inspection  $1,700 per
+                                    per hour = $425                      cycle.               inspection cycle.
+                                    per inspection
+                                    cycle.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary on-
+condition actions that would be required based on the results of the 
+proposed inspection. The agency has no way of determining the number of 
+aircraft that might need these on-condition actions:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                 Action                           Labor cost            Parts cost         Cost per product
+----------------------------------------------------------------------------------------------------------------
+On-condition actions....................  Up to 6 work-hours x $85                $0  Up to $510.
+                                           per hour = $510.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+[[Page 39575]]
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+The Boeing Company: Docket No. FAA-2026-4668; Project Identifier AD-
+2025-01680-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by August 14, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 747-400 series 
+airplanes, certificated in any category, as identified in Boeing 
+Message TBC-TBC-25-6694-01B, dated November 7, 2025.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 38, Water/waste.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of potable water leaking into 
+the electrical equipment bay cooling air inlet. The FAA is issuing 
+this AD to address water leaking into the air inlet and entering the 
+electrical equipment bay. The unsafe condition, if not addressed, 
+could impact the function of multiple electronics and line 
+replaceable units in the equipment bay racks that are essential for 
+safe flight, which could result in loss of continued safe flight and 
+landing.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    Except as specified in paragraph (h) of this AD: At the 
+applicable times specified in paragraph ``Recommended Incorporation 
+Timeframe'' of Boeing Message TBC-TBC-25-6694-01B, dated November 7, 
+2025, do all applicable actions identified as ``RC'' (required for 
+compliance) in, and in accordance with, the Water Leak Check Work 
+Instructions of Boeing Message TBC-TBC-25-6694-01B, dated November 
+7, 2025.
+
+(h) Exceptions to Service Bulletin Specifications
+
+    (1) Where Boeing Message TBC-TBC-25-6694-01B, dated November 7, 
+2025, refers to the message date of Boeing Message TBC-TBC-25-6694-
+01B, this AD requires using the effective date of this AD.
+    (2) This AD requires performing all applicable on-condition 
+actions as specified in step 27 of the Water Leak Check Work 
+Instructions of Boeing Message TBC-TBC-25-6694-01B before further 
+flight.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the certification office, 
+send it to the attention of the person identified in paragraph (j) 
+of this AD. Information may be emailed to: [email&#160;protected]. Before 
+using any approved AMOC, notify your appropriate principal 
+inspector, or lacking a principal inspector, the manager of the 
+responsible Flight Standards Office.
+    (2) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational Safety Branch, FAA, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+    (3) For material that contains steps that are labeled as 
+Required for Compliance (RC), the provisions of paragraphs (i)(3)(i) 
+and (ii) of this AD apply.
+    (i) The steps labeled as RC, including substeps under an RC step 
+and any figures identified in an RC step, must be done to comply 
+with the AD. If a step or substep is labeled ``RC Exempt,'' then the 
+RC requirement is removed from that step or substep. An AMOC is 
+required for any deviations to RC steps, including substeps and 
+identified figures.
+    (ii) Steps not labeled as RC may be deviated from using accepted 
+methods in accordance with the operator's maintenance or inspection 
+program without obtaining approval of an AMOC, provided the RC 
+steps, including substeps and identified figures, can still be done 
+as specified, and the airplane can be put back in an airworthy 
+condition.
+
+(j) Additional Information
+
+    For more information about this AD, contact Nicole S. Tsang, 
+Aviation Safety Engineer, FAA, 2200 South 216th St., Des Moines, WA 
+98198; phone: 206-231-3959; email: [email&#160;protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Boeing Message TBC-TBC-25-6694-01B, dated November 7, 2025.
+    Note 1 to paragraph (k)(2)(i): Pages 4 through 15 of this 
+document are dated October 29, 2025.
+    (ii) [Reserved]
+    (3) For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website myboeingfleet.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on June 24, 2026.
+Brian Knaup,
+Acting Deputy Director, Integrated Certificate Management Division, 
+Aircraft Certification Service.
+[FR Doc. 2026-13129 Filed 6-29-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

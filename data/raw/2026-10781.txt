@@ -1,0 +1,124 @@
+
+[Federal Register Volume 91, Number 103 (Friday, May 29, 2026)]
+[Proposed Rules]
+[Page 31992]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-10781]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-2541; Product Identifier MCAI-2024-00390-E]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG 
+Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM); withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing an NPRM that published on September 15, 
+2025, that would have applied to all Rolls-Royce Deutschland Ltd & Co 
+KG (RRD) Model RB211 Trent 768-60, 772-60, and 772B-60 engines. The 
+NPRM would have required removal from service of affected low-pressure 
+compressor (LPC) blades and replacement with a serviceable part. Since 
+the NPRM was issued, it was determined that additional LPC blades are 
+affected by the unsafe condition and were not included in the service 
+material, and the FAA is evaluating for further rulemaking action. 
+Accordingly, during this evaluation, the NPRM is withdrawn.
+
+DATES: As of May 29, 2026, the proposed rule, which was published in 
+the Federal Register on September 15, 2025 (90 FR 44335), is withdrawn.
+
+ADDRESSES: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-2541; or in person at the Docket Operations Office 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this AD action (withdrawal), the NPRM, 
+the mandatory continuing airworthiness information, any comments 
+received, and other information. The street address for Docket 
+Operations is U.S. Department of Transportation, Docket Operations, M-
+30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue 
+SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Barbara Caufield, Aviation Safety 
+Engineer, FAA, 2200 South 216th Street, Des Moines, WA 98198; phone: 
+(781) 238-7146; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+Background
+
+    The FAA issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD for all RRD Model RB211 Trent 768-60, 772-60, and 772B-60 
+engines. The NPRM was published in the Federal Register on September 
+15, 2025 (90 FR 44335). The NPRM was prompted by a report that a batch 
+of LPC blades are more prone to cracking due to a deviation from the 
+approved blade configuration design. The NPRM proposed to require 
+removal from service of the affected LPC blades and replacement with a 
+serviceable part, as specified in European Union Aviation Safety Agency 
+(EASA) AD 2024-0130, dated July 8, 2024 (EASA AD 2024-0130).
+    The proposed actions were intended to prevent blade cracking. The 
+unsafe condition, if not addressed, could lead to multiple structural 
+failures of the affected parts, which could result in increased risk of 
+in-flight shutdown, engine fire, and uncontained high-energy debris 
+release.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, EASA superseded EASA AD 2024-0130 and 
+issued EASA AD 2025-0288, dated December 17, 2025 (EASA AD 2025-0288), 
+which expands the list of affected LPC blades by adding nine additional 
+serial numbers to the removal requirements. The FAA is evaluating this 
+issue for further rulemaking action, and during this evaluation, the 
+NPRM is being withdrawn because it required compliance with EASA AD 
+2024-0130, which has been determined not to include all affected LPC 
+blades.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future
+
+FAA's Determination
+
+    Upon further consideration, the FAA has determined that the NPRM is 
+insufficient because it does not address all affected LPC blades. 
+Accordingly, the NPRM is withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule and therefore is not covered under Executive Order 
+12866, the Regulatory Flexibility Act, or DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, the notice of proposed rulemaking (Docket No. FAA-
+2025-2541), which was published in the Federal Register on September 
+15, 2025 (90 FR 44335), is withdrawn.
+
+    Issued on May 27, 2026.
+Lona C. Saccomando,
+Acting Deputy Director, Integrated Certificate Management Division, 
+Aircraft Certification Service.
+[FR Doc. 2026-10781 Filed 5-28-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

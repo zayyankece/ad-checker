@@ -1,0 +1,128 @@
+
+[Federal Register Volume 85, Number 203 (Tuesday, October 20, 2020)]
+[Proposed Rules]
+[Pages 66500-66501]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2020-23166]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2019-0576; Product Identifier 2019-NM-049-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to adopt a new airworthiness directive (AD) that would 
+have applied to all The Boeing Company Model 747-400, 747-400F, 747-8F, 
+and 747-8 series airplanes. The NPRM was prompted by reports of dual 
+flight management computer (FMC) cold starts during a critical flight 
+phase such as takeoff and approach. The NPRM would have required an 
+inspection to determine if certain software is installed, installation 
+of FMC operational program software (OPS) and a software configuration 
+check, and applicable concurrent requirements. Since issuance of the 
+NPRM, the FAA determined that the installation of new software, as 
+proposed in the NPRM, does not resolve the unsafe condition identified 
+in the NPRM. Accordingly, the NPRM is withdrawn.
+
+DATES: The FAA is withdrawing the proposed rule published August 8, 
+2019 (84 FR 38887), as of October 20, 2020.
+
+ADDRESSES: 
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2019-
+0576; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD action, any comments received, and other information. The 
+street address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Nelson Sanchez, Aerospace Engineer, 
+Systems and Equipment Section, FAA, Seattle ACO Branch, 2200 South 
+216th St., Des Moines, WA 98198; telephone and fax: 206-231-3543; 
+email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    The FAA issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD that would apply to the specified products. The NPRM was 
+published in the Federal Register on August 8, 2019 (84 FR 38887). The 
+NPRM was prompted by reports of dual FMC cold starts during a critical 
+flight phase such as takeoff and approach. The NPRM proposed to require 
+an inspection to determine if certain software is installed, 
+installation of FMC OPS and a software configuration check, and 
+applicable concurrent requirements. The proposed actions were intended 
+to address dual FMC cold starts, which can result in a loss of flight 
+critical data from flight deck displays during a high workload phase of 
+flight. This condition, if not addressed, could reduce the flightcrew's 
+situational awareness, resulting in a loss of continued safe flight and 
+landing.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, the manufacturer discovered that the 
+installation of new NG FMC BP 4.0 software, as proposed in the NPRM, 
+does not resolve the unsafe condition identified in the NPRM, and the 
+manufacturer is developing new software to resolve the unsafe 
+condition. In light of these changes, the FAA is considering further 
+rulemaking.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+FAA's Conclusions
+
+    Upon further consideration, the FAA has determined that the NPRM 
+does not adequately address the identified unsafe condition. 
+Accordingly, the NPRM is withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act, or DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, the notice of proposed rulemaking, Docket No. FAA-
+2019-0576, which was published in the Federal Register on August 8, 
+2019 (84 FR 38887), is withdrawn.
+
+
+[[Page 66501]]
+
+
+    Issued on October 7, 2020.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2020-23166 Filed 10-19-20; 8:45 am]
+BILLING CODE 4910-13-P
+
+

@@ -1,0 +1,159 @@
+
+[Federal Register Volume 86, Number 36 (Thursday, February 25, 2021)]
+[Proposed Rules]
+[Pages 11477-11478]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-03661]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0751; Directorate Identifier 2012-SW-051-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; AgustaWestland S.p.A. (Type Certificate 
+Formerly Held by Agusta S.p.A) (Agusta) Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to supersede Airworthiness Directive (AD) 2011-18-52, 
+which applies to certain Agusta Model AB139 and AW139 helicopters. AD 
+2011-18-52 requires establishing a revised life limit for each tail 
+rotor blade (blade), updating the existing historical records for your 
+helicopter, repetitively inspecting each blade for a crack, and 
+replacing certain blades. The NPRM was prompted by the manufacturer 
+developing an improved blade using different materials and establishing 
+life limits for those newly-designed blades. The NPRM proposed to 
+require expanding the applicability to include the newly-designed 
+blades and establish their life limits, and proposed to retain the 
+requirement to inspect each blade for a crack and, if there is a crack, 
+replace each blade with an airworthy blade. Since issuance of the NPRM, 
+the FAA has determined that the NPRM does not adequately address the 
+identified unsafe condition. Accordingly, the NPRM is withdrawn.
+
+DATES: The FAA is withdrawing the proposed rule published September 5, 
+2013 (78 FR 54596), as of February 25, 2021.
+
+ADDRESSES: 
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2013-
+0751; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD action, the European Aviation Safety Agency (now European Union 
+Aviation Safety Agency (EASA) AD, any comments received, and other 
+information. The street address for Docket Operations is U.S. 
+Department of Transportation, Docket Operations, M-30, West Building 
+Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 
+20590.
+
+FOR FURTHER INFORMATION CONTACT: Matt Fuller, AD Program Manager, 
+Operational Safety Branch, Airworthiness Products Section, General 
+Aviation & Rotorcraft Unit, FAA, 10101 Hillwood Pkwy., Fort Worth, TX 
+76177; telephone 817-222-5110; email [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The FAA issued an NPRM to amend 14 CFR part 39 to supersede AD 
+2011-18-52, Amendment 39-17020 (77 FR 23109, April 18, 2012) (AD 2011-
+18-52). AD 2011-18-52 applies to Agusta Model AB139 and AW139 
+helicopters with a blade part number (P/N) 3G6410A00131 or P/N 
+4G6410A00131 installed. AD 2011-18-52 requires establishing a revised 
+life limit for each blade, updating the existing historical records for 
+your helicopter, repetitively inspecting each blade for a crack, and 
+replacing certain blades. The NPRM published in the Federal Register on 
+September 5, 2013 (78 FR 54596). The NPRM was prompted by the 
+manufacturer first developing two new blades with an improved design 
+and specified life limits and repetitive inspections for the blades. 
+Also, EASA issued AD No. 2012-0030, dated February 17, 2012, which 
+superseded EASA EAD No. 2011-0156-E, dated August 25, 2011, to add the 
+new blades to the required actions. The manufacturer then developed two 
+new blades with improved materials and specified new life limits and 
+inspections for the blades. EASA then issued EASA AD No. 2012-0076, 
+dated May 2, 2012, revised by EASA AD No. 2012-0076R1, dated July 13, 
+2012 (EASA AD No. 2012-0076R1), to require the repetitive inspections 
+and reduced life limits on the additional new blades.
+
+Actions Since the NPRM Was Issued
+
+    After issuance of the NPRM, EASA issued EASA AD No. 2012-0076R2, 
+dated February 20, 2014, which revises EASA AD No. 2012-0076R1, to 
+remove the repetitive 25 flight-hour inspections for blades P/N 
+3G6410A00132, P/N 4G6410A00132, P/N 3G6410A00133, and P/N 4G6410A00133 
+and extend the life limits for T/R blades P/N 3G6410A00133 and P/N 
+4G6410A00133. Additionally, EASA advised that the life limits for T/R 
+blades P/N 3G6410A00132 and P/N 4G6410A00132 have been incorporated in 
+the Chapter 4 airworthiness limitations section of the maintenance 
+manual. Further, since the FAA issued the NPRM, a significant amount of 
+time has elapsed, which would require the FAA to reopen the comment 
+period to allow the public an opportunity to comment on the proposed 
+actions. Accordingly, the FAA has determined the NPRM does not 
+adequately address the identified unsafe condition and has determined 
+to withdraw the published NPRM and proceed with a separate rulemaking 
+to address this unsafe condition.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+Comments
+
+    The FAA gave the public the opportunity to comment on the NPRM. The 
+FAA received comments from one commenter.
+    One commenter requested the FAA adjust the life limit for certain 
+part-numbered blades to be more consistent with aviation standard 
+practices and gave the examples of ``3 years since initial 
+installation'' and ``5 years since manufacture.'' Since the FAA is 
+withdrawing the NPRM, the commenter's request to adjust the compliance 
+time is no longer necessary.
+
+FAA's Conclusions
+
+    Upon further consideration, the FAA has determined that the NPRM 
+does not adequately address the identified unsafe condition and the 
+unsafe condition will be addressed in a separate AD. Accordingly, the 
+NPRM is withdrawn.
+
+[[Page 11478]]
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act, or DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+0
+ Accordingly, the notice of proposed rulemaking, Docket No. FAA-2013-
+0751, which was published in the Federal Register on September 5, 2013 
+(78 FR 54596), is withdrawn.
+
+    Issued on January 21, 2021.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2021-03661 Filed 2-24-21; 8:45 am]
+BILLING CODE 4910-13-P
+
+

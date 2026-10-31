@@ -1,0 +1,208 @@
+
+[Federal Register Volume 91, Number 197 (Wednesday, October 14, 2026)]
+[Proposed Rules]
+[Pages 65142-65144]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-21009]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-0204; Project Identifier AD-2024-00327-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to adopt a new airworthiness directive (AD) that would 
+have applied to certain The Boeing Company Model 787-8, 787-9, and
+
+[[Page 65143]]
+
+787-10 airplanes. The NPRM was prompted by reports that very high 
+frequency (VHF) radio frequencies transfer between the active and 
+standby windows of the tuning control panel (TCP) without flightcrew 
+input. The uncommanded frequency changes could result in missed 
+communications between the flightcrew and Air Traffic Control. The NPRM 
+would have required updating the TCP operational software (OPS) and 
+performing a software configuration check. Since issuance of the NPRM, 
+the FAA has determined that the TCP OPS version specified in the NPRM 
+does not correct the unsafe condition. Accordingly, the NPRM is 
+withdrawn.
+
+DATES: As of October 14, 2026, the proposed rule, which was published 
+in the Federal Register on February 26, 2025 (90 FR 10703), is 
+withdrawn.
+
+ADDRESSES: AD Docket: You may examine the AD docket at regulations.gov 
+by searching for and locating Docket No. FAA-2025-0204; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this AD action, any 
+comments received, and other information. The street address for Docket 
+Operations is Docket Operations, M-30, West Building Ground Floor, Room 
+W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Frank Carreras, Aviation Safety 
+Engineer, FAA, 2200 South 216th Street, Des Moines, WA 98198; phone: 
+206-231-3539; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD that would apply to certain The Boeing Company Model 787-
+8, 787-9, and 787-10 airplanes. The NPRM was published in the Federal 
+Register on February 26, 2025 (90 FR 10703). The NPRM was prompted by 
+reports that VHF radio frequencies transfer between the active and 
+standby windows of the TCP without flightcrew input. The uncommanded 
+frequency changes could result in missed communications between the 
+flightcrew and Air Traffic Control. The NPRM proposed to require 
+updating the TCP OPS and performing a software configuration check.
+    The proposed actions were intended to address uncommanded frequency 
+changes, which could result in missed communications such as amended 
+clearances and critical instructions for changes to flight path and 
+consequent loss of safe separation between aircraft, collision, or 
+runway incursion.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, the FAA determined that the update to 
+the TCP OPS specified in the NPRM does not correct the unsafe 
+condition. The manufacturer informed the FAA that, based on fleet 
+reports, it has concluded that the OPS version specified in the NPRM 
+does not correct the unsafe condition. Also, multiple commenters 
+reported concerns with the reliability of the software update or 
+experienced service difficulties after accomplishing the service 
+information. As a result, Boeing is conducting further analysis to 
+determine the root cause of the new reports, and the FAA may consider 
+other rulemaking when an adequate solution is developed to address the 
+unsafe condition.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+Comments
+
+    The FAA received comments from Boeing, The Foundation for Aviation 
+Safety, Kenya Airways, ProTech Aero Services Limited (ProTech), and 
+Qatar Airways (Qatar). The following presents the comments received on 
+the NPRM and the FAA's response.
+
+Request To Delay Issuance of the AD
+
+    Boeing requested that the FAA delay issuance of the proposed AD 
+until the next OPS version is incorporated into the airplane production 
+line. Boeing stated that based on additional fleet reports, the OPS 
+version specified in the proposed AD, as referenced in Boeing Alert 
+Requirements Bulletin B787-81205-SB230051-00 RB, Issue 001, dated May 
+20, 2024 (Issue 001 of Boeing Alert Requirements Bulletin B787-81205-
+SB230051-00 RB), does not completely address the TCP VHF uncommanded 
+frequency change. Boeing also stated it is continuing to evaluate fleet 
+reports to address the causes of the additional findings in the next 
+OPS version.
+    The FAA agrees that the OPS version specified in the proposed AD 
+does not correct the unsafe condition. For that reason, the FAA is 
+withdrawing the NPRM and may consider other rulemaking when an adequate 
+solution is developed to address the unsafe condition.
+
+Request To Evaluate New Reports Before Issuing the AD
+
+    Qatar requested that the FAA evaluate new in-service reports before 
+mandating the proposed AD. Qatar stated it has modified all of its 
+affected Boeing Model 787 airplanes using Issue 001 of Boeing Alert 
+Requirements Bulletin B787-81205-SB230051-00 RB, as proposed, but its 
+flightcrews are reporting similar issues on the modified airplanes. 
+Qatar believes the unsafe condition still exists on modified airplanes 
+and has reported the events to Boeing and the parts manufacturer for 
+further investigation and determination of the root cause.
+    The FAA is aware that multiple operators have reported concerns 
+about the reliability of the software update or service difficulties 
+after accomplishing Issue 001 of Boeing Alert Requirements Bulletin 
+B787-81205-SB230051-00 RB. As stated previously, the FAA is withdrawing 
+the NPRM and may consider other rulemaking when an adequate solution is 
+developed to address the unsafe condition.
+
+Request to Later Service Information
+
+    Kenya Airways and ProTech requested that the FAA revise paragraph 
+(g) of proposed AD to require accomplishment of Boeing Alert 
+Requirements Bulletin B787-81205-SB230051-00 RB, Issue 002, dated 
+February 24, 2025 (Issue 002 of Boeing Alert Requirements Bulletin 
+B787-81205-SB230051-00 RB) instead of Issue 001 of Boeing Alert 
+Requirements Bulletin B787-81205-SB230051-00 RB.
+    The FAA disagrees. The FAA reviewed Issue 002 of Boeing Alert 
+Requirements Bulletin B787-81205-SB230051-00 RB and noted it provides 
+instructions for installing the same software part number identified in 
+Issue 001 of the Boeing Alert Requirements Bulletin B787-81205-
+SB230051-00 RB. Therefore, the FAA has determined Issue 002 of Boeing 
+Alert Requirements Bulletin B787-81205-SB230051-00 RB is also not 
+adequate for addressing the unsafe condition.
+
+Request To Clarify the Root Cause
+
+    The Foundation for Aviation Safety noted that the FAA previously 
+issued an NPRM on March 25, 2021 (86 FR 17993, April 7, 2021) to 
+address the unsafe condition, and then withdrew that NPRM on August 31, 
+2021 (86 FR 50484, September 9, 2021), because the software update in 
+that proposed AD was not effective. Since operators are reporting that 
+the latest software update is still not effective, the commenter asked 
+whether the problem is specific to
+
+[[Page 65144]]
+
+the software or if there also could be an electrical manufacturing 
+defect.
+    The FAA is aware that multiple operators have reported concerns 
+with the reliability of the software update or experienced service 
+difficulties after accomplishing Issue 001 of Boeing Alert Requirements 
+Bulletin B787-81205-SB230051-00 RB. Boeing is conducting further 
+analysis to determine the root cause of the new reports. The FAA may 
+consider other rulemaking when an adequate solution is developed to 
+address the unsafe condition.
+
+FAA's Conclusions
+
+    Upon further consideration, the FAA has determined that the NPRM 
+does not adequately address the identified unsafe condition. 
+Accordingly, the NPRM is withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act, or DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, the notice of proposed rulemaking (Docket No. FAA-
+2025-0204), which was published in the Federal Register on February 26, 
+2025 (90 FR 10703), is withdrawn.
+
+    Issued on October 5, 2026.
+Brian Knaup,
+Acting Deputy Director, Integrated Certificate Management Division, 
+Aircraft Certification Service.
+[FR Doc. 2026-21009 Filed 10-13-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

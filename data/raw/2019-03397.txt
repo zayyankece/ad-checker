@@ -1,0 +1,144 @@
+
+[Federal Register Volume 84, Number 40 (Thursday, February 28, 2019)]
+[Proposed Rules]
+[Page 6708]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2019-03397]
+
+
+
+[[Page 6708]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-9139; Directorate Identifier 2016-CE-023-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Mitsubishi Heavy Industries, Ltd. 
+Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to adopt a new airworthiness directive (AD) that would 
+have applied to certain Mitsubishi Heavy Industries, Ltd. Models MU-2B-
+10, MU-2B-15, MU-2B-20, MU-2B-25, MU-2B-26, MU-2B-26A, MU-2B-30, MU-2B-
+35, MU-2B-36, MU-2B-36A, MU-2B-40, and MU-2B-60 airplanes. The NPRM 
+resulted from mandatory continuing airworthiness information (MCAI) 
+originated by an aviation authority of another country to identify and 
+correct an unsafe condition on an aviation product and would have 
+required repetitively inspecting the wing spacer plates for cracks 
+until they were replaced with an improved design wing spacer plates. 
+Since issuance of the NPRM, we determined that damage is contained to 
+the wing spacer plate with no evidence that primary structure is 
+affected. Accordingly, the NPRM is withdrawn.
+
+DATES: As of February 28, 2019, the proposed rule, which published in 
+the Federal Register on September 16, 2016 (81 FR 63725), is withdrawn.
+
+FOR FURTHER INFORMATION CONTACT: Bang Nguyen, Aerospace Engineer, FAA, 
+Fort Worth ACO Branch, 10101 Hillwood Pkwy., Fort Worth, Texas 76177; 
+telephone: (817) 222-4973; fax: (817) 222-5785; email: 
+[email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We issued an NPRM that proposed to amend 14 CFR part 39 to add an 
+AD that would apply to the specified products. The NPRM was published 
+in the Federal Register on September 16, 2016 (81 FR 63725). The NPRM 
+was prompted by the Japan Civil Aviation Bureau (JCAB), which is the 
+aviation authority for Japan, AD No. TCD-8783-2016, dated June 28, 2016 
+(referred to after this as ``the MCAI''), to correct an unsafe 
+condition for certain Mitsubishi Heavy Industries (MHI) Models MU-2B-
+20, MU-2B-25, MU-2B-26, MU-2B-30, MU-2B-35, and MU-2B-36 airplanes.
+    As part of the MHI MU-2B aging aircraft program, one-piece and 
+three-piece main wings were subjected to detailed teardown inspections, 
+and cracks were found in the wing spacer plates attached to the forward 
+lower spar area at wing station 580. It was determined that the cracks 
+resulted from fatigue caused by flight loads.
+    Japan is the State of Design for the MHI airplane models that the 
+MCAI AD applies to: Models MU-2B-20, MU-2B-25, and MU-2B-26 with serial 
+numbers (S/Ns) 102 and 121 through 347, except 313 and 321; and Models 
+MU-2B-30, MU-2B-35, and MU-2B-36 with S/Ns 502 through 696, except 652 
+and 661. The United States is the State of Design for MHI Models MU-2B-
+10, MU-2B-15, MU-2B-25, MU-2B-26, MU-2B-26A, and MU-2B-40 with S/Ns 
+313SA, 321SA, and 348SA through 459SA; and Models MU-2B-36A and MU-2B-
+60 with S/Ns 661SA and 697SA through 1569SA airplanes. Japan is the 
+State of Design for Models MU-2B-10 and MU-2B-15 airplanes, but has 
+recently removed these models from the MHI Japanese type certificate. 
+These models remain on the FAA type certificate; however, none of these 
+airplanes are currently on the U.S. registry.
+    The NPRM proposed to require repetitively inspecting the wing 
+spacer plates for cracks until they were replaced with an improved 
+design wing spacer plates. The proposed actions were intended to detect 
+and correct cracks in the wing spacer plates, which could result in 
+reduced structural integrity of the wings and loss of control.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, we have received data from operators 
+who completed the inspections specified in MHI MU-2 Service Bulletin 
+No. 245, dated April 21, 2016, and MU-2 Service Bulletin No. 107/57-
+005, dated May 3, 2016. During the inspections, no cracking in a 
+primary wing structure has been detected. We have determined that 
+damage is contained to the wing spacer plates without affecting the 
+primary structure. Our analysis of fleet data also demonstrates that 
+the wing spar and the wing spar cap maintains conformity with the 
+structural requirements of the type certificate after complete fracture 
+of the wing spacer plate. Neither the JCAB nor the manufacturer has 
+provided the FAA with sufficient data that an unsafe condition exists. 
+Therefore, we have determined that AD action is not appropriate, and 
+the NPRM should be withdrawn.
+    After we received numerous comments on the NPRM stating there is no 
+unsafe condition, we requested additional information from JCAB to 
+demonstrate that the cracks found in the spacers reduce the structural 
+integrity of primary structure. JCAB replied that it took AD action 
+because it is uncertain how the fatigue strength will be affected over 
+the life of the airplane. In addition to the lack of conclusive data 
+that there is an unsafe condition, we considered that removing the wing 
+in order to perform the proposed corrective action may be more 
+detrimental to the aircraft than the cracks themselves.
+    Withdrawal of this NPRM constitutes only such action and does not 
+preclude the agency from issuing future rulemaking on this issue, nor 
+does it commit the agency to any course of action in the future.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule and therefore, not covered under Executive Order 
+12866, the Regulatory Flexibility Act, or DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+0
+Accordingly, the notice of proposed rulemaking, Docket No. FAA-2016-
+9139, which published in the Federal Register on September 16, 2016 (81 
+FR 63725), is withdrawn.
+
+    Issued in Kansas City, Missouri, on February 19, 2019.
+Melvin J. Johnson,
+Aircraft Certification Service, Deputy Director, Policy and Innovation 
+Division, AIR-601.
+[FR Doc. 2019-03397 Filed 2-27-19; 8:45 am]
+BILLING CODE 4910-13-P
+
+

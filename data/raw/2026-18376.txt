@@ -1,0 +1,414 @@
+
+[Federal Register Volume 91, Number 173 (Wednesday, September 9, 2026)]
+[Proposed Rules]
+[Pages 57278-57281]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-18376]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-8797; Project Identifier MCAI-2025-01338-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Bombardier, Inc. Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain Bombardier, Inc., Model BD-700-2A12 airplanes. This 
+proposed AD
+
+[[Page 57279]]
+
+was prompted by reports of fuel leakage near rib 6 during production 
+pressure testing. An investigation found oversized holes in a certain 
+outboard shear-tie. This proposed AD would require an inspection of the 
+fasteners and fastener holes at rib 6 for discrepancies and applicable 
+on-condition actions. The FAA is proposing this AD to address the 
+unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by October 26, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-8797; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Transport Canada material identified in this proposed 
+AD, contact Transport Canada, Transport Canada National Aircraft 
+Certification, 159 Cleopatra Drive, Nepean, Ontario K1A 0N5, Canada; 
+telephone 888-663-3639; email [email&#160;protected]. You may find this material on the 
+Transport Canada website at tc.canada.ca/en/aviation. It is also 
+available at regulations.gov under Docket No. FAA-2026-8797.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195.
+
+FOR FURTHER INFORMATION CONTACT: Isabel Saltzman, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: 516-228-7300; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2026-8797; 
+Project Identifier MCAI-2025-01338-T'' at the beginning of your 
+comments. The most helpful comments reference a specific portion of the 
+proposal, explain the reason for any recommended change, and include 
+supporting data. The FAA will consider all comments received by the 
+closing date and may amend this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Isabel Saltzman, Aviation Safety Engineer, FAA, 1600 Stewart Avenue, 
+Suite 410, Westbury, NY 11590; phone: 516-228-7300; email: [email&#160;protected]. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    Transport Canada, which is the aviation authority for Canada, has 
+issued Transport Canada AD CF-2025-39, dated August 7, 2025 (Transport 
+Canada AD CF-2025-39) (also referred to as the MCAI), to correct an 
+unsafe condition for certain Bombardier, Inc., Model BD-700-2A12 
+airplanes. The MCAI states that reports of fuel leakage near rib 6 were 
+found during production pressure testing. An investigation found five 
+oversized holes upon the removal of the doubler on rib 6 close to 
+stringer 8L. The oversized holes were found in the outboard shear-tie 
+between stringers 8L and 9L, attaching rib 6 to the lower skin of the 
+wing. A fatigue analysis of oversized holes in the inboard and outboard 
+shear-ties between stringers 8L and 9L attaching rib 6 to the skin of 
+the wing indicated the potential for crack formation. This condition, 
+if not addressed, could lead to failure of shear-ties, resulting in the 
+loss of redundant structure and the consequent loss of structural 
+integrity of the airplane.
+    The FAA is proposing this AD to address the unsafe condition on 
+these products.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2026-8797.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    Transport Canada AD CF-2025-39 specifies procedures for conducting 
+an inspection of the fasteners at rib 6 for discrepancies (any gaps 
+under the nuts or evidence of nut loosening), and of the fastener holes 
+for discrepancies (oversizing, elongation, ovalization, and cracking), 
+and applicable on-condition actions. On-condition actions include 
+repair and reinstalling fasteners.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority has notified the FAA of the unsafe condition 
+described in the MCAI referenced above. The FAA is issuing this NPRM 
+after determining that the unsafe condition described previously is 
+likely to exist or develop in other products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require accomplishing the actions specified 
+in Transport Canada AD CF-2025-39 described previously, except for any 
+differences identified as exceptions in the regulatory text of this 
+proposed AD.
+
+[[Page 57280]]
+
+Explanation of Compliance Time That Specifies a Calendar Date
+
+    Transport Canada AD CF-2025-39 includes a compliance time that 
+specifies a calendar date. In determining this compliance time, a 
+fatigue analysis was done based on usage from the fleet leader of the 
+affected aircraft. To ensure that the unsafe condition was addressed 
+based on the original calculated compliance time, the compliance time 
+was adjusted, and the usage was set from the issuance date of 
+Bombardier Service Bulletin 700-57-7525, dated October 26, 2022, i.e., 
+within 1,400 flight cycles from October 26, 2022. The FAA is adopting 
+this same compliance time.
+
+Explanation of Required Compliance Information
+
+    In the FAA's ongoing efforts to improve the efficiency of the AD 
+process, the FAA developed a process to use some civil aviation 
+authority (CAA) ADs as the primary source of information for compliance 
+with requirements for corresponding FAA ADs. The FAA has been 
+coordinating this process with manufacturers and CAAs. As a result, the 
+FAA proposes to incorporate Transport Canada AD CF-2025-39 by reference 
+in the FAA final rule. This proposed AD would, therefore, require 
+compliance with Transport Canada AD CF-2025-39 in its entirety through 
+that incorporation, except for any differences identified as exceptions 
+in the regulatory text of this proposed AD. Material required by 
+Transport Canada AD CF-2025-39 for compliance will be available at 
+regulations.gov under Docket No. FAA-2026-8797 after the FAA final rule 
+is published.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 13 airplanes of U.S. registry. The FAA estimates the following 
+costs to comply with this proposed AD:
+
+                                      Estimated Costs for Required Actions
+----------------------------------------------------------------------------------------------------------------
+                                                                                    Cost per       Cost on U.S.
+                          Labor cost                              Parts cost        product         operators
+----------------------------------------------------------------------------------------------------------------
+10 work-hours x $85 per hour = $850..........................              $0             $850          $11,050
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary on-
+condition action that would be required based on the results of any 
+required actions. The FAA has no way of determining the number of 
+aircraft that might need this on-condition action:
+
+                 Estimated Costs of On-Condition Actions
+------------------------------------------------------------------------
+                                                             Cost per
+              Labor cost                   Parts cost        product
+------------------------------------------------------------------------
+39 work-hours x $85 per hour = $3,315.            $635           $3,950
+------------------------------------------------------------------------
+
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some or all of the costs of 
+this proposed AD may be covered under warranty, thereby reducing the 
+cost impact on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Bombardier, Inc.: Docket No. FAA-2026-8797; Project Identifier MCAI-
+2025-01338-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by October 26, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Bombardier, Inc., Model BD-700-2A12 
+airplanes, certificated
+
+[[Page 57281]]
+
+in any category, as identified in Transport Canada AD CF-2025-39, 
+dated August 7, 2025 (Transport Canada AD CF-2025-39).
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 57, Wings.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of fuel leakage near rib 6 
+during production pressure testing. An investigation found oversized 
+holes in a certain outboard shear-tie. Fatigue analysis of those 
+oversized holes indicated the potential for crack formation. The FAA 
+is issuing this AD to address the failure of shear-ties. The unsafe 
+condition, if not addressed, could result in the loss of redundant 
+structure and the consequent loss of structural integrity of the 
+airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Requirements
+
+    Except as specified in paragraphs (h) and (i) of this AD: Comply 
+with all required actions and compliance times specified in, and in 
+accordance with, Transport Canada AD CF-2025-39.
+
+(h) Exception to Transport Canada AD CF-2025-39
+
+    (1) Where Transport Canada AD CF-2025-39 refers to its effective 
+date, this AD requires using the effective date of this AD.
+    (2) Where Transport Canada AD CF-2025-39 specifies to ``Inspect 
+and if required rework the fasteners and fastener holes at Rib 6, in 
+accordance with Section 2.B of the Accomplishment Instructions of 
+Bombardier Service Bulletin (SB) 700-57-7525 Revision 01, dated 13 
+January 2025 or later revisions approved by the Chief, Continuing 
+Airworthiness, Transport Canada'', this AD requires replacing that 
+text with ``Inspect in accordance with Section 2.B of the 
+Accomplishment Instructions of Bombardier Service Bulletin (SB) 700-
+57-7525 Revision 01, dated 13 January 2025 or later revisions 
+approved by the Chief, Continuing Airworthiness, Transport Canada. 
+If any discrepancy (gap under a nut; evidence of nut loosening; 
+oversized, elongated, or ovalized hole; or cracking) is detected, 
+the discrepancy must be repaired before further flight using a 
+method approved by the Manager, International Validation Branch, 
+FAA; or Transport Canada; or Bombardier's Transport Canada Design 
+Approval Organization (DAO). If approved by the DOA, the approval 
+must include the DOA-authorized signature''.
+
+(i) No Reporting Requirement
+
+    Although the material referenced in Transport Canada AD CF-2025-
+39 specifies to submit certain information to the manufacturer, this 
+AD does not include that requirement.
+
+(j) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or responsible Flight Standards Office, as 
+appropriate. If sending information directly to the manager of the 
+International Validation Branch, send it to the attention of the 
+person identified in paragraph (k) of this AD and email to: 
+[email&#160;protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or Transport Canada; or Bombardier's 
+Transport Canada Design Approval Organization (DAO). If approved by 
+the DAO, the approval must include the DAO-authorized signature.
+
+(k) Additional Information
+
+    For more information about this AD, contact Isabel Saltzman, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; phone: 516-228-7300; email: [email&#160;protected].
+
+(l) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) Transport Canada AD CF-2025-39, dated August 7, 2025.
+    (ii) [Reserved]
+    (3) For Transport Canada material identified in this AD, contact 
+Transport Canada, Transport Canada National Aircraft Certification, 
+159 Cleopatra Drive, Nepean, Ontario K1A 0N5, Canada; telephone 888-
+663-3639; email [email&#160;protected]. You may find this material on 
+the Transport Canada website at tc.canada.ca/en/aviation.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on September 3, 2026.
+Paul R. Bernado,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2026-18376 Filed 9-8-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

@@ -1,0 +1,593 @@
+
+[Federal Register Volume 81, Number 90 (Tuesday, May 10, 2016)]
+[Proposed Rules]
+[Pages 28770-28774]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-10735]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2016-6417; Directorate Identifier 2015-NM-134-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: We propose to adopt a new airworthiness directive (AD) for all 
+The Boeing Company Model DC-10-10 and DC-10-10F airplanes, Model DC-10-
+15 airplanes, Model DC-10-30 and DC-10-30F (KC-10A and KDC-10) 
+airplanes, Model DC-10-40 and DC-10-40F airplanes, Model MD-10-10F and 
+MD-10-30F airplanes, and Model MD-11 and MD-11F airplanes. This 
+proposed AD was prompted by results from fuel system reviews conducted 
+by the manufacturer and multiple reports of fuel pump housing 
+electrical connector failures related to ingress of airplane fluids. 
+This proposed AD would require replacement of the fuel pump housing 
+electrical connector or replacement of the fuel pump housing; 
+repetitive inspections for proper operation and corrective actions if 
+necessary; and revising the maintenance or inspection program to 
+incorporate new airworthiness limitations. This proposed AD would also 
+require, for certain airplanes, a general visual inspection of the 
+protective cap and replacement if necessary. We are proposing this AD 
+to prevent failure of the fuel pump housing electrical connector, which 
+could result in a potential ignition source in a fuel tank and 
+consequent fire or explosion.
+
+DATES: We must receive comments on this proposed AD by June 24, 2016.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    For The Boeing Company service information identified in this NPRM, 
+contact Boeing Commercial Airplanes, Attention: Data & Services 
+Management, 3855 Lakewood Boulevard, MC D800-0019, Long Beach, CA 
+90846-0001; phone: 206-544-5000, extension 2; fax: 206-766-5683; 
+Internet https://www.myboeingfleet.com.
+    For Crane Aerospace & Electronics, Hydro-Aire, Inc. service 
+information identified in this NPRM, contact Crane Aerospace & 
+Electronics, Hydro-Aire, Inc.: 3000 Winona Avenue, Burbank, CA
+
+[[Page 28771]]
+
+91510-7722; phone: 818-526-2500; fax: 818-526-5658; email: 
+[email&#160;protected].
+    You may view this referenced service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. For 
+information on the availability of this material at the FAA, call 425-
+227-1221. Boeing Service Bulletin DC10-28-264, dated May 15, 2015; and 
+Boeing Service Bulletin MD11-28-146, dated May 15, 2015; are also 
+available on the Internet at http://www.regulations.gov by searching 
+for and locating Docket No. FAA-2016-6417.
+
+Examining the AD Docket
+
+    You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2016-
+6417; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this proposed AD, the regulatory evaluation, any comments 
+received, and other information. The street address for the Docket 
+Office (phone: 800-647-5527) is in the ADDRESSES section. Comments will 
+be available in the AD docket shortly after receipt.
+
+FOR FURTHER INFORMATION CONTACT: Philip Kush, Aerospace Engineer, 
+Propulsion Branch, ANM-140L, FAA, Los Angeles Aircraft Certification 
+Office (ACO), 3960 Paramount Boulevard, Lakewood, CA 90712-4137; phone: 
+562-627-5263; fax: 562-627-5210; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Comments Invited
+
+    We invite you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2016-6417; 
+Directorate Identifier 2015-NM-134-AD'' at the beginning of your 
+comments. We specifically invite comments on the overall regulatory, 
+economic, environmental, and energy aspects of this proposed AD. We 
+will consider all comments received by the closing date and may amend 
+this proposed AD because of those comments.
+    We will post all comments we receive, without change, to http://www.regulations.gov, including any personal information you provide. We 
+will also post a report summarizing each substantive verbal contact we 
+receive about this proposed AD.
+
+Discussion
+
+    The FAA has examined the underlying safety issues involved in fuel 
+tank explosions on several large transport airplanes, including the 
+adequacy of existing regulations, the service history of airplanes 
+subject to those regulations, and existing maintenance practices for 
+fuel tank systems. As a result of those findings, we issued a 
+regulation titled ``Transport Airplane Fuel Tank System Design Review, 
+Flammability Reduction and Maintenance and Inspection Requirements'' 
+(66 FR 23086, May 7, 2001). In addition to new airworthiness standards 
+for transport airplanes and new maintenance requirements, this rule 
+included Special Federal Aviation Regulation No. 88 (``SFAR 88,'' 
+Amendment 21-78, and subsequent Amendments 21-82 and 21-83).
+    Among other actions, SFAR 88 requires certain type design (i.e., 
+type certificate (TC) and supplemental type certificate (STC)) holders 
+to substantiate that their fuel tank systems can prevent ignition 
+sources in the fuel tanks. This requirement applies to type design 
+holders for large turbine-powered transport airplanes and for 
+subsequent modifications to those airplanes. It requires them to 
+perform design reviews and to develop design changes and maintenance 
+procedures if their designs do not meet the new fuel tank safety 
+standards. As explained in the preamble to the rule, we intended to 
+adopt airworthiness directives to mandate any changes found necessary 
+to address unsafe conditions identified as a result of these reviews.
+    In evaluating these design reviews, we have established four 
+criteria intended to define the unsafe conditions associated with fuel 
+tank systems that require corrective actions. The percentage of 
+operating time during which fuel tanks are exposed to flammable 
+conditions is one of these criteria. The other three criteria address 
+the failure types under evaluation: single failures, combination of 
+failures, and unacceptable (failure) experience. For all three failure 
+criteria, the evaluations included consideration of previous actions 
+taken that may mitigate the need for further action.
+    We have determined that the actions identified in this AD are 
+necessary to reduce the potential of ignition sources inside fuel 
+tanks, which, in combination with flammable fuel vapors, could result 
+in fuel tank explosions and consequent loss of the airplane.
+    We have received multiple reports of fuel pump housing electrical 
+connector failures related to ingress of airplane fluids. Currently 
+installed fuel pump housing electrical connectors have 18 month 
+repetitive inspection requirements related to AD 2011-11-05, Amendment 
+39-16704 (76 FR 31462, dated June 1, 2011) (``AD 2011-11-05''), and AD 
+2002-13-10, Amendment 39-12798 (67 FR 45053, dated July 8, 2002) (``AD 
+2002-13-10''). An improved fuel pump housing electrical connector has 
+been developed to supersede the currently installed fuel pump housing 
+electrical connector. Additionally, a secondary option has been 
+developed that allows the operator to replace the fuel pump housing. In 
+addition to the new fuel pump housing electrical connector, the use of 
+environmentally sealed terminal lugs will help to prevent the wicking 
+of airplane fluids into the fuel pump wires and the fuel pump housing 
+electrical connector. This condition, if not corrected, could result in 
+failure of the fuel pump housing electrical connector, causing a 
+potential ignition source in a fuel tank and consequent fire or 
+explosion.
+
+Related Service Information Under 1 CFR Part 51
+
+    We reviewed the following service information.
+     Boeing Service Bulletin DC10-28-264, dated May 15, 2015. 
+The service information describes procedures for replacement of the 
+fuel pump housing electrical connector with a new fuel pump housing 
+electrical connector or replacement of the fuel pump housing. The 
+service information also describes procedures for inspections for 
+proper operation and corrective actions if necessary.
+     Boeing Service Bulletin MD11-28-146, dated May 15, 2015. 
+The service information describes procedures for replacement of the 
+fuel pump housing electrical connector with a new fuel pump housing 
+electrical connector or replacement of the fuel pump housing. The 
+service information also describes procedures for inspections for 
+proper operation and corrective actions if necessary.
+     Crane Aerospace & Electronics, Hydro-Aire, Inc. Service 
+Bulletin 60-843/845-28-2, dated October 1, 2014. The service 
+information describes procedures for a general visual inspection of the 
+protective cap and replacement if necessary.
+     Appendixes B, C, and D of Boeing Trijet Special Compliance 
+Item Report MDC-02K1003, Revision O, dated April 15, 2015, which 
+include Critical Design Configuration Control Limitations (CDCCLs), 
+Airworthiness Limitation Instructions (ALIs), and short-term 
+extensions.
+
+[[Page 28772]]
+
+    This service information is reasonably available because the 
+interested parties have access to it through their normal course of 
+business or by the means identified in the ADDRESSES section.
+
+Other Relevant Rulemaking
+
+    AD 2000-22-21, Amendment 39-11969 (65 FR 69658, dated November 20, 
+2000) (``AD 2000-22-21''), applies to all The Boeing Company Model DC-
+10, Model MD-10, and Model MD-11 series airplanes. AD 2000-22-21 
+requires revising the Airplane Flight Manual (AFM) to ensure that the 
+flight crew is advised of appropriate procedures for disabling certain 
+fuel pump electrical circuits following failure of a fuel pump 
+electrical connector. For certain airplanes, AD 2000-22-21 also 
+requires revising the AFM to prohibit resetting of tripped fuel pump 
+circuit breakers. AD 2000-22-21 was prompted by reports of four 
+incidents on McDonnell Douglas Model DC-10 and MD-11 series airplanes, 
+in which a short circuit occurred in the electrical connector between 
+the power lead and the housing of a fuel pump. The circuit breaker did 
+not trip in any of these incidents because the electrical arcing that 
+occurred was shorter in duration than necessary for the circuit breaker 
+to detect the arcing and open the circuit. We issued AD 2000-22-21 to 
+prevent continued arcing following a short circuit of the fuel pump 
+electrical connector, which could damage the conduit that protects the 
+power lead inside the fuel tank, and result in the creation of a 
+potential ignition source in the fuel tank.
+    AD 2002-13-10 applies to certain The Boeing Company Model DC-10-10, 
+-10F, -15, -30, -30F, -30F (KC-10A and KDC-10), -40, and -40F 
+airplanes; Model MD-10-10F and -30F airplanes; and Model MD-11 and -11F 
+airplanes. AD 2002-13-10 requires repetitive tests for electrical 
+continuity and resistance and repetitive inspections to detect 
+discrepancies of the fuel boost/transfer pump connectors; and 
+corrective actions, if necessary. AD 2002-13-10 was prompted by reports 
+of five instances of failed connectors in the fuel boost/transfer pump 
+circuit on The Boeing Company Model DC-10 and MD-11 series airplanes. 
+We issued AD 2002-13-10 to prevent arcing of connectors in the fuel 
+boost/transfer pump circuit, which could result in a fire or explosion 
+of the fuel tank.
+    AD 2003-07-14, Amendment 39-13110 (68 FR 17544, dated April 10, 
+2003), applies to a single The Boeing Company Model DC-10-30 airplane. 
+AD 2003-07-14 requires repetitive tests for electrical continuity and 
+resistance and repetitive inspections to detect discrepancies of the 
+fuel boost/transfer pump connectors; and corrective actions, if 
+necessary. AD 2003-07-14 was prompted by reports of five instances of 
+failed connectors in the fuel boost/transfer pump circuit on certain 
+McDonnell Douglas Model DC-10 and MD-11 series airplanes. We issued AD 
+2003-07-14 to prevent arcing of connectors in the fuel boost/transfer 
+pump circuit, which could result in a fire or explosion of the fuel 
+tank.
+    AD 2008-06-21 R1, Amendment 39-16100 (74 FR 61504, November 25, 
+2009), applies to all McDonnell Douglas Corporation Model DC-10-10 and 
+DC-10-10F airplanes, Model DC-10-15 airplanes, Model DC-10-30 and DC-
+10-30F (KC-10A and KDC-10) airplanes, Model DC-10-40 and DC-10-40F 
+airplanes, Model MD-10-10F and MD-10-30F airplanes, and Model MD-11 and 
+MD-11F airplanes. AD 2008-06-21 R1 requires revising the FAA-approved 
+maintenance program, or the Airworthiness Limitations (AWLs) section of 
+the Instructions for Continued Airworthiness, as applicable, to 
+incorporate new AWLs for fuel tank systems to satisfy Special Federal 
+Aviation Regulation No. 88 requirements. For certain airplanes, AD 
+2008-06-21 R1 also requires the initial accomplishment of a certain 
+repetitive AWL inspection to phase in that inspection, and repair if 
+necessary. AD 2008-06-21 R1 clarifies the intended effect of the AD on 
+spare and on-airplane fuel tank system components. AD 2008-06-21 R1 was 
+prompted by a design review of the fuel tank system. We issued AD 2008-
+06-21 R1 to prevent the potential for ignition sources inside fuel 
+tanks caused by latent failures, alterations, repairs, or maintenance 
+actions, which, in combination with flammable fuel vapors, could result 
+in a fuel tank explosion and consequent loss of the airplane.
+    AD 2011-11-05 applies to all The Boeing Company Model DC-10-10, DC-
+10-10F, DC-10-15, DC-10-30, DC-10-30F (KC-10A and KDC-10), DC-10-40, 
+DC-10-40F; Model MD-10-10F, MD-10-30F, MD-11, and MD-11F airplanes. AD 
+2011-11-05 requires replacing the fuel pump housing electrical 
+connector assembly with a new part and doing repetitive inspections for 
+continuity, resistance, and insulation resistance, and doing corrective 
+actions if necessary. AD 2011-11-05 was prompted by reports of failures 
+of a certain fuel pump housing electrical connector. We issued AD 2011-
+11-05 to detect and correct insulation resistance degradation and 
+arcing in the potted backside of the electrical connector assembly of 
+the fuel boost/transfer pump housing, which could compromise its 
+performance and cause an ignition source in the fuel tank, resulting in 
+a fuel tank explosion and consequent loss of the airplane.
+
+FAA's Determination
+
+    We are proposing this AD because we evaluated all the relevant 
+information and determined the unsafe condition described previously is 
+likely to exist or develop in other products of these same type 
+designs.
+
+Proposed AD Requirements
+
+    This proposed AD would require replacement of the fuel pump housing 
+electrical connector or replacement of the fuel pump housing. This 
+proposed AD would also require, for certain airplanes, a general visual 
+inspection of the protective cap and replacement if necessary. This 
+proposed AD would also require repetitive inspections for proper 
+operation of the fuel pump and corrective actions if necessary. This 
+proposed AD would also require revising the maintenance or inspection 
+program to incorporate new airworthiness limitations.
+    This proposed AD requires revisions to certain operator maintenance 
+documents to include new actions (e.g., inspections) and CDCCLs. 
+Compliance with these actions and CDCCLs is required by 14 CFR 
+91.403(c). For airplanes that have been previously modified, altered, 
+or repaired in the areas addressed by this AD, the operator may not be 
+able to accomplish the actions described in the revisions. In this 
+situation, to comply with 14 CFR 91.403(c), the operator must request 
+approval for an alternative method of compliance according to paragraph 
+(l) of this AD. The request should include a description of changes to 
+the required inspections that will ensure the continued operational 
+safety of the airplane.
+    Notwithstanding any other maintenance or operational requirements, 
+components that have been identified as airworthy or installed on the 
+affected airplanes before accomplishing the revision of the airplane 
+maintenance or inspection program specified in this proposed AD, do not 
+need to be reworked in accordance with the CDCCLs. However, once the 
+airplane maintenance or inspection program has been revised as required 
+by this proposed AD, future maintenance actions on these components 
+must be done in accordance with the CDCCLs.
+
+[[Page 28773]]
+
+    The phrase ``corrective actions'' is used in this proposed AD. 
+``Corrective actions'' correct or address any condition found. 
+Corrective actions in an AD could include, for example, repairs.
+
+Costs of Compliance
+
+    We estimate that this proposed AD affects 246 airplanes of U.S. 
+registry.
+    We estimate the following costs to comply with this proposed AD:
+
+                                                                     Estimated Costs
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+              Action                      Labor cost                 Parts cost                   Cost per product             Cost on U.S. operators
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Option 1: Replace connectors        68 work-hours x $85    $54,842.......................  $60,622.......................  $7,395,884.
+ (including inspection) (122 Model   per hour = $5,780.
+ DC-10, and MD-10 airplanes.).
+Option 1: Replace connectors        59 work-hours x $85    $67,031.......................  $72,046.......................  $8,933,704.
+ (including inspection) (124 Model   per hour = $5,015.
+ MD-11 airplanes.).
+Option 2: Replace fuel pump         Up to 81 work-hours x  Up to $54,842.................  Up to $61,727.................  Up to $7,530,694.
+ housings (122 Model DC-10, and MD-  $85 per hour =
+ 10 airplanes.).                     $6,885.
+Option 2: Replace fuel pump         77 work-hours x $85    $67,031.......................  $73,576.......................  $9,123,424.
+ housings (124 Model MD-11           per hour = $6,545.
+ airplanes.).
+Maintenance or inspection program   1 work-hour x $85 per  $0............................  $85...........................  $20,910.
+ revision.                           hour = $85.
+Inspection for proper operation...  Up to 130 work-hours   $0............................  Up to $11,050.................  Up to $2,718,300.
+                                     x $85 per hour =
+                                     $11,050.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    We have received no definitive data that would enable us to provide 
+cost estimates for the on-condition replacement and corrective actions 
+specified in this proposed AD.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    We are issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: ``General 
+requirements.'' Under that section, Congress charges the FAA with 
+promoting safe flight of civil aircraft in air commerce by prescribing 
+regulations for practices, methods, and procedures the Administrator 
+finds necessary for safety in air commerce. This regulation is within 
+the scope of that authority because it addresses an unsafe condition 
+that is likely to exist or develop on products identified in this 
+rulemaking action.
+
+Regulatory Findings
+
+    We determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national Government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Is not a ``significant rule'' under the DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979),
+    (3) Will not affect intrastate aviation in Alaska, and
+    (4) Will not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive (AD):
+
+The Boeing Company: Docket No. FAA-2016-6417; Directorate Identifier 
+2015-NM-134-AD.
+
+(a) Comments Due Date
+
+    We must receive comments by June 24, 2016.
+
+(b) Affected ADs
+
+    This AD affects AD 2000-22-21, Amendment 39-11969 (65 FR 69658, 
+dated November 20, 2000); AD 2002-13-10, Amendment 39-12798 (67 FR 
+45053, dated July 8, 2002); AD 2003-07-14, Amendment 39-13110 (68 FR 
+17544, dated April 10, 2003); AD 2008-06-21 R1, Amendment 39-16100 
+(74 FR 61504, November 25, 2009); and AD 2011-11-05, Amendment 39-
+16704 (76 FR 31462, dated June 1, 2011).
+
+(c) Applicability
+
+    This AD applies to all The Boeing Company Model DC-10-10 and DC-
+10-10F airplanes, Model DC-10-15 airplanes, Model DC-10-30 and DC-
+10-30F (KC-10A and KDC-10) airplanes, Model DC-10-40 and DC-10-40F 
+airplanes, Model MD-10-10F and MD-10-30F airplanes, and Model MD-11 
+and MD-11F airplanes, certificated in any category.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 28, Fuel.
+
+(e) Unsafe Condition
+
+    This AD was prompted by multiple reports of fuel pump housing 
+electrical connector failures related to ingress of airplane fluids. 
+We are issuing this AD to prevent failure of the fuel pump housing 
+electrical connector, which could result in a potential ignition 
+source in a fuel tank and consequent fire or explosion.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+[[Page 28774]]
+
+(g) Replacement
+
+    Within 36 months after the effective date of this AD, do the 
+actions required by paragraph (g)(1) or (g)(2) of this AD.
+    (1) Do a replacement of the fuel pump housing electrical 
+connector with a new fuel pump housing electrical connector, 
+including doing a general visual inspection of the protective cap 
+for a spring and applicable replacement of the protective cap, in 
+accordance with the Accomplishment Instructions of Boeing Service 
+Bulletin DC10-28-264, dated May 15, 2015; or Boeing Service Bulletin 
+MD11-28-145, dated May 15, 2015, as applicable; and Crane Aerospace 
+& Electronics, Hydro-Aire, Inc. Service Bulletin 60-843/845-28-2, 
+dated October 1, 2014.
+    (2) Do a replacement of the fuel boost pump housing with a new 
+fuel boost pump housing, in accordance with the Accomplishment 
+Instructions of Boeing Service Bulletin DC10-28-264, dated May 15, 
+2015; or Boeing Service Bulletin MD11-28-146, dated May 15, 2015, as 
+applicable.
+
+(h) Repetitive Inspections
+
+    Within 24 months after accomplishing the replacement required by 
+paragraph (g) of this AD, do an inspection for proper operation of 
+the fuel pump and all applicable corrective actions, in accordance 
+with Appendix A, ``24 Month Repetitive Inspection,'' of Boeing 
+Service Bulletin DC10-28-264, dated May 15, 2015; or Boeing Service 
+Bulletin MD11-28-146, dated May 15, 2015; as applicable. Do all 
+applicable corrective actions before further flight. Repeat the 
+inspection thereafter at intervals not to exceed 24 months.
+
+(i) Maintenance or Inspection Program Revision
+
+    Within 30 days after accomplishing the replacement required by 
+paragraph (g) of this AD, or within 30 days after the effective date 
+of this AD, whichever occurs later, revise the maintenance or 
+inspection program, as applicable, to incorporate the Critical 
+Design Configuration Control Limitations (CDCCLs), Airworthiness 
+Limitation Instructions (ALIs), and short-term extensions specified 
+in Appendices B, C, and D of Boeing Trijet Special Compliance Item 
+(SCI) Report MDC-02K1003, Revision O, dated April 15, 2015. The 
+initial compliance time for accomplishing the actions specified in 
+the ALIs is at the later of the times specified in paragraphs (i)(1) 
+and (i)(2) of this AD. Revising the maintenance or inspection 
+program required by this paragraph terminates the requirements in 
+paragraphs (g) and (h) of AD 2008-06-21 R1, Amendment 39-16100 (74 
+FR 61504, November 25, 2009).
+    (1) At the applicable time specified in Appendix C of Boeing 
+Trijet SCI Report MDC-02K1003, Revision O, dated April 15, 2015, 
+except as provided by Appendix D of Boeing Trijet SCI Report MDC-
+02K1003, Revision O, dated April 15, 2015.
+    (2) Within 30 days after accomplishing the actions required by 
+paragraph (g) of this AD, or within 30 days after the effective date 
+of this AD, whichever occurs later.
+
+(j) No Alternative Actions, Intervals, or CDCCLs
+
+    After the maintenance or inspection program has been revised as 
+required by paragraph (i) of this AD, no alternative actions (e.g., 
+inspections), intervals, or CDCCLs may be used unless the actions, 
+intervals, or CDCCLs are approved as an alternative method of 
+compliance (AMOC) in accordance with the procedures specified in 
+paragraph (l) of this AD.
+
+(k) Terminating Action for Certain Paragraphs of Other ADs
+
+    Accomplishing the actions required by paragraph (g) of this AD 
+terminates the requirements specified in paragraphs (k)(1), (k)(2), 
+(k)(3), and (k)(4) of this AD for that airplane only.
+    (1) The actions required by paragraph (a) of AD 2000-22-21, 
+Amendment 39-11969 (65 FR 69658, dated November 20, 2000).
+    (2) The actions required by paragraphs (a) and (b) of AD 2002-
+13-10, Amendment 39-12798 (67 FR 45053, dated July 8, 2002).
+    (3) The actions required by paragraphs (a) and (b) of AD 2003-
+07-14, Amendment 39-13110 (68 FR 17544, dated April 10, 2003).
+    (4) The actions required by paragraph (j) of AD 2011-11-05, 
+Amendment 39-16704 (76 FR 31462, dated June 1, 2011).
+
+(l) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Los Angeles Aircraft Certification Office 
+(ACO), FAA, has the authority to approve AMOCs for this AD, if 
+requested using the procedures found in 14 CFR 39.19. In accordance 
+with 14 CFR 39.19, send your request to your principal inspector or 
+local Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the ACO, send it to the 
+attention of the person identified in paragraph (m)(1) of this AD. 
+Information may be emailed to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+    (3) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by the Boeing Commercial Airplanes Organization 
+Designation Authorization (ODA) that has been authorized by the 
+Manager, Los Angeles ACO to make those findings. To be approved, the 
+repair method, modification deviation, or alteration deviation must 
+meet the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (4) For service information that contains steps that are labeled 
+as Required for Compliance (RC), the provisions of paragraphs 
+(l)(4)(i) and (l)(4)(ii) of this AD apply.
+    (i) The steps labeled as RC, including substeps under an RC step 
+and any figures identified in an RC step, must be done to comply 
+with the AD. An AMOC is required for any deviations to RC steps, 
+including substeps and identified figures.
+    (ii) Steps not labeled as RC may be deviated from using accepted 
+methods in accordance with the operator's maintenance or inspection 
+program without obtaining approval of an AMOC, provided the RC 
+steps, including substeps and identified figures, can still be done 
+as specified, and the airplane can be put back in an airworthy 
+condition.
+
+(m) Related Information
+
+    (1) For more information about this AD, contact Philip Kush, 
+Aerospace Engineer, Propulsion Branch, ANM-140L, FAA, Los Angeles 
+Aircraft Certification Office (ACO), 3960 Paramount Boulevard, 
+Lakewood, CA 90712-4137; phone: 562-627-5263; fax: 562-627-5210; 
+email: [email&#160;protected].
+    (2) For The Boeing Company service information identified in 
+this AD, contact Boeing Commercial Airplanes, Attention: Data & 
+Services Management, 3855 Lakewood Boulevard, MC D800-0019, Long 
+Beach, CA 90846-0001; phone: 206-544-5000, extension 2; fax: 206-
+766-5683; Internet https://www.myboeingfleet.com.
+    (3) For Crane Aerospace & Electronics, Hydro-Aire, Inc. service 
+information identified in this AD, contact Crane Aerospace & 
+Electronics, Hydro-Aire, Inc.: 3000 Winona Avenue, Burbank, CA 
+91510-7722; phone: 818-526-2500; fax: 818-526-5658; email: 
+[email&#160;protected].
+    (4) You may view this referenced service information at the FAA, 
+Transport Airplane Directorate, 1601 Lind Avenue SW., Renton, WA. 
+For information on the availability of this material at the FAA, 
+call 425-227-1221.
+
+    Issued in Renton, WA, on April 27, 2016.
+Dionne Palermo,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2016-10735 Filed 5-9-16; 8:45 am]
+ BILLING CODE 4910-13-P
+
+

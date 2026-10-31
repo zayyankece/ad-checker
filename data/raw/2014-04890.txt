@@ -1,0 +1,129 @@
+
+[Federal Register Volume 79, Number 43 (Wednesday, March 5, 2014)]
+[Proposed Rules]
+[Page 12424]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2014-04890]
+
+
+
+[[Page 12424]]
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0629; Directorate Identifier 2012-NM-214-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Fokker Services B.V. Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA withdraws a notice of proposed rulemaking (NPRM) that 
+proposed a new airworthiness directive (AD), which applies to certain 
+Fokker Services B.V. Model F.28 Mark 0070 and 0100 airplanes. The NPRM 
+would have required installing fuses in the maximum level (Max Level) 
+sensor wiring, and revising the airplane maintenance program by 
+incorporating critical design configuration control limitations. Since 
+the NPRM was issued, we have received new data indicating that the 
+modification proposed in the NPRM interfered with the normal operation 
+of the Max Level shutoff system. Accordingly, the NPRM is withdrawn.
+
+DATES: As of March 5, 2014, the proposed rule, which was published in 
+the Federal Register on July 31, 2013 (78 FR 46298), is withdrawn.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2013-
+0629; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD action, the NPRM (78 FR 46298, July 31, 2013), the 
+regulatory evaluation, any comments received, and other information. 
+The address for the Docket Office (telephone 800-647-5527) is the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Tom Rodriguez, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1137; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    We proposed to amend part 39 of the Federal Aviation Regulations 
+(14 CFR part 39) with a notice of proposed rulemaking (NPRM) for a new 
+AD for certain Fokker Services B.V. Model F.28 Mark 0070 and 0100 
+airplanes. The NPRM published in the Federal Register on July 31, 2013 
+(78 FR 46298). The NPRM resulted from a design review, which revealed 
+that, under certain failure conditions of the Max Level sensor wiring, 
+a short circuit may develop that causes a hot spot on the wiring 
+conduit, or puncturing of the wiring conduit wall in the center wing 
+fuel tank. The NPRM would have required installing fuses in the Max 
+Level sensor wiring, and revising the airplane maintenance program by 
+incorporating critical design configuration control limitations. The 
+proposed actions were intended to prevent an ignition source in the 
+center wing fuel tank vapor space, which could result in a fuel tank 
+explosion and consequent loss of the airplane.
+
+Actions Since NPRM (78 FR 46298, July 31, 2013) Was Issued
+
+    Since we issued the NPRM (78 FR 46298, July 31, 2013), we received 
+a report that after an operator installed the fuses in the wiring of 
+the Max Level sensors of the center fuel tank, as specified in Fokker 
+Service Bulletin SBF100-28-073, dated August 10, 2012, the Max Level 
+shut-off system did not operate correctly. After initial refueling 
+shut-off, refueling restarted, leading to fuel spilling onto the 
+platform. The manufacturer is developing a modification to address the 
+unsafe condition that does not interfere with the normal operation of 
+the Max Level shutoff system. We might issue AD rulemaking once the 
+manufacturer has issued service information that includes the 
+modification.
+
+FAA's Conclusions
+
+    Upon further consideration, we have determined that the NPRM (78 FR 
+46298, July 31, 2013) does not adequately address the identified unsafe 
+condition. Accordingly, the NPRM is withdrawn.
+    Withdrawal of the NPRM (78 FR 46298, July 31, 2013) does not 
+preclude the FAA from issuing another related action or commit the FAA 
+to any course of action in the future.
+
+Regulatory Impact
+
+    Since this action only withdraws an NPRM (78 FR 46298, July 31, 
+2013), it is neither a proposed nor a final rule and therefore is not 
+covered under Executive Order 12866, the Regulatory Flexibility Act, or 
+DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 
+1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, we withdraw the NPRM, Docket No. FAA-2013-0629, 
+Directorate Identifier 2012-NM-214-AD, which was published in the 
+Federal Register on July 31, 2013 (78 FR 46298, July 31, 2013).
+
+    Issued in Renton, Washington, on February 19, 2014.
+Jeffrey E. Duven,
+Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2014-04890 Filed 3-4-14; 8:45 am]
+BILLING CODE 4910-13-P
+
+

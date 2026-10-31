@@ -1,0 +1,92 @@
+
+[Federal Register Volume 83, Number 187 (Wednesday, September 26, 2018)]
+[Proposed Rules]
+[Pages 48575-48576]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2018-20715]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2017-0313; Product Identifier 2017-NE-11-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; CFM International S.A. Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM); withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA withdraws an NPRM that published on August 25, 2017 
+regarding an unsafe condition involving certain CFM International 
+CFM56-7B turbofan engines. The agency subsequently determined that the 
+identified unsafe condition was not adequately addressed by the 
+proposed actions and published two final rules that adequately address 
+the identified unsafe condition.
+
+DATES: Effective September 26, 2018, the FAA withdraws the NPRM 
+published at 82 FR 40516, on August 25, 2017.
+
+ADDRESSES: You may examine the Airworthiness Directive (AD) docket on 
+the internet at http://www.regulations.gov by searching for and 
+locating Docket No. FAA-2017-0313; or in person at Docket Operations 
+between 9 a.m. and 5 p.m., Monday through Friday, except Federal 
+holidays. The AD docket contains this action, the NPRM (82 FR 40516, 
+August 25, 2017) the regulatory evaluation, any comments received, and 
+other information. The address for Docket Operations (phone: 800-647-
+5527) is U.S. Department of Transportation, Docket Operations, M 30, 
+West Building Ground Floor, Room W12 140, 1200 New Jersey Avenue SE, 
+Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Christopher McGuire, Aerospace 
+Engineer, ECO Branch, FAA, 1200 District Avenue, Burlington MA, 01803; 
+phone: 781-238-7120; fax: 781-238-7199; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+[[Page 48576]]
+
+Discussion
+
+    The FAA issued an NPRM proposing to amend part 39 of the Federal 
+Aviation Regulations (14 CFR part 39) with an AD applicable to certain 
+CFM International CFM56-7B turbofan engines. The proposed AD would have 
+required a one-time ultrasonic inspection (USI) or eddy current 
+inspection (ECI) of certain fan blades and, if they fail the 
+inspection, their replacement with parts eligible for installation. The 
+proposed action was prompted by a report of an in-flight fan blade 
+failure and uncontained forward release of debris on a CFM56-7B 
+turbofan engine.
+    Since issuing the NPRM, the FAA determined that the identified 
+unsafe condition was not adequately addressed by the actions proposed 
+in the NPRM. Therefore, the FAA published two final rules, AD 2018-09-
+51 (83 FR 23794, May 23, 2018) and AD 2018-10-11 (83 FR 22836, May 17, 
+2018) to require initial and repetitive USI or ECI of certain fan 
+blades, and to reduce the compliance time for the inspection of certain 
+fan blades. The unsafe condition identified in the NPRM is now 
+addressed by AD 2018-09-51 (effective June 7, 2018) and AD 2018-10-11 
+(effective June 1, 2018).
+
+The Withdrawal
+
+    Accordingly, the FAA withdraws the NPRM (Docket No. FAA-2017-0313, 
+Product Identifier 2017-NE-11-AD) published at 82 FR 40516 on August 
+25, 2017.
+
+    Issued in Burlington, Massachusetts, on September 17, 2018.
+Robert J. Ganley,
+Manager, Engine and Propeller Standards Branch, Aircraft Certification 
+Service.
+[FR Doc. 2018-20715 Filed 9-25-18; 8:45 am]
+BILLING CODE 4910-13-P
+
+

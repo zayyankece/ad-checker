@@ -1,0 +1,326 @@
+
+[Federal Register Volume 90, Number 220 (Tuesday, November 18, 2025)]
+[Proposed Rules]
+[Pages 51590-51592]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-20089]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-3998; Project Identifier AD-2025-00432-E]
+RIN 2120-AA64
+
+
+Airworthiness Directives; General Electric Company Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain General Electric Company (GE) Model CF34-8C1, CF34-8C5, 
+CF34-8C5A1, CF34-8C5A2, CF34-8C5B1, CF34-8E2, CF34-8E2A1, CF34-8E5, 
+CF34-8E5A1, CF34-8E5A2, CF34-8E5A2HA, CF34-8E6, and CF34-8E6A1 engines. 
+This proposed AD was prompted by reports of in-flight ``Engine 
+Degraded'' messages from the engine indicating and crew alerting system 
+(EICAS) due to corrosion of the variable geometry (VG) system actuator. 
+This proposed AD would require removing certain electronic engine 
+control (EEC) full authority digital electronic control (FADEC) 
+software versions from service and installing an updated EEC FADEC 
+software that is eligible for installation. The FAA is proposing this 
+AD to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by January 2, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+
+[[Page 51591]]
+
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-3998; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: Daiyun Fang, Aviation Safety Engineer, 
+FAA, 2200 South 216th Street, Des Moines, WA 98198; phone: (206) 910-
+0063; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2025-3998; 
+Project Identifier AD-2025-00432-E'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may revise this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Daiyun Fang, Aviation Safety Engineer, FAA, 2200 South 216th Street, 
+Des Moines, WA 98198. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The FAA was notified of three separate events involving airplanes 
+with Model GE CF34-8C5 engines installed in which ``Engine Degraded'' 
+messages were received from the EICAS during flight. A subsequent 
+investigation by the manufacturer revealed that these engines had been 
+operated infrequently over the two-year period prior to these events 
+and stored in close proximity to a saltwater coastline. The 
+investigation further revealed the variable geometry (VG) actuation 
+lever arms were stuck due to corrosion between the high-pressure 
+compressor case and vane bushings, which increased the VG actuation 
+loads and slowed the VG response. As a result of this increase, the VG 
+command and actual positions exceeded acceptable disagreement 
+parameters, triggering an EICAS ``Engine Degraded'' message. In 
+response to the ``Engine Degraded'' message, the manufacturer and FAA 
+determined that certain versions of the EEC FADEC software installed on 
+GE CF34-8E and GE CF34-8C engines can potentially reduce the engine to 
+idle and lock the throttle until the engine is shut down and restarted. 
+This condition, if not addressed, could result in failure of one or 
+more engines, loss of engine thrust control, and consequent reduced 
+control of the airplane.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require removal of certain EEC FADEC 
+software versions from service and installing updated EEC FADEC 
+software that is eligible for installation.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 3,040 engines installed on airplanes of U.S. registry. The FAA 
+estimates that 70 of these affected engines will also require an 
+additional memory upgrade of the EEC FADEC software from a three memory 
+sector configuration to a seven memory sector configuration.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                       Cost per    Cost on U.S.
+                  Action                            Labor cost           Parts cost    product       operators
+----------------------------------------------------------------------------------------------------------------
+Remove and install EEC FADEC software....  8 work-hours x $85 per hour         $660       $1,340      $4,073,600
+                                            = $680.
+Upgrade EEC FADEC software to seven        8 work-hours x $85 per hour       49,000       49,680       3,477,600
+ sectors (70 engines).                      = $680.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or
+
+[[Page 51592]]
+
+develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+General Electric Company: Docket No. FAA-2025-3998; Project 
+Identifier AD-2025-00432-E.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by January 2, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to the General Electric Company (GE) Model 
+engines identified in paragraphs (c)(1) and (2) of this AD.
+    (1) CF34-8C1, CF34-8C5, CF34-8C5A1, CF34-8C5A2, and CF34-8C5B1 
+engines with an electronic engine control (EEC) full authority 
+digital electronic control (FADEC) part number (P/N) 4120T00P29, 
+4120T00P30, 4120T00P37, 4120T00P38, 4120T00P45, 4120T00P46, 
+4120T00P53, 4120T00P54, 4120T00P57, or 4120T00P58 installed.
+    (2) CF34-8E2, CF34-8E2A1, CF34-8E5, CF34-8E5A1, CF34-8E5A2, 
+CF34-8E5A2HA, CF34-8E6, and CF34-8E6A1 engines with an EEC FADEC P/N 
+4120T00P42 (VIN 111E9320G43), P/N 4120T00P44 (VIN 111E9320G45), P/N 
+4120T00P48 (VIN 111E9320G49), P/N 4120T00P50 (VIN 111E9320G51), or 
+P/N 4120T00P60 (VIN 111E9320G61) installed.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 7230, Turbine Engine 
+Compressor Section.
+
+(e) Unsafe Condition
+
+    This AD was prompted by an ``Engine Degraded'' message received 
+in-flight from the engine indicating and crew alerting system, due 
+to corrosion of the variable geometry system actuator. The FAA is 
+issuing this AD to prevent EEC FADEC software from automatically 
+locking the engine at idle until it is restarted. The unsafe 
+condition, if not addressed, could result in failure of one or more 
+engines, loss of engine thrust control, and consequent reduced 
+control of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) For Group 1 engines, within 12 months after the effective 
+date of this AD, replace any EEC FADEC software version that is 
+V6.50 or earlier with an EEC FADEC software version that is eligible 
+for installation.
+    (2) For Group 2 engines, within 12 months after the effective 
+date of this AD, replace any EEC FADEC software version that is 
+V5.60 or earlier with an EEC FADEC software version that is eligible 
+for installation.
+
+(h) Definitions
+
+    For the purpose of this AD, the following definitions apply:
+    (1) ``Group 1 engines'' are GE Model CF34-8C1, CF34-8C5, CF34-
+8C5A1, CF34-8C5A2, and CF34-8C5B1 engines.
+    (2) ``Group 2 engines'' are GE Model CF34-8E2, CF34-8E2A1, CF34-
+8E5, CF34-8E5A1, CF34-8E5A2, CF34-8E5A2HA, CF34-8E6, and CF34-8E6A1 
+engines.
+    (3) An ``EEC FADEC software version that is eligible for 
+installation'' on Group 1 engines is any software version that is 
+V6.60 or later approved version.
+    (4) An ``EEC FADEC software version that is eligible for 
+installation'' on Group 2 engines is any software version that is 
+V5.70 or later approved version.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520 Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of AIR-520 Continued Operational 
+Safety Branch, send it to the attention of the person identified in 
+paragraph (j) of this AD and email to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Additional Information
+
+    For more information about this AD, contact Daiyun Fang, 
+Aviation Safety Engineer, FAA, 2200 South 216th Street, Des Moines, 
+WA 98198; phone: (206) 910-0063; email: [email&#160;protected].
+
+(k) Material Incorporated by Reference
+
+    None.
+
+    Issued on November 6, 2025.
+Peter A. White,
+Deputy Director, Integrated Certificate Management Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-20089 Filed 11-17-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+

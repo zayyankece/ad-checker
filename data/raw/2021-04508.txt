@@ -1,0 +1,151 @@
+
+[Federal Register Volume 86, Number 44 (Tuesday, March 9, 2021)]
+[Proposed Rules]
+[Pages 13505-13506]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-04508]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0449; Project Identifier AD-2020-01464-R]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Bell Helicopter Textron Canada 
+Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to adopt a new airworthiness directive (AD) that would 
+have applied to certain Bell Helicopter Textron Canada Model 206A, 
+206B, and 206B3 helicopters. The NPRM was prompted by the need for 
+corresponding operating limitations prohibiting flight, including 
+hover, with the litter doorpost removed when certain litter kits are 
+installed. The NPRM would have required revising the Operating 
+Limitations, Section 1, of the existing Rotorcraft Flight Manual (RFM) 
+for your helicopter to add an operating limitation when a litter kit is 
+installed to prohibit flight with the doorpost removed to prevent loss 
+of structural integrity of the fuselage. Since issuance of the NPRM, 
+the FAA has determined that an unsafe condition no longer exists. 
+Accordingly, the NPRM is withdrawn.
+
+DATES: The FAA is withdrawing the proposed rule published May 13, 2011 
+(76 FR 27958), as of March 9, 2021.
+
+ADDRESSES: 
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2011-
+0449; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD action, any comments received, and other information. The 
+street address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Kristi Bradley, Aviation Safety 
+Engineer, General Aviation & Rotorcraft Section, International 
+Validation Branch, FAA, 10101 Hillwood Pkwy., Fort Worth, TX 76177; 
+telephone (817) 222-5110; email [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The FAA has issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD that would apply to the specified products. The NPRM was 
+published in the Federal Register on May 13, 2011 (76 FR 27958). The 
+NPRM was prompted by the need for corresponding operating limitations 
+prohibiting flight, including hover, with the litter doorpost removed 
+when certain litter kits are installed.
+    The NPRM proposed to require revising the existing RFM for your 
+helicopter by inserting into the Operating Limitations, Section 1, of 
+the existing RFM for your helicopter the following statement: ``Flight, 
+including hover, with litter doorpost removed is prohibited.'' This 
+revision would have been made by pen and ink changes, inserting a copy 
+of this AD into the existing RFM for your helicopter, or inserting a 
+copy of the RFM Supplement (RFMS) dealing with Litter Kits into the 
+existing RFM for your helicopter as follows: For Model 206A 
+helicopters--inserting RFMS BHT-206A-FMS-8, dated December 30, 2009, 
+into RFM BHT-206A-FM-1, dated July 2, 2009; for Model 206B 
+helicopters--inserting RFMS BHT-206B-FMS-8, dated December 30, 2009, 
+into RFM BHT-206B-FM-1, dated July 2, 2009; and for Model 206B3 
+helicopters--inserting RFMS BHT-206B3-FMS-2, dated December 30, 2009, 
+into RFM BHT-206B3-FM-1, dated March 24, 2010. The proposed actions 
+were intended to add an operating limitation when a litter kit is 
+installed to prohibit flight with the doorpost removed to prevent loss 
+of structural integrity of the fuselage.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, reevaluation of current fleet safety 
+data indicates that there is not an unsafe condition and AD action is 
+no longer necessary. There are no recent records of safety issues 
+related to the unsafe condition previously described. Therefore, the 
+FAA has determined that AD action is not required. Withdrawal of the 
+NPRM constitutes only such action and does not preclude the agency from 
+issuing future rulemaking on this issue, nor does it commit the agency 
+to any course of action in the future.
+    The FAA's Aircraft Certification Service has also changed its 
+organizational structure. The new structure replaces product 
+directorates with functional divisions. We have revised some of the 
+office titles and nomenclature throughout this proposed AD to reflect 
+the new organizational changes. Additional information about the new 
+structure can be found in the Notice published on July 25, 2017 (82 FR 
+34564).
+    Lastly, the identification of ``Directorate Identifier 2010-SW-021-
+AD'' has been changed to ``Project Identifier AD 2020-01464-R.''
+
+Comments
+
+    The FAA gave the public the opportunity to comment on the NPRM. The 
+FAA received no comments on the NPRM or on the determination of the 
+cost to the public.
+
+FAA's Conclusions
+
+    Upon further consideration, the FAA has determined that the NPRM is 
+unnecessary. Accordingly, the NPRM is withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act, or DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979).
+
+[[Page 13506]]
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+0
+Accordingly, the notice of proposed rulemaking, Docket No. FAA-2011-
+0449, which was published in the Federal Register on May 13, 2011 (76 
+FR 27958), is withdrawn.
+
+    Issued on February 26, 2021.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2021-04508 Filed 3-8-21; 8:45 am]
+BILLING CODE 4910-13-P
+
+

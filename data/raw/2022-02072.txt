@@ -1,0 +1,319 @@
+
+[Federal Register Volume 87, Number 23 (Thursday, February 3, 2022)]
+[Proposed Rules]
+[Pages 6089-6091]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-02072]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2022-0222; Project Identifier AD-2020-01264-A]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Piper Aircraft, Inc., Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain Piper Aircraft, Inc., (Piper) Model PA-34-200 airplanes. 
+This proposed AD was prompted by the determination that the life limit 
+for alternate bolts that attach the drag link to the nose gear were not 
+listed as airworthiness limitations. This proposed AD would require 
+establishing a life limit for these bolts. The FAA is proposing this AD 
+to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by March 21, 
+2022.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to https://www.regulations.gov. Follow the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    For service information identified in this NPRM, contact Piper 
+Aircraft, Inc., 2926 Piper Drive, Vero Beach, FL 32960; phone: (772) 
+299-2141; website: https://www.piper.com. You may view this service 
+information at the FAA, Airworthiness Products Section, Operational 
+Safety Branch, 901 Locust, Kansas City, MO 64106. For information on 
+the availability of this material at the FAA, call (817) 222-5110.
+
+Examining the AD Docket
+
+    You may examine the AD docket at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2022-0222; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this NPRM, any comments 
+received, and other information. The street address for Docket 
+Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: John Marshall, Aviation Safety 
+Engineer, Atlanta ACO Branch, FAA, 1701 Columbia Avenue, College Park, 
+GA 30337; phone: (404) 474-5524; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under ADDRESSES. Include ``Docket No. FAA-2022-0222; Project Identifier 
+AD-2020-01264-A'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may amend 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+https://www.regulations.gov, including any personal information you 
+provide. The agency will also post a report summarizing each 
+substantive verbal contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and
+
+[[Page 6090]]
+
+actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to John 
+Marshall, Aviation Safety Engineer, Atlanta ACO Branch, FAA, 1701 
+Columbia Avenue, College Park, GA 30337. Any commentary that the FAA 
+receives that is not specifically designated as CBI will be placed in 
+the public docket for this rulemaking.
+
+Background
+
+    Piper notified the FAA that prior revisions of the ALS for certain 
+Piper Model PA-34-200 airplanes did not contain a life limit for bolt 
+part number (P/N) 693-215 (standard P/N NAS6207-50D). Bolt P/N 693-215 
+(NAS6207-50D) is an alternate part for P/N 400-274 (standard P/N AN7-
+35). These bolts attach the drag link to the nose gear trunnion on 
+Piper Model PA-34-200 airplanes. Piper did not include an ALS revision 
+for the P/N 693-215 (standard P/N NAS6207-50D) bolt to establish the 
+same life limit as the P/N 400-274 (AN7-35).
+    If bolt P/N 693-215 (standard P/N NAS6207-50D) that attaches the 
+drag link to the nose gear trunnion remains in service beyond its 
+fatigue life, failure of the nose landing gear could occur, which could 
+result in loss of airplane control during take-off, landing, or taxi 
+operations.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Related Service Information
+
+    The FAA reviewed Piper Seneca Service Manual, Airworthiness 
+Limitations, 753-817, page 1-1, dated November 30, 2019. This service 
+information specifies the life limits of the P/N 693-215 (standard P/N 
+NAS6207-50D) bolt that attaches the drag link to the nose gear 
+trunnion.
+
+ADs Mandating Airworthiness Limitations
+
+    The FAA has previously mandated airworthiness limitations by 
+issuing ADs that require revising the ALS of the existing maintenance 
+manual or instructions for continued airworthiness to incorporate new 
+or revised inspections and life limits. This AD, however, requires 
+incorporating new or revised inspections and life limits into the 
+maintenance records required by 14 CFR 91.417(a)(2) or 135.439(a)(2) 
+for your airplane. The FAA does not intend this as a substantive 
+change. Requiring incorporation of the new ALS requirements into the 
+maintenance records, rather than requiring individual repetitive 
+inspections and replacements, allows operators to record AD compliance 
+once after updating the maintenance records, rather than recording 
+compliance after every inspection and part replacement.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require establishing a 500-hour life limit 
+for bolt P/N 693-215 and P/N NAS6207-50D.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 187 airplanes of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+             Action                  Labor cost               Parts cost             airplane        operators
+----------------------------------------------------------------------------------------------------------------
+Revise the Airworthiness         1 work-hour x $85   Not Applicable.............             $85         $15,895
+ Limitations.                     per hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+[[Page 6091]]
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Piper Aircraft, Inc.: Docket No. FAA-2022-0222; Project Identifier 
+AD-2020-01264-A.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by March 21, 2022.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Piper Aircraft, Inc., Model PA-34-200 
+airplanes, serial numbers 34-7250001 through 34-7450220, 
+certificated in any category.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 3220, Nose/Tail 
+Landing Gear.
+
+(e) Unsafe Condition
+
+    This AD was prompted by the determination that the life limit 
+for alternate bolts that attach the drag link to the nose gear were 
+not included as airworthiness limitations. The FAA is issuing this 
+AD to establish a life limit on bolt part numbers 693-215 and 
+NAS6207-50D that attach the drag link to the nose gear trunnion. The 
+unsafe condition, if not addressed, could result in failure of the 
+nose landing gear and lead to loss of airplane control during take-
+off, landing, or taxi operations.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Actions
+
+    (1) Within 90 days after the effective date of this AD, 
+incorporate into the maintenance records required by 14 CFR 
+91.417(a)(2) or 135.439(a)(2) for your airplane a life limit of 500 
+hours for bolt part numbers 693-215 and NAS6207-50D.
+    Note to paragraph (g)(1): Piper Seneca Service Manual, 
+Airworthiness Limitations, 753-817, page 1-1, dated November 30, 
+2019, contains the life limit in paragraph (g)(1) of this AD.
+    (2) Thereafter, except as provided in paragraph (h)(1) of this 
+AD, no alternative replacement times may be approved for these 
+bolts.
+
+(h) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, Atlanta ACO Branch, FAA, has the authority to 
+approve AMOCs for this AD, if requested using the procedures found 
+in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request 
+to your principal inspector or local Flight Standards District 
+Office, as appropriate. If sending information directly to the 
+manager of the certification office, send it to the attention of the 
+person identified in paragraph (i)(1) of this AD.
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(i) Related Information
+
+    (1) For more information about this AD, contact John Marshall, 
+Aviation Safety Engineer, Atlanta ACO Branch, FAA, 1701 Columbia 
+Avenue, College Park, GA 30337; phone: (404) 474-5524; email: 
+[email&#160;protected].
+    (2) For service information identified in this AD, contact Piper 
+Aircraft, Inc., 2926 Piper Drive, Vero Beach, FL 32960; phone: (772) 
+299-2141; website: https://www.piper.com. You may view this 
+referenced service information at the FAA, Airworthiness Products 
+Section, Operational Safety Branch, 901 Locust, Kansas City, MO 
+64106. For information on the availability of this material at the 
+FAA, call (817) 222-5110.
+
+    Issued on January 27, 2022.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2022-02072 Filed 2-2-22; 8:45 am]
+BILLING CODE 4910-13-P
+
+

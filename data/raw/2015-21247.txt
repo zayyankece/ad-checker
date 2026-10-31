@@ -1,0 +1,147 @@
+
+[Federal Register Volume 80, Number 167 (Friday, August 28, 2015)]
+[Proposed Rules]
+[Pages 52211-52212]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-21247]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2013-0627; Directorate Identifier 2012-NM-021-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; BAE Systems (Operations) Limited 
+Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), Department of 
+Transportation (DOT).
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA withdraws a notice of proposed rulemaking (NPRM) that 
+proposed a new airworthiness directive (AD), which would have applied 
+to all BAE Systems (Operations) Limited Model BAe 146 series airplanes 
+and Model Avro 146-RJ series airplanes. The NPRM would have superseded 
+AD 2011-24-06 and required revising the maintenance program to 
+incorporate new airworthiness limitations for reduced safe life limits 
+on certain nose landing gear fittings. Since the NPRM was issued, we 
+have received new data indicating that the airworthiness limitations 
+contained in section 5 of the aircraft maintenance manual has been 
+revised to include additional tasks and limitations. Accordingly, the 
+NPRM is withdrawn.
+
+DATES: As of August 28, 2015, the proposed rule, which was published in 
+the Federal Register on July 24, 2013 (78 FR 44469), is withdrawn.
+
+ADDRESSES: You may examine the AD docket on the Internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2013-
+0627; or in person at the Docket Management Facility between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this AD action, the NPRM (78 FR 44469, July 24, 2013), the 
+regulatory evaluation, any comments received, and other information. 
+The address for the Docket Office (telephone 800-647-5527) is the 
+Docket Management Facility, U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE., Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Todd Thompson, Aerospace Engineer, 
+International Branch, ANM-116, Transport Airplane Directorate, FAA, 
+1601 Lind Avenue SW., Renton, WA 98057-3356; telephone 425-227-1175; 
+fax 425-227-1149.
+
+SUPPLEMENTARY INFORMATION: 
+
+Discussion
+
+    We proposed to amend part 39 of the Federal Aviation Regulations 
+(14 CFR part 39) with a notice of proposed rulemaking (NPRM) for a new 
+AD for all BAE Systems (Operations) Limited Model BAe 146 series 
+airplanes and Model Avro 146-RJ series airplanes. The NPRM published in 
+the Federal Register on July 24, 2013 (78 FR 44469). The NPRM would 
+have superseded AD 2011-24-06, Amendment 39-16870 (76 FR 73477, 
+November 29, 2011). The NPRM would have continued to require existing 
+limitations and would have required revising the maintenance program to 
+incorporate the following limitations:
+     Subject 05-10-15, ``Aircraft Equipment Airworthiness 
+Limitations,'' of Chapter 05, ``Time Limits/Maintenance Checks,'' of 
+BAe 146 Series/AVRO 146-RJ Series Aircraft Maintenance Manual, Revision 
+105, dated July 15, 2011.
+     Subject 05-20-02, ``Airframe Scheduled Maintenance--
+Landing/Calendar Life Extended,'' of Chapter 05, ``Time Limits/
+Maintenance Checks,'' of BAe 146 Series/AVRO 146-RJ Series Aircraft 
+Maintenance Manual, Revision 105, dated July 15, 2011.
+     Subject 05-20-05, ``Airframe Scheduled Maintenance--Life 
+Extension Programme Landings Life Extended,'' of Chapter 05, ``Time 
+Limits/Maintenance Checks,'' of BAe 146 Series/AVRO 146-RJ Series 
+Aircraft Maintenance Manual, Revision 105, dated July 15, 2011.
+    The NPRM was prompted by a determination that reduced safe life 
+limits on certain nose landing gear NLG fittings were necessary. 
+Analysis of these fittings showed the presence of forging indications 
+in the flash line, which could reduce the life limits of these 
+fittings. The proposed actions were intended to prevent fatigue 
+cracking of certain structural elements, which could adversely affect 
+the structural integrity of the airplane.
+
+Actions Since NPRM (78 FR 44469, July 24, 2013) Was Issued
+
+    Since we issued the NPRM (78 FR 44469, July 24, 2014), BAE Systems 
+(Operations) Limited has revised Chapter 05, ``Time Limits/Maintenance 
+Checks,'' of the BAe 146 Series/AVRO 146-RJ Series Aircraft Maintenance 
+Manual (AMM). Therefore, the NPRM proposal to incorporate new 
+airworthiness limitations with reduced safe life limits on certain nose 
+landing gear fittings contained in a previous issue of the AMM are no 
+longer relevant.
+
+FAA's Conclusions
+
+    Upon further consideration, we have determined that the changes to 
+the AMM proposed in the NPRM (78 FR 44469, July 24, 2013) are no longer 
+relevant and there is no benefit to proceeding with the publication of 
+a final rule. Accordingly, the NPRM is withdrawn. The FAA is 
+considering issuing a different rulemaking action to require 
+implementation of the current revision of BAE Systems (Operations) 
+Limited Chapter 05, ``Time Limits/Maintenance Checks,'' of the BAe 146 
+Series/AVRO 146-RJ Series AMM.
+    Withdrawal of the NPRM (78 FR 44469, July 24, 2013) does not 
+preclude the FAA from issuing another related action or commit the FAA 
+to any course of action in the future.
+
+Regulatory Impact
+
+    Since this action only withdraws an NPRM (78 FR 44469, July 24, 
+2013), it is neither a proposed nor a final rule and therefore is not 
+covered under Executive Order 12866, the Regulatory Flexibility Act, or 
+DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 
+1979).
+
+[[Page 52212]]
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, we withdraw the NPRM, Docket No. FAA-2013-0627, 
+Directorate Identifier 2012-NM-021-AD, which was published in the 
+Federal Register on July 24, 2013 (78 FR 44469).
+
+    Issued in Renton, Washington, on August 20, 2015.
+Kevin Hull,
+Acting Manager, Transport Airplane Directorate, Aircraft Certification 
+Service.
+[FR Doc. 2015-21247 Filed 8-27-15; 8:45 am]
+ BILLING CODE 4910-13-P
+
+

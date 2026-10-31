@@ -1,0 +1,194 @@
+
+[Federal Register Volume 87, Number 72 (Thursday, April 14, 2022)]
+[Proposed Rules]
+[Pages 22144-22146]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2022-07871]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2021-1017; Product Identifier AD-2021-00495-A]
+RIN 2120-AA64
+
+
+Airworthiness Directives; True Flight Holdings LLC Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to adopt a new airworthiness directive (AD) for all True 
+Flight Holdings LLC Model AA-1, AA-1A, AA-1B, AA-1C, AA-5, AA-5A, and 
+AA-5B airplanes. The NPRM was prompted by the report of an accident of 
+an airplane with bondline corrosion and delamination of the horizontal 
+stabilizers. The NPRM proposed to require inspecting the wings, 
+fuselage,
+
+[[Page 22145]]
+
+and stabilizers for bondline separation, corrosion, and previous 
+repair. The NPRM also proposed to require repairing or replacing parts 
+and applying corrosion inhibitor as necessary. Since issuance of the 
+NPRM, the FAA has determined that there is not an unsafe condition, but 
+instead incorrectly followed maintenance procedures. Accordingly, the 
+NPRM is withdrawn.
+
+DATES: As of April 14, 2022, the proposed rule, which published in the 
+Federal Register on December 1, 2021 (86 FR 68171), is withdrawn.
+
+ADDRESSES: 
+
+Examining the AD Docket
+
+    You may examine the AD docket at https://www.regulations.gov by 
+searching for and locating Docket No. FAA-2021-1017; or in person at 
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this AD action, any 
+comments received, and other information. The street address for Docket 
+Operations is U.S. Department of Transportation, Docket Operations, M-
+30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue 
+SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Fred Caplan, Aviation Safety Engineer, 
+Atlanta ACO Branch, FAA, 1701 Columbia Avenue, College Park, GA 30337; 
+phone: (404) 474-5507; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    The FAA issued AD 2021-14-12, Amendment 39-21639 (86 FR 36491, July 
+12, 2021) (AD 2021-14-12), for True Flight Holdings LLC Model AA-1, AA-
+1A, AA-1B, AA-1C, and AA-5 airplanes. AD 2021-14-12 was prompted by an 
+accident involving a Model AA-5 airplane that occurred on January 19, 
+2021. During flight, the outboard elevator attach bracket on the 
+horizontal stabilizer detached, causing loss of elevator control and 
+significant damage to the airplane. An investigation identified 
+corrosion and delamination of the airplane skin bondlines around the 
+area of the horizontal stabilizer where the elevator attach bracket was 
+attached. Multiple field reports identified additional instances of 
+corrosion and delamination of skin bondlines around the horizontal 
+stabilizer and other primary structures.
+    AD 2021-14-12 stated that Model AA-1, AA-1A, AA-1B, AA-1C, and AA-5 
+airplanes have horizontal stabilizers that are similar in design and 
+use the same metal-to-metal bonding process. While the bond adhesive 
+remains structurally sound throughout the aging process, factors such 
+as corrosion and freezing moisture may compromise the structural 
+integrity of some of the bond joints. This can lead to delamination of 
+the skin from the primary structure. The FAA determined that a more 
+thorough inspection was necessary to reliably identify corrosion and 
+delamination of bondlines in these critical areas, including the 
+horizontal stabilizer. As a result, AD 2021-14-12 requires a one-time 
+inspection of the horizontal stabilizers, paying particular attention 
+to the bondlines, for cracks, buckles, corrosion, delamination, rust, 
+or previous repair.
+    The FAA issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD for all True Flight Holdings LLC Model AA-1, AA-1A, AA-1B, 
+AA-1C, AA-5, AA-5A, and AA-5B airplanes. The NPRM published in the 
+Federal Register on December 1, 2021 (86 FR 68171). In the NPRM, the 
+FAA proposed to require a repetitive inspection of the wings, 
+stabilizers, and aft fuselage for bondline separation, corrosion, and 
+previous repair. While AD 2021-14-12 requires only inspecting the 
+bondlines on the horizontal stabilizers, in the NPRM, the FAA proposed 
+to require inspecting all of the bondlines on the airplane, including 
+the bondlines on the wings and aft fuselage. In the NPRM, the FAA also 
+proposed to add Model AA-5A and AA-5B airplanes to the applicability 
+due to the similar bonded construction of all models.
+    The original decision to pursue corrective action was based upon 
+multiple field reports, including direct observation of two airplanes, 
+of issues related to inspection of bonded structure. The first was the 
+originating accident airplane, and the second was another same model 
+airplane located in the same hangar as the first airplane. Both of 
+these airplanes exhibited damage (bondline delamination) in an area 
+believed to be the source of the accident, at the attachment of the 
+elevator bearing to the horizontal stabilizer. The construction in this 
+area is similar among the applicable models in AD 2021-14-12. The issue 
+specific to this area was addressed in AD 2021-14-12.
+    The FAA proposed the NPRM to address inspection for bondline 
+delamination on the entire airplane based on an understanding that 
+standard maintenance actions were insufficient to detect an issue. 
+Because more models than those covered by AD 2021-14-12 share a similar 
+bonded construction for the airplane as a whole, the NPRM proposed to 
+also apply to True Flight Holdings LLC Model AA-5A and AA-5B airplanes.
+
+Comments
+
+    The FAA received comments from 41 commenters. The commenters were 
+the Aircraft Owners and Pilots Association (AOPA), the Grumman Owners & 
+Pilots Association (GOPA), Fortnight Aviation Maintenance, and many 
+individual airplane owners and pilots.
+    All commenters opposed the NPRM. Most commenters stated that the 
+actions proposed in the NPRM are already addressed by existing 
+maintenance practices or included in maintenance documents such as the 
+Grumman maintenance manual, the annual inspection checklist, service 
+bulletins, and AD 2021-14-12. The commenters noted that the January 
+2021 accident resulted from poor maintenance practices and failure to 
+adequately follow these existing procedures, not from any fault with 
+the procedures themselves. For this reason, some commenters requested 
+the FAA withdraw the NPRM due to lack of supporting data and issue a 
+special airworthiness information bulletin (SAIB) instead.
+    Several commenters requested that the FAA remove Model AA-5, AA-5A, 
+and AA-5B airplanes from the applicability because these models have a 
+different design than the accident airplane. Many commenters noted that 
+the proposed AD is overly broad because the delamination issue is 
+limited to pre-1977 models manufactured with a ``purple glue'' for 
+adhesive. AOPA, GOPA, and a few individuals stated the proposed 
+requirement to tap test all bondlines on the airplane annually would 
+damage the paint and lead to corrosion. Lastly, AOPA, GOPA, and two 
+individuals requested the FAA increase its estimated labor rate of $85 
+per hour.
+    The FAA agrees that the instructions in the airplane maintenance 
+manual are sufficient to detect the type of damage that is believed to 
+have led to the originating accident, as well as similar damage on the 
+rest of the airplane. The FAA further agrees that the original findings 
+were not indicative of an unsafe condition, but instead indicative of 
+incorrectly followed maintenance procedures. Based on this assessment, 
+the proposed inspection in the NPRM would exceed what is sufficient to 
+detect the main issue of bondline delamination. The FAA has determined 
+that additional AD action is not warranted and the proposal should be 
+withdrawn.
+
+[[Page 22146]]
+
+    The FAA acknowledges the comments unrelated to whether there is an 
+unsafe condition. However, because the FAA is withdrawing the NPRM, 
+those commenters' requests are no longer necessary.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+AD nor a final rule. This action, therefore, is not covered under 
+Executive Order 12866 or the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Safety.
+
+The Withdrawal
+
+    Accordingly, the notice of proposed rulemaking, Docket No. FAA-
+2021-1017; Project Identifier AD-2021-00495-A, published in the Federal 
+Register on December 1, 2021 (86 FR 68171), is withdrawn.
+
+    Issued on April 7, 2022.
+Lance T. Gant,
+Director, Compliance & Airworthiness Division, Aircraft Certification 
+Service.
+[FR Doc. 2022-07871 Filed 4-13-22; 8:45 am]
+BILLING CODE 4910-13-P
+
+

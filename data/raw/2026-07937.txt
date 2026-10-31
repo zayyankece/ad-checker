@@ -1,0 +1,477 @@
+
+[Federal Register Volume 91, Number 78 (Thursday, April 23, 2026)]
+[Proposed Rules]
+[Pages 21738-21741]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-07937]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-3863; Project Identifier AD-2024-00567-R]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Various Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to supersede Airworthiness Directive (AD) 
+2020-02-17, which applies to certain Sikorsky Aircraft Corporation 
+(Sikorsky) Model S-70, S-70A, S-70C, S-70C(M), and S-70C(M1) 
+helicopters. AD 2020-02-17 requires recurring visual and tap 
+inspections of the tail rotor blade (TRB) and, depending on the 
+results, replacing the TRB. Since the FAA issued AD 2020-02-17, it was 
+determined additional helicopter models are affected by the unsafe 
+condition. The manufacturer has developed a split pitch horn 
+modification and a safety enhancement modification kit for the TRB. 
+This proposed AD would continue to require the actions of AD 2020-02-
+17, would expand the applicability, and would require modifying and re-
+identifying the TRB. This proposed AD would also require revising the 
+airworthiness limitations section (ALS) of the existing helicopter 
+maintenance manual or instructions for continued airworthiness and the 
+existing approved maintenance or inspection program, as applicable, to 
+incorporate recurring inspections of the TRB disbond indicator. The FAA 
+is proposing this AD to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by June 8, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-3863; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Sikorsky material identified in this proposed AD, 
+contact your local Sikorsky Field Representative or Sikorsky's Service 
+Engineering Group at Sikorsky Aircraft Corporation, 124
+
+[[Page 21739]]
+
+Quarry Road, Trumbull, CT 06611; phone: (800) Winged-S or (203) 416-
+4299; email: [email&#160;protected]. Operators may also 
+log on to the Sikorsky 360 website at sikorsky360.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110. It is also available at 
+regulations.gov under Docket No. FAA-2026-3863.
+
+FOR FURTHER INFORMATION CONTACT: Isabel Saltzman, Aviation Safety 
+Engineer, FAA, 1701 Columbia Avenue, College Park, GA 30337; phone: 
+(781) 238-7649; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under ADDRESSES. Include ``Docket No. FAA-2026-3863; Project Identifier 
+AD-2024-00567-R'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may revise 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Isabel Saltzman, Aviation Safety Engineer, FAA, 1701 Columbia Avenue, 
+College Park, GA 30337. Any commentary that the FAA receives which is 
+not specifically designated as CBI will be placed in the public docket 
+for this rulemaking.
+
+Background
+
+    The FAA issued AD 2020-02-17, Amendment 39-21025 (85 FR 7191, 
+February 7, 2020) (AD 2020-02-17), for Sikorsky Model S-70, S-70A, S-
+70C, S-70C(M), and S-70C(M1) helicopters with a TRB part number 70101-
+31000 (all dash numbers) with a serial number up to and including A009-
+08915. AD 2020-02-17 was prompted by four incidents of disbonding 
+between the TRB pitch horn and the torque tube. AD 2020-02-17 requires 
+recurring visual and tap inspections of the TRB and, depending on the 
+results, replacing the TRB. The agency issued AD 2020-02-17 to detect 
+disbonding. The unsafe condition, if not addressed, could result in 
+increased tail rotor vibrations, physical failure of the torque tube, 
+and consequent loss of control of the helicopter.
+
+Actions Since AD 2020-02-17 Was Issued
+
+    Since the FAA issued AD 2020-02-17, a determination was made that 
+Sikorsky Model S-70M helicopters and restricted category military 
+surplus Models EH-60A, HH-60L, UH-60A, and UH-60L helicopters are also 
+affected by the unsafe condition defined in AD 2020-02-17. Sikorsky has 
+developed a split pitch horn modification for certain TRBs and a safety 
+enhancement modification kit for certain TRBs, which consists of a 
+disbond indicator (three white stripes applied to both upper and lower 
+airfoil blade surfaces). Sikorsky has also issued a temporary revision 
+to the maintenance manual to specify procedures for recurring 
+inspections of the disbond indicator for TRBs modified with the safety 
+enhancement modification kit. In addition, Sikorsky updated the service 
+information into two separate bulletins based on the TRB manufactured 
+date. A manufacturing improvement was implemented between 2006 and 
+2007, and the service bulletin reflects this difference.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Sikorsky Aircraft Model S-70A Blackhawk 
+Derivatives Maintenance Manual Temporary Revision No. 82, dated June 
+27, 2023. This material specifies procedures for the visual, tap test, 
+and borescope inspections of the modified TRBs with the disbond 
+indicator. This material also provides instructions for maintaining the 
+disbond indicator.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would continue to require the actions of AD 2020-
+02-17. This proposed AD would require modifying and re-identifying the 
+TRB. This proposed AD would also require revising the ALS of the 
+existing helicopter maintenance manual or instructions for continued 
+airworthiness and the existing approved maintenance or inspection 
+program, as applicable, to incorporate recurring inspections of the TRB 
+disbond indicator. This proposed AD would also expand the applicability 
+by adding helicopter models.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 96 helicopters of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                 Cost on U.S.
+              Action                    Labor cost        Parts cost      Cost per product        operators
+----------------------------------------------------------------------------------------------------------------
+Inspect and tap test TRBs          1 work-hour x $85                $0  $85 per inspection   $8,160 per
+ (retained from AD 2020-02-17).     per hour = $85.                      cycle.               inspection cycle.
+
+[[Page 21740]]
+
+ 
+Install split pitch horn           6 work-hours x $85           50,000  50,510.............  Up to $4,848,960.
+ modification (for certain TRBs).   per hour = $510.
+Install safety enhancement         6 work-hours x $85          300,000  300,510............  Up to $28,848,960.
+ modification kit (for certain      per hour = $510.
+ TRBs).
+Revise ALS.......................  1 work-hour x $85                 0  85.................  $8,160.
+                                    per hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any on-condition 
+actions that would be required based on the results of the proposed 
+inspection. The agency has no way of determining the number of 
+helicopters that might need these on-condition actions:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Cost per
+                    Action                                 Labor cost               Parts cost        product
+----------------------------------------------------------------------------------------------------------------
+Perform tap test or borescope inspection......  1 work-hour x $85 per hour = $85              $0             $85
+Replace TRBs..................................  6 work-hours x $85 per hour =            192,304         192,814
+(set of two--unmodified)......................   $510.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII, Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify that the proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority: 49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive 2020-02-17, Amendment 39-21025 (85 
+FR 7191, February 7, 2020); and
+0
+b. Adding the following new airworthiness directive:
+
+Various Helicopters: Docket No. FAA-2026-3863; Project Identifier 
+AD-2024-00567-R.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by June 8, 2026.
+
+(b) Affected ADs
+
+    This AD replaces AD 2020-02-17, Amendment 39-21025 (85 FR 7191, 
+February 7, 2020) (AD 2020-02-17).
+
+(c) Applicability
+
+    This AD applies to the helicopters listed in paragraphs (c)(1) 
+through (5) of this AD, certificated in any category, with a tail 
+rotor blade (TRB) part number (P/N) 70101-31000 (all dash numbers) 
+installed.
+    (1) Model EH-60A helicopters; type certificate holders include, 
+but are not limited to, Delta Enterprise, LLC; Heliqwest 
+International Inc.; Pickering Aviation, Inc.; and Sixtyhawk TC, LLC.
+    (2) Model HH-60L helicopters; type certificate holders include, 
+but are not limited to, Capitol Helicopters Inc.; Central Copters 
+Inc.; and Sixtyhawk TC, LLC.
+    (3) Sikorsky Aircraft Corporation Model S-70, S-70A, S-70C, S-
+70C(M), S-70C(M1), and S-70M helicopters.
+    (4) Model UH-60A helicopters; type certificate holders include, 
+but are not limited to, ACE Aeronautics, LLC.; Air Resources 
+Helicopters Inc.; Billings Flying Service Inc.; Blackhawk Mission 
+Equipment; Capitol Helicopters Inc.; Carson Helicopters, Inc.; Delta 
+Enterprise, LLC; H-60, LLC; Hallux Aerospace, LLC.; Heliqwest 
+International Inc.; High Performance Helicopters Corp.; Northwest 
+Rotorcraft LLC; Pickering Aviation, Inc.; PJ Helicopters Inc.; 
+Reeder Flying Service Inc.; Sixtyhawk TC, LLC; Skydance Blackhawk 
+Operations, LLC; Timberline Helicopters, Inc.; and Unical Air Inc.
+    (5) Model UH-60L helicopters; type certificate holders include, 
+but are not limited to, ACE Aeronautics, LLC.; Air Resources 
+Helicopters Inc.; Delta Enterprise, LLC; H-60, LLC.; Hallux 
+Aerospace, LLC.; Pickering Aviation, Inc.; and Timberline 
+Helicopters, Inc.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 6400, Tail Rotor 
+System.
+
+(e) Unsafe Condition
+
+    This AD was prompted by four incidents of disbonding between the 
+TRB pitch horn
+
+[[Page 21741]]
+
+and the torque tube. The FAA is issuing this AD to detect and 
+address disbonding. The unsafe condition, if not addressed, could 
+result in increased tail rotor vibrations, physical failure of the 
+torque tube, and consequent loss of control of the helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) TRB Inspection With Applicable Corrective Actions
+
+    For helicopters with TRB P/N 70101-31000 (all dash numbers), 
+before the first flight of each day:
+    (1) Visually inspect each TRB for a crack, leading edge erosion, 
+and trailing edge skin disbonding and separation, paying particular 
+attention to the area from the midspan to the pitch control horn. If 
+there is a crack, any leading edge erosion, trailing edge 
+disbonding, or trailing edge separation, before further flight, 
+remove the TRB from service and replace with a serviceable part.
+    (2) Tap test inspect each TRB for disbonding in the pitch horn 
+to torque tube bond area. If there is any disbonding, before further 
+flight remove the TRB from service and replace with a serviceable 
+part.
+
+(h) TRB Modification and Applicable Re-Identification
+
+    (1) For helicopters with TRB P/N 70101-31000-043, P/N 70101-
+31000-048, P/N 70101-31000-050, P/N 70101-31000-051, or P/N 70101-
+31000-052 without a split pitch horn installed, accomplish the 
+safety enhancement modification kit. This action must be 
+accomplished by an authorized Sikorsky Aircraft overhaul facility, 
+or by a method approved by the Manager, East Certification Branch, 
+FAA, within the compliance time specified in paragraph (h)(1)(i) or 
+(ii) of this AD.
+    Note 1 to the introductory text of paragraph (h)(1): Upon 
+completion of the safety enhancement modification kit, the TRB is 
+marked with P/N 70070-10052-041.
+    Note 2 to the introductory text of paragraph (h)(1): Information 
+on the safety enhancement modification kit is in Sikorsky Aircraft 
+Corporation (Sikorsky) Alert Service Bulletin 70-05-52, Revision B, 
+dated March 27, 2025, and Sikorsky Alert Service Bulletin 70-05-58, 
+Revision A, dated July 10, 2025.
+    (i) TRBs manufactured on or before December 31, 2007: within 12 
+months after the effective date of this AD.
+    (ii) TRBs manufactured on or after January 1, 2008: within 48 
+months after the effective date of this AD.
+    (2) For helicopters with TRB P/N 70101-31000-046 without a split 
+pitch horn installed, accomplish the split pitch horn modification. 
+This action must be accomplished by an authorized Sikorsky Aircraft 
+overhaul facility or by a method approved by the Manager, East 
+Certification Branch, FAA, within the compliance time specified in 
+paragraph (h)(2)(i) or (ii) of this AD.
+    Note 3 to the introductory text of paragraph (h)(2): Upon 
+completion of the split pitch horn modification, the TRB is marked 
+with P/N 70070-15005-042.
+    Note 4 to the introductory text of paragraph (h)(2): Information 
+on the split pitch horn modification is in Sikorsky Alert Service 
+Bulletin 70-05-52, Revision B, dated March 27, 2025, and Sikorsky 
+Alert Service Bulletin 70-05-58, Revision A, dated July 10, 2025.
+    (i) TRBs manufactured on or before December 31, 2007: within 12 
+months after the effective date of this AD.
+    (ii) TRBs manufactured on or after January 1, 2008: within 48 
+months after the effective date of this AD.
+
+(i) Revise Maintenance Procedures Manual
+
+    Upon completion of the modification required by paragraph (h)(1) 
+of this AD (when the TRB P/N is changed to P/N 70070-10052-041), 
+revise the airworthiness limitation section of the existing 
+helicopter maintenance manual or instructions for continued 
+airworthiness and the existing approved maintenance or inspection 
+program, as applicable, by incorporating Sikorsky Aircraft Model S-
+70A Blackhawk Derivatives Maintenance Manual Temporary Revision No. 
+82, dated June 27, 2023.
+
+(j) Provisions for Alternative Actions and Intervals
+
+    After the action required by paragraph (i) of this AD has been 
+done, no alternative actions and associated intervals are allowed 
+unless they are approved as specified in the provisions of the 
+alternative methods of compliance (AMOC) paragraph.
+
+(k) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, East Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the East Certification Branch, send it to 
+the attention of the person identified in paragraph (l)(1) of this 
+AD and email to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(l) Additional Information
+
+    (1) For more information about this AD, contact Isabel Saltzman, 
+Aviation Safety Engineer, FAA, 1701 Columbia Avenue, College Park, 
+GA 30337; phone: (781) 238-7649; email: [email&#160;protected].
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (m)(3) 
+of this AD.
+
+(m) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Sikorsky Aircraft Corporation Model S-70A Blackhawk 
+Derivatives Maintenance Manual Temporary Revision No. 82, dated June 
+27, 2023.
+    (ii) [Reserved]
+    (3) For Sikorsky Aircraft Corporation material identified in 
+this AD, contact your local Sikorsky Field Representative or 
+Sikorsky's Service Engineering Group at Sikorsky Aircraft 
+Corporation, 124 Quarry Road, Trumbull, CT 06611; phone 1-800-
+Winged-S or 203-416-4299; email [email&#160;protected]. Operators may also log on to the Sikorsky 360 website 
+at sikorsky360.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on April 20, 2026.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-07937 Filed 4-22-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

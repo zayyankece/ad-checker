@@ -1,0 +1,372 @@
+
+[Federal Register Volume 91, Number 174 (Thursday, September 10, 2026)]
+[Proposed Rules]
+[Pages 57519-57521]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-18522]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-8796; Project Identifier AD-2026-00018-R]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Bell Textron Canada Limited Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all Bell Textron Canada Limited (Bell) Model 206L, 206L-1, 206L-3, 
+and 206L-4 helicopters with FAA Supplemental Type Certificate (STC) 
+SR02684LA installed. This proposed AD was prompted by an event where a 
+Bell Model 206L helicopter with FAA STC SR02684LA installed experienced 
+moderate to severe vertical vibration, which resulted in damage to the 
+tail boom of the helicopter. This proposed AD would require revising 
+the Limitations section of the existing rotorcraft flight manual (RFM) 
+for the helicopter to include a never-exceed-speed (VNE) 
+limitation and would require incorporating a rotorcraft flight manual 
+supplement (RFMS) into the existing RFM. The FAA is proposing this AD 
+to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by October 26, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-8796; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Van Horn Aviation, L.L.C. material identified in this 
+proposed AD, contact Van Horn Aviation, LLC, 1510 West Drake Drive, 
+Tempe, AZ 85283; phone: (480) 483-4202; email: 
+[email&#160;protected].
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+
+FOR FURTHER INFORMATION CONTACT: James Guo, Aviation Safety Engineer, 
+FAA, 3960 Paramount Boulevard, Lakewood, CA 90712; phone: (562) 627-
+5357; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under ADDRESSES. Include ``Docket No. FAA-2026-8796; Project Identifier 
+AD-2026-00018-R'' at the beginning of your
+
+[[Page 57520]]
+
+comments. The most helpful comments reference a specific portion of the 
+proposal, explain the reason for any recommended change, and include 
+supporting data. The FAA will consider all comments received by the 
+closing date and may revise this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to James 
+Guo, Aviation Safety Engineer, FAA, 3960 Paramount Boulevard, Lakewood, 
+CA 90712. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The FAA received a report of an event involving a Model 206L 
+helicopter with Van Horn Aviation main rotor blades, part number 
+20633000-101. These blades were approved for installation through FAA 
+STC SR02684LA.
+    During this event, the helicopter experienced an unexpected 
+moderate-to-severe vertical vibration during flight. Due to the 
+unexpected vibration, the pilot initially lowered the collective to 
+begin a descent. Subsequently, when the pilot raised the collective and 
+initiated a left turn, the vibration diminished. The pilot was able to 
+complete a landing without further incident; however, post-flight 
+inspection revealed that the helicopter had sustained tail boom damage. 
+Due to this event, the manufacturer issued material that includes 
+accomplishing existing maintenance actions that may help reduce the 
+likelihood of this unsafe condition. The root cause for the vibration 
+is still being investigated. Due to risk analysis based on historical 
+events and ongoing investigation, the FAA has determined that this 
+proposed interim AD is necessary to mitigate risk. This condition, if 
+not addressed, could result in structural damage to the aircraft and 
+loss of control of the helicopter.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Van Horn Aviation, L.L.C. Rotorcraft Flight Manual 
+Supplement, Document No. 206L-MR-FMS-101, Revision 0, dated March 25, 
+2026 (VHA RFMS). This material specifies procedures to accomplish in 
+the event of an unexpected moderate-to-severe vibration during flight. 
+This material is reasonably available because the interested parties 
+have access to it through their normal course of business or by the 
+means identified in the ADDRESSES section.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require revising the existing RFM for the 
+helicopter to include revising the Limitations section to include a 
+text stating a VNE limitation based on gross weight. This 
+proposed AD would also require revising the existing RFM for the 
+helicopter by incorporating the VHA RFMS.
+    The owner/operator (pilot) holding at least a private pilot 
+certificate may revise the existing RFM for the helicopter and must 
+enter compliance into the helicopter maintenance records in accordance 
+with 14 CFR 43.9(a) and 91.417(a)(2)(v). The pilot may perform this 
+action because it only involves revising the RFM, which could be 
+performed equally well by a pilot or a mechanic. This is an exception 
+to the FAA's standard maintenance regulations.
+
+Differences Between This Proposed AD and the Referenced Material
+
+    Where the material in Section 1, ``Limitations,'' of the VHA RFMS 
+specifies ``No Limitations,'' this proposed AD would require revising 
+the RFM to also include a VNE limitation based on gross 
+weight. Due to risk analysis based on historical events and ongoing 
+investigation, the FAA has determined that this VNE 
+limitation is necessary to mitigate risk.
+
+Interim Action
+
+    The FAA considers that this proposed AD would be an interim action. 
+If further action is later identified, the FAA might consider further 
+rulemaking.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 200 helicopters of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Revise the RFM........................  1 work-hour x $85 per                 $0             $85         $17,000
+                                         hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of
+
+[[Page 57521]]
+
+that authority because it addresses an unsafe condition that is likely 
+to exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Bell Textron Canada Limited: Docket No. FAA-2026-8796; Project 
+Identifier AD-2026-00018-R.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by October 26, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Bell Textron Canada Limited Model 206L, 
+206L-1, 206L-3, and 206L-4 helicopters, certificated in any 
+category, with FAA Supplemental Type Certificate (STC) SR02684LA 
+installed.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 6210, Main Rotor 
+Blades.
+
+(e) Unsafe Condition
+
+    This AD was prompted by an event where an affected helicopter 
+with FAA STC SR02684LA installed experienced moderate to severe 
+vertical vibration which resulted in damage to the tail boom of the 
+helicopter. The FAA is issuing this AD to prevent excessive 
+vibration which may result in structural failure. The unsafe 
+condition, if not addressed, could result in structural damage to 
+the aircraft and loss of control of the helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) Within 30 days after the effective date of this AD revise 
+the existing rotorcraft flight manual (RFM) for the helicopter by 
+accomplishing the following:
+    (i) Insert the Van Horn Aviation, L.L.C. Rotorcraft Flight 
+Manual Supplement, Document No. 206L-MR-FMS-101, Revision 0, dated 
+March 25, 2026.
+    (ii) In the Limitations section of the RFM, insert the following 
+text with pen and ink: ``VNE is 85 KIAS (98 MPH) when 
+Gross Weight is 3400 lb or below, or placarded VNE, 
+whichever is less''.
+    (2) The owner/operator (pilot) holding at least a private pilot 
+certificate may revise the existing Rotorcraft Flight Manual for the 
+helicopter as required by paragraphs (g)(1)(i) and (ii) and must 
+enter compliance with this requirement into the helicopter 
+maintenance records in accordance with 14 CFR 43.9(a) and 14 CFR 
+91.417(a)(2)(v). The record must be maintained as required by 14 CFR 
+91.417, 121.380, or 135.439.
+
+(h) Special Flight Permits
+
+    Special flight permits may be issued in accordance with 14 CFR 
+21.197 and 21.199, provided the flight is restricted to a speed of 
+no greater than 85 KIAS while the Gross Weight is less than 3400 
+lbs.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, West Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the West Certification Branch, send it to 
+the attention of the person identified in paragraph (j) of this AD 
+and email to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Additional Information
+
+    For more information about this AD, contact James Guo, Aviation 
+Safety Engineer, FAA, 3960 Paramount Boulevard, Lakewood, CA 90712; 
+phone: (562) 627-5357; email: [email&#160;protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Van Horn Aviation, L.L.C. Rotorcraft Flight Manual 
+Supplement, Document No. 206L-MR-FMS-101, Revision 0, dated March 
+25, 2026.
+    (ii) [Reserved]
+    (3) For Van Horn Aviation, L.L.C. material identified in this AD 
+contact Van Horn Aviation, LLC, 1510 West Drake Drive, Tempe, AZ 
+85283; phone: (480) 483-4202; email: [email&#160;protected].
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 10101 Hillwood Parkway, 
+Fort Worth, TX 76177. For information on the availability of this 
+material at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on September 4, 2026.
+Christopher R. Parker,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-18522 Filed 9-9-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

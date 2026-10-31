@@ -1,0 +1,352 @@
+
+[Federal Register Volume 90, Number 243 (Monday, December 22, 2025)]
+[Proposed Rules]
+[Pages 59764-59767]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-23613]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-5394; Project Identifier AD-2025-01194-R]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Restricted Category Model CH-47D 
+Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all restricted category Model CH-47D helicopters. This proposed AD 
+was prompted by reports of fatigue cracking of the right-hand (RH) 
+forward transmission support beam fitting. This proposed AD would 
+require repetitively inspecting the RH forward transmission support 
+beam fitting for cracking and, depending on the results, repairing any 
+crack(s). This proposed AD would also require submitting data on any 
+previous repairs and replaced fittings. The FAA is proposing this AD to 
+address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by February 5, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-5394; or in person at
+
+[[Page 59765]]
+
+Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, 
+except Federal holidays. The AD docket contains this NPRM, any comments 
+received, and other information. The street address for Docket 
+Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: Sarah Illg, Aviation Safety Engineer, 
+FAA, 3960 Paramount Boulevard, Lakewood, CA 90712; phone: (206) 231-
+3517; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under ADDRESSES. Include ``Docket No. FAA-2025-5394; Project Identifier 
+AD-2025-01194-R'' at the beginning of your comments. The most helpful 
+comments reference a specific portion of the proposal, explain the 
+reason for any recommended change, and include supporting data. The FAA 
+will consider all comments received by the closing date and may revise 
+this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Sarah 
+Illg, Aviation Safety Engineer, FAA, 3960 Paramount Boulevard, 
+Lakewood, CA 90712. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The FAA received reports of fatigue cracking of the RH forward 
+transmission support beam fitting having part number 145S1838-1 on CH-
+47D helicopters. CH-47D type certificate holders and operators have 
+reported experiencing at least one cracking event around the fastener 
+on the RH forward transmission support beam fitting at the right butt 
+line (RBL) 18 from station (STA) 76 to STA 120. This condition, if not 
+addressed, could result in crack propagation and lead to failure of the 
+RH forward transmission support beam fitting, excessive vibration, and 
+consequent loss of control of the helicopter.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require repetitively inspecting the RH 
+forward transmission support beam fitting for cracking and, depending 
+on the results, repairing any crack(s) or replacing parts. This 
+proposed AD would also require submitting data on any previous repairs 
+and replaced fittings to the FAA.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 42 helicopters of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                              Parts     Cost per   Cost on U.S.
+                   Action                              Labor cost              cost     product      operators
+----------------------------------------------------------------------------------------------------------------
+Inspect RH forward transmission support      2 work-hours x $85 per hour =         $0       $170          $7,140
+ beam fitting.                                $170.
+Report previous repairs and replaced         1 work-hour x $85 per hour =           0         85           3,570
+ fittings.                                    $85.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA has received no definitive data on which to base the cost 
+estimates for the on-condition repairs specified in this proposed AD.
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to be 
+approximately 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Send comments regarding this burden estimate 
+or any other aspect of this collection of information, including 
+suggestions for reducing this burden, to: Information Collection 
+Clearance Officer, Federal Aviation Administration, 10101 Hillwood 
+Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+[[Page 59766]]
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Restricted Category Model CH-47D Helicopters: Docket No. FAA-2025-
+5394; Project Identifier AD-2025-01194-R.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by February 5, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to restricted category Model CH-47D helicopters; 
+current type certificate holders include but are not limited to 
+Billings Flying Service, Inc.; Columbia Helicopters, Inc.; Tandem 
+Rotor, LLC; and Unical Air Inc.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 6330, Main Rotor 
+Transmission Mount.
+
+(e) Unsafe Condition
+
+    This AD was prompted by reports of fatigue cracking of the 
+right-hand (RH) forward transmission support beam fitting. The FAA 
+is issuing this AD to detect and address fatigue cracking of the RH 
+forward transmission support beam fittings. The unsafe condition, if 
+not addressed, could result in crack propagation and lead to failure 
+of the RH forward transmission support beam fitting, excessive 
+vibration, and consequent loss of control of the helicopter.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Required Actions
+
+    (1) Within 30 hours time in service (TIS) after the effective 
+date of this AD and thereafter at intervals not to exceed 100 hours 
+TIS, using a 7X or higher power magnification and light source, 
+visually inspect the RH forward transmission support beam fitting 
+having part number 145S1838-1 at right butt line (RBL) 18 from 
+station (STA) 76 to STA 120 for cracks. Fastener holes in the area 
+circled in figure 1 to paragraph (g)(1) of this AD are most 
+susceptible to cracking. If any crack is detected, before further 
+flight, repair or replace parts using a method approved by the 
+Manager, West Certification Branch, FAA, in accordance with the 
+procedures specified in paragraph (i) of this AD.
+BILLING CODE 4910-13-P
+
+Figure 1 to Paragraph (g)(1)--Transmission Support Beam Inspection
+
+[[Page 59767]]
+
+[GRAPHIC] [TIFF OMITTED] TP22DE25.005
+
+BILLING CODE 4910-13-C
+    (2) For repairs accomplished before the effective date of this 
+AD, within 30 days after the effective date of this AD, submit the 
+information specified in paragraphs (g)(2)(i) through (v) of this AD 
+to the person identified in paragraph (j) of this AD.
+    (i) Aircraft serial number, registration number, and TIS when 
+fitting was repaired.
+    (ii) Design data used to accomplish repair (drawings, 
+engineering orders, etc.).
+    (iii) Substantiation data used to approve repair.
+    (iv) Copy of FAA Form 337 ``Major Repair or Alteration'' or 
+other approval of return to service. If repair was performed by the 
+U.S. military, provide a copy of Form 2408-15 (or equivalent) 
+documenting major repair.
+    (v) Alternative methods of compliance for previously approved 
+repairs.
+    (3) For fittings that have been replaced before the effective 
+date of this AD, within 30 days after the effective date of this AD, 
+submit the information specified in paragraphs (g)(3)(i) and (ii) of 
+this AD to the person identified in paragraph (j) of this AD.
+    (i) If the replacement fitting was new production (under 14 CFR 
+21.9 or exemption): where the part was sourced from, when the part 
+was produced, and the manufacturer of the part.
+    (ii) If the replacement fitting was used: where the part was 
+sourced from (aircraft registration and serial number or 
+manufacturer), TIS of the used part prior to installation, and TIS 
+after installation.
+
+(h) Special Flight Permits
+
+    Special flight permits are prohibited.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, West Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the West Certification Branch, send it to 
+the attention of the person identified in paragraph (j) of this AD 
+and email to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Additional Information
+
+    For more information about this AD, contact Sarah Illg, Aviation 
+Safety Engineer, FAA, 3960 Paramount Boulevard, Lakewood, CA 90712; 
+phone: (206) 231-3517; email: [email&#160;protected].
+
+(k) Material Incorporated by Reference
+
+    None.
+
+    Issued on December 17, 2025.
+Steven W. Thompson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2025-23613 Filed 12-19-25; 8:45 am]
+BILLING CODE 4910-13-P
+
+

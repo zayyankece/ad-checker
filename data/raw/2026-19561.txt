@@ -1,0 +1,712 @@
+
+[Federal Register Volume 91, Number 184 (Thursday, September 24, 2026)]
+[Proposed Rules]
+[Pages 60525-60530]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-19561]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2025-2277; Project Identifier MCAI-2023-00733-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Bombardier, Inc., Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Supplemental notice of proposed rulemaking (SNPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is revising a notice of proposed rulemaking (NPRM) 
+that would have applied to certain Bombardier, Inc., Model BD-700-2A12 
+airplanes. This action revises the NPRM by citing new material required 
+for the revision of the existing maintenance or inspection program. The 
+FAA is proposing this airworthiness directive (AD) to address the 
+unsafe condition on these products. Since these actions would impose an 
+additional burden over those in the NPRM, the FAA is requesting 
+comments on this SNPRM.
+
+DATES: The FAA must receive comments on this SNPRM by October 26, 2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2025-2277; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this SNPRM, the mandatory continuing airworthiness 
+information (MCAI), any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Bombardier material identified in this proposed AD, 
+contact Bombardier Business Aircraft Customer Response Center, 400 
+C[ocirc]te-Vertu Road West, Dorval, Qu[eacute]bec H4S 1Y9, Canada; 
+telephone 514-855-2999; email bombardier.com">ac.yul@aero.bombardier.com; website 
+bombardier.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195.
+
+FOR FURTHER INFORMATION CONTACT: Fatin Saumik, Aviation Safety 
+Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; 
+phone: 516-228-7300; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include
+
+[[Page 60526]]
+
+``Docket No. FAA-2025-2277; Project Identifier MCAI-2023-00733-T'' at 
+the beginning of your comments. The most helpful comments reference a 
+specific portion of the proposal, explain the reason for any 
+recommended change, and include supporting data. The FAA will consider 
+all comments received by the closing date and may amend this proposal 
+because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this SNPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this SNPRM contain 
+commercial or financial information that is customarily treated as 
+private, that you actually treat as private, and that is relevant or 
+responsive to this SNPRM, it is important that you clearly designate 
+the submitted comments as CBI. Please mark each page of your submission 
+containing CBI as ``PROPIN.'' The FAA will treat such marked 
+submissions as confidential under the FOIA, and they will not be placed 
+in the public docket of this SNPRM. Submissions containing CBI should 
+be sent to Fatin Saumik, Aviation Safety Engineer, FAA, 1600 Stewart 
+Avenue, Suite 410, Westbury, NY 11590; phone: 516-228-7300; email: [email&#160;protected]. Any commentary that the FAA receives which is 
+not specifically designated as CBI will be placed in the public docket 
+for this rulemaking.
+
+Background
+
+    The FAA issued an NPRM to amend 14 CFR part 39 by adding an AD that 
+would have applied to all Bombardier, Inc., Model BD-700-2A12 
+airplanes. The NPRM was published in the Federal Register on September 
+9, 2025 (90 FR 43400). The NPRM was prompted by Transport Canada AD CF-
+2023-38, dated June 1, 2023 (Transport Canada AD CF-2023-38), issued by 
+Transport Canada, which is the aviation authority for Canada. Transport 
+Canada AD CF-2023-38 states that new or more restrictive airworthiness 
+limitations have been developed.
+    In the NPRM, the FAA proposed to require revising the existing 
+maintenance or inspection program, as applicable, to incorporate new or 
+more restrictive airworthiness limitations.
+
+Actions Since the NPRM Was Issued
+
+    Since the FAA issued the NPRM, Transport Canada superseded 
+Transport Canada AD CF-2023-38 and issued Transport Canada AD CF-2023-
+38R1, dated November 13, 2025 (Transport Canada AD CF-2023-38R1) (also 
+referred to as the MCAI), to correct an unsafe condition for certain 
+Model BD-700-2A12 airplanes. The MCAI states that the applicability was 
+revised to limit the affected airplanes by excluding airplanes on which 
+the intent of Transport Canada AD CF-2023-38 is incorporated in 
+production and therefore are not affected by the unsafe condition.
+    The FAA is proposing this AD to address reduced structural 
+integrity of the airplane and reduced controllability of the airplane.
+    You may examine the MCAI in the AD docket at regulations.gov under 
+Docket No. FAA-2025-2277.
+
+Comments
+
+    The FAA received comments from an anonymous commenter who supported 
+the NPRM without change and three anonymous commenters who supported 
+the NPRM but had additional comments.
+    The FAA received additional comments from Bombardier, The Citizens 
+Rulemaking Alliance, NetJets, and three anonymous commenters. The 
+following presents the comments received on the NPRM and the FAA's 
+response to each comment.
+
+Request for Service Information
+
+    NetJets requested that the FAA explain how operators can comply 
+with the cited material: Bombardier Global 7500 Revision Submission, 
+RS-BD700-2A12-052, dated May 7, 2025. NetJets stated it received a 
+response from Bombardier Maintenance Programs and Planning explaining 
+that Bombardier Global 7500 Revision Submission, RS-BD700-2A12-052, 
+dated May 7, 2025; is not provided to operators as it is an internal 
+document.
+    Bombardier also commented that Bombardier Global 7500 Revision 
+Submission, RS-BD700-2A12-052, is not yet published and will not be 
+available to operators. Bombardier stated that the RS-BD700-2A12-052 
+contents will be published in the next airworthiness limitations 
+manual.
+    The FAA acknowledges that Bombardier Global 7500 Revision 
+Submission, RS-BD700-2A12-052, dated May 7, 2025, will not be available 
+to operators. However, Bombardier has issued Bombardier Global 7500/
+8000 Airworthiness limitations BD700-3AB48-11400-01, Issue No. 024, 
+dated December 15, 2025, which includes the same additional mandatory 
+maintenance tasks (AMMTs) as those specified in Bombardier Global 7500 
+Revision Submission, RS-BD700-2A12-052, dated May 7, 2025.
+    Bombardier Global 7500/8000 Airworthiness limitations BD700-3AB48-
+11400-01, Issue No. 024, dated December 15, 2025, will be incorporated 
+by reference and available in the AD docket at regulations.gov under 
+Docket No. FAA-2025-2277 when the final rule is published.
+    The FAA has revised paragraph (g)(1) of this proposed AD to refer 
+to Bombardier Global 7500/8000 Airworthiness limitations BD700-3AB48-
+11400-01, Issue No. 024, dated December 15, 2025, for incorporating 
+AMMTs. The FAA has also revised paragraph (g)(2) of this proposed AD to 
+provide an option to incorporate all applicable airworthiness 
+limitations specified in Bombardier Global 7500/8000 Airworthiness 
+limitations BD700-3AB48-11400-01, Issue No. 024, dated December 15, 
+2025.
+
+Request To Allow Later Revisions
+
+    An anonymous commenter requested that the FAA permit operators to 
+adhere to the most recent iterations of Bombardier's Time Limits/
+Maintenance Checks (TLMC). manuals if more stringent safety regulations 
+are included in those updates. The commenter stated that operators 
+might have to hold off on implementing updated procedures until after 
+another AD. The commenter stated that adopting the most recent safety 
+data more quickly and in accordance with contemporary safety management 
+principles would be facilitated by permitting the use of future 
+revisions and would improve efficiency and safety. The commenter noted 
+that Bombardier frequently updates its maintenance programs to reflect 
+new findings.
+    The FAA cannot allow the use of future revisions because the agency 
+may not refer to any document that does not yet exist in an AD. In 
+general terms, the FAA is required by Office of the Federal Register 
+(OFR) regulations for approval of materials incorporated by reference, 
+as specified in 1 CFR 51.1(f), to either publish the service document 
+contents as part of the actual AD language; or submit the service 
+document to the OFR for approval as referenced material, in which case 
+the FAA may only refer to
+
+[[Page 60527]]
+
+such material in the text of an AD. The AD may refer to the service 
+document only if the OFR approved it for incorporation by reference. 
+See 1 CFR part 51.
+    To allow operators to use later revisions of the referenced 
+document (issued after publication of the AD), either the FAA must 
+revise the proposed AD to reference specific later revisions, or 
+operators must request approval to use later revisions as an 
+alternative method of compliance with this proposed AD under the 
+provisions of paragraph (i)(1) of this proposed AD. As stated 
+previously, the FAA has revised paragraph (g)(2) of this proposed AD to 
+allow the use of a later revision of the airworthiness limitations 
+document.
+
+Request To Include the Cost Savings
+
+    An anonymous commenter requested that the FAA include the average 
+repair costs that would occur if preventative or frequent maintenance 
+is not done. The commenter stated that the cost of updating an 
+operator's maintenance/inspection program to adopt the latest 
+airworthiness limitations ($7,650) is the practical choice when 
+considering the cost of repairs without preventive maintenance. The 
+commenter also stated that the NPRM did not quantify the risk 
+associated with the unsafe condition, so operators may see the proposed 
+regulation as lacking a clear cost benefit argument.
+    The FAA cannot quantify the safety cost savings for this proposed 
+AD. However, the FAA has estimated the proposed AD's compliance cost 
+impact in response to another commenter (see Request to Consider Impact 
+on Small Entities), which determined that this proposed AD would not 
+have a significant impact on a substantial number of the affected 
+operators. Further, the FAA has determined that an unsafe condition 
+exists and therefore the actions required by this proposed AD must be 
+done.
+
+Request for Guidance
+
+    An anonymous commenter requested the FAA give clear guidance or a 
+standard template for updating the maintenance procedures. The 
+commenter stated this would make it easier for airlines to follow the 
+rules correctly and reduce mistakes. The commenter also noted that 
+meeting the new requirements in stages could help airlines handle costs 
+and training without causing delays. The commenter concluded these 
+changes would make the proposed AD easier to implement while keeping 
+flights safe.
+    The FAA disagrees that guidance on revising the maintenance or 
+inspection program is needed. Operators may accomplish the maintenance 
+or inspection program revision using their own procedures, which vary 
+among operators. The FAA has not revised this proposed AD in this 
+regard.
+
+Request To Justify Forgoing Notice and Comment or Issue an NPRM
+
+    The Citizens Rulemaking Alliance requested that the FAA either 
+provide its justification for finding good cause to bypass notice and 
+comment procedures, or convert this action to an NPRM and stay the 
+effective date while soliciting comments. The commenter asserted the 
+FAA has not adequately justified use of the good cause exemption to 
+bypass notice and comment and the 30-day delayed effective date.
+    The FAA notes the comment was submitted in response to an NPRM for 
+which the FAA provided a 45-day comment period. This SNPRM also 
+provides a 30-day comment period. Therefore, no change to this proposed 
+AD is necessary.
+
+Request To Make Incorporation by Reference (IBR) Materials Reasonably 
+Available
+
+    The Citizens Rulemaking Alliance requested that the FAA make IBR 
+material available and free to the public during the comment period. 
+The commenter asserted that this AD incorporates by reference 
+proprietary service information that is not reasonably available to the 
+public.
+    The FAA's practices comply with 5 U.S.C. 552(a) of the 
+Administrative Procedure Act and 1 CFR part 51. The FAA makes IBR 
+materials available in the AD docket when the final rule is published 
+in the Federal Register, following formal approval of the IBR by the 
+Office of the Federal Register. Materials may only be posted before the 
+final rule's publication if they are already publicly available or if 
+there is written consent from the owner of the IBR material. All 
+relevant materials incorporated by reference will be accessible in the 
+AD docket on Regulations.gov, which the public can access without 
+registration or fees.
+    The FAA also provides summaries and access details in the preamble 
+and regulatory text, makes materials available for inspection at FAA 
+and National Archives and Records Administration (NARA) offices, offers 
+publisher contact information, and obtains formal IBR approval from the 
+Office of the Federal Register. These efforts are intended to ensure 
+that all IBR materials meet the ``reasonably available'' standard 
+required by 1 CFR part 51. The FAA did not change this proposed AD as a 
+result of this comment.
+
+Request To Comply With the Paperwork Reduction Act (PRA)
+
+    The Citizens Rulemaking Alliance requested that the FAA revise the 
+AD to comply with the PRA if reporting is required or remove or clarify 
+that no reporting is required. The commenter stated that the PRA 
+requires providing the applicable OMB control number(s), required PRA 
+statements, and burden estimates in the AD and docket.
+    The FAA notes this proposed AD does not require reporting. If an AD 
+were to require reporting, the preamble of the AD would include a 
+paragraph titled ``Paperwork Reduction Act'' that would provide the 
+applicable OMB control number, required PRA statements, and the 
+estimated time to collect the required information (burden). Any costs 
+associated with the reporting requirement would be included in the 
+Costs of Compliance section in the preamble of the AD. Therefore, the 
+FAA did not change this proposed AD as a result of this comment.
+
+Request To Consider Impact on Small Entities
+
+    The Citizens Rulemaking Alliance requested that the FAA either 
+provide the factual basis for its Regulatory Flexibility Act (RFA) 
+certification that the AD will not have a significant economic impact 
+on a substantial number of small entities, or prepare an initial 
+regulatory flexibility analysis.
+    The FAA provides the following clarification. The RFA of 1980 (5 
+U.S.C. 601-612), as amended by the Small Business Regulatory 
+Enforcement Fairness Act of 1996 (Pub. L. 104-121) and the Small 
+Business Jobs Act of 2010 (Pub. L. 111-240), requires Federal agencies 
+to consider the effects of the regulatory action on small business and 
+other small entities and to minimize any significant economic impact. 
+The term ``small entities'' comprises small businesses and not-for-
+profit organizations that are independently owned and operated and are 
+not dominant in their fields, and governmental jurisdictions with 
+populations of less than 50,000.
+    The FAA identified the primary North American Industry 
+Classification System (NAICS) industry of each entity or each entity's 
+parent company and then used data from different sources (e.g., company 
+annual reports, Bureau of Transportation Statistics) to determine 
+whether the entity meets the applicable size standard. The following 
+table provides the Small Business Association (SBA) size standards for 
+all industries
+
+[[Page 60528]]
+
+with at least 1 impacted relevant entity and the estimated number of 
+affected small entities within each NAICS industry.
+
+                            Small Business Size Standards and Number of Entities \1\
+----------------------------------------------------------------------------------------------------------------
+                                                                                                        Percent
+      NAICS code            Description                 Size standard             Entities    Small      small
+                                                                                             entities   entities
+----------------------------------------------------------------------------------------------------------------
+336611...............  Ship Building and     1,300 employees...................          1          0          0
+                        Repairing.
+454110...............  Electronic Shopping   $47.0 million.....................          1          0          0
+                        and Mail-Order
+                        Houses.
+481211...............  Nonscheduled          1,500 employees...................          9          9        100
+                        Chartered Passenger
+                        Air Transportation.
+522110...............  Commercial Banking..  $850 million in assets............          1          0          0
+522299...............  International,        $47.0 million.....................          1          0          0
+                        Secondary Market,
+                        and All Other
+                        Nondepository
+                        Credit
+                        Intermediation.
+523910...............  Miscellaneous         $47.0 million.....................          1          1        100
+                        Intermediation.
+524126...............  Direct Property and   1,500 employees...................          2          0          0
+                        Casualty Insurance
+                        Carriers.
+541110...............  Offices of Lawyers..  $15.5 million.....................          1          0          0
+541614...............  Process, Physical     $20.0 million.....................          1          0          0
+                        Distribution and
+                        Logistics
+                        Consulting Services.
+                                                                                --------------------------------
+    Total............  ....................  ..................................         18         10         56
+----------------------------------------------------------------------------------------------------------------
+\1\ Sources: U.S. SBA, Table of Small Business Size Standards (2023). sba.gov; Dun & Bradstreet D&B Hoovers,
+  retrieved August 11, 2026. app.hoovers.dnb.com; Zoominfo, retrieved August 11, 2026. zoominfo.com.
+
+    While the FAA has determined this proposed AD affects a substantial 
+number of small entities, the compliance cost of the proposed AD is 
+minimal relative to each small entity's annual revenue. The proposed 
+AD's $7,650 per-entity cost as a percentage of annual revenue imposes a 
+burden no greater than 1.7%. Therefore, as provided in section 605(b), 
+the FAA certifies this proposed AD will not result in a significant 
+economic impact on a substantial number of small entities. The FAA did 
+not change this proposed AD as a result of this comment. The table 
+below displays the cost impact of the proposed AD on all 10 small 
+entities.
+
+                           Average Annualized Cost of Compliance per Small Entity \1\
+----------------------------------------------------------------------------------------------------------------
+                                                Small      Average      Average cost as a    Range of cost as a
+               NAICS industry                  entities    revenue     percent of revenue    percent of revenue
+----------------------------------------------------------------------------------------------------------------
+Miscellaneous Intermediation................          1   $1,930,000                   0.4               0.4-0.4
+Nonscheduled Chartered Passenger Air                  9   23,535,381                   0.3               0.0-1.7
+ Transportation.............................
+----------------------------------------------------------------------------------------------------------------
+\1\ Sources: US SBA, Table of Small Business Size Standards (2023). sba.gov; Dun & Bradstreet D&B Hoovers,
+  retrieved August 11, 2026. app.hoovers.dnb.com; Zoominfo, retrieved August 11, 2026. zoominfo.com.
+
+Request To Provide Additional Cost Information
+
+    The Citizens Rulemaking Alliance requested that the FAA add to the 
+AD docket the data supporting its cost estimate, including assumptions 
+about labor, parts availability, airplane downtime, and fleet size and 
+confirm and explain the FAA's determination that the AD is not 
+significant under Executive Order 12866.
+    The FAA notes that in preamble of the proposed AD, the FAA 
+certified that this regulation is not a ``significant regulatory 
+action'' under Executive Order 12866, which means, in part, that the 
+regulation will not have an annual effect on the economy of $100 
+million or more. Further, in the Costs of Compliance section of the 
+proposed AD, the FAA disclosed the number of affected airplanes on the 
+U.S. registry, estimated number of work hours to comply with the 
+proposed AD, and the aggregate costs. The work-hour estimate is the 
+based on a survey of transport operators, which found that the mean 
+average is 90 work-hours to revise an operator's maintenance or 
+inspection program. Parts availability is not considered in the cost 
+estimate because this proposed AD does not require any airplane parts.
+    Further, the FAA has determined that the current labor rate of $85 
+per hour remains accurate for this proposed AD. The FAA evaluates this 
+rate periodically, based on U.S. Department of Labor Statistic (BLS) 
+data found at https://data.bls.gov/oes, and will change the rate when 
+appropriate. The FAA used a blended wage rate to estimate the labor 
+rate for this proposed AD, where the FAA assumes 60 percent weight for 
+aircraft mechanics (at a fully burdened mean wage rate of $69.85 per 
+hour) and 40 percent for general and operations managers (at a fully 
+burdened mean wage rate of $108.15 per hour). To calculate the blended 
+wage rate, the FAA multiplied each wage rate by its corresponding 
+weight and added up the products to obtain a wage rate of $85.17, which 
+the FAA rounded down to $85.
+    Since the FAA has assessed and disclosed all known costs of the 
+proposed AD requirements in the Costs of Compliance section of the 
+proposed AD, and the commenter did not provide additional cost data for 
+the FAA to consider in its cost analysis, the FAA determined that the 
+existing analysis is complete. Based upon the analysis provided 
+throughout the proposed AD and in the previous comment response, the 
+FAA certifies that this proposed AD is not a ``significant regulatory 
+action'' under Executive Order 12866. The FAA did not change this 
+proposed AD as a result of this comment.
+
+Explanation of Change to the Applicability
+
+    The applicability of the proposed AD specified all Model BD-700-
+2A12 airplanes were affected. However, the applicability of this 
+proposed AD has been revised to exclude airplanes that are not affected 
+by the unsafe condition. Although the applicability of Transport Canada 
+AD CF-2023-38R1 specified affected airplane serial numbers, the 
+applicability of this proposed AD specifies Model BD-700-2A12
+
+[[Page 60529]]
+
+airplanes, except for airplanes on which the information specified in 
+Bombardier Global 7500/8000 Airworthiness limitations BD700-3AB48-
+11400-01, Issue No. 024, dated December 15, 2025, or later revisions of 
+Bombardier Global 7500/8000 Airworthiness limitations BD700-3AB48-
+11400-01, Issue No. 024, dated December 15, 2025, approved by Transport 
+Canada, has been incorporated into the existing maintenance or 
+inspection program, as applicable. The airplanes identified in the 
+exception meet the intent of the requirements of this proposed AD.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    Bombardier Global 7500 Airworthiness Limitations, BD700-3AB48-
+11400-01, Issue No. 017, dated February 28, 2023. This service 
+information specifies new or more restrictive airworthiness limitations 
+for fuel tank systems, safe life limits, certification maintenance 
+requirements, and candidate certification maintenance requirements 
+(CCMRs).
+    The FAA also reviewed Bombardier Global 7500/8000 Airworthiness 
+limitations BD700-3AB48-11400-01, Issue No. 024, dated December 15, 
+2025. This service information specifies airworthiness limitations, 
+which includes new airworthiness limitations identified as AMMTs, which 
+replace the CCMRs for the FAA.
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+FAA's Determination
+
+    These products have been approved by the civil aviation authority 
+of another country and are approved for operation in the United States. 
+Pursuant to the FAA's bilateral agreement with this State of Design 
+Authority, that authority has notified the FAA of the unsafe condition 
+described in the MCAI referenced above. The FAA is issuing this SNPRM 
+after determining that the unsafe condition described previously is 
+likely to exist or develop in other products of the same type design.
+    Certain changes described above expand the scope of the NPRM. As a 
+result, it is necessary to reopen the comment period to provide 
+additional opportunity for the public to comment on this SNPRM.
+
+Proposed AD Requirements in This SNPRM
+
+    This proposed AD would require revising the existing maintenance or 
+inspection program, as applicable, to incorporate new or more 
+restrictive airworthiness limitations.
+
+Costs of Compliance
+
+    The FAA estimates that this proposed AD affects 58 airplanes of 
+U.S. registry. The FAA estimates the following costs to comply with 
+this proposed AD:
+    The FAA has determined that revising the maintenance or inspection 
+program takes an average of 90 work-hours per operator, although the 
+agency recognizes that this number may vary from operator to operator. 
+Since operators incorporate maintenance or inspection program changes 
+for their affected fleet(s), the FAA has determined that a per-operator 
+estimate is more accurate than a per-airplane estimate. Therefore, the 
+agency estimates the average total cost per operator to be $7,650 (90 
+work-hours x $85 per work-hour).
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Bombardier, Inc.: Docket No. FAA-2025-2277; Project Identifier MCAI-
+2023-00733-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by October 26, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Bombardier, Inc., Model BD-700-2A12 
+airplanes, certificated in any category, except for airplanes on 
+which the information specified in Bombardier Global 7500/8000 
+Airworthiness limitations BD700-3AB48-11400-01, Issue No. 024, dated 
+December 15, 2025, or later revisions of Bombardier Global 7500/8000 
+Airworthiness limitations BD700-3AB48-11400-01, Issue No. 024, dated 
+December 15, 2025, approved by Transport Canada, has been 
+incorporated into the existing maintenance or inspection program, as 
+applicable.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 05, Time Limits/
+Maintenance Checks.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a determination that new or more 
+restrictive airworthiness limitations are necessary. The FAA is 
+issuing this AD to address reduced structural integrity of the 
+airplane and reduced controllability of the airplane.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+[[Page 60530]]
+
+(g) Maintenance or Inspection Program Revision
+
+    Within 90 days after the effective date of this AD, do the 
+actions specified in paragraph (g)(1) or (2) of this AD.
+    (1) Revise the existing maintenance or inspection program, as 
+applicable, to incorporate the information specified in paragraph 
+(g)(1)(i) and (ii) of this AD. The initial compliance time for doing 
+the tasks is at the time specified in Bombardier Global 7500 
+Airworthiness Limitations, BD700-3AB48-11400-01, Issue No. 017, 
+dated February 28, 2023, and in the ``Additional mandatory 
+maintenance tasks--General'' section of Bombardier Global 7500/8000 
+Airworthiness limitations BD700-3AB48-11400-01, Issue No. 024, dated 
+December 15, 2025, as applicable, or within 90 days after the 
+effective date of this AD, whichever occurs later.
+    (i) Bombardier Global 7500 Airworthiness Limitations, BD700-
+3AB48-11400-01, Issue No. 017, dated February 28, 2023, except for 
+the information specified in the ``Candidate CMR Limitations--
+General'' section.
+    (ii) The ``Additional mandatory maintenance tasks--General'' 
+section of Bombardier Global 7500/8000 Airworthiness limitations 
+BD700-3AB48-11400-01, Issue No. 024, dated December 15, 2025.
+    (2) Revise the existing maintenance or inspection program, as 
+applicable, to incorporate the information specified in the 
+Bombardier Global 7500/8000 Airworthiness limitations BD700-3AB48-
+11400-01, Issue No. 024, dated December 15, 2025. The initial 
+compliance time for doing the tasks is at the time specified in 
+Bombardier Global 7500/8000 Airworthiness limitations BD700-3AB48-
+11400-01, Issue No. 024, dated December 15, 2025, or within 90 days 
+after the effective date of this AD, whichever occurs later.
+
+(h) No Alternative Actions, Intervals, or Critical Design Configuration 
+Control Limitations (CDCCLs)
+
+    After the existing maintenance or inspection program has been 
+revised as required by paragraph (g) of this AD, no alternative 
+actions (e.g., inspections), intervals, or CDCCLs may be used unless 
+the actions, intervals, and CDCCLs are approved as an alternative 
+method of compliance (AMOC) in accordance with the procedures 
+specified in paragraph (i)(1) of this AD.
+
+(i) Additional AD Provisions
+
+    The following provisions also apply to this AD:
+    (1) Alternative Methods of Compliance (AMOCs): The Manager, 
+International Validation Branch, FAA, has the authority to approve 
+AMOCs for this AD, if requested using the procedures found in 14 CFR 
+39.19. In accordance with 14 CFR 39.19, send your request to your 
+principal inspector or responsible Flight Standards Office, as 
+appropriate. If sending information directly to the manager of the 
+International Validation Branch, send it to the attention of the 
+person identified in paragraph (j) of this AD and email to: 
+[email&#160;protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) Contacting the Manufacturer: For any requirement in this AD 
+to obtain instructions from a manufacturer, the instructions must be 
+accomplished using a method approved by the Manager, International 
+Validation Branch, FAA; or Transport Canada; or Bombardier, Inc.'s 
+Transport Canada Design Approval Organization (DAO). If approved by 
+the DAO, the approval must include the DAO-authorized signature.
+
+(j) Additional Information
+
+    For more information about this AD, contact Fatin Saumik, 
+Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, 
+Westbury, NY 11590; phone: 516-228-7300; email: [email&#160;protected].
+
+(k) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference of the material listed in this paragraph 
+under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (i) Bombardier Global 7500 Airworthiness Limitations, BD700-
+3AB48-11400-01, Issue No. 017, dated February 28, 2023.
+    (ii) Bombardier Global 7500/8000 Airworthiness limitations 
+BD700-3AB48-11400-01, Issue No. 024, dated December 15, 2025.
+    (3) For Bombardier material identified in this AD, contact 
+Bombardier Business Aircraft Customer Response Center, 400 
+C[ocirc]te-Vertu Road West, Dorval, Qu[eacute]bec H4S 1Y9, Canada; 
+telephone 514-855-2999; email bombardier.com">ac.yul@aero.bombardier.com; website 
+bombardier.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on September 21, 2026.
+Hollister B. Thorson,
+Acting Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2026-19561 Filed 9-23-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

@@ -50,6 +50,17 @@ CREATE TABLE IF NOT EXISTS revisions (
   latest_doc_id TEXT,
   docket_status TEXT
 );
+CREATE TABLE IF NOT EXISTS signoffs (
+  doc_id TEXT,
+  registration TEXT,
+  system_label TEXT,
+  decision TEXT,
+  final_label TEXT,
+  note TEXT,
+  engineer TEXT,
+  ts TEXT,
+  PRIMARY KEY (doc_id, registration)
+);
 CREATE TABLE IF NOT EXISTS rules (
   doc_id TEXT PRIMARY KEY,
   rule_json TEXT,

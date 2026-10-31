@@ -1,0 +1,40 @@
+id,category,B0_grade,B1_grade,note
+L1,lookup,unhelpful,correct,
+L2,lookup,unhelpful,wrong,B1 states the 2002-NM-09-AD proposal "was later withdrawn"; dataset has no withdrawal for this docket (hallucinated status)
+L3,lookup,unhelpful,partial,B1 names AD 2025-09-07 (the AD being replaced) and misses the current proposal FAA-2026-11813
+L4,lookup,unhelpful,correct,B0 gives a generic guess labelled as general
+L5,lookup,unhelpful,correct,
+L6,lookup,unhelpful,correct,
+L7,lookup,unhelpful,correct,
+A1,applicability,unhelpful,unhelpful,B1 retrieval missed the Applicability paragraph
+A2,applicability,unhelpful,unhelpful,
+A3,applicability,unhelpful,unhelpful,
+A4,applicability,unhelpful,unhelpful,
+A5,applicability,unhelpful,unhelpful,
+A6,applicability,unhelpful,unhelpful,
+A7,applicability,unhelpful,wrong,"B1: ""Yes, most likely"" A330-343 is covered by FAA-2026-11813, using the applicability of a different document (2026-16567). Blending across documents."
+A8,applicability,unhelpful,unhelpful,
+A9,applicability,correct,correct,Expected CANNOT DETERMINE; both decline (B1 mentions the EASA AD)
+A10,applicability,unhelpful,unhelpful,
+A11,applicability,unhelpful,unhelpful,
+A12,applicability,unhelpful,unhelpful,B1 hedges on registry instead of deciding applicability
+A13,applicability,unhelpful,unhelpful,
+A14,applicability,unhelpful,unhelpful,
+V1,revision,unhelpful,correct,
+V2,revision,unhelpful,correct,
+V3,revision,unhelpful,unhelpful,
+V4,revision,unhelpful,correct,
+V5,revision,unhelpful,wrong,"B1: ""only visible difference is the document type""; misses the certificate-date cutoff change that brings 9V-ZMF into scope"
+O1,out_of_scope,correct,correct,
+O2,out_of_scope,correct,correct,
+O3,out_of_scope,correct,correct,
+O4,out_of_scope,wrong,wrong,Both answer a bread recipe in a regulatory tool
+O5,out_of_scope,wrong,wrong,"Both answer ""yes, ADs apply to the A380"" from model memory; the dataset has no A380 document"
+O6,out_of_scope,correct,correct,
+M1,ambiguous,correct,correct,
+M2,ambiguous,correct,correct,
+M3,ambiguous,correct,correct,
+P1,false_premise,correct,correct,Both decline; neither identifies the false premise
+P2,false_premise,correct,wrong,"B1: ""I'll take your premise as given"" (accepts a false MSN range)"
+P3,false_premise,correct,correct,
+P4,false_premise,correct,correct,B1 correctly flags the premise as wrong

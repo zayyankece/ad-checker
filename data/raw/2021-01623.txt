@@ -1,0 +1,135 @@
+
+[Federal Register Volume 86, Number 33 (Monday, February 22, 2021)]
+[Proposed Rules]
+[Pages 10504-10505]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-01623]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2011-0099; Product Identifier 2010-SW-085-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Sikorsky Aircraft Corporation Model S-
+76A, S-76B, and S-76C Helicopters Modified by Supplemental Type 
+Certificate SR09211RC
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to adopt a new airworthiness directive (AD) that would 
+have applied to all Sikorsky Aircraft Corporation (Sikorsky) S-76 model 
+helicopters with a certain life raft
+
+[[Page 10505]]
+
+deployment system (LRDS) installed per Supplemental Type Certificate 
+(STC) SR09211RC. The NPRM was prompted by an incident that occurred 
+where the handle bent prior to the life raft deploying, and this 
+prohibited the crew from successfully deploying and using the life 
+raft. It was determined that the handle in this incident was not 
+manufactured to the approved Type Design. The NPRM would have required 
+removing and replacing the pilot or co-pilot life raft deployment 
+handle (handle) located on the left side of the ``broom closet'' of the 
+helicopter. Since issuance of the NPRM, the FAA determined that, based 
+on a review of the design approval holder's records, all of the handles 
+have been replaced. Accordingly, the NPRM is withdrawn.
+
+DATES: The FAA is withdrawing the proposed rule published March 1, 2011 
+(76 FR 11174), as of February 22, 2021.
+
+ADDRESSES:
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2011-
+0099; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD action, any comments received, and other information. The 
+street address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: Jonas Perez, Aviation Safety Engineer, 
+Fort Worth ACO Branch, FAA, 10101 Hillwood Pkwy., Fort Worth, TX 76177; 
+telephone 817-222-5145; email [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The FAA has issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD that would apply to the specified products. The NPRM was 
+published in the Federal Register on March 1, 2011 (76 FR 11174). The 
+NPRM was prompted by an incident that occurred where the handle bent 
+prior to the life raft deploying, and this prohibited the crew from 
+successfully deploying and using the life raft. It was determined that 
+the handle in this incident was not manufactured to the approved Type 
+Design.
+    The NPRM proposed to require removing and replacing the pilot or 
+co-pilot handle located on the left side of the ``broom closet'' of the 
+helicopter. The proposed actions were intended to address bending of 
+the handle, which could result in failure of the life raft to deploy. 
+This failure could lead to loss of access to the life raft after an 
+emergency ditching on water.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, the FAA determined that, based on a 
+review of the design approval holder's records, all of the handles have 
+been replaced, which addresses the identified unsafe condition. 
+Therefore, the FAA determined that AD action is not appropriate.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+Comments
+
+    The FAA gave the public the opportunity to comment on the NPRM. The 
+FAA received no comments on the NPRM or on the determination of the 
+cost to the public.
+
+FAA's Conclusions
+
+    Upon further consideration, the FAA determined that the NPRM is 
+unnecessary. Accordingly, the NPRM is withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act, or DOT Regulatory Policies 
+and Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+0
+Accordingly, the notice of proposed rulemaking, Docket No. FAA-2011-
+0099, which was published in the Federal Register on March 1, 2011 (76 
+FR 11174), is withdrawn.
+
+    Issued on January 20, 2021.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2021-01623 Filed 2-19-21; 8:45 am]
+BILLING CODE 4910-13-P
+
+

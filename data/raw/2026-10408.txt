@@ -1,0 +1,322 @@
+
+[Federal Register Volume 91, Number 100 (Tuesday, May 26, 2026)]
+[Proposed Rules]
+[Pages 30514-30516]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-10408]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-4643; Project Identifier AD-2025-01612-E]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Pratt & Whitney Division Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for all Pratt & Whitney Division (PW) Model PW4052, PW4056, PW4060, 
+PW4060A, PW4060C, PW4062, PW4062A, PW4152, PW4156, PW4156A, PW4158, 
+PW4460, and PW4462 engines. This proposed AD was prompted by multiple 
+reports of tailpipe fire, loss of thrust control, and engine in-flight 
+shutdown due to undetected deterioration of pressure burner (Pb) 
+sensors. This proposed AD would require replacing Pb sensors. The FAA 
+is proposing this AD to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by July 10, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-4643; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+
+FOR FURTHER INFORMATION CONTACT: Molly Sturgis, Aviation Safety 
+Engineer, FAA, 2200 South 216th Street, Des Moines, WA 98198; phone: 
+(562) 627-5373; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2026-4643; 
+Project Identifier AD-2025-01612-E'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may revise this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI
+
+[[Page 30515]]
+
+should be sent to Molly Sturgis, 2200 South 216th Street, Des Moines, 
+WA 98198. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The FAA was notified of multiple events involving PW PW4000-94 
+engines in which tailpipe fire, loss of thrust control, or engine in-
+flight shutdown occurred. A manufacturer investigation revealed that 
+these events were caused by undetected deterioration of Pb sensors due 
+to epoxy deterioration, which can lead to erroneous Pb sensor 
+measurements and incorrect fuel commands. This condition, if not 
+addressed, could result in engine fire, loss of thrust control, and 
+engine in-flight shutdown.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require replacing Pb sensors within certain 
+compliance times.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 210 engines installed on airplanes of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Replace Pb sensors....................  2 work-hours x $85 per           $15,694         $15,864      $3,331,440
+                                         hour = $170.
+----------------------------------------------------------------------------------------------------------------
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13   [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Pratt & Whitney Division: Docket No. FAA-2026-4643; Project 
+Identifier AD-2025-01612-E.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by July 10, 2026.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to all Pratt & Whitney Division (PW) Model 
+PW4052, PW4056, PW4060, PW4060A, PW4060C, PW4062, PW4062A, PW4152, 
+PW4156, PW4156A, PW4158, PW4460, and PW4462 engines.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code 7300, Engine Fuel 
+and Control.
+
+(e) Unsafe Condition
+
+    This AD was prompted by multiple reports of tailpipe fire, loss 
+of thrust control, and engine in-flight shutdown due to undetected 
+deterioration of pressure burner (Pb) sensors. The FAA is issuing 
+this AD to detect and correct the deterioration of Pb sensors. The 
+unsafe condition, if not addressed, could result in engine fire, 
+loss of thrust control, and engine in-flight shutdown.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Definitions
+
+    For the purpose of this AD, a ``part eligible for installation'' 
+is a Pb sensor that has accumulated less than 30,000 flight hours 
+(FH) since new or since repair and less than 10 years in service 
+since new or since repair.
+
+(h) Required Actions
+
+    (1) Replace the Pb sensor within the electronic engine control 
+(EEC) with a part eligible for installation within the applicable 
+number of months after the effective date of this AD, as specified 
+in table 1 to paragraph (h) of this AD, and thereafter before 
+accumulating 30,000 FH since new or since repair, or before 
+accumulating 10 years in service, whichever occurs first.
+
+[[Page 30516]]
+
+
+
+                                                  Table 1 to Paragraph (h)--Pb Sensor Replacement Times
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                             Less than
+                                                           60,000 FH or    50,000-59,999   40,000-49,999   30,000-39,999     30,000 FH      Unknown FH
+                                                          more since new   FH since new    FH since new    FH since new    since new or    since new or
+  Years in service since new or since repair as of the       or since        or since        or since        or since      since repair    since repair
+                effective date of this AD                  repair as of    repair as of    repair as of    repair as of      as of the       as of the
+                                                           the effective  the  effective  the  effective  the  effective  effective date  effective date
+                                                           date of this    date of this    date of this    date of this    of this AD *    of this AD *
+                                                           AD * (months)   AD * (months)  AD* * (months)   AD * (months)     (months)        (months)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+16 or more years........................................              10              10              10              10              10              10
+At or more than 14 years but less than 16 years.........              10              14              14              14              14              10
+At or more than 12 years but less than 14 years.........              10              14              21              21              21              10
+At or more than 10 years but less than 12 years.........              10              14              21              30              30              10
+Less than 10 years......................................              10              14              21              30     Refer to                 10
+                                                                                                                             paragraph
+                                                                                                                          (h)(2) of this
+                                                                                                                                AD
+Unknown years...........................................              10              10              10              10              10              10
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+* Flight hours since new or since repair: Calculate by rounding to the nearest hour.
+
+    (2) For Pb sensors that have accumulated less than 30,000 FH 
+since new or since repair and less than 10 years in service since 
+new or since repair as of the effective date of this AD, replace the 
+Pb sensor within the EEC with a part eligible for installation as 
+follows, whichever occurs later:
+    (i) Before accumulating 30,000 FH or 10 years in service since 
+new or since repair as applicable, whichever occurs first.
+    (ii) Within 30 months after the effective date of this AD.
+    Note 1 to paragraph (h): Guidance for determining the age of Pb 
+sensors may be found in PW Service Bulletin PW4ENG 73-221, Revision 
+No. 3, dated July 1, 2024.
+
+(i) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520 Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or local 
+Flight Standards District Office, as appropriate. If sending 
+information directly to the manager of the AIR-520 Continued 
+Operational Safety Branch, send it to the attention of the person 
+identified in paragraph (j) of this AD and email to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(j) Additional Information
+
+    (1) For more information about this AD, contact Molly Sturgis, 
+Aviation Safety Engineer, FAA, 2200 South 216th Street, Des Moines, 
+WA 98198; phone: (562) 627-5373; email: [email&#160;protected].
+    (2) For material identified in this AD that is not incorporated 
+by reference, contact PW, 400 Main Street, East Hartford, CT 06118; 
+phone: (800) 565-0140; email: [email&#160;protected]; website: 
+connect.prattwhitney.com.
+
+(k) Material Incorporated by Reference
+
+    None.
+
+    Issued on May 21, 2026.
+Lona C. Saccomando,
+Acting Deputy Director, Integrated Certificate Management Division, 
+Aircraft Certification Service.
+[FR Doc. 2026-10408 Filed 5-22-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+

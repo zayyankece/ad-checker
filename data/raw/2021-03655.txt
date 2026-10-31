@@ -1,0 +1,162 @@
+
+[Federal Register Volume 86, Number 36 (Thursday, February 25, 2021)]
+[Proposed Rules]
+[Pages 11476-11477]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-03655]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2005-21679; Directorate Identifier 2004-SW-33-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Robinson Helicopter Company Model R22 
+Series Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM) 
+that proposed to adopt a new airworthiness directive (AD) that would 
+have applied to Robinson Helicopter Company (RHC) Model R22 series 
+helicopters. The NPRM was prompted by an in-flight break up of a 
+helicopter on which both teeter stop brackets (brackets) failed. The 
+NPRM would have required replacing each main rotor blade (blade) droop 
+and teeter stop (stop) and bracket and associated hardware with 
+redesigned and improved airworthy parts. Since issuance of the NPRM, 
+the FAA has determined that failure of the brackets was caused by 
+turbulence and other factors that are addressed in AD 95-26-04. 
+Accordingly, the NPRM is withdrawn.
+
+DATES: The FAA is withdrawing the proposed rule published June 28, 2005 
+(70 FR 37059), as of February 25, 2021.
+
+ADDRESSES: 
+
+Examining the AD Docket
+
+    You may examine the AD docket on the internet at https://www.regulations.gov by searching for and locating Docket No. FAA-2005-
+21679; or in person at Docket Operations between 9 a.m. and 5 p.m., 
+Monday through Friday, except Federal holidays. The AD docket contains 
+this AD action, any comments received, and other information. The 
+street address for Docket Operations is U.S. Department of 
+Transportation, Docket Operations, M-30, West Building Ground Floor, 
+Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.
+
+FOR FURTHER INFORMATION CONTACT: James Guo, Aviation Safety Engineer, 
+Los Angeles ACO Branch, FAA, 3960 Paramount Blvd., Lakewood, California 
+90712; telephone 562-627-5357; email [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Discussion
+
+    The FAA has issued an NPRM that proposed to amend 14 CFR part 39 by 
+adding an AD that would apply to the specified products. The NPRM was 
+published in the Federal Register on June 28, 2005 (70 FR 37059). The 
+NPRM was prompted by an accident that involved an in-flight breakup of 
+a helicopter that had old part-numbered stops and brackets installed. 
+While the probable cause of the in-flight breakup had not been 
+determined, the FAA believed failure of the stops or brackets may have 
+been a contributing factor. Accordingly, the NPRM proposed to require 
+replacing the stops and brackets with redesigned, airworthy parts. The 
+proposed actions were intended to prevent failure of the stops and 
+brackets, blade contact with the airframe, and subsequent loss of 
+control of the helicopter.
+
+Actions Since the NPRM Was Issued
+
+    Since issuance of the NPRM, the FAA has determined that the unsafe 
+condition was caused by different factors than those stated in the 
+NPRM. Previously, RHC had introduced service information to replace the 
+stops and brackets that were the subject of the NPRM with redesigned 
+parts. The redesign introduced a material change from aluminum to 
+stainless steel. However, the redesigned parts were mistakenly 
+evaluated as a change that would address the unsafe condition. It has 
+since been determined that the strength increase in the redesign is 
+insignificant and would not have improved the outcome of the accident. 
+It has also been determined that the accident was caused by mast 
+bumping, which is addressed in AD 95-26-04 (60 FR 66487, December 22, 
+1995) (AD 95-26-04). Therefore, the FAA has determined that AD action 
+is not required and the NPRM is withdrawn.
+    Withdrawal of the NPRM constitutes only such action and does not 
+preclude the FAA from further rulemaking on this issue, nor does it 
+commit the FAA to any course of action in the future.
+
+Comments
+
+    The FAA gave the public the opportunity to comment on the NPRM. The 
+following presents the comments received on the NPRM and the FAA's 
+response to each comment.
+
+Requests
+
+    One commenter stated that the stops and droops could not have 
+contributed to the accident as contact with those items occurs only 
+when operating a Model R22 helicopter outside of its certificated 
+flight envelope, accordingly making it an operational issue. The 
+commenter requested the FAA table the proposed AD until the accident 
+investigation is complete.
+    The FAA acknowledges the commenter's request. The FAA further 
+determined that the unsafe condition was caused by mast bumping, which 
+is addressed in AD 95-26-04. Because the FAA is withdrawing the NPRM 
+and has issued AD 95-26-04, the commenter's request is no longer 
+necessary.
+    A second commenter requested that the proposed action be modified 
+by inclusion of the following or similar statement: ``The requirement 
+to install certain part-numbered specific parts shall be interpreted 
+broadly to include any replacements parts approved under FAR 21.303 for 
+the original equipment parts cited in this action. Nothing in this 
+action prevents or precludes the installation of such alternatively 
+approved parts.''
+    The FAA acknowledges the commenter's request. However, because the 
+FAA is withdrawing the NPRM, the commenter's request is no longer 
+necessary.
+
+FAA's Conclusions
+
+    Upon further consideration of the available information, the FAA 
+has determined that the NPRM is unnecessary. Accordingly, the NPRM is 
+withdrawn.
+
+Regulatory Findings
+
+    Since this action only withdraws an NPRM, it is neither a proposed 
+nor a final rule. This action therefore is not covered under Executive 
+Order 12866, the Regulatory Flexibility Act, or DOT
+
+[[Page 11477]]
+
+Regulatory Policies and Procedures (44 FR 11034, February 26, 1979).
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+0
+Accordingly, the notice of proposed rulemaking, Docket No. FAA-2005-
+21679, Directorate Identifier 2004-SW-33-AD, which was published in the 
+Federal Register on June 28, 2005 (70 FR 37059), is withdrawn.
+
+    Issued on February 4, 2021.
+Gaetano A. Sciortino,
+Deputy Director for Strategic Initiatives, Compliance & Airworthiness 
+Division, Aircraft Certification Service.
+[FR Doc. 2021-03655 Filed 2-24-21; 8:45 am]
+BILLING CODE 4910-13-P
+
+

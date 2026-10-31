@@ -1,0 +1,751 @@
+
+[Federal Register Volume 89, Number 182 (Thursday, September 19, 2024)]
+[Proposed Rules]
+[Pages 76752-76759]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2024-21209]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2024-2143; Project Identifier AD-2024-00008-A]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Piper Aircraft, Inc. Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to adopt a new airworthiness directive (AD) 
+for certain Piper Aircraft, Inc. (Piper) Model PA-28-140, PA-28-150, 
+PA-28-160, PA-28-180, PA-28S-160, PA-28S-180, PA-28-236, PA-28-201T, 
+PA-32-300, PA-32R-300, PA-32RT-300, PA-32RT-300T, PA-32-301FT, PA-32-
+301XTC, PA-32R-301 (HP), PA-32R-301 (SP), PA-32R-301T, PA-32-301, and 
+PA-32-301T airplanes. This proposed AD was prompted by a report of a 
+wing separation caused by fatigue cracking in a visually inaccessible 
+area of the lower main wing spar cap and additional reports of fatigue 
+cracking in the wing spars of airplanes that share common type design 
+features. This proposed AD would require reviewing airplane maintenance 
+records to determine if an eddy current inspection of the lower main 
+wing spar bolt holes was done and, depending on the result, doing a 
+one-time eddy current inspection of the lower wing spar bolt holes for 
+crack(s), and replacing any cracked main wing spar. The FAA is 
+proposing this AD to address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by November 4, 
+2024.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: (202) 493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket
+
+[[Page 76753]]
+
+No. FAA-2024-2143; or in person at Docket Operations between 9 a.m. and 
+5 p.m., Monday through Friday, except Federal holidays. The AD docket 
+contains this NPRM, any comments received, and other information. The 
+street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Piper material identified in this proposed AD, contact 
+Piper Aircraft, Inc., 2926 Piper Drive, Vero Beach, Florida 32960; 
+phone: (772) 567-4361; email: piper.com">customerservice@piper.com; website: 
+piper.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 901 Locust, Kansas City, 
+MO 64106. For information on the availability of this material at the 
+FAA, call (817) 222-5110.
+
+FOR FURTHER INFORMATION CONTACT: Fred Caplan, Aviation Safety Engineer, 
+FAA, 1701 Columbia Avenue, College Park, GA 30337; phone: (404) 474-
+5507; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments to an address listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2024-2143; 
+Project Identifier AD-2024-00008-A'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may revise this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to Fred 
+Caplan, Aviation Safety Engineer, FAA, 1701 Columbia Avenue, College 
+Park, GA 30337. Any commentary that the FAA receives which is not 
+specifically designated as CBI will be placed in the public docket for 
+this rulemaking.
+
+Background
+
+    The FAA issued AD 2020-26-16, Amendment 39-21371 (86 FR 3769, 
+January 15, 2021) (AD 2020-26-16), for certain Piper Model PA-28-151, 
+PA-28-161, PA-28-181, PA-28-235, PA-28R-180, PA-28R-200, PA-28R-201, 
+PA-28R-201T, PA-28RT-201, PA-28RT-201T, PA-32-260, PA-32-300, PA-32R-
+300, PA-32RT-300, and PA-32RT-300T airplanes. AD 2020-26-16 was 
+prompted by an accident involving wing separation on a Piper Model PA-
+28R-201 airplane. An investigation by the National Transportation 
+Safety Board (NTSB) revealed a fatigue crack in a visually inaccessible 
+area of the lower main wing spar cap. The applicability of the NPRM for 
+AD 2020-26-16 included additional Piper model airplanes with similar 
+main wing spar structures as the Model PA-28R-201. Based on airplane 
+usage history, the FAA determined that only those airplanes with a 
+higher risk for fatigue cracks (airplanes with a significant history of 
+operation in flight training or other high-load environments) should be 
+subject to the inspection requirements proposed in that NPRM.
+    AD 2020-26-16 requires calculating the factored service hours for 
+each main wing spar to determine when an inspection is required, 
+inspecting the lower main wing spar bolt holes for cracks, and 
+replacing any cracked main wing spar. The agency issued AD 2020-26-16 
+to detect and correct fatigue cracks in the lower main wing spar cap 
+bolt holes.
+
+Actions Since AD 2020-26-16 Was Issued
+
+    The preamble to AD 2020-26-16 explains that the FAA considers the 
+requirements ``interim action'' and was considering further rulemaking. 
+The FAA has now determined that further rulemaking is necessary, and 
+this proposed AD and a separate proposed rulemaking action (Docket No. 
+FAA-2024-2142) that would supersede AD 2020-26-16 follows from that 
+determination. Similar to AD 2020-26-16, this proposed AD is also 
+considered to be an interim action that would determine the need for 
+additional actions in the fleet addressed currently. The FAA evaluated 
+the inspection reports submitted by operators as required by AD 2020-
+26-16 and determined that wing spars from additional Piper airplane 
+models should be inspected.
+    Since the FAA issued AD 2020-26-16, the FAA has analyzed the 
+accident history of the airplanes affected by AD 2020-26-16 and other 
+Piper airplanes operated in a similar fashion. The following paragraphs 
+communicate the FAA's findings on this subject.
+
+Accident History
+
+    Fatigue cracking was present in the main wing spars of Piper Model 
+PA-28-181, Model PA-28R-201, and Model PA-28-161 airplanes involved in 
+the following accidents. The following NTSB reports are related to this 
+issue and can be found on ntsb.gov.
+     NTSB Accident Number FTW87FA088: March 30, 1987--Marlin, 
+TX--Piper Model PA-28-181--7,490 hours time-in-service (TIS). This 
+accident was determined to have been caused by fatigue cracking in the 
+outboard bolt holes of the main wing spar. This airplane's primary 
+usage was a ``Pipeline Patrol'' mission.
+     NTSB Accident Number NYC93FA140: August 2, 1993--
+Provincetown, MA--Piper Model PA-28-181--11,683 hours TIS. This 
+accident was determined to have been caused by structural overloading 
+related to weather, but fatigue cracks were present near the outboard 
+bolt holes. This airplane's usage history included personal use, flight 
+instruction, and charter flights.
+     NTSB Accident Number ERA18FA120: April 4, 2018--Daytona 
+Beach, FL--Piper Model PA-28R-201--7,691 hours TIS. This accident was 
+determined to have been caused by fatigue cracking in the outboard bolt 
+holes of the main wing spar. This airplane's primary usage was flight 
+instruction.
+
+Bolt Hole Cracks and Other Findings
+
+    Following the release of AD 2020-26-16, the FAA and Piper received 
+over 2,800 bolt-hole eddy current inspection reports. The inspections 
+performed in the field revealed a mix of observations that warrant 
+further discussion. Of the total inspections, over 100 reported a 
+positive eddy current indication, with several including pictures of 
+the bolt
+
+[[Page 76754]]
+
+hole showing the source of the indication.
+    Piper later conducted more detailed inspections in a study of 24 
+main wing spars with 20 having positive eddy current indications. Out 
+of the 20 positive indications, 3 were identified as fatigue cracks, 
+where 1 was confirmed by Piper, and 2 were confirmed by the NTSB. The 
+remaining were determined to be features not consistent with a crack, 
+and 1 overstress crack as confirmed by the NTSB.
+    Though not all are confirmed, many of the indications are likely 
+not fatigue cracks but are a variety of anomalies in the hole. These 
+can include corrosion pitting, scratches, gouges, and threading marks 
+possibly caused by forceful insertion and removal of the close-fit 
+bolts without proper unloading of the wing or other reasons. While 
+these may not present as fatigue cracks at the time of inspection, 
+anomalies in the hole create a stress concentration where cracks can 
+begin to grow. Therefore, it is still crucial to inspect the critical 
+bolt holes for these issues and take corrective action to prevent the 
+formation of fatigue cracks. Piper Service Bulletin No. 1345, Revision 
+A, dated September 17, 2021 (Piper SB No. 1345, Revision A); and Piper 
+Service Bulletin No. 1412, dated May 7, 2024 (Piper SB No. 1412), 
+include procedures for distinguishing between indications caused by 
+hole damage or other anomalies from those caused by cracks.
+    In addition to the various forms of non-crack hole damage, the 
+inspections revealed several cracks in and around the bolt holes. As 
+part of the AD 2020-26-16 inspection reports, 6 cracks were found, 
+including 2 later verified by NTSB lab examination and 1 verified by 
+Piper (from the Piper study referenced above), and 3 visible cracks in 
+photos. Other known cracks include those found in an airplane in the 
+same fleet as the 2018 accident airplane, a separately submitted crack 
+finding confirmed with dye penetrant, and a crack located on the lower 
+spar cap surface running alongside the inspection bolt holes. Given 
+these findings, additional cracks may be present among the other 
+unconfirmed reported indications.
+    Other cracks have been discovered that may be caused by overload 
+rather than by fatigue. While use of the airplane within its limits 
+should not cause an overload crack, some crack findings have revealed 
+that airplanes have been operated outside their limits. Though cracks 
+due to overload are not the primary source of this corrective action, 
+this emphasizes the need for and importance of inspecting the spar bolt 
+holes for evidence of any cracking.
+
+Long-Term Continued Operational Safety
+
+    The AD 2020-26-16 inspection report results indicated that 
+additional inspections are needed to manage the safety of the fleet. 
+Data indicates that more airplanes will need to be inspected, including 
+the need to expand inspections to Piper airplane models that share a 
+similar structural design of the main wing spar beyond the models 
+addressed in AD 2020-26-16.
+    Crack development is a function of many factors, including the 
+design of the structure, how severely the aircraft is flown, and 
+manufacturing processes. Small imperfections may exist in any aircraft 
+structure from an early age; however, through operation, these 
+imperfections may slowly grow into fatigue cracks. Fatigue cracks have 
+the effect of weakening the structure and its ability to support the 
+stresses the airplane was originally designed to handle.
+    The 2018 accident, along with other accidents in this fleet 
+attributed to fatigue cracking, and the AD 2020-26-16 inspection 
+reports, indicate an aging fleet that requires intervention to ensure 
+any fatigue cracking does not reach a critical state prior to being 
+detected.
+    Ensuring further damage is not caused by an inspection itself is 
+important; however, inspecting for fatigue cracks as well as other hole 
+anomalies is critical and outweighs the risk associated with doing the 
+inspections. Piper has developed service actions, most recently in 
+Piper SB No. 1345, Revision A; and Piper SB No. 1412, that mitigate 
+inspection-induced damage by emphasizing proper unloading of the wing 
+for both bolt and wing removal and replacement, if necessary, along 
+with other instructions for ensuring care of the bolt holes.
+
+Corrective Action Development
+
+    Each requirement outlined in this proposed AD has been developed to 
+both address the unsafe condition and limit the number of required 
+inspections, reducing the burden on operators where possible. A brief 
+discussion of each aspect of the requirements continues below.
+
+Airplane Model Grouping
+
+    The inspection data received via the reporting requirement in AD 
+2020-26-16, along with testing of the baseline spar common to all Piper 
+Model PA-28 and PA-32 airplanes, has shown that inspections should be 
+extended to include Piper airplane models that share similar structural 
+design but were not included in the applicability of AD 2020-26-16. It 
+is likely that a significant contributing factor in the formation of 
+cracks found in the main wing spar bolt attachment area is the cold 
+bending of the spar to achieve the wing's dihedral. This method of 
+forming the spar dihedral combined with the proximity to the wing 
+attachment bolt holes leads to high residual stress in that area. The 
+potential for fatigue cracking in and around the bolt holes, as well as 
+higher variability in crack location and severity, is higher under this 
+constant additional stress.
+    In an attempt to support less onerous inspections and to understand 
+the causal factors, Piper investigated the residual stresses in the 
+critical bolt-hole area. That investigation showed that the residual 
+stress due to the spar cold bending process is a significant 
+contributing factor in reducing the fatigue life of the spar bolt 
+holes. An additional outcome of this investigation is a change to all 
+new manufactured spars having machined dihedral bends to eliminate the 
+residual stresses in the critical area.
+    Though there are differences between all Model PA-28 and PA-32 
+airplanes, such as additional reinforcing structure and lower 
+operational loads, all airplane models share this same baseline spar 
+with the cold bent dihedral. Differing characteristics allow for a 
+grouping and tailoring of the requirements for each airplane model, but 
+all airplane models need to be inspected. The airplane models in the 
+applicability of this proposed AD are not the same airplane models that 
+are included in the applicability of the proposed rulemaking action 
+(Docket No. FAA-2024-2142) that would supersede AD 2020-26-16, and the 
+proposed required actions are different between these two proposed 
+rulemaking actions.
+    The remaining Piper Model PA-28 and PA-32 airplanes that would not 
+be included in the applicability of this proposed AD either experience 
+higher operational loads or have less structure. Both of these 
+conditions increase the stress experienced in the subject bolt holes of 
+the baseline spar and thus are subject to the proposed rulemaking 
+action (Docket No. FAA-2024-2142) to supersede AD 2020-26-16.
+
+Determination of Inspection Compliance Time
+
+    The proposed compliance time for the eddy-current inspection 
+specified in this proposed AD was based on an inspection report 
+received in response to AD 2020-26-16 that showed a crack indication in 
+a Model PA-32-300 wing
+
+[[Page 76755]]
+
+spar, later verified by Piper as a crack. Some airplanes in the 
+proposed applicability of this AD may have been inspected as part of 
+the requirements of AD 2020-26-16; however, if cracks in the wing spar 
+are not expected as early due to the structural differences discussed 
+above, these inspections may not yield the intended insight into the 
+state of the wing spars. Therefore, the current proposed compliance 
+time was set near and prior to the time-in-service of this confirmed 
+crack finding in a wing spar of the same population as those in the 
+airplanes in the applicability of this proposed AD.
+    Wing spars on the affected Piper airplanes could develop cracks 
+that, if not addressed, would result in a wing separating from the 
+fuselage in flight.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Piper Service Bulletin 1412, dated May 7, 2024. 
+This material specifies procedures for doing a one-time eddy current 
+inspection of the lower wing spar bolt holes for crack(s) and replacing 
+any cracked main wing spar. This material also includes instructions to 
+report the results of the inspection to Piper. This material is 
+reasonably available because the interested parties have access to it 
+through their normal course of business or by the means identified in 
+the ADDRESSES section.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would require reviewing airplane maintenance 
+records to determine if an eddy current inspection of the lower main 
+wing spar bolt holes was done and depending on the result, doing an 
+eddy current inspection of the lower wing spar for crack(s) if not 
+previously done or if done prior to 12,000 hours TIS, and replacing any 
+cracked main wing spar. This proposed AD would also require sending all 
+inspection results to Piper and the FAA.
+
+Differences Between This Proposed AD and the Referenced Material
+
+    Piper SB 1412 specifies to contact Piper for disposition if any 
+non-crack damage is found in the main wing spar bolt holes or any 
+crack(s) or non-crack damage is found in the spar box bolt holes but 
+this proposed AD would require contacting either the Manager, East 
+Certification Branch, FAA, or the Piper Organization Designation 
+Authorization (ODA) for instructions and doing those actions. To be 
+approved, the repair method, modification deviation, or alteration 
+deviation must meet the certification basis of the airplane, and the 
+approval must specifically refer to the proposed AD.
+    Piper SB 1412 specifies using its feedback form to report the 
+inspection results but this proposed AD would require using the form 
+included as Appendix 1 to this proposed AD.
+
+Interim Action
+
+    The FAA considers that this proposed AD would be an interim action. 
+The proposed inspection reports would provide the FAA with additional 
+data for determining the number of cracks present in the fleet. After 
+analyzing the data, the FAA may take further rulemaking action.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 10,927 airplanes of U.S. registry.
+    The FAA estimates the following costs to comply with this proposed 
+AD:
+
+                                                 Estimated Costs
+----------------------------------------------------------------------------------------------------------------
+                                                                                     Cost per      Cost on U.S.
+                Action                         Labor cost           Parts cost        product        operators
+----------------------------------------------------------------------------------------------------------------
+Review airplane maintenance records...  1 work-hour x $85 per                 $0             $85        $928,795
+                                         hour = $85.
+----------------------------------------------------------------------------------------------------------------
+
+    The FAA estimates the following costs to do any necessary actions 
+that would be required based on the results of the proposed airplane 
+maintenance records review. The agency has no way of determining the 
+number of airplanes that might need these actions:
+
+                                               On-Condition Costs
+----------------------------------------------------------------------------------------------------------------
+                  Action                            Labor cost           Parts cost        Cost per product
+----------------------------------------------------------------------------------------------------------------
+Eddy current inspection of the left and    1 work-hour contracted               $20  $960.
+ right lower main wing spar (including      service x $600 per hour =
+ access and restoring the airplane).        $600 for the eddy current
+                                            inspection.
+                                           4 work hours x $85 per       ...........  ...........................
+                                            hours = $340 for access
+                                            and restoration.
+Report inspection results................  1 work-hours x $85 per hour            0  $85.
+                                            = $85.
+Replace main wing spar...................  40 work-hours x $85 per           10,983  $14,383 per main wing spar.
+                                            hour = $3,400 per main
+                                            wing spar.
+----------------------------------------------------------------------------------------------------------------
+
+Paperwork Reduction Act
+
+    A federal agency may not conduct or sponsor, and a person is not 
+required to respond to, nor shall a person be subject to a penalty for 
+failure to comply with a collection of information subject to the 
+requirements of the Paperwork Reduction Act unless that collection of 
+information displays a currently valid OMB Control Number. The OMB 
+Control Number for this information collection is 2120-0056. Public 
+reporting for this collection of information is estimated to be 
+approximately 1 hour per response, including the time for reviewing 
+instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the 
+collection of information. All responses to this collection of 
+information are mandatory. Send comments regarding this burden estimate 
+or any other aspect of this
+
+[[Page 76756]]
+
+collection of information, including suggestions for reducing this 
+burden, to: Information Collection Clearance Officer, Federal Aviation 
+Administration, 10101 Hillwood Parkway, Fort Worth, TX 76177-1524.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by adding the following new airworthiness 
+directive:
+
+Piper Aircraft, Inc.: Docket No. FAA-2024-2143; Project Identifier 
+AD-2024-00008-A.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by November 4, 2024.
+
+(b) Affected ADs
+
+    None.
+
+(c) Applicability
+
+    This AD applies to Piper Aircraft, Inc. (Piper) airplanes, 
+certificated in any category, with a model and serial number shown 
+in Table 1 to the introductory text of paragraph (c) of this AD and 
+that meet at least one of the criteria in paragraphs (c)(1) or (2) 
+of this AD.
+
+    Table 1 to the Introductory Text of Paragraph (c)--Applicability
+------------------------------------------------------------------------
+               Model                             Serial Nos.
+------------------------------------------------------------------------
+PA-28-140.........................  All serial numbers.
+PA-28-150.........................  All serial numbers.
+PA-28-160.........................  All serial numbers.
+PA-28-180.........................  All serial numbers.
+PA-28S-160........................  All serial numbers.
+PA-28S-180........................  All serial numbers.
+PA-28-236.........................  All serial numbers.
+PA-28-201T........................  All serial numbers.
+PA-32-300.........................  All serial numbers greater than and
+                                     including 32-7940001.
+PA-32R-300........................  All serial numbers.
+PA-32RT-300.......................  All serial numbers.
+PA-32RT-300T......................  All serial numbers.
+PA-32-301FT.......................  All serial numbers.
+PA-32-301XTC......................  All serial numbers.
+PA-32R-301 (HP)...................  All serial numbers.
+PA-32R-301 (SP)...................  All serial numbers.
+PA-32R-301T.......................  All serial numbers.
+PA-32-301.........................  All serial numbers.
+PA-32-301T........................  All serial numbers.
+------------------------------------------------------------------------
+
+    (1) Has accumulated 12,000 or more total hours time-in-service 
+(TIS) on a wing spar; or
+    (2) Has missing or incomplete maintenance records.
+
+(d) Subject
+
+    Joint Aircraft System Component (JASC) Code/Air Transport 
+Association (ATA) of America Code 5711, WING SPAR.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a report of a wing separation caused by 
+fatigue cracking in a visually inaccessible area of the main wing 
+lower spar cap and additional reports of fatigue cracking in the 
+wing spars of airplanes that share common type design features. The 
+FAA is issuing this AD to address fatigue crack(s) in the lower main 
+wing spar cap bolt holes. The unsafe condition, if not addressed, 
+could result in the wing separating from the fuselage in flight.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Review Airplane Maintenance Records To Determine When Previous Main 
+Wing Spar Inspections Completed
+
+    Within 30 days or 100 hours TIS after the effective date of this 
+AD, whichever occurs later, review the airplane maintenance records 
+to determine when the previous inspection of each main wing spar was 
+completed. The owner/operator (pilot) holding at least a private 
+pilot certificate may accomplish this and must enter compliance with 
+this paragraph of the AD into the airplane maintenance records in 
+accordance with 14 CFR 43.9(a) and 91.417(a)(2)(v). The record must 
+be maintained as required by 14 CFR 91.417, 121.380, or 135.439. If 
+it can be determined from the airplane maintenance records review 
+that an eddy current inspection of the main wing spar was done prior 
+to the effective date of this AD at 12,000 hours TIS or greater and 
+in accordance with Piper Service Bulletin No. 1345, dated March 27, 
+2020; or Piper Service Bulletin 1345A, dated September 17, 2021, 
+then you may take credit for the inspection required by paragraph 
+(h) of this AD.
+
+(h) Bolt Hole Inspections and Corrective Actions
+
+    (1) Within the compliance time specified in either paragraph 
+(h)(1)(i) or (ii) of this AD, as applicable, on both the left and 
+right main wing spars, do an eddy current inspection of the inner 
+surface of each bolt hole in the lower wing spar cap for crack(s) 
+and for non-crack damage (including deep scratches, gouges, and 
+thread marks), in accordance with paragraph 5. of the Instructions 
+in Piper Service Bulletin No. 1412, dated May 7, 2024 (Piper SB No. 
+1412). Although Piper SB No. 1412 specifies NAS 410 Level II or 
+Level III certification to perform eddy current and fluorescent 
+penetrant inspections, this AD allows Level II or Level III 
+qualification standards for inspection personnel using any inspector 
+criteria approved by the FAA.
+    Note 1 to the introductory text of paragraph (h)(1): FAA 
+Advisory Circular 65-31B, ``Training, Qualification, and 
+Certification of Nondestructive Inspection Personnel,'' dated 
+February 24, 2014, contains FAA-approved Level II and Level III 
+qualification standards criteria for personnel doing nondestructive 
+test inspections.
+    (i) Within 100 hours TIS after complying with paragraph (g) of 
+this AD or within 100 hours TIS after a main wing spar accumulates 
+12,000 hours TIS, whichever occurs later; or
+    (ii) For airplanes with an unknown number of hours TIS on a main 
+wing spar, within 100 hours TIS or 60 days after the effective date 
+of this AD, whichever occurs later.
+    (2) If the eddy current inspection does not identify any 
+indications, before further flight,
+
+[[Page 76757]]
+
+install new wing spar bolts and nuts as required by paragraph (j) of 
+this AD and report the inspection results as required by paragraph 
+(k) of this AD.
+    (3) If the eddy current inspection identifies any crack(s), 
+indications, or noisy signal, before further flight, do the 
+applicable actions specified in paragraph 5.b. through k. of the 
+Instructions in Piper SB No. 1412.
+    (i) If any non-crack damage is found in the main wing spar bolt 
+holes or any crack(s) or non-crack damage is found in the spar box 
+bolt holes contact either the Manager, East Certification Branch, 
+FAA, or the Piper Organization Designation Authorization (ODA) for 
+instructions and do those actions. To be approved, the repair 
+method, modification deviation, or alteration deviation must meet 
+the certification basis of the airplane, and the approval must 
+specifically refer to this AD.
+    (ii) If any crack(s) is found in the main wing spar bolt hole, 
+replace the main wing spar as required by paragraph (i) of this AD.
+    (iii) If no crack(s) or non-crack damage is found in the main 
+wing spar bolt holes install new main wing spar bolts and nuts as 
+required by paragraph (j) of this AD.
+
+(i) Replace Main Wing Spar
+
+    If any crack is found during the inspection required by 
+paragraph (h) of this AD, before further flight, replace the 
+affected main wing spar with a new (zero hours TIS) main wing spar 
+or with a serviceable (more than zero hours TIS) main wing spar that 
+has passed the eddy current inspection required by paragraph (h) of 
+this AD.
+
+(j) Install New Main Wing Spar Bolts and Nuts
+
+    Before further flight, after completing the actions required by 
+paragraph (h) or (i) of this AD, install new main wing spar bolts 
+and nuts in accordance with paragraph (step) 9 of the Instructions 
+in Piper SB No. 1412.
+
+(k) Report Inspection Results
+
+    At the applicable time specified in paragraph (k)(1) or (2) of 
+this AD, report the inspection results to the FAA, East 
+Certification Branch, and to Piper Aircraft, Inc., using Appendix 1, 
+``Inspection Results Form,'' of this AD,
+    (1) If the action was done on or after the effective date of 
+this AD, submit the report within 30 days after the action was done.
+    (2) If the action was done before the effective date of this AD, 
+submit the report within 30 days after the effective date of this 
+AD.
+
+(l) Credit for Previous Actions
+
+    If the inspections of the main wing spars required by paragraph 
+(h) of this AD were done before the effective date of this AD at 
+12,000 hours TIS or greater in accordance with Piper Service 
+Bulletin No. 1345, dated March 27, 2020; or Piper Service Bulletin 
+1345A, dated September 17, 2021, then you may take credit for these 
+inspections.
+
+(m) Special Flight Permit
+
+    A special flight permit may be issued in accordance with 14 CFR 
+21.197 and 21.199 to permit a one-time, non-revenue ferry flight to 
+a location where the airplane can be inspected. This ferry flight 
+must be performed with only essential flight crew. This AD prohibits 
+a special flight permit if any inspection reveals a crack in the 
+main wing spar.
+
+(n) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, East Certification Branch, FAA, has the 
+authority to approve AMOCs for this AD, if requested using the 
+procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, 
+send your request to your principal inspector or local Flight 
+Standards District Office, as appropriate. If sending information 
+directly to the manager of the East Certification Branch, send it to 
+the attention of the person identified in paragraph (o)(1) of this 
+AD and email to: [email&#160;protected].
+    (2) Before using any approved AMOC, notify your appropriate 
+principal inspector, or lacking a principal inspector, the manager 
+of the local flight standards district office/certificate holding 
+district office.
+
+(o) Additional Information
+
+    (1) For more information about this AD, contact Fred Caplan, 
+Aviation Safety Engineer, FAA, East Certification Branch, FAA, 1701 
+Columbia Avenue, College Park, GA 30337; phone: (404) 474-5507; 
+email: [email&#160;protected].
+    (2) Piper material identified in this AD that is not 
+incorporated by reference is available at the address specified in 
+paragraph (p)(3) of this AD.
+    (3) FAA Advisory Circular 65-31B, ``Training, Qualification, and 
+Certification of Nondestructive Inspection Personnel,'' dated 
+February 24, 2014, may be found at drs.faa.gov.
+
+(p) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless the AD specifies otherwise.
+    (i) Piper Service Bulletin No. 1412, dated May 7, 2024.
+    (ii) [Reserved].
+    (3) For Piper material identified in this AD, contact Piper 
+Aircraft, Inc., 2926 Piper Drive, Vero Beach, FL 32960; phone: (772) 
+567-4361; email: piper.com">customerservice@piper.com; website: piper.com.
+    (4) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 901 Locust, Kansas 
+City, MO 64106. For information on the availability of this material 
+at the FAA, call (817) 222-5110.
+    (5) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+[[Page 76758]]
+
+Appendix 1 to Docket No. FAA-2024-2143
+[GRAPHIC] [TIFF OMITTED] TP19SE24.053
+
+
+
+[[Page 76759]]
+
+
+    Issued on September 10, 2024.
+Victor Wicklund,
+Deputy Director, Compliance & Airworthiness Division, Aircraft 
+Certification Service.
+[FR Doc. 2024-21209 Filed 9-18-24; 8:45 am]
+BILLING CODE 4910-13-P
+
+

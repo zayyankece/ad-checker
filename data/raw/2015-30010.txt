@@ -1,0 +1,92 @@
+
+[Federal Register Volume 80, Number 229 (Monday, November 30, 2015)]
+[Proposed Rules]
+[Pages 74722-74723]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2015-30010]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2015-1014; Directorate Identifier 2015-NE-14-AD]
+RIN 2120-AA64
+
+
+Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG 
+Turbofan Engines
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Proposed rule; withdrawal.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA is withdrawing a notice of proposed rulemaking (NPRM). 
+The NPRM proposed a new airworthiness directive (AD) that had applied 
+to all Rolls-Royce Deutschland Ltd & Co KG (RRD) Tay 650-15 and Tay 
+651-54 turbofan engines. The proposed action would have required 
+reducing the cyclic life limits for certain high-pressure turbine (HPT) 
+disks. Accordingly, we withdraw the proposed rule.
+
+DATES: The proposed rule published in the Federal Register on June 8, 
+2015 (80 FR 32315, June 8, 2015) is withdrawn as of November 30, 2015.
+
+FOR FURTHER INFORMATION CONTACT: Philip Haberlen, Aerospace Engineer, 
+Engine Certification Office, FAA, Engine & Propeller Directorate, 12 
+New England Executive Park, Burlington, MA 01803; phone: 781-238-7770; 
+fax: 781-238-7199; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION: The FAA proposed to amend 14 CFR part 39 
+with
+
+[[Page 74723]]
+
+a proposed AD (80 FR 32315, June 8, 2015). The proposed AD had applied 
+to Rolls-Royce Deutschland Ltd & Co KG (RRD) Tay 650-15 and Tay 651-54 
+turbofan engines. The NPRM proposed to reduce the cyclic life limits 
+for certain HPT disks. The proposed action was prompted by an analysis 
+that showed the need to reduce the cyclic life limits for certain HPT 
+disks. The proposed actions intended to prevent failure of the HPT 
+disk, which could result in uncontained disk release, damage to the 
+engine, and damage to the airplane.
+    Since we issued the NPRM (80 FR 32315, June 8, 2015), additional 
+information became available after the public comment period closed on 
+August 7, 2015.
+    Upon further consideration, we hereby withdraw the proposed rule 
+because we will propose to supersede AD 2006-18-14 (71 FR 52988, 
+September 8, 2006).
+    Withdrawal of the NPRM (80 FR 32315, June 8, 2015) constitutes only 
+such action, and does not preclude the agency from issuing another 
+notice in the future, nor does it commit the agency to any course of 
+action in the future.
+    Since this action only withdraws a notice of proposed rulemaking, 
+it is neither a proposed nor a final rule. Therefore, Executive Order 
+12866, the Regulatory Flexibility Act, or DOT Regulatory Policies and 
+Procedures (44 FR 11034, February 26, 1979) do not cover this 
+withdrawal.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Withdrawal
+
+    Accordingly, the notice of proposed rulemaking, Docket No. FAA-
+2015-1014; Directorate Identifier 2015-NE-14-AD, published in the 
+Federal Register on June 8, 2015 (80 FR 32315), is withdrawn.
+
+    Issued in Burlington, Massachusetts, on November 20, 2015.
+Colleen M. D'Alessandro,
+Directorate Manager, Engine & Propeller Directorate, Aircraft 
+Certification Service.
+[FR Doc. 2015-30010 Filed 11-27-15; 8:45 am]
+ BILLING CODE 4910-13-P
+
+

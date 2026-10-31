@@ -1,0 +1,534 @@
+
+[Federal Register Volume 91, Number 52 (Wednesday, March 18, 2026)]
+[Proposed Rules]
+[Pages 12942-12951]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2026-05327]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF TRANSPORTATION
+
+Federal Aviation Administration
+
+14 CFR Part 39
+
+[Docket No. FAA-2026-2712; Project Identifier AD-2025-00931-T]
+RIN 2120-AA64
+
+
+Airworthiness Directives; The Boeing Company Airplanes
+
+AGENCY: Federal Aviation Administration (FAA), DOT.
+
+ACTION: Notice of proposed rulemaking (NPRM).
+
+-----------------------------------------------------------------------
+
+SUMMARY: The FAA proposes to supersede Airworthiness Directive (AD) 
+2019-20-07, which applies to all The Boeing Company Model 787-8, 787-9, 
+and 787-10 airplanes. AD 2019-20-07 requires repetitive operational 
+checks of the leading edge (LE) outboard (OB) slats and applicable on-
+condition actions. AD 2019-20-07 also requires revising the airplane 
+flight manual (AFM) to prohibit flap retraction under icing conditions 
+and revising the existing maintenance or inspection program, as 
+applicable, to incorporate a new operation check. Since the FAA issued 
+AD 2019-20-07, the manufacturer developed further actions to address 
+the unsafe condition. This proposed AD would retain all requirements of 
+AD 2019-20-07 and would require replacing the LE outboard geared rotary 
+actuator (GRA) with a LE outboard lockout actuator (LEOLA) at leading 
+edge OB slat locations and revising the existing maintenance or 
+inspection program, as applicable, to incorporate a new certification 
+maintenance requirement (CMR). This proposed AD would also remove 
+airplanes from the applicability. The FAA is proposing this AD to 
+address the unsafe condition on these products.
+
+DATES: The FAA must receive comments on this proposed AD by May 4, 
+2026.
+
+ADDRESSES: You may send comments, using the procedures found in 14 CFR 
+11.43 and 11.45, by any of the following methods:
+     Federal eRulemaking Portal: Go to regulations.gov. Follow 
+the instructions for submitting comments.
+     Fax: 202-493-2251.
+     Mail: U.S. Department of Transportation, Docket 
+Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New 
+Jersey Avenue SE, Washington, DC 20590.
+     Hand Delivery: Deliver to Mail address above between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+
+[[Page 12943]]
+
+    AD Docket: You may examine the AD docket at regulations.gov under 
+Docket No. FAA-2026-2712; or in person at Docket Operations between 9 
+a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD 
+docket contains this NPRM, any comments received, and other 
+information. The street address for Docket Operations is listed above.
+    Material Incorporated by Reference:
+     For Boeing material identified in this proposed AD, 
+contact Boeing Commercial Airplanes, Attention: Contractual & Data 
+Services (C&DS), 2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 
+90740-5600; telephone 562-797-1717; website myboeingfleet.com.
+     You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., Des 
+Moines, WA. For information on the availability of this material at the 
+FAA, call 206-231-3195. It is also available at regulations.gov under 
+Docket No. FAA-2026-2712.
+
+FOR FURTHER INFORMATION CONTACT: Emanuel Chaves Torres, Aviation Safety 
+Engineer, FAA, 2200 South 216th St., Des Moines, WA 98198; phone: 562-
+627-5350; email: [email&#160;protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Comments Invited
+
+    The FAA invites you to send any written relevant data, views, or 
+arguments about this proposal. Send your comments using a method listed 
+under the ADDRESSES section. Include ``Docket No. FAA-2026-2712; 
+Project Identifier AD-2025-00931-T'' at the beginning of your comments. 
+The most helpful comments reference a specific portion of the proposal, 
+explain the reason for any recommended change, and include supporting 
+data. The FAA will consider all comments received by the closing date 
+and may amend this proposal because of those comments.
+    Except for Confidential Business Information (CBI) as described in 
+the following paragraph, and other information as described in 14 CFR 
+11.35, the FAA will post all comments received, without change, to 
+regulations.gov, including any personal information you provide. The 
+agency will also post a report summarizing each substantive verbal 
+contact received about this NPRM.
+
+Confidential Business Information
+
+    CBI is commercial or financial information that is both customarily 
+and actually treated as private by its owner. Under the Freedom of 
+Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public 
+disclosure. If your comments responsive to this NPRM contain commercial 
+or financial information that is customarily treated as private, that 
+you actually treat as private, and that is relevant or responsive to 
+this NPRM, it is important that you clearly designate the submitted 
+comments as CBI. Please mark each page of your submission containing 
+CBI as ``PROPIN.'' The FAA will treat such marked submissions as 
+confidential under the FOIA, and they will not be placed in the public 
+docket of this NPRM. Submissions containing CBI should be sent to 
+Emanuel Chaves Torres, Aviation Safety Engineer, FAA, 2200 South 216th 
+St., Des Moines, WA 98198; phone: 562-627-5350; email: 
+[email&#160;protected]. Any commentary that the FAA receives 
+that is not specifically designated as CBI will be placed in the public 
+docket for this rulemaking.
+
+Background
+
+    The FAA issued AD 2019-20-07, Amendment 39-19760 (84 FR 54765, 
+October 11, 2019) (AD 2019-20-07), for all The Boeing Company Model 
+787-8, 787-9, and 787-10 airplanes. AD 2019-20-07 was prompted by a 
+determination that the LE OB slat system could be out of position 
+without flight deck annunciation. AD 2019-20-07 requires repetitive 
+operational checks of the LE OB slats and applicable on-condition 
+actions. AD 2019-20-07 also requires revising the AFM to prohibit flap 
+retraction under icing conditions and revising the existing maintenance 
+or inspection program, as applicable, to incorporate a new operation 
+check. The agency issued AD 2019-20-07 to address a potential condition 
+in which the LE OB slat system could be out of position without flight 
+deck annunciation. This condition, if not addressed, could result in 
+insufficient lift, resulting in inability to maintain continued safe 
+flight and landing.
+
+Actions Since AD 2019-20-07 Was Issued
+
+    The preamble to AD 2019-20-07 specifies that the FAA considers that 
+AD ``interim action'' and that the FAA may consider further rulemaking. 
+Since the FAA issued AD 2019-20-07, the manufacturer has developed 
+final actions to address the unsafe condition. The FAA has determined 
+that these final actions must be required to address the unsafe 
+condition and that accomplishing the final actions will terminate the 
+requirements of AD 2019-20-07. The manufacturer has also incorporated 
+these final actions on airplanes in production, which reduces the 
+number of airplanes that would be affected by the unsafe condition.
+
+FAA's Determination
+
+    The FAA is issuing this NPRM after determining that the unsafe 
+condition described previously is likely to exist or develop on other 
+products of the same type design.
+
+Material Incorporated by Reference Under 1 CFR Part 51
+
+    The FAA reviewed Boeing Alert Requirements Bulletin B787-81205-
+SB270055-00 RB, Issue 002, dated November 25, 2024. This material 
+specifies procedures for replacing the LE outboard GRA with a LEOLA at 
+leading edge slat 2 and slat 11 outboard locations and revising the 
+operator's maintenance program to incorporate CMR document item 27-CMR-
+14, ``Functionally check the Leading Edge Power Drive Unit Half System 
+Torque Brake.''
+    This proposed AD would also require Boeing Alert Requirements 
+Bulletin B787-81205-SB270051-00 RB, Issue 001, dated July 5, 2019, 
+which the Director of the Federal Register approved for incorporation 
+by reference as of October 11, 2019 (84 FR 54765, October 11, 2019).
+    This material is reasonably available because the interested 
+parties have access to it through their normal course of business or by 
+the means identified in the ADDRESSES section.
+
+Proposed AD Requirements in This NPRM
+
+    This proposed AD would retain all requirements of AD 2019-20-07. 
+This proposed AD would remove airplanes from the applicability by 
+specifying affected line numbers and require new actions that would 
+terminate the requirements of AD 2019-20-07. This proposed AD would 
+also require accomplishing the actions specified in the material 
+already described, except for any differences identified as exceptions 
+in the regulatory text of this proposed AD.
+    For information on the procedures and compliance times, see this 
+material at regulations.gov under Docket No. FAA-2026-2712.
+
+Costs of Compliance
+
+    The FAA estimates that this AD, if adopted as proposed, would 
+affect 174 airplanes of U.S. registry. The FAA estimates the following 
+costs to comply with this proposed AD:
+
+[[Page 12944]]
+
+
+
+                                                Estimated Costs *
+----------------------------------------------------------------------------------------------------------------
+                                                                                                Cost on U.S.
+              Action                    Labor cost        Parts cost    Cost per product          operators
+----------------------------------------------------------------------------------------------------------------
+Repetitive operational checks      8 work-hours x $85             $0  $680 per operational  $118,320 per
+ (retained actions from AD 2019-    per hour = $680 per                check.                operational check.
+ 20-07).                            operational check.
+AFM revision (retained action      1 work-hour x $85               0  $85.................  $14,790.
+ from AD 2019-20-07).               per hour = $85.
+Replacement (new proposed action)  9 work-hours x $85         31,610  $32,375.............  $5,633,250.
+                                    per hour = $765.
+----------------------------------------------------------------------------------------------------------------
+* Table does not include estimated costs for revising the existing maintenance or inspection program.
+
+    The FAA has determined that revising the existing maintenance or 
+inspection program takes an average of 90 work-hours per operator, 
+although the agency recognizes that this number may vary from operator 
+to operator. Since operators incorporate maintenance or inspection 
+program changes for their affected fleet(s), the FAA has determined 
+that a per-operator estimate is more accurate than a per-airplane 
+estimate. Therefore, the agency estimates the average total cost per 
+operator to be $7,650 (90 work-hours x $85 per work-hour).
+    The FAA has included all known costs in its cost estimate. 
+According to the manufacturer, however, some or all of the costs of 
+this proposed AD may be covered under warranty, thereby reducing the 
+cost impact on affected operators.
+
+Authority for This Rulemaking
+
+    Title 49 of the United States Code specifies the FAA's authority to 
+issue rules on aviation safety. Subtitle I, section 106, describes the 
+authority of the FAA Administrator. Subtitle VII: Aviation Programs, 
+describes in more detail the scope of the Agency's authority.
+    The FAA is issuing this rulemaking under the authority described in 
+Subtitle VII, Part A, Subpart III, Section 44701: General requirements. 
+Under that section, Congress charges the FAA with promoting safe flight 
+of civil aircraft in air commerce by prescribing regulations for 
+practices, methods, and procedures the Administrator finds necessary 
+for safety in air commerce. This regulation is within the scope of that 
+authority because it addresses an unsafe condition that is likely to 
+exist or develop on products identified in this rulemaking action.
+
+Regulatory Findings
+
+    The FAA determined that this proposed AD would not have federalism 
+implications under Executive Order 13132. This proposed AD would not 
+have a substantial direct effect on the States, on the relationship 
+between the national government and the States, or on the distribution 
+of power and responsibilities among the various levels of government.
+    For the reasons discussed above, I certify this proposed 
+regulation:
+    (1) Is not a ``significant regulatory action'' under Executive 
+Order 12866,
+    (2) Would not affect intrastate aviation in Alaska, and
+    (3) Would not have a significant economic impact, positive or 
+negative, on a substantial number of small entities under the criteria 
+of the Regulatory Flexibility Act.
+
+List of Subjects in 14 CFR Part 39
+
+    Air transportation, Aircraft, Aviation safety, Incorporation by 
+reference, Safety.
+
+The Proposed Amendment
+
+    Accordingly, under the authority delegated to me by the 
+Administrator, the FAA proposes to amend 14 CFR part 39 as follows:
+
+PART 39--AIRWORTHINESS DIRECTIVES
+
+0
+1. The authority citation for part 39 continues to read as follows:
+
+    Authority:  49 U.S.C. 106(g), 40113, 44701.
+
+
+Sec.  39.13  [Amended]
+
+0
+2. The FAA amends Sec.  39.13 by:
+0
+a. Removing Airworthiness Directive (AD) 2019-20-07, Amendment 39-19760 
+(84 FR 54765, October 11, 2019), and
+0
+b. Adding the following new AD:
+
+The Boeing Company: Docket No. FAA-2026-2712; Project Identifier AD-
+2025-00931-T.
+
+(a) Comments Due Date
+
+    The FAA must receive comments on this airworthiness directive 
+(AD) by May 4, 2026.
+
+(b) Affected ADs
+
+    This AD replaces AD 2019-20-07, Amendment 39-19760 (84 FR 54765, 
+October 11, 2019) (AD 2019-20-07).
+
+(c) Applicability
+
+    This AD applies to The Boeing Company Model 787-8, 787-9, and 
+787-10 airplanes, certificated in any category, as identified in 
+Boeing Alert Requirements Bulletin B787-81205-SB270055-00 RB, Issue 
+002, dated November 25, 2024.
+
+(d) Subject
+
+    Air Transport Association (ATA) of America Code 27, Flight 
+Controls.
+
+(e) Unsafe Condition
+
+    This AD was prompted by a determination that the leading edge 
+(LE) outboard (OB) slat system could be out of position without 
+flight deck annunciation. The FAA is issuing this AD to address a 
+potential condition in which the LE OB slat system could be out of 
+position without flight deck annunciation. The unsafe condition, if 
+not addressed, could result in insufficient lift, resulting in 
+inability to maintain continued safe flight and landing.
+
+(f) Compliance
+
+    Comply with this AD within the compliance times specified, 
+unless already done.
+
+(g) Retained Required Actions, With No Changes
+
+    This paragraph restates the requirements of paragraph (g) of AD 
+2019-20-07, with no changes. Except as specified by paragraph (h) of 
+this AD: At the applicable times specified in the ``Compliance'' 
+paragraph of Boeing Alert Requirements Bulletin B787-81205-SB270051-
+00 RB, Issue 001, dated July 5, 2019, do all applicable actions 
+identified in, and in accordance with, the Accomplishment 
+Instructions of Boeing Alert Requirements Bulletin B787-81205-
+SB270051-00 RB, Issue 001, dated July 5, 2019.
+    Note 1 to paragraph (g): Guidance for accomplishing the actions 
+required by this AD can be found in Boeing Alert Service Bulletin 
+B787-81205-SB270051-00, Issue 001, dated July 5, 2019, which is 
+referred to in Boeing Alert Requirements Bulletin B787-81205-
+SB270051-00 RB, Issue 001, dated July 5, 2019.
+
+(h) Retained Exception to Service Information Specifications, With No 
+Changes
+
+    This paragraph restates the requirements of paragraph (h) of AD 
+2019-20-07, with no changes. For purposes of determining compliance 
+with the requirements of this AD: Where Boeing Alert Requirements 
+Bulletin B787-81205-SB270051-00 RB, Issue 001, dated July 5, 2019, 
+uses the phrase ``the Issue 001 date of Requirements Bulletin B787-
+81205-SB270051-00 RB,'' this AD requires using ``October 11, 2019'' 
+(the effective date of AD 2019-20-07).
+
+[[Page 12945]]
+
+(i) Retained Airplane Flight Manual (AFM) Revision To Prohibit Flap 
+Retraction Under Icing Conditions, With No Changes
+
+    This paragraph restates the requirements of paragraph (i) of AD 
+2019-20-07, with no changes. Within 60 days after October 11, 2019 
+(the effective date of AD 2019-20-07), revise the Limitations 
+Section of the existing AFM to include the information in figure 1 
+to paragraph (i) of this AD. This may be done by inserting a copy of 
+figure 1 to paragraph (i) of this AD into the Limitations Section of 
+the existing AFM.
+
+Figure 1 to Paragraph (i): AFM Revision
+[GRAPHIC] [TIFF OMITTED] TP18MR26.013
+
+(j) Retained Maintenance or Inspection Program Revision To Incorporate 
+a New Operation Check, With No Changes
+
+    This paragraph restates the requirements of paragraph (j) of AD 
+2019-20-07, with no changes. Within 60 days after October 11, 2019 
+(the effective date of AD 2019-20-07), revise the existing 
+maintenance or inspection program, as applicable, to incorporate the 
+information specified in figure 2 to paragraph (j) of this AD. This 
+may be done by inserting a copy of figure 2 to paragraph (j) of this 
+AD into the existing maintenance or inspection program.
+BILLING CODE 4910-13-P
+
+Figure 2 To Paragraph (j): Maintenance or Inspection Program Revision
+
+[[Page 12946]]
+
+[GRAPHIC] [TIFF OMITTED] TP18MR26.014
+
+
+[[Page 12947]]
+
+
+[GRAPHIC] [TIFF OMITTED] TP18MR26.015
+
+
+[[Page 12948]]
+
+
+[GRAPHIC] [TIFF OMITTED] TP18MR26.016
+
+
+[[Page 12949]]
+
+
+[GRAPHIC] [TIFF OMITTED] TP18MR26.017
+
+
+[[Page 12950]]
+
+
+[GRAPHIC] [TIFF OMITTED] TP18MR26.018
+
+BILLING CODE 4910-13-C
+
+(k) Retained No Alternative Actions or Intervals, With No Changes
+
+    This paragraph restates the requirements of paragraph (k) of AD 
+2019-20-07, with no changes. After the existing maintenance or 
+inspection program has been revised as required by paragraph (j) of 
+this AD, no alternative actions (e.g., inspections) or intervals may 
+be used unless the actions or intervals are approved as an 
+alternative method of compliance (AMOC) in accordance with the 
+procedures specified in paragraph (p) of this AD.
+
+(l) New Required Actions
+
+    Except as specified by paragraph (i) of this AD: At the 
+applicable times specified in the ``Compliance'' paragraph of Boeing 
+Alert Requirements Bulletin B787-81205-SB270055-00 RB, Issue 002, 
+dated November 25, 2024, do all applicable actions identified in, 
+and in accordance with, the Accomplishment Instructions of Boeing 
+Alert Requirements Bulletin B787-81205-SB270055-00 RB, Issue 002, 
+dated November 25, 2024.
+    Note 2 to paragraph (l): Guidance for accomplishing the actions 
+required by this AD can be found in Boeing Alert Service Bulletin 
+B787-81205-SB270055-00, Issue 002, dated November 25, 2024, which is
+
+[[Page 12951]]
+
+referred to in Boeing Alert Requirements Bulletin B787-81205-
+SB270055-00 RB, Issue 002, dated November 25, 2024.
+
+(m) Terminating Action
+
+    Accomplishing the actions required by paragraph (l) of this AD 
+terminates the requirements of paragraphs (g), (i), and (j) of this 
+AD for that airplane. After all affected airplanes in an operator's 
+fleet have complied with paragraph (l) of this AD, the AFM revision 
+required by paragraph (i) of this AD may be removed and the 
+maintenance or inspection program revision required by paragraph (j) 
+of this AD may be removed.
+
+(n) Exceptions to Requirements Bulletin Specifications
+
+    Where the Compliance Time column of the tables in the 
+``Compliance'' paragraph of Boeing Alert Requirements Bulletin B787-
+81205-SB270055-00 RB, Issue 002, dated November 25, 2024, refers to 
+the Issue 001 date of Requirements Bulletin B787-81205-SB270055-00 
+RB, this AD requires using the effective date of this AD.
+
+(o) Credit for Previous Actions
+
+    This paragraph provides credit for the actions specified in 
+paragraph (l) of this AD, if those actions were performed before the 
+effective date of this AD using Boeing Alert Requirements Bulletin 
+B787-81205-SB270055-00 RB, Issue 001, dated December 12, 2023.
+
+(p) Alternative Methods of Compliance (AMOCs)
+
+    (1) The Manager, AIR-520, Continued Operational Safety Branch, 
+FAA, has the authority to approve AMOCs for this AD, if requested 
+using the procedures found in 14 CFR 39.19. In accordance with 14 
+CFR 39.19, send your request to your principal inspector or 
+responsible Flight Standards Office, as appropriate. If sending 
+information directly to the manager of the Continued Operational 
+Safety Branch, send it to the attention of the person identified in 
+paragraph (q)(1) of this AD. Information may be emailed to: 
+[email&#160;protected]. Before using any approved AMOC, notify your 
+appropriate principal inspector, or lacking a principal inspector, 
+the manager of the responsible Flight Standards Office.
+    (2) An AMOC that provides an acceptable level of safety may be 
+used for any repair, modification, or alteration required by this AD 
+if it is approved by The Boeing Company Organization Designation 
+Authorization (ODA) that has been authorized by the Manager, AIR-
+520, Continued Operational Safety Branch, FAA, to make those 
+findings. To be approved, the repair method, modification deviation, 
+or alteration deviation must meet the certification basis of the 
+airplane, and the approval must specifically refer to this AD.
+    (3) AMOCs approved for AD 2019-20-07 are approved as AMOCs for 
+the corresponding provisions of paragraphs (g), (i), and (j) of this 
+AD.
+
+(q) Additional Information
+
+    (1) For more information about this AD, contact Emanuel Chaves 
+Torres, Aviation Safety Engineer, FAA, 2200 South 216th St., Des 
+Moines, WA 98198; phone: 562-627-5350; email: 
+[email&#160;protected].
+    (2) Material identified in this AD that is not incorporated by 
+reference is available at the address specified in paragraph (r)(5) 
+of this AD.
+
+(r) Material Incorporated by Reference
+
+    (1) The Director of the Federal Register approved the 
+incorporation by reference (IBR) of the material listed in this 
+paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+    (2) You must use this material as applicable to do the actions 
+required by this AD, unless this AD specifies otherwise.
+    (3) The following material was approved for IBR on [DATE 35 DAYS 
+AFTER PUBLICATION OF THE FINAL RULE].
+    (i) Boeing Alert Requirements Bulletin B787-81205-SB270055-00 
+RB, Issue 002, dated November 25, 2024.
+    (ii) [Reserved]
+    (4) The following material was approved for IBR on October 11, 
+2019 (84 FR 54765, October 11, 2019).
+    (i) Boeing Alert Requirements Bulletin B787-81205-SB270051-00 
+RB, Issue 001, dated July 5, 2019.
+    (ii) [Reserved]
+    (5) For Boeing material identified in this AD, contact Boeing 
+Commercial Airplanes, Attention: Contractual & Data Services (C&DS), 
+2600 Westminster Blvd., MC 110-SK57, Seal Beach, CA 90740-5600; 
+telephone 562-797-1717; website myboeingfleet.com.
+    (6) You may view this material at the FAA, Airworthiness 
+Products Section, Operational Safety Branch, 2200 South 216th St., 
+Des Moines, WA. For information on the availability of this material 
+at the FAA, call 206-231-3195.
+    (7) You may view this material at the National Archives and 
+Records Administration (NARA). For information on the availability 
+of this material at NARA, visit www.archives.gov/federal-register/cfr/ibr-locations or email [email&#160;protected].
+
+    Issued on March 12, 2026.
+Lona C. Saccomando,
+Acting Deputy Director, Integrated Certificate Management Division, 
+Aircraft Certification Service.
+[FR Doc. 2026-05327 Filed 3-17-26; 8:45 am]
+BILLING CODE 4910-13-P
+
+
