@@ -2,6 +2,9 @@
 
 **Status:** working prototype.
 
+**Live demo:** https://directive-impact-checker.streamlit.app/
+**Code:** https://github.com/zayyankece/ad-checker
+
 **Summary (for the form):**
 Directive Impact Checker tells a continuing-airworthiness engineer which new FAA proposed airworthiness directives affect which aircraft in their fleet, what work they would require and by when, so they don't have to read every rule themselves. It indexes the full Federal Register text (1,341 pages). Two independent readers (rule-based and Claude) turn each directive's applicability into a rule, validated against the exact source sentence; a deterministic engine then decides per aircraft: Affects / Not affected / Need info. When the text can't decide, or the two readers disagree, it asks the engineer one question and saves the answer. It tracks revisions and withdrawals (and shows which aircraft moved in or out), estimates work-hours, drafts a cited comment to the FAA, and keeps a signed-off audit trail. Evaluated on 39 questions against plain Claude and naive RAG (hand-graded), plus a manual rule check; known failures are listed in the README.
 

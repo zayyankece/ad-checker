@@ -3,6 +3,8 @@
 Traceable search and fleet-impact checker for proposed FAA Airworthiness Directives.
 Autonomous SG 2026, Airbus Track, Challenge #4.
 
+**Live demo: https://directive-impact-checker.streamlit.app/** (use "Reset demo" in the sidebar for a clean start)
+
 ![To-do](docs/todo.png)
 
 **What it is:** a working prototype that tells a continuing-airworthiness engineer which new FAA proposed airworthiness directives affect which aircraft in their fleet, what work they would require, and by when, so they don't have to read every rule themselves. The AI reads, a deterministic rule engine decides, the engineer signs off.
